@@ -1,0 +1,1834 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:23+0200\n"
+"PO-Revision-Date: 2011-01-17 15:48+0200\n"
+"Last-Translator: Soreen <soreen@gmail.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: Dynamic Forms
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Custom Options Placeholder"
+msgstr "Substituent Opţiuni Personalizate"
+
+msgid "Blogging Options"
+msgstr "Opţiuni Blog"
+
+msgid "Created on"
+msgstr "Creat la"
+
+msgid "Path"
+msgstr "Cale"
+
+msgid "Keywords"
+msgstr "Cuvinte cheie"
+
+msgid "Rating Options"
+msgstr "Opţiuni evaluare"
+
+msgid "Enable Rating"
+msgstr "Activează Evaluare"
+
+msgid "Enable Guest Rating"
+msgstr "Activează Evaluare Vizitatori"
+
+msgid "Comments Options"
+msgstr "Opţiuni Comentarii"
+
+msgid "Enable Comments"
+msgstr "Activează Comentarii"
+
+msgid "Enable Guest Comments"
+msgstr "Activează Comentarii Vizitatori"
+
+msgid "Additional Options"
+msgstr "Opţiuni Suplimentare"
+
+msgid "Deactivated"
+msgstr "Dezactivat"
+
+msgid "e.g. 150"
+msgstr "exemplu: 150"
+
+msgid "<span class='comment' style='text-decoration: line-through;'>(marked with strike through)</span>"
+msgstr "<span class='comentariu' style='text-decoration: line-through;'>(marcat prin tăiere)</span>"
+
+msgid "<b>Billing information</b><br />* This information must match your credit card to prevent any delays"
+msgstr "<b>Informaţiile de facturare</b><br />* Aceste informaţii trebuie să corespundă cu cardul dvs. de credit pentru a preveni orice întârzieri."
+
+msgid "Your name"
+msgstr "Numele dvs."
+
+msgid "Phone number"
+msgstr "Numărul de telefon"
+
+msgid "<b>Shipping address</b><br />* Leave blank If same as Billing Information"
+msgstr "<b>Adresa de livrare</b><br />* Lăsaţi necompletat dacă este identică cu cea de la Informaţii de facturare"
+
+msgid "Company / Organization"
+msgstr "Companie / Organizaţie"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "City"
+msgstr "Oraş"
+
+msgid "State"
+msgstr "Judeţ"
+
+msgid "Zip/Postal code"
+msgstr "Cod poştal"
+
+msgid "Country"
+msgstr "Ţara"
+
+msgid "Comments"
+msgstr "Comentarii"
+
+msgid "Indicate here your preferences or other comments"
+msgstr "Indicaţi aici preferinţele sau alte comentarii"
+
+msgid "Gift order"
+msgstr "Comandă Cadou"
+
+msgid "Is this a gift order?"
+msgstr "Este aceasta o comandă cadou?"
+
+msgid "Please enter your gift message here"
+msgstr "Vă rugăm să introduceţi mesajul dvs. pentru cadou aici"
+
+#: Cart Settings
+msgid "Automatic Continue Shopping"
+msgstr "Continuă cumpărăturile automat"
+
+msgid "Currency Position"
+msgstr "Poziţie monedă"
+
+msgid "Weight Unit"
+msgstr "Unitate de greutate"
+
+msgid "Display Similar Items"
+msgstr "Afişare articole similare"
+
+msgid "Limit"
+msgstr "Limită"
+
+msgid "Email Notification"
+msgstr "Notificare prin email"
+
+msgid "Send Notification Email On New Order"
+msgstr "Trimite un e-mail de notificare la comandă nouă"
+
+msgid "Send Notification Email To"
+msgstr "Trimite un e-mail de notificare la"
+
+msgid "Limits"
+msgstr "Limite"
+
+msgid "Minimum Item Order"
+msgstr "Comandă minimă (articol)"
+
+msgid "Minimum Order Price"
+msgstr "Comandă minimă (preţ)"
+
+msgid "Order Method InvoiceCustomer"
+msgstr "Metoda de facturare a clienţilor"
+
+msgid "Order Method Check"
+msgstr "Metoda de verificare a comenzii"
+
+msgid "To Name"
+msgstr "La Nume"
+
+msgid "Order Method PayPal"
+msgstr "Comandă prin PayPal"
+
+msgid "Order Method CCBill"
+msgstr "Comandă prin CCBill"
+
+msgid "Account Number"
+msgstr "Număr Cont"
+
+msgid "SubAccount Number"
+msgstr "Număr SubCont"
+
+msgid "Form ID"
+msgstr "ID Formular"
+
+msgid "Encryption Key"
+msgstr "Cod de criptare"
+
+msgid "Currency Code"
+msgstr "Cod Monedă"
+
+msgid "Order Method AlertPay"
+msgstr "Comandă prin AlertPay"
+
+msgid "Security Code"
+msgstr "Cod de Securitate"
+
+msgid "Order Method AuthorizeDotNet"
+msgstr "Comandă prin AuthorizeDotNet"
+
+msgid "API Login ID"
+msgstr "ID Autentificare API"
+
+msgid "Transaction Key"
+msgstr "Codul Tranzacţiei"
+
+msgid "Order Method 2CheckOut"
+msgstr "Comandă prin 2CheckOut"
+
+msgid "Vendor ID"
+msgstr "ID Distribuitor"
+
+msgid "Skip Fraud Check"
+msgstr "Nu Verificaţi Fraudă"
+
+msgid "Order Method MoneyBookers"
+msgstr "Comandă prin MoneyBookers"
+
+msgid "Enabled"
+msgstr "Activat"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Currency"
+msgstr "Monedă"
+
+msgid "Secret Word"
+msgstr "Cuvânt Secret"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:32
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1509
+msgid "Shopping Orders"
+msgstr "Comenzi Plasate"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:33
+msgid "Handle New / Processed orders and display members their orders history"
+msgstr "Manipulaţi comenzile noi / procesate şi afişaţi istoricul de comenzi al membrilor"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:69
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:116
+msgid "Invoice Customer"
+msgstr "Factura clientului"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:70
+msgid "You will be contacted personally to finalize the payments"
+msgstr "Veţi fi contactat personal pentru finalizarea plăţii."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:74
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:144
+msgid "Check Payment"
+msgstr "Plata cu CEC"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:75
+#, php-format
+msgid "Please complete the check to be sent to %s"
+msgstr "Vă rugăm să completaţi CEC'ul pentru a fi trimis la %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:82
+msgid "Credit Card Payment (PayPal)"
+msgstr "Plata cu Card de credit (PayPal)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:83
+msgid "An extra step will be required trough Paypal.com"
+msgstr "Un pas suplimentar va fi necesar prin Paypal.com"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:87
+msgid "Credit Card Payment (CCBill)"
+msgstr "Plata cu Card de credit (CCBill)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:88
+msgid "An extra step will be required trough CCBill.com"
+msgstr "Un pas suplimentar va fi necesar prin CCBill.com"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:92
+msgid "Credit Card Payment (AlertPay)"
+msgstr "Plata cu Card de credit (AlertPay)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:93
+msgid "An extra step will be required trough AlertPay.com"
+msgstr "Un pas suplimentar va fi necesar prin AlertPay.com"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:97
+msgid "Credit Card Payment (Authorize.net)"
+msgstr "Plata cu Card de credit (Authorize.net)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:98
+msgid "An extra step will be required trough Authorize.net"
+msgstr "Un pas suplimentar va fi necesar prin Authorize.net"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:102
+msgid "Credit Card Payment (2CheckOut)"
+msgstr "Plata cu Card de credit (2CheckOut)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:103
+msgid "An extra step will be required trough 2CheckOut.com"
+msgstr "Un pas suplimentar va fi necesar prin 2CheckOut.com"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:107
+msgid "Credit Card Payment (MoneyBookers)"
+msgstr "Plata cu Card de credit (MoneyBookers)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:108
+msgid "An extra step will be required trough MoneyBookers.com"
+msgstr "Un pas suplimentar va fi necesar prin MoneyBookers.com"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:121
+msgid "Please contact client to finalize the payments."
+msgstr "Vă rugăm să contactaţi clientul pentru finalizarea plăţii."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:149
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:171
+msgid "Name on Check"
+msgstr "Numele pe CEC"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:152
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:178
+msgid "Check Number"
+msgstr "Numărul CEC'ului"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:155
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:185
+msgid "Check Amount"
+msgstr "Suma pe CEC"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:199
+msgid "PayPal"
+msgstr "PayPal"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:202
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:429
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:623
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:818
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1030
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1265
+msgid "Your order has been successfully created but your payment has not been processed yet. To finalize your payments please click on the button below."
+msgstr "Comanda dvs. a fost creată cu succes, dar plata nu a fost încă procesată. Pentru finalizarea plăţi dvs., vă rugăm daţi clic pe butonul de mai jos."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:208
+msgid "User redirected to paypal, payment is being processed."
+msgstr "Utilizator redirecţionat către PayPal, plata este în curs de procesare."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:256
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:485
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:677
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:886
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1082
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1316
+msgid "Click to Finalize Payments"
+msgstr "Daţi clic pentru a finaliza plata"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:426
+msgid "CCBill"
+msgstr "CCBill"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:435
+msgid "User redirected to ccbill, payment is being processed."
+msgstr "Utilizator redirecţionat către CCBill, plata este în curs de procesare."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:620
+msgid "AlertPay"
+msgstr "AlertPay"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:629
+msgid "User redirected to alertpay, payment is being processed."
+msgstr "Utilizator redirecţionat către AlertPay, plata este în curs de procesare."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:815
+msgid "Authorize.net"
+msgstr "Authorize.net"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:824
+msgid "User redirected to authorize.net, payment is being processed."
+msgstr "Utilizator redirecţionat către Authorize.net, plata este în curs de procesare."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1027
+msgid "2CheckOut"
+msgstr "2CheckOut"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1036
+msgid "User redirected to 2checkout, payment is being processed."
+msgstr "Utilizator redirecţionat către 2CheckOut, plata este în curs de procesare."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1262
+msgid "MoneyBookers"
+msgstr "MoneyBookers"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1271
+msgid "User redirected to moneybookers, payment is being processed."
+msgstr "Utilizator redirecţionat către MoneyBookers, plata este în curs de procesare."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1536
+msgid "Order"
+msgstr "Comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1576
+msgid "Order item couldn't be added to the db! Please contact us with this error asap."
+msgstr "Articolul comandat nu a putut fi adăugat în baza de date! Vă rugăm să ne contactati urgent cu această eroare."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1616
+#, php-format
+msgid "Order item couldn't be updated! Error: %s"
+msgstr "Articolul comandat nu a putut fi actualizat! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1868
+msgid "Shopping cart settings table cannot be found! Please first install the Shopping Cart module and then try again."
+msgstr "Tabelul cu setările pentru coşul de cumpărături (Shopping Cart) nu poate fi găsit! Vă rugăm să instalaţi modulul 'Shopping Cart' şi apoi încercaţi din nou."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2094
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3566
+msgid "New Order"
+msgstr "Comandă Nouă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2098
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4703
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4755
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5780
+msgid "Items"
+msgstr "Articole"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2101
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:449
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4385
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3645
+msgid "Cart Settings"
+msgstr "Setări Coş"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2120
+msgid "Order Status"
+msgstr "Starea Comenzii"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2157
+msgid "Order Owner"
+msgstr "Proprietarul Comenzii"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2171
+msgid "Define the owner of this order"
+msgstr "Definiţi proprietarul acestei comenzi"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2172
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:157
+msgid "Select User"
+msgstr "Selectaţi utilizator"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2176
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:24
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1990
+msgid "Shopping Items"
+msgstr "Articole de cumpărături"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2177
+msgid "Click on the Add Items link below to add items to this order."
+msgstr "Daţi clic pe link-ul Adăugaţi Articole de mai jos pentru a adăuga articole la această comandă."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2196
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4072
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4526
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2838
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2844
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2909
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2961
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3007
+msgid "Order Method"
+msgstr "Metoda de comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2220
+msgid "No Order Method Specified"
+msgstr "Nici o metodă de comandă specificată"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2226
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3329
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4549
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4732
+msgid "Status"
+msgstr "Stare"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2257
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4569
+msgid "Details"
+msgstr "Detalii"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2265
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3059
+msgid "Please select the order method you would like to proceed with"
+msgstr "Vă rugăm să selectaţi metoda de comandă cu care doriţi să continuaţi"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2363
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2543
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1816
+msgid "Custom Options"
+msgstr "Opţiuni Suplimentare"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2412
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3149
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:583
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1762
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4417
+msgid "Ref. Number"
+msgstr "Nr. de referinţă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2417
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3154
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:61
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:89
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:230
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:250
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:280
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4189
+msgid "Item"
+msgstr "Produs"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2422
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3159
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3285
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3319
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4194
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4429
+msgid "Quantity"
+msgstr "Cantitate"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2427
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3164
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4434
+msgid "Unit Price"
+msgstr "Preţ unitar"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2432
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4439
+msgid "Total Price"
+msgstr "Preţ total"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2451
+msgid "Add items to this order"
+msgstr "Adăugaţi produse la această comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2452
+msgid "Add Items"
+msgstr "Adăugaţi produse"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2457
+msgid "Refresh order totals"
+msgstr "Actualizează totalul comenzii"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2458
+msgid "Refresh"
+msgstr "Actualizează"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2464
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4114
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4274
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4576
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2473
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4120
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2080
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4288
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4601
+msgid "Tax"
+msgstr "Taxe"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2482
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4126
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:418
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4303
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4626
+msgid "Discount"
+msgstr "Reducere"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2490
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4132
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4318
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4651
+msgid "Shipping & Handling"
+msgstr "Transport & Manipulare"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2498
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3327
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4138
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4730
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4332
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4676
+msgid "Grand Total"
+msgstr "Total"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2731
+msgid "Order has been successfully deleted."
+msgstr "Comanda a fost ştearsă!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2745
+msgid "Order has been successfully updated."
+msgstr "Comanda a fost actualizată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2761
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2499
+msgid "We are sorry for the inconvenience but it seems this order method doesn't have order processing capabilities. Please choose a different order method or contact webmaster."
+msgstr "Ne pare rău pentru neplăcerile create, dar se pare că această nu avem capacitatea de a prelucra aceasta metodă de comandă. Vă rugăm să alegeţi o altă metodă de comandă sau contactaţi webmasterul."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2775
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:232
+msgid "Username couldn't be found!"
+msgstr "Numele de utilizator nu a putut fi găsit!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2776
+msgid "Please make sure you have entered / selected the right username or if you wish to add this order to a new user please first create the user at Member Management -> Users."
+msgstr "Vă rugăm să vă asiguraţi că aţi introdus / selectat numele de utilizator corect sau dacă doriţi să adăugaţi această comandă la un utilizator nou vă rugăm să creaţi utilizatorul la Management Membri -> Utilizatori."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2815
+msgid "No items added / selected for this order! Please select / add at least one item for the new order to proceed."
+msgstr "Nici un produs adăugat / selectat pentru această comandă! Vă rugăm să selectaţi / adăugaţi cel puţin un articol pentru a continua."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2892
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2625
+msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number asap."
+msgstr "Au existat unele erori în timpul procesării comenzii dumneavoastră (unele articole nu au putut fi adăugate la comandă). Vă rugăm să ne contactaţi urgent cu această eroare şi numărul de comandă."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2902
+#, php-format
+msgid "Order has been successfully created.<br /> The confirmation / tracking number is <b>%s</b>."
+msgstr "Comanda a fost creată cu succes. /> <br Numărul de confirmare / urmărire este <b>%s</b>."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2907
+msgid "View Order"
+msgstr "Vezi comanda"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2963
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1189
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2007
+msgid "Select"
+msgstr "Selectaţi"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3034
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:380
+msgid "Yes"
+msgstr "Da"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3144
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:310
+msgid "Add"
+msgstr "Adăugaţi"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3169
+msgid "Stock"
+msgstr "Stoc"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3301
+msgid "Available"
+msgstr "Disponibile"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3302
+msgid "Unavailable"
+msgstr "Indisponibile"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3325
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4728
+msgid "Order ID / Submitted on"
+msgstr "ID Comandă / Dată"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3506
+msgid "Shopping Orders Administration"
+msgstr "Administrare Comenzi"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3565
+msgid "Edit Order"
+msgstr "Editare Comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3612
+msgid "New and Processing Orders"
+msgstr "Comenzi noi şi în prelucrare"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3622
+msgid "Processed Orders"
+msgstr "Comenzi prelucrate"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3648
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4931
+msgid "No orders found."
+msgstr "Nu sunt comenzi."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3735
+msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error asap."
+msgstr "Ne cerem scuze pentru neplăcerile create, dar comanda nu a putut fi adăugată în baza de date. Vă rugăm să ne contactaţi urgent cu această eroare."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3760
+#, php-format
+msgid "Order couldn't be created / updated! Error: %s"
+msgstr "Comanda nu a putut fi creată / actualizată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3842
+#, php-format
+msgid "Order couldn't be updated! Error: %s"
+msgstr "Comanda nu a putut fi actualizată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3908
+msgid "Accepted"
+msgstr "Acceptată"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3910
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3930
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4021
+msgid "Cancelled"
+msgstr "Anulată"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3912
+msgid "New"
+msgstr "Nouă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3914
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3940
+msgid "Processing"
+msgstr "În prelucrare"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3916
+msgid "Rejected"
+msgstr "Refuzată"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3918
+msgid "Delivered"
+msgstr "Livrată"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3920
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3942
+msgid "Undefined!"
+msgstr "Nedefinită!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3932
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4015
+msgid "Paid"
+msgstr "Platită"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3934
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4028
+msgid "Pending"
+msgstr "În aşteptare"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3936
+msgid "Failed"
+msgstr "Eşuată"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3938
+msgid "Expired"
+msgstr "Expirată"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3978
+msgid "Email couldn't be sent! The defined order cannot be found."
+msgstr "Email-ul nu a putut fi trimis! Comanda definită nu poate fi găsită."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4017
+msgid "It's now safe to ship the goods if necessary."
+msgstr "Acum puteţi trimite produsele în condiţii de siguranţă, dacă mai este necesar."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4023
+msgid "IMPORTANT: payment has been cancelled so shipment should be cancelled too!"
+msgstr "IMPORTANT: plata a fost anulată, ar trebui anulată de asemenea şi livrarea!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4030
+msgid "IMPORTANT: do NOT ship any goods till payment has been confirmed / processed!"
+msgstr "IMPORTANT: NU livraţi nici un produs până când plata nu a fost confirmată / procesată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4078
+msgid "Items ordered"
+msgstr "Produse comandate"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4145
+msgid "You can access / download your digital goods at:"
+msgstr "Puteţi accesa / descărca produsele digitale la:"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4284
+msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait till we receive the confirmation for your payment."
+msgstr "Plata dvs. este încă în aşteptare. Pentru a accesa produsele digitale comandate vă rugăm să finalizaţi plata dvs. de mai jos sau aşteptaţi până primim confirmarea de plată."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4324
+msgid "Order #"
+msgstr "Comanda #"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4349
+msgid "Your order details are listed below, if you would like to change any of the submitted information or have further question / comments please let us know in the comments."
+msgstr "Detaliile comenzii dvs. sunt enumerate mai jos, dacă doriţi să modificaţi oricare dintre informaţiile transmise sau aveţi întrebări suplimentare / observaţii, vă rugăm să ne anunţaţi în comentarii."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4453
+msgid "Payment confirmed and received."
+msgstr "Plată confirmată şi primită."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4461
+msgid "Payment still pending!"
+msgstr "Plată încă în aşteptare!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4469
+msgid "Payment failed!"
+msgstr "Plată eşuată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4477
+msgid "Payment expired!"
+msgstr "Plată expirată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4485
+msgid "Awaiting payment deposit!"
+msgstr "În aşteptarea depunerii plăţii!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4507
+msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes till we receive the confirmation, otherwise please click on the button below."
+msgstr "Se pare că plata nu a fost procesată sau încă nu aţi finalizat plata. Dacă sunteţi sigur că plata a fost procesată, vă rugăm, aşteptaţi încă câteva minute până când vom primi confirmarea, în caz contrar vă rugăm să daţi clic pe butonul de mai jos."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4531
+msgid "Method"
+msgstr "Metodă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4608
+#, php-format
+msgid "%s, started on <i>%s</i>, finished on %s, from %s"
+msgstr "%s, începută la <i>%s</i>, încheiată la %s, de la %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4613
+msgid "unknown"
+msgstr "necunoscută"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4647
+msgid "Downloads"
+msgstr "Descărcări"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:16
+msgid "Shopping Store"
+msgstr "Magazin Produse"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:17
+msgid "Sell products in a directory like structure"
+msgstr "Vinde produse structurate pe directoare"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:100
+msgid "No file selected to download!"
+msgstr "Nici un fişier selectat pentru descărcare!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:112
+msgid "The selected file cannot be found!"
+msgstr "Fişierul selectat nu a fost găsit!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:119
+msgid "You need to be logged in to download this file. Please login or register."
+msgstr "Trebuie sa fii autentificat pentru a descărca acest fişier. Vă rugăm să vă autentificaţi sau să vă înregistraţi."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:132
+msgid "An order with this file cannot be found!"
+msgstr "Nu există comenzi cu acest fişier!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:143
+msgid "The order you selected cannot be found!"
+msgstr "Comanda selectată nu a fost găsită!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:152
+msgid "You are not the owner of this order!"
+msgstr "Nu sunteţi proprietarul acestei comenzi!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:159
+msgid "Your payment has not yet been confirmed!"
+msgstr "Plata dvs. nu a fost încă confirmată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:169
+msgid "Your order has been cancelled!"
+msgstr "Comanda dvs. a fost anulată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:187
+msgid "Your download has expired!"
+msgstr "Descărcarea dvs. a expirat!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:442
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2032
+msgid "New Item"
+msgstr "Articol nou"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:446
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4382
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3613
+msgid "Orders"
+msgstr "Comenzi"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:498
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:751
+msgid "(will create a new item)"
+msgstr "(va crea un articol nou)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:552
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3218
+msgid "Item Options"
+msgstr "Opţiuni Articol"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:558
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1741
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4199
+msgid "Price"
+msgstr "Preţ"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:580
+msgid "e.g. 170"
+msgstr "exemplu: 107"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:587
+msgid "e.g. ITEM-0711"
+msgstr "exemplu: Articol-0711"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:595
+msgid "Quantity Options"
+msgstr "Opţiuni Cantitate"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:600
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1828
+msgid "Available Quantity"
+msgstr "Cantitate Disponibilă"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:607
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:609
+msgid "e.g. 1000 (leave it empty for unlimited)"
+msgstr "exemplu: 1100 (lăsaţi-l gol pentru nelimitat)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:612
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1833
+msgid "Max Order Quantity at Once"
+msgstr "Cantitatea maximă / comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:619
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:621
+msgid "e.g. 15 (default 30)"
+msgstr "exemplu: 15 (implicit 30)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:624
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1838
+msgid "Show Quantity Picker"
+msgstr "Afişaţi Selector Cantitativ"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:663
+msgid "e.g. oranges, lemons, limes"
+msgstr "exemplu: portocale, mere, pere"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:864
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1307
+msgid "Title* (e.g. Color, Size)"
+msgstr "Titlu* (exemplu: culoare, lungime)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:874
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1317
+msgid "Required"
+msgstr "Necesar"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:939
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1154
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1372
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1437
+msgid "Price Difference"
+msgstr "Diferenţa de preţ"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:944
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1163
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1377
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1442
+msgid "Price Type"
+msgstr "Tip preţ"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:949
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1382
+msgid "Max Characters"
+msgstr "Caractere Max."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1012
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1103
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1259
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1409
+msgid "Fixed"
+msgstr "Fix"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1019
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1110
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1260
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1410
+msgid "Percent"
+msgstr "Procent"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1145
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1432
+msgid "Title* (e.g. Red, XXL)"
+msgstr "Titlu* (exemplu: Roz, XXL)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1187
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1456
+msgid "Add new row"
+msgstr "Adăugaţi rând nou"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1208
+msgid "Add new option"
+msgstr "Adăugaţi opţiune nouă"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1514
+msgid "Items have been successfully re-ordered."
+msgstr "Produsele au fost re-ordonate!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1525
+msgid "Item has been successfully deleted."
+msgstr "Produsul a fost şters!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1547
+msgid "Item has been successfully updated."
+msgstr "Produsul a fost actualizat!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1551
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1571
+msgid "View Item"
+msgstr "Vezi Produs"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1567
+msgid "Item has been successfully created."
+msgstr "Produsul a fost creat!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1605
+msgid "Goods"
+msgstr "Produse"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1704
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4468
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4853
+msgid "Digital Goods"
+msgstr "Produse digitale"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1747
+msgid "Special Price"
+msgstr "Preţ special"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1752
+msgid "Special Price Starts"
+msgstr "Preţul special începe"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1757
+msgid "Special Price Ends"
+msgstr "Preţul special se termină"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1767
+msgid "Weight"
+msgstr "Greutate"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1777
+msgid "Taxable"
+msgstr "Taxabil"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1864
+msgid "Display Related Items"
+msgstr "Afişează articole asemănătoare"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2031
+msgid "Edit Item"
+msgstr "Editare Produs"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2076
+msgid "Out of Stock Items"
+msgstr "Produse Epuizate"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2086
+msgid "Items in Stock"
+msgstr "Produse pe Stoc"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2108
+msgid "No items found for this category."
+msgstr "Nici un produs găsit în această categorie."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2159
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2388
+msgid "Custom option title is required!"
+msgstr "Este necesară opţiunea pentru titlu personalizat!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2168
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2179
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2397
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2408
+#, php-format
+msgid "No custom option price defined for \"%s\"!"
+msgstr "Nici o opţiune de preţ personalizat definită pentru \"%s\"!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2188
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2417
+#, php-format
+msgid "Custom option price title for \"%s\" is required!"
+msgstr "Titlul opţiunii de preţ personalizat pentru \"%s\" este necesar!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2275
+#, php-format
+msgid "Item couldn't be added! Error: %s"
+msgstr "Produsul nu a putut fi adăugat! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2302
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2598
+#, php-format
+msgid "Custom option couldn't be created! Error: %s"
+msgstr "Opţiunea personalizată nu a putut fi creată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2316
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2337
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2494
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2571
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2616
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2636
+#, php-format
+msgid "Custom option price couldn't be created! Error: %s"
+msgstr "Opţiunea de preţ personalizat nu a putut fi creată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2457
+#, php-format
+msgid "Custom option couldn't be updated! Error: %s"
+msgstr "Opţiunea personalizată nu a putut fi actualizată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2513
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2550
+#, php-format
+msgid "Custom option price couldn't be updated! Error: %s"
+msgstr "Opţiunea de preţ personalizat nu a putut fi actualizată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2725
+#, php-format
+msgid "Item couldn't be updated! Error: %s"
+msgstr "Produsul nu a putut fi actualizat! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2957
+msgid "Stock: available"
+msgstr "Stoc: disponibil"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2962
+msgid "Stock: unavailable"
+msgstr "Stock: indisponibil"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3146
+msgid "More Details"
+msgstr "Detalii"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3166
+msgid "Out of Stock"
+msgstr "Epuizat"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3295
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3339
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3349
+msgid "Add to My Cart"
+msgstr "Adăugaţi în coş"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3438
+msgid "Related Items"
+msgstr "Produse similare"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4378
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5012
+msgid "New Category"
+msgstr "Categorie Nouă"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4398
+msgid "Sub Category of"
+msgstr "SubCategorie a"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4426
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4828
+msgid "Show Icons"
+msgstr "Afişare pictograme"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4433
+msgid "(display icons when category selected)"
+msgstr "(afişare pictograme atunci când este selectată categoria)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4438
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4833
+msgid "Full Items"
+msgstr "Articole complete"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4448
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4838
+msgid "Hide Subgroup Items"
+msgstr "Ascunde Articolele din SubGrup"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4463
+msgid "Digital / Downloadable Goods"
+msgstr "Produse Digitale / Descărcabile"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4476
+msgid "Downloads Expire after"
+msgstr "Descărcarea Expiră după"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4484
+msgid "days (when ordered)"
+msgstr "zile (când a fost comandat)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4522
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4843
+msgid "Members Only"
+msgstr "Doar Membri"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4530
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4848
+msgid "Show to Guests"
+msgstr "Vizibil vizitatorilor"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4599
+msgid "Categories have been successfully re-ordered."
+msgstr "Categoriile au fost re-ordonate!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4610
+msgid "Category has been successfully deleted."
+msgstr "Categoria a fost ştearsă!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4623
+msgid "Category cannot be subcategory of itself!"
+msgstr "Categoria nu poate fi propria ei subcategorie!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4652
+msgid "Category has been successfully updated."
+msgstr "Categoria a fost actualizată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4656
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4676
+msgid "View Category"
+msgstr "Vezi Categorie"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4672
+msgid "Category has been successfully created."
+msgstr "Categoria a fost creată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4708
+msgid "Icon"
+msgstr "Pictogramă"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4775
+msgid "Icons"
+msgstr "Pictograme"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4856
+#, php-format
+msgid "(downloads expire after %s days)"
+msgstr "(descărcările expiră după %s zile)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4983
+msgid "Shopping Administration"
+msgstr "Administrare Magazin"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5011
+msgid "Edit Category"
+msgstr "Editare Categorie"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5061
+msgid "No categories found."
+msgstr "Nu sunt categorii!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5182
+#, php-format
+msgid "Shopping Category couldn't be created! Error: %s"
+msgstr "Categoria comercială nu a putut fi creată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5276
+#, php-format
+msgid "Shopping Category couldn't be updated! Error: %s"
+msgstr "Categoria comercială nu a putut fi actualizată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5405
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5419
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5432
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5445
+msgid "Directory couldn't be protected!"
+msgstr "Directorul nu a putut fi protejat!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5545
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4875
+msgid "Latest Items"
+msgstr "Ultimele Articole"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5551
+msgid "Active Items"
+msgstr "Articole Active"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5557
+msgid "Popular Items"
+msgstr "Articole populare"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5563
+msgid "Discussed Items"
+msgstr "Articole discutate"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5569
+msgid "Rated Items"
+msgstr "Articole evaluate"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5620
+msgid "This area is limited to members only. Please login below."
+msgstr "Această zonă este limitată numai pentru membri. Vă rugăm să vă autentificaţi mai jos."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5681
+msgid "Shopping"
+msgstr "Cumpărături"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5779
+msgid "Items / Categories"
+msgstr "Articole / Categorii"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:14
+msgid "Shopping Cart"
+msgstr "Coşul de Cumpărături"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:15
+msgid "Set Fees, Discounts, Taxes, checkout Limits and let people place orders"
+msgstr "Setaţi Preţuri, Reduceri, Taxe, Limite, şi permiteţi utilizatorilor să facă comenzi."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:65
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:618
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3605
+msgid "New Discount"
+msgstr "Reducere Nouă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:78
+msgid "Discount Percentage"
+msgstr "Procentajul reducerii"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:87
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:89
+msgid "e.g. 25"
+msgstr "exemplu: 20"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:93
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:938
+msgid "Price Above or Equal"
+msgstr "Preţ mai mare sau egal"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:112
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:114
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:957
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:959
+msgid "e.g. 10"
+msgstr "exemplu: 10"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:117
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:962
+msgid "Price Below"
+msgstr "Preţul Sub"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:136
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:138
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:981
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:983
+msgid "e.g. 70"
+msgstr "exemplu: 70"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:142
+msgid "For Defined User"
+msgstr "Pentru utilizatorul definit"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:156
+msgid "Define the owner of the discount."
+msgstr "Definiţi beneficiarul reducerii"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:202
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1103
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1921
+msgid "Priorities have been successfully set."
+msgstr "Priorităţile au fost stabilite cu succes."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:213
+msgid "Discount has been successfully deleted."
+msgstr "Reducerea a fost ştearsă cu succes."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:233
+msgid "Please make sure you have entered / selected the right username or if you wish to add this discount to a new user please first create the user at Member Management -> Users."
+msgstr "Vă rugăm să vă asiguraţi că aţi introdus / selectat corect numele de utilizator. Dacă doriţi să adăugaţi această reducere unui utilizator nou vă rugăm să creaţi utilizatorul la Management -> Utilizatori."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:250
+msgid "Discount has been successfully updated."
+msgstr "Reducerea a fost actualizată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:263
+msgid "Discount has been successfully created."
+msgstr "Reducerea a fost creată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:414
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1261
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2078
+msgid "Priority"
+msgstr "Priorităţi"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:420
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1267
+msgid "Price >="
+msgstr "Preţ mai mare sau egal"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:422
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1269
+msgid "Price <"
+msgstr "Preţ mai mic"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:427
+msgid "User"
+msgstr "Utilizator"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:490
+msgid "User deleted!"
+msgstr "Utilizator şters!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:525
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1426
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2161
+msgid "Set Priority"
+msgstr "Setaţi prioritatea"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:592
+msgid "Shopping Cart Discounts Administration"
+msgstr "Administrare Reduceri Coş de cumpărături"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:617
+msgid "Edit Discount"
+msgstr "Editare Reducere"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:663
+msgid "No discounts found."
+msgstr "Nu sunt reduceri."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:720
+#, php-format
+msgid "Discount couldn't be added! Error: %s"
+msgstr "Reducerea nu a putut fi creată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:758
+#, php-format
+msgid "Discount couldn't be updated! Error: %s"
+msgstr "Reducerea nu a putut fi actualizată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:900
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1519
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3608
+msgid "New Fee"
+msgstr "Taxa nouă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:907
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1850
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3097
+msgid "Order Form"
+msgstr "Formular de Comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:913
+msgid "Fee Amount"
+msgstr "Valoare Taxă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:933
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:935
+msgid "e.g. 5"
+msgstr "exemplu: 5"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:987
+msgid "Using Weight"
+msgstr "Folosire Greutate"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:992
+msgid "Weight Above or Equal"
+msgstr "Greutate mai mare sau egală"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1005
+msgid "e.g. 0.5"
+msgstr "exemplu: 0.5"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1008
+msgid "Weight Below"
+msgstr "Greutate mai mică"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1021
+msgid "e.g. 3"
+msgstr "exemplu: 3"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1032
+msgid "Using Order Form Field Values"
+msgstr "Folosind valorile câmpurilor din formularul de comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1037
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1865
+msgid "Field name"
+msgstr "Nume câmp"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1046
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1874
+msgid "Define the field you would like to compare."
+msgstr "Definiţi câmpul pe care doriţi să-l comparaţi."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1047
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1875
+msgid "Select Field"
+msgstr "Selectaţi câmpul"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1051
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1283
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1879
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2084
+msgid "Is or Contains"
+msgstr "Este sau Conţine"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1057
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1059
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1884
+msgid "e.g. field name \"ShippingState\" is \"CA\" or contains \"CA, WA, NY\""
+msgstr "exemplu: nume câmp \"Judeţ_de_Livrare\" este \"IS\" sau conţine \"B, HR, MS\""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1114
+msgid "Fee has been successfully deleted."
+msgstr "Taxa a fost ştearsă!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1139
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1957
+msgid "Order form field couldn't be found!"
+msgstr "Câmpul de comenzi al formularului nu a fost găsit!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1140
+msgid "Please make sure you have entered / selected the right field or if you wish to add this fee to a new field please first create the field at Content Management -> Dynamic Forms."
+msgstr "Vă rugăm să vă asiguraţi că aţi introdus / selectat câmpul corect sau dacă doriţi să adăugaţi această taxă la un câmp nou vă rugăm să îl creaţi mai întâi în Management Conţinut -> Formulare Dinamice."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1156
+msgid "Fee has been successfully updated."
+msgstr "Taxa a fost actualizată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1169
+msgid "Fee has been successfully created."
+msgstr "Taxa a fost creată!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1183
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2001
+msgid "Order Form Fields"
+msgstr "Câmpurile Formularului de Comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1194
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1281
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2012
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2082
+msgid "Field"
+msgstr "Câmp"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1199
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2017
+msgid "Name"
+msgstr "Nume"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1265
+msgid "Fee"
+msgstr "Taxă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1274
+msgid "Weight >="
+msgstr "Greutate mai mare sau egală"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1276
+msgid "Weight <"
+msgstr "Greutate mai mică"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1386
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2122
+msgid "Field deleted!"
+msgstr "Câmp şters!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1493
+msgid "Shopping Cart Fees Administration"
+msgstr "Administrarea Taxelor Coşului de Cumpărături"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1518
+msgid "Edit Fee"
+msgstr "Editare Taxă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1564
+msgid "No fees found."
+msgstr "Nu sunt Taxe"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1642
+#, php-format
+msgid "Fee couldn't be added! Error: %s"
+msgstr "Taxa nu a putut fi adaugată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1696
+#, php-format
+msgid "Fee couldn't be updated! Error: %s"
+msgstr "Taxa nu a putut fi actualizată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1843
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2253
+msgid "New Tax"
+msgstr "Taxă Nouă (TVA)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1856
+msgid "Tax Percentage"
+msgstr "Procentaj Taxă (TVA)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1932
+msgid "Tax has been successfully deleted."
+msgstr "Taxa (TVA) a fost ştearsă!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1958
+msgid "Please make sure you have entered / selected the right field or if you wish to add this tax to a new field please first create the field at Content Management -> Dynamic Forms."
+msgstr "Vă rugăm să vă asiguraţi că aţi introdus / selectat câmpul corect sau dacă doriţi să adăugaţi această taxă (TVA) la un câmp nou vă rugăm să îl creaţi mai întâi în Management Conţinut -> Formulare Dinamice."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1974
+msgid "Tax has been successfully updated."
+msgstr "Taxă (TVA) actualizată cu succes."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1987
+msgid "Tax has been successfully created."
+msgstr "Taxă (TVA) creată cu succes."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2227
+msgid "Shopping Cart Taxes Administration"
+msgstr "Administrarea Taxelor (TVA) Coşului de Cumpărături"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2252
+msgid "Edit Tax"
+msgstr "Editare Taxă (TVA)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2293
+msgid "No taxes found."
+msgstr "Nu au fost găsite taxe (TVA)!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2343
+#, php-format
+msgid "Tax couldn't be added! Error: %s"
+msgstr "Taxa (TVA) nu a putut fi adaugată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2371
+#, php-format
+msgid "Tax couldn't be updated! Error: %s"
+msgstr "Taxa (TVA) nu a putut fi actualizată! Eroare: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2483
+msgid "Checkout Form"
+msgstr "Formular de finalizare comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2529
+#, php-format
+msgid "We are sorry but it seems the stock for \"%s\" has changed meanwhile and there aren't enough items in stock now. Please go back and update your cart. Total available items in stock for this item are: %s."
+msgstr "Ne pare rău, dar stocul de\"%s\" sa schimbat între timp şi nu sunt destule articole în stoc momentan. Vă rugăm să mergeţi înapoi şi actualizaţi coşul de cumparaturi. Total produse în stoc disponibile pentru acest articol sunt: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2640
+#, php-format
+msgid "<b>Your order %s has been successfully saved.</b><br /> You can now complete the payment or leave it for a later date."
+msgstr "<b>Comanda dvs. %s a fost salvată cu succes.</b><br /> Puteţi finaliza plata acum sau lăsaţi-o pentru o dată ulterioară."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2644
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2655
+msgid "View Your Orders"
+msgstr "Vezi comenzile tale"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2648
+#, php-format
+msgid "<b>Thank you for your order!</b><br /><br /> Your confirmation / tracking number is <b>%s</b>, please keep it for your record, also a receipt has been emailed to you with all the information including your confirmation / tracking number."
+msgstr "<b>Vă mulţumim pentru comanda dvs.!</b><br /><br /> Confirmarea / număr de urmărire este <b>%s</b>, vă rugăm să păstraţi-l pentru arhiva dvs., de asemenea, o confirmare de primire a fost trimisă prin e-mail cu toate informaţiile, inclusiv confirmare / numărul de urmărire."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2684
+msgid "Invalid order method selected. Please choose a different order method below."
+msgstr "Metoda de comandă selectată este invalidă. Vă rugăm să alegeţi o metodă de comandă diferită de mai jos."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2717
+msgid "Checkout Step"
+msgstr "Pas de finalizare comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2731
+msgid "Review Your Order"
+msgstr "Verifică Comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2736
+msgid "Account information"
+msgstr "Informaţii cont"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2772
+msgid "Your password will be emailed to the email address specified here.<br /> You will be able to change your password by using your account page after login."
+msgstr "Parola va fi trimisă la adresa de e-mail specificată aici. <br /> Veţi putea să vă schimbaţi parola folosind pagina contului dvs. după autentificare."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2927
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3025
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3115
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3198
+msgid "Email address"
+msgstr "Adresa e-mail"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2968
+msgid "Invalid order method selected! Please choose a different order method below."
+msgstr "Metoda de comandă selectată este invalidă. Vă rugăm să alegeţi o metodă de comandă diferită de mai jos."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3174
+msgid "New User?"
+msgstr "Utilizator Nou?"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3178
+msgid "Please enter your desired username / password to continue as a new user."
+msgstr "Vă rugăm să introduceţi numele de utilizator dorit şi parola pentru a continua ca utilizator nou."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3180
+msgid "Please enter your desired username to continue as a new user."
+msgstr "Vă rugăm să introduceţi numele de utilizator dorit pentru a continua ca utilizator nou."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3236
+msgid "Continue as a New User"
+msgstr "Continuă ca Utilizator Nou"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3250
+msgid "Submit / Process Order"
+msgstr "Trimite / Procesează Comanda"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3255
+msgid "Submit / Review"
+msgstr "Trimite / Verifică"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3288
+msgid "Form is being processed. Please wait."
+msgstr "Formularul este procesat. Vă rugăm să aşteptaţi."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3619
+msgid "Shopping Cart Administration"
+msgstr "Administrarea Coşului de Cumpărături"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3642
+msgid "Set checkout methods, currency and cart limits"
+msgstr "Setaţi metodele de plată, moneda şi limitele coşului de cumpărături."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3661
+msgid "Set global or user discounts"
+msgstr "Setaţi reducerile globale sau per utilizator"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3664
+msgid "Discount Settings"
+msgstr "Setări reduceri"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3680
+msgid "Set global or local fees"
+msgstr "Setaţi taxele globale sau locale"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3683
+msgid "Fees Settings"
+msgstr "Setări taxe"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3702
+msgid "Set and manage taxes"
+msgstr "Puteţi stabili şi gestiona taxele (TVA)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3705
+msgid "Tax Settings"
+msgstr "Setări taxe (TVA)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3881
+msgid "No item defined to remove from your cart."
+msgstr "Nici un produs definit pentru al şterge din coşul de cumpărături."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3891
+msgid "Item has been successfully removed from your cart."
+msgstr "Produsul a fost şters din coşul de cumpărături."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3900
+msgid "No item defined to add to your cart."
+msgstr "Nici un produs definit pentru a-l adăuga în coş."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3914
+msgid "The item you wanted to add to your cart cannot be found or is unfortunately temporarily out of stock. To check the availability of this item please contact us."
+msgstr "Produsul pe care aţi vrut să-l adăugaţi în coş, nu poate fi găsit sau este, din păcate, temporar indisponibil / stoc epuizat. Pentru a verifica disponibilitatea acestui articol vă rugăm să ne contactaţi."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3928
+msgid "The item you wanted to add to your cart is temporary not available. Please contact us for more information on this item."
+msgstr "Produsul pe care aţi vrut să-l adăugaţi în coş este indisponibil / stoc epuizat. Pentru mai multe detalii privind acest articol vă rugăm să ne contactaţi."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3937
+msgid "The item you wanted to add to your cart can only be accessed by members. Please login first and try again."
+msgstr "Produsul pe care aţi dorit să-l adăugaţi în coş poate fi comandat numai de către membri. Vă rugăm să vă autentificaţi şi încercaţi din nou."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3971
+msgid "Item option cannot be found!"
+msgstr "Opţiunea produsului nu poate fi găsită!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4056
+msgid "Item has been successfully added to your cart."
+msgstr "Produsul a fost adăugat cu succes în coş."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4058
+msgid "Refresh Cart"
+msgstr "Actualizează coşul"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4081
+msgid "Cart has been successfully updated."
+msgstr "Coşul de cumpărături a fost actualizat cu succes."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4116
+msgid "Already Registered?"
+msgstr "Înregistrat deja?"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4120
+msgid "Please enter your login information below to checkout with your account."
+msgstr "Vă rugăm să introduceţi informaţiile de autentificare mai jos pentru a finaliza comanda cu contul dumneavoastră."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4179
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4930
+msgid "There are no items in your cart."
+msgstr "Nu există produse în coş."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4348
+msgid "View My Cart"
+msgstr "Vezi coşul."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4378
+#, php-format
+msgid "My Cart: %s items"
+msgstr "Coşul Meu: %s produse."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4423
+msgid "Item / Options"
+msgstr "Produs / Opţiuni"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4424
+msgid "Item / Added to Cart"
+msgstr "Produs / Adăugat în Coş"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4451
+msgid "Remove"
+msgstr "Şterge"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4567
+msgid "Remove Item"
+msgstr "Şterge Produs"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4757
+#, php-format
+msgid "<b>TIP:</b> Orders over %s get %s discount!"
+msgstr "<b>SFAT:</b> Comenzile peste %s primesc %s reducere!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4768
+msgid "* For more details on each item click on the item's title. To change the quantity of an item pick a new quantity and press the Update Cart button."
+msgstr "* Pentru mai multe detalii despre fiecare produs faceţi clic pe titlul produsului. Pentru a schimba cantitatea unui produs alege o nouă cantitate şi apăsaţi butonul Actualizare Coş de cumpărături."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4777
+msgid "Checkout"
+msgstr "Finalizare comandă"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4784
+msgid "Continue Shopping"
+msgstr "Continuaţi cumpărăturile"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4792
+msgid "Update Cart"
+msgstr "Actualizare Coş de cumpărături."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4873
+msgid "Similar Items"
+msgstr "Produse Similare"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4941
+#, php-format
+msgid "<b>Checkout Limit:</b> You must purchase at least %s item(s) to complete your checkout."
+msgstr "<b>Limită de comandă:</b> Trebuie să cumpăraţi cel puţin %s produs(e) pentru a putea finaliza comanda."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4954
+#, php-format
+msgid "<b>Checkout Limit:</b> You must purchase item(s) for at least %s to complete your checkout."
+msgstr "<b>Limită de comandă:</b> Trebuie să cumpăraţi produse de cel puţin %s pentru a putea finaliza comanda."
+

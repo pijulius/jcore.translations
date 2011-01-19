@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:45+0200\n"
+"PO-Revision-Date: 2011-01-17 15:47+0200\n"
+"Last-Translator: Soreen <soreen@gmail.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: Member Dynamic Forms
+msgid "Password"
+msgstr "Parolă"
+
+msgid "Verification code"
+msgstr "Cod de verificare"
+
+msgid "Please note that you will need to enter a valid e-mail address before your account is activated. You will receive an e-mail at the address you provided that contains an account activation link."
+msgstr "Vă rugăm să introduceţi o adresă de e-mail validă înainte de activarea contului. Un e-mail cu linkul de activare vă va fi trimis la adresa de e-mail pe care o veţi introduce."
+
+msgid "Username"
+msgstr "Utilizator"
+
+msgid "Email address"
+msgstr "Adresă de e-mail"
+
+msgid "Website"
+msgstr "Site web"
+
+msgid "Show Avatar"
+msgstr "Imagine asociată"
+
+msgid "Stay Logged In"
+msgstr "Rămâi autentificat"
+
+msgid "Disable Notification Emails"
+msgstr "Dezactivează mesajele cu notificări"
+
+msgid "Change password"
+msgstr "Schimbă parola"
+
+msgid "New password"
+msgstr "Parolă nouă"
+
+msgid "Retype password"
+msgstr "Confirmare parolă"
+
+msgid "(<a href='http://gravatar.com' target='_blank'>Change Avatar</a>)"
+msgstr "(<a href='http://gravatar.com' target='_blank'>Schimbă imaginea asociată</a>)"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:14
+msgid "Site Members"
+msgstr "Utilizatori înregistraţi"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:15
+msgid "Forms for My Account, Register and Login pages"
+msgstr "Formulare pentru Contul Meu, Înregistrare şi Pagina de Autentificare"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:22
+msgid "Member Account"
+msgstr "Utilizatori înregistraţi"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:52
+msgid "Your account has been successfully updated."
+msgstr "Profilul dumneavoastră a fost actualizat cu succes."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:64
+msgid "Member Registration"
+msgstr "Înregistrare"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:88
+msgid "<b>Thank you for your registration.</b><br /> Your account has been created. However we require account activation, an activation key has been sent to the e-mail address you provided. Please check your e-mail for further information."
+msgstr "<b> Vă mulţumim pentru înregistrare.</b><br /> Contul dumneavoastră a fost creat. Înainte de utilizare este necesară activarea contului, un link ce conţine codul de activare a fost trimis la adresa de e-mail specificată. Verificaţi e-mailul pentru mai multe detalii."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:96
+msgid "<b>Thank you for your registration.</b><br /> An email has been sent to you with the necessary information to login to your account."
+msgstr "<b> Vă mulţumim pentru înregistrare.</b><br /> Un e-mail cu informaţiile necesare pentru a accesa contul a fost trimis la adresa de e-mail specificată la înregistrare."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:243
+msgid "Form Settings"
+msgstr "Setări formular"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:337
+msgid "Member Forms Administration"
+msgstr "Administrarea formularului pentru utilizatori"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:363
+msgid "No member forms found."
+msgstr "Nu sa găsit formularul pentru utilizatori"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:378
+msgid "Member Registration Form"
+msgstr "Formular de înregistrare"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:383
+msgid "Member Login / Account Form"
+msgstr "Formular de Autentificare / Formular de conturi"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:389
+msgid "New account registration has been temporarily suspended. Please try again later."
+msgstr "Înregistrările au fost suspendate temporar. Vă rugăm sa încercaţi mai târziu."
+
