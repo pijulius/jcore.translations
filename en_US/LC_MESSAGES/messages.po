@@ -4180,14 +4180,13 @@ msgstr ""
 msgid "Feed URL"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:72
+msgid "Select Feed"
+msgstr ""
+
 #: /home/julius/workspace/jcore/lib/sources/rss.class.php:71
 #: /home/julius/workspace/jcore/lib/sources/rss.class.php:77
 msgid "e.g. http://jcore.net/rss/posts.xml"
-msgstr ""
-
-#: /home/julius/workspace/jcore/lib/sources/rss.class.php:74
-#: /home/julius/workspace/jcore/lib/sources/rss.class.php:79
-msgid "available feeds"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/rss.class.php:144

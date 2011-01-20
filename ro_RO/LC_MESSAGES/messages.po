@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-01-19 23:05+0200\n"
+"PO-Revision-Date: 2011-01-20 12:41+0200\n"
 "Last-Translator: Soreen <soreen@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -4174,17 +4174,16 @@ msgstr "Fluxuri disponibile "
 
 #: /home/julius/workspace/jcore/lib/sources/rss.class.php:64
 msgid "Feed URL"
-msgstr "Alimentează URL"
+msgstr "Flux URL"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:72
+msgid "Select Feed"
+msgstr "Selectare Flux"
 
 #: /home/julius/workspace/jcore/lib/sources/rss.class.php:71
 #: /home/julius/workspace/jcore/lib/sources/rss.class.php:77
 msgid "e.g. http://jcore.net/rss/posts.xml"
 msgstr "exemplu: http://jcore.net/rss/posts.xml"
-
-#: /home/julius/workspace/jcore/lib/sources/rss.class.php:74
-#: /home/julius/workspace/jcore/lib/sources/rss.class.php:79
-msgid "available feeds"
-msgstr "fluxuri disponibile"
 
 #: /home/julius/workspace/jcore/lib/sources/rss.class.php:144
 msgid "RSS feeds have been successfully re-ordered."
