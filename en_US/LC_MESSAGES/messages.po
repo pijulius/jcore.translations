@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: Istvan Petres <me@pijulius.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.0\n"
+"MIME-Version: 1.1\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __\n"
@@ -4498,4 +4498,11 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:1070
 msgid "The selected video cannot be found!"
+msgstr ""
+
+#: Changes in 0.8
+#: ---------------
+
+#: /home/julius/workspace/jcore/lib/sources/requests.class.php:158
+msgid "Invalid or not enough permission to access this request!"
 msgstr ""
