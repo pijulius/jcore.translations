@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-01-20 12:41+0200\n"
+"PO-Revision-Date: 2011-01-24 12:21+0200\n"
 "Last-Translator: Soreen <soreen@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -1366,7 +1366,7 @@ msgid "OFF"
 msgstr "OPRIT"
 
 #: /home/julius/workspace/jcore/lib/sources/security.class.php:263
-msgid "The logged IP adresses in the list below have been banned (because trying to login with different users in a short time) and won't be able to login till expiration date / time. To unban an IP just delete it from the list."
+msgid "The logged IP adresses in the list below have been banned (because trying to login with different users in a short time) and won't be able to login until expiration date / time. To unban an IP just delete it from the list."
 msgstr "Adresele de IP înregistrate în lista de mai jos au fost interzise (pentru că încearcă să se autentifice cu utilizatorii diferiţi într-o perioadă scurtă de timp) şi nu va putea să se autentifice până la data / ora de expirare. Pentru a debloca un IP pur şi simplu ştergeţi-l din listă."
 
 #: /home/julius/workspace/jcore/lib/sources/security.class.php:273
@@ -1386,7 +1386,7 @@ msgid "Password Trading Protection"
 msgstr "Protecţie Password Trading (Partajarea parolei)"
 
 #: /home/julius/workspace/jcore/lib/sources/security.class.php:408
-msgid "The logged Users in the list below have been suspended (because of simultaneously logins from different IPs) and won't be able to login till expiration date / time. To unsuspend a user just delete it from the list."
+msgid "The logged Users in the list below have been suspended (because of simultaneously logins from different IPs) and won't be able to login until expiration date / time. To unsuspend a user just delete it from the list."
 msgstr "Utilizatorii enumeraţi în lista de mai jos au fost suspendaţi (din cauza autentificărilor simultane de pe IP-uri diferite) şi nu vor fi putea să se autentifice până la data / ora de expirare. Pentru a debloca un utilizator pur şi simplu ştergeţi-l din lista."
 
 #: /home/julius/workspace/jcore/lib/sources/security.class.php:417
