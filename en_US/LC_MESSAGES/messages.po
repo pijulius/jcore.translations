@@ -4506,3 +4506,7 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/requests.class.php:158
 msgid "Invalid or not enough permission to access this request!"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:252
+msgid "All"
+msgstr ""
