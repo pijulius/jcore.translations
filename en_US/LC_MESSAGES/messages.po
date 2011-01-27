@@ -4522,3 +4522,7 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:183
 msgid "Please make sure you have entered / selected the right username or if it's a new user please first create the user at Member Management -> Users."
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:756
+msgid "Nothing to store! Please define some fields for your form and make sure their Value Types are set."
+msgstr ""
