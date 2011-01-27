@@ -584,15 +584,6 @@ msgstr ""
 msgid "We are sorry for the inconvenience but it seems this order method doesn't have order processing capabilities. Please choose a different order method or contact webmaster."
 msgstr ""
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2775
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:232
-msgid "Username couldn't be found!"
-msgstr ""
-
-#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2776
-msgid "Please make sure you have entered / selected the right username or if you wish to add this order to a new user please first create the user at Member Management -> Users."
-msgstr ""
-
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2815
 msgid "No items added / selected for this order! Please select / add at least one item for the new order to proceed."
 msgstr ""
@@ -1341,10 +1332,6 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:213
 msgid "Discount has been successfully deleted."
-msgstr ""
-
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:233
-msgid "Please make sure you have entered / selected the right username or if you wish to add this discount to a new user please first create the user at Member Management -> Users."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:250

@@ -4510,3 +4510,15 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:252
 msgid "All"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:137
+msgid "Select User"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:181
+msgid "User \"%s\" couldn't be found!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:183
+msgid "Please make sure you have entered / selected the right username or if it's a new user please first create the user at Member Management -> Users."
+msgstr ""
