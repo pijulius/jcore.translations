@@ -45,7 +45,7 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:519
 #, php-format
-msgid "Couldn't fetch photo list. Error: %s"
+msgid "Couldn't fetch video list. Error: %s"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:954
