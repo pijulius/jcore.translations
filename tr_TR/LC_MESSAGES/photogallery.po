@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:22+0200\n"
+"PO-Revision-Date: 2011-01-30 14:12+0200\n"
+"Last-Translator: Erkan <bravehearterkan@hotmail.com>\n"
+"Language-Team: jCore-Turkish <bravehearterkan@hotmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Turkish\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:14
+msgid "Photo Gallery"
+msgstr "Resim Galerisi"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:15
+msgid "Share pictures / photos in a directory like structure"
+msgstr "Rresimleri / fotoğrafları yapı gibi bir dizinde paylaş"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:28
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:58
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:553
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:582
+msgid "Gallery"
+msgstr "Galeri"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:137
+msgid "No picture selected to download!"
+msgstr "Hiçbir resmi indirmek için seçilmemiş!"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:149
+msgid "The selected picture cannot be found!"
+msgstr "Seçilen resmi bulunamadı!"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:163
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2533
+msgid "You need to be logged in to view this picture. Please login or register."
+msgstr "Bu resmi görmek için giriş yapmış olmanız gerekmektedir. Lütfen giriş yapın veya kayıt olun."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:476
+#, php-format
+msgid "Couldn't fetch photo list. Error: %s"
+msgstr "Fotoğraf listesine getirilemedi. Hata: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:900
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1812
+msgid "New Gallery"
+msgstr "Yeni Galeri"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:920
+msgid "Sub Gallery of"
+msgstr "Alt Galerisi"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:940
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1626
+msgid "Columns"
+msgstr "Sütunlar"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:945
+msgid "e.g. 3 (0 = auto)"
+msgstr "örneğin 3 (0 = otomatik)"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:956
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1621
+msgid "Display Preview"
+msgstr "Ekran önizleme"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:962
+msgid "(will show the latest picture as icon)"
+msgstr "(son resmi simge olarak gösterir)"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:967
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1631
+msgid "Show Icons"
+msgstr "Simgeleri Göster"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:974
+msgid "(display icons when gallery selected)"
+msgstr "(galeri seçildiğinde simgeleri göster)"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:984
+msgid "Picasa Options"
+msgstr "Picasa Seçenekleri"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:989
+msgid "Album URL"
+msgstr "Albüm URL"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:993
+msgid "e.g. http://picasaweb.google.com/user/Album"
+msgstr "örneğin http://picasaweb.google.com/user/Album"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:996
+msgid "Tags"
+msgstr "Etiketler"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1000
+msgid "e.g. foo, bar"
+msgstr "örneğin foo, bar"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1007
+msgid "e.g. puppy"
+msgstr "örneğin kedi"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1010
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2466
+msgid "Photos"
+msgstr "Fotoğraflar"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1017
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1574
+msgid "My Photos"
+msgstr "Benim Fotoğraflar"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1019
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1576
+msgid "Community Photos"
+msgstr "Topluluk Fotoğrafları"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1021
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1578
+msgid "Favorites"
+msgstr "Favoriler"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1023
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1580
+msgid "Featured"
+msgstr "Seçkin"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1033
+msgid "Faces"
+msgstr "Yüzler"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1035
+msgid "No faces"
+msgstr "Yüz yok"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1038
+msgid "Aspect Ratio"
+msgstr "En / Boy Oranı"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1045
+msgid "Landscape"
+msgstr "Manzara"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1047
+msgid "Portrait"
+msgstr "Portre"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1049
+msgid "Panorama"
+msgstr "Panorama"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1052
+msgid "Size"
+msgstr "Boyut"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1059
+msgid "Small"
+msgstr "Küçük"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1061
+msgid "Medium"
+msgstr "Orta"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1063
+msgid "Large"
+msgstr "Büyük"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1065
+msgid "Extra large"
+msgstr "Çok büyük"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1068
+msgid "License"
+msgstr "Lisans"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1075
+msgid "Creative Commons"
+msgstr "Kâr amacı gütmeyen"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1077
+msgid "Commercial Use"
+msgstr "Ticari Kullanım"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1079
+msgid "Remix allowed"
+msgstr "Karışık izin"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1082
+msgid "Time"
+msgstr "Zaman"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1089
+msgid "Today"
+msgstr "Bugün"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1091
+msgid "This Week"
+msgstr "Bu Hafta"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1093
+msgid "This Month"
+msgstr "Bu Ay"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1096
+msgid "Order By"
+msgstr "Düzenle"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1103
+msgid "Date"
+msgstr "Tarih"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1109
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1616
+msgid "GData Auth Token"
+msgstr "GData Kimlik Doğrulama"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1115
+msgid "Request an Auth Token"
+msgstr "Auth Kodu Talep"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1208
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1652
+msgid "Members Only"
+msgstr "Sadece üyeler"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1216
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1657
+msgid "Show to Guests"
+msgstr "Misafir için Göster"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1285
+msgid "Galleries have been successfully re-ordered."
+msgstr "Galeriler başarıyla yeniden düzenlendi."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1296
+msgid "Gallery has been successfully deleted."
+msgstr "Galeri başarıyla silindi."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1309
+msgid "Gallery cannot be subgallery of itself!"
+msgstr "Galeri kendi alt galerisi olamaz!"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1335
+msgid "Picasa API URL"
+msgstr "Picasa API URL"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1348
+msgid "Gallery has been successfully updated."
+msgstr "Galeri başarıyla güncellendi."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1352
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1372
+msgid "View Gallery"
+msgstr "Galeriye Bak"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1368
+msgid "Gallery has been successfully created."
+msgstr "Galeri başarıyla oluşturuldu."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1406
+msgid "Icon"
+msgstr "Simge"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1501
+msgid "Icons"
+msgstr "Simgeler"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1557
+msgid "Picasa Album URL"
+msgstr "Picasa Albüm URL"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1562
+msgid "Picasa Photo Tags"
+msgstr "Picasa Fotoğraf Etiketleri"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1567
+msgid "Picasa Search"
+msgstr "Picasa Arama"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1572
+msgid "Picasa Photos"
+msgstr "Picasa Fotoğrafları"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1585
+msgid "Picasa Photo Type"
+msgstr "Picasa Fotoğraf Tipi"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1590
+msgid "Picasa Photo Aspect Ratio"
+msgstr "Picasa Fotoğraf En/Boy Oranı"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1595
+msgid "Picasa Photo Size"
+msgstr "Picasa Fotoğraf Boyutu"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1600
+msgid "Picasa Photo License"
+msgstr "Picasa Fotoğraf Lisansı"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1605
+msgid "Picasa Photo Time"
+msgstr "Picasa Fotoğraf Zaman"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1610
+msgid "Picasa Order By"
+msgstr "Picasa Sırala"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1783
+msgid "Photo Gallery Administration"
+msgstr "Fotoğraf Galerisi Yönetimi"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1811
+msgid "Edit Gallery"
+msgstr "Galeriyi Düzenle"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1861
+msgid "No galleries found."
+msgstr "Hiçbir galeri bulunamadı."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1995
+#, php-format
+msgid "Gallery couldn't be created! Error: %s"
+msgstr "Galeri oluşturulamadı! Hata:%s"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2115
+#, php-format
+msgid "Gallery couldn't be updated! Error: %s"
+msgstr "Galeri güncellenemedi! Hata:%s"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2273
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2286
+msgid "Directory couldn't be protected!"
+msgstr "Dizin korumalı olmamalı!"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2380
+msgid "This area is limited to members only. Please login below."
+msgstr "Bu alan sadece üyeler ile sınırlıdır. Lütfen giriş yapın."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2576
+msgid "Pictures / Galleries"
+msgstr "Resimler / Galeriler"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2577
+msgid "Pictures"
+msgstr "Resimler"
+
