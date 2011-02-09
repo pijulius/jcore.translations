@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-01-19 23:05+0200\n"
+"PO-Revision-Date: 2011-02-09 12:22+0200\n"
 "Last-Translator: Soreen <soreen@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -742,7 +742,7 @@ msgid "IMPORTANT: payment has been cancelled so shipment should be cancelled too
 msgstr "IMPORTANT: plata a fost anulată, ar trebui anulată de asemenea şi livrarea!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4030
-msgid "IMPORTANT: do NOT ship any goods till payment has been confirmed / processed!"
+msgid "IMPORTANT: do NOT ship any goods until payment has been confirmed / processed!"
 msgstr "IMPORTANT: NU livraţi nici un produs până când plata nu a fost confirmată / procesată!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4078
@@ -754,7 +754,7 @@ msgid "You can access / download your digital goods at:"
 msgstr "Puteţi accesa / descărca produsele digitale la:"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4284
-msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait till we receive the confirmation for your payment."
+msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait until we receive the confirmation for your payment."
 msgstr "Plata dvs. este încă în aşteptare. Pentru a accesa produsele digitale comandate vă rugăm să finalizaţi plata dvs. de mai jos sau aşteptaţi până primim confirmarea de plată."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4324
@@ -786,7 +786,7 @@ msgid "Awaiting payment deposit!"
 msgstr "În aşteptarea depunerii plăţii!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4507
-msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes till we receive the confirmation, otherwise please click on the button below."
+msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes until we receive the confirmation, otherwise please click on the button below."
 msgstr "Se pare că plata nu a fost procesată sau încă nu aţi finalizat plata. Dacă sunteţi sigur că plata a fost procesată, vă rugăm, aşteptaţi încă câteva minute până când vom primi confirmarea, în caz contrar vă rugăm să daţi clic pe butonul de mai jos."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4531

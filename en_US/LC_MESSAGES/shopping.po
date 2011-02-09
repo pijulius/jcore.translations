@@ -733,7 +733,7 @@ msgid "IMPORTANT: payment has been cancelled so shipment should be cancelled too
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4030
-msgid "IMPORTANT: do NOT ship any goods till payment has been confirmed / processed!"
+msgid "IMPORTANT: do NOT ship any goods until payment has been confirmed / processed!"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4078
@@ -745,7 +745,7 @@ msgid "You can access / download your digital goods at:"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4284
-msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait till we receive the confirmation for your payment."
+msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait until we receive the confirmation for your payment."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4324
@@ -777,7 +777,7 @@ msgid "Awaiting payment deposit!"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4507
-msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes till we receive the confirmation, otherwise please click on the button below."
+msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes until we receive the confirmation, otherwise please click on the button below."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4531

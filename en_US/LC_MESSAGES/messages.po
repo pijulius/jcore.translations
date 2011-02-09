@@ -4526,3 +4526,31 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:756
 msgid "Nothing to store! Please define some fields for your form and make sure their Value Types are set."
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:64
+msgid "Author"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:70
+msgid "Version"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:716
+msgid "Export current template as an installable template package"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:719
+msgid "Export Template"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:177
+msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port them to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:192
+msgid "Template Details"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:198
+msgid "Export"
+msgstr ""
