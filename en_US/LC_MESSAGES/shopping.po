@@ -381,7 +381,7 @@ msgid "Order"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1576
-msgid "Order item couldn't be added to the db! Please contact us with this error asap."
+msgid "Order item couldn't be added to the db! Please contact us with this error as soon as possible."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1616
@@ -590,7 +590,7 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2892
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2625
-msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number asap."
+msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number as soon as possible."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2902
@@ -657,7 +657,7 @@ msgid "No orders found."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3735
-msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error asap."
+msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error as soon as possible."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3760

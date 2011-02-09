@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-02-09 12:22+0200\n"
+"PO-Revision-Date: 2011-02-09 12:39+0200\n"
 "Last-Translator: Soreen <soreen@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -381,7 +381,7 @@ msgid "Order"
 msgstr "Comandă"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1576
-msgid "Order item couldn't be added to the db! Please contact us with this error asap."
+msgid "Order item couldn't be added to the db! Please contact us with this error as soon as possible."
 msgstr "Articolul comandat nu a putut fi adăugat în baza de date! Vă rugăm să ne contactati urgent cu această eroare."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1616
@@ -599,7 +599,7 @@ msgstr "Nici un produs adăugat / selectat pentru această comandă! Vă rugăm 
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2892
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2625
-msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number asap."
+msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number as soon as possible."
 msgstr "Au existat unele erori în timpul procesării comenzii dumneavoastră (unele articole nu au putut fi adăugate la comandă). Vă rugăm să ne contactaţi urgent cu această eroare şi numărul de comandă."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2902
@@ -666,7 +666,7 @@ msgid "No orders found."
 msgstr "Nu sunt comenzi."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3735
-msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error asap."
+msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error as soon as possible."
 msgstr "Ne cerem scuze pentru neplăcerile create, dar comanda nu a putut fi adăugată în baza de date. Vă rugăm să ne contactaţi urgent cu această eroare."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3760
