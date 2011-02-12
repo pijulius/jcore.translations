@@ -4544,7 +4544,7 @@ msgid "Export Template"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:177
-msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port them to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
+msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:192
@@ -4553,4 +4553,8 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:198
 msgid "Export"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:124
+msgid "Template has been successfully created."
 msgstr ""
