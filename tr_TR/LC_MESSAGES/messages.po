@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 19:22+0200\n"
-"PO-Revision-Date: 2011-02-15 10:18+0200\n"
+"PO-Revision-Date: 2011-02-15 14:19+0200\n"
 "Last-Translator: Erkan <bravehearterkan@hotmail.com>\n"
 "Language-Team: jCore-Turkish <bravehearterkan@hotmail.com>\n"
 "Language: \n"
@@ -3066,8 +3066,8 @@ msgid "Member Management"
 msgstr "Kullanıcı Yönetimi"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:65
-msgid "Manage the content (posts) of your site"
-msgstr "Sitenizin içeriğini (mesajlarını) yönetin"
+msgid "Manage the content (pages) of your site"
+msgstr "Sitenizin içeriğini (sayfaları) yönetin"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:75
 msgid "Upload / Add advertisements"

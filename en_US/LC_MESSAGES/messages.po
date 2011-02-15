@@ -3063,7 +3063,7 @@ msgid "Member Management"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:65
-msgid "Manage the content (posts) of your site"
+msgid "Manage the content (pages) of your site"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:75
@@ -4557,4 +4557,12 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:124
 msgid "Template has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:76
+msgid "Quicly create / modify posts"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
+msgid "Posts at Glance"
 msgstr ""
