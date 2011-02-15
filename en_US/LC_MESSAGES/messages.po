@@ -3334,7 +3334,7 @@ msgid "No menu blocks found."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:924
-msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and creat at least one menu block to put menu items in."
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put menu items in."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1053

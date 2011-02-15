@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 19:22+0200\n"
-"PO-Revision-Date: 2011-01-30 14:15+0200\n"
+"PO-Revision-Date: 2011-02-15 10:18+0200\n"
 "Last-Translator: Erkan <bravehearterkan@hotmail.com>\n"
 "Language-Team: jCore-Turkish <bravehearterkan@hotmail.com>\n"
 "Language: \n"
@@ -3337,7 +3337,7 @@ msgid "No menu blocks found."
 msgstr "Menü Bloğu bunlunmadı."
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:924
-msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and creat at least one menu block to put menu items in."
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put menu items in."
 msgstr "Lütfen Yönetim -> Site Düzeni ve İşlevsellik-> Menü Bloklarına giderek en azındanbir tane menü bloğu oluşturarak öğleri içine yerleştiriniz."
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1053
