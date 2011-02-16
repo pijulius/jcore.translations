@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-16 11:23+0200\n"
+"PO-Revision-Date: 2011-02-16 11:54+0200\n"
 "Last-Translator: Bram Kortleven <bram@bramkortleven.be>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -3064,7 +3064,7 @@ msgstr "Leden Beheer"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:65
 msgid "Manage the content (pages) of your site"
-msgstr "Beheer de inhoud (pagina's) van uw site"
+msgstr "Beheer de inhoud (paginas) van uw site"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:75
 msgid "Upload / Add advertisements"
