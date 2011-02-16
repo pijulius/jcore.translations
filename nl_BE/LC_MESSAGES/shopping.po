@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-02-16 11:01+0200\n"
+"PO-Revision-Date: 2011-02-16 11:23+0200\n"
 "Last-Translator: Bram Kortleven <bram@bramkortleven.be>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -381,7 +381,7 @@ msgid "Order"
 msgstr "Bestelling"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1576
-msgid "Order item couldn't be added to the db! Please contact us with this error asap."
+msgid "Order item couldn't be added to the db! Please contact us with this error as soon as possible."
 msgstr "Bestelling kon niet in de db toegevoegd worden! Contacteer ons zo snel mogelijk met deze fout!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1616
@@ -599,7 +599,7 @@ msgstr "Geen items toegevoegd / geselecteerd voor deze bestelling! Selecteer / v
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2892
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2625
-msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number asap."
+msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number as soon as possible."
 msgstr "Er waren problemen bij het verwerken van uw bestelling (sommige items konden niet toegevoegd worden). Contacteer ons zo snel mogelijk met deze foutmelding en uw order nummer."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2902
@@ -666,7 +666,7 @@ msgid "No orders found."
 msgstr "Geen Bestellingen gevonden."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3735
-msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error asap."
+msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error as soon as possible."
 msgstr "Het spijt ons maar de bestelling kon niet toegevoegd worden in de database. Contacteer ons zo snel mogelijk met deze fout."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3760
@@ -742,7 +742,7 @@ msgid "IMPORTANT: payment has been cancelled so shipment should be cancelled too
 msgstr "BELANGRIJK: betaling werd geanulleerd - verzending zou dus ook moeten geanulleerd worden!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4030
-msgid "IMPORTANT: do NOT ship any goods till payment has been confirmed / processed!"
+msgid "IMPORTANT: do NOT ship any goods until payment has been confirmed / processed!"
 msgstr "BELANGRIJK: verzend GEEN goederen tot betaling bevestigd of verwerkt is!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4078
@@ -754,7 +754,7 @@ msgid "You can access / download your digital goods at:"
 msgstr "U kan uw digitale goederen vinden / downloaden op:"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4284
-msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait till we receive the confirmation for your payment."
+msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait until we receive the confirmation for your payment."
 msgstr "Uw betaling is nog in verwerking. Om uw Digitale Goederen te verkrijgen, werk uw betaling af of wacht tot wij bevestiging van uw betaling hebben ontvangen."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4324
@@ -786,7 +786,7 @@ msgid "Awaiting payment deposit!"
 msgstr "Wachten op ontvangst betaling!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4507
-msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes till we receive the confirmation, otherwise please click on the button below."
+msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes until we receive the confirmation, otherwise please click on the button below."
 msgstr "De betaling werd nog niet verwerkt of u voerde de betaling nog niet uit. Indien u zeker bent dat de betaling werd uitgevoerd, wacht nog nog een paar minuten tot we de bevestiging hebben ontvangen, of klik op onderstaande knop."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4531
