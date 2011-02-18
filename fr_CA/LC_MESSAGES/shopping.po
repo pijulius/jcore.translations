@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-02-18 17:00+0200\n"
+"PO-Revision-Date: 2011-02-16 13:18-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -382,7 +382,7 @@ msgid "Order"
 msgstr "Commande"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1576
-msgid "Order item couldn't be added to the db! Please contact us with this error asap."
+msgid "Order item couldn't be added to the db! Please contact us with this error as soon as possible."
 msgstr "L'article commandé ne peut être ajouté à la base de données ! Veuillez nous contacter en spécifiant cette erreur dès que possible."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1616
@@ -591,7 +591,7 @@ msgstr "Aucun article ajouté/sélectionné pour cette commande ! Veuillez ajout
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2892
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2625
-msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number asap."
+msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number as soon as possible."
 msgstr "Des erreurs sont survenues lors du traitement de votre commande (certains articles n'ont pas pu être ajoutés à votre commande). Veuillez nous contacter avec cette erreur et votre numéro de commande le plus rapidement possible afin de vérifier l'état de votre commande."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2902
@@ -658,7 +658,7 @@ msgid "No orders found."
 msgstr "Aucune commande trouvée"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3735
-msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error asap."
+msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error as soon as possible."
 msgstr "Nous nous excusons des inconvénients que cela pourrait vous causer, mais cette commande n'a pas pu être sauvegardée. Veuillez nous contacter dès que possible avec cette erreur."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3760
@@ -734,7 +734,7 @@ msgid "IMPORTANT: payment has been cancelled so shipment should be cancelled too
 msgstr "IMPORTANT : le paiement a été annulé, l'envoi devrait donc être annulé aussi !"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4030
-msgid "IMPORTANT: do NOT ship any goods till payment has been confirmed / processed!"
+msgid "IMPORTANT: do NOT ship any goods until payment has been confirmed / processed!"
 msgstr "IMPORTANT : ne PAS envoyer la marchandise jusqu'à ce que le paiement ait été confirmé/traité !"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4078
@@ -746,7 +746,7 @@ msgid "You can access / download your digital goods at:"
 msgstr "Vous pouvez accéder/télécharger la marchandise électronique en suivant ce lien :"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4284
-msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait till we receive the confirmation for your payment."
+msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait until we receive the confirmation for your payment."
 msgstr "Votre paiement est toujours en attente. Pour accéder la marchandise électronique, veuillez finaliser votre paiement ci-bas ou attendre que nous recevions la confirmation de votre paiement."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4324
@@ -778,7 +778,7 @@ msgid "Awaiting payment deposit!"
 msgstr "En attente du dépôt du paiement !"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4507
-msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes till we receive the confirmation, otherwise please click on the button below."
+msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes until we receive the confirmation, otherwise please click on the button below."
 msgstr "Il semble que votre paiement n'a pas encore été traité ou vous n'avez pas finalisé le paiement. Si vous êtes certains que le paiement a été traité, veuillez attendre quelques minutes que nous puissions recevoir la confirmation, sinon cliquez sur le lien ci-bas."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4531

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-18 17:03+0200\n"
+"PO-Revision-Date: 2011-02-16 13:12-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -4497,4 +4497,70 @@ msgstr "Aucune vidéo sélectionnée !"
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:1070
 msgid "The selected video cannot be found!"
 msgstr "La vidéo sélectionnée n'a pas pu être trouvée !"
+
+#: Changes in 0.8
+#: ---------------
+#: /home/julius/workspace/jcore/lib/sources/requests.class.php:158
+msgid "Invalid or not enough permission to access this request!"
+msgstr "Invalide ou permission insuffisante pour accéder à cette requête !"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:252
+msgid "All"
+msgstr "Tous"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:137
+msgid "Select User"
+msgstr "Sélectionner un utilisateur"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:181
+msgid "User \"%s\" couldn't be found!"
+msgstr "L'utilisateur \"%s\" n'a pas pu être trouvé !"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:183
+msgid "Please make sure you have entered / selected the right username or if it's a new user please first create the user at Member Management -> Users."
+msgstr "Veuillez vous assurer que vous avez entré/sélectionné le bon nom d'utilisateur ou créez d'abord un nouvel utilisateur dans Gestion des membres -> Utilisateurs"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:756
+msgid "Nothing to store! Please define some fields for your form and make sure their Value Types are set."
+msgstr "Rien à sauvegardé ! Veuillez définir quelques champs pour votre formulaire et vous assurer que leur type de valeur est défini."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:64
+msgid "Author"
+msgstr "Auteur"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:70
+msgid "Version"
+msgstr "Version"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:716
+msgid "Export current template as an installable template package"
+msgstr "Exporter l'habillage courant sous forme de paquet installable."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:719
+msgid "Export Template"
+msgstr "Exporter l'habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:177
+msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
+msgstr "En complétant le formulaire ci-bas, vous pourrez exporter toute modification à l'habillage courant \"<b>%s</b>\" en tant que paquet installable et le porter facilement sur d'autres sites web. Le paquet incluera les blocs, images, CSS, JS, polices ainsi que tous les dossiers personnalisés trouvés."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:192
+msgid "Template Details"
+msgstr "Détails de l'habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:198
+msgid "Export"
+msgstr "Exporter"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:124
+msgid "Template has been successfully created."
+msgstr "L'habillage a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:76
+msgid "Quicly create / modify posts"
+msgstr "Créer/modifier des articles rapidement"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
+msgid "Posts at Glance"
+msgstr "Articles sur le pouce"
 
