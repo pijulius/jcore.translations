@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:42+0200\n"
+"PO-Revision-Date: 2011-02-18 18:13+0200\n"
+"Last-Translator: Foroshandegan Developer's Group <info@foroshandegan.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:14
+msgid "File Sharing"
+msgstr "اشترک پرونده"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:15
+msgid "Share files in a directory like structure"
+msgstr "پرونده های مورد نظر خود را با بازدید کنندگان سایت به اشتراک بگذارید"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:28
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:171
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:200
+msgid "Folder"
+msgstr "پوشه"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:126
+msgid "No file selected to download!"
+msgstr "شما پرونده ای برای بارگذاری انتخاب نکرده اید"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:138
+msgid "The selected file cannot be found!"
+msgstr "پرونده مورد نظر شما در دسترس نیست"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:150
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1768
+msgid "You need to be logged in to download this file. Please login or register."
+msgstr "برای آنکه بتوانید این پرونده را دریافت نمایید ، لازمست تا ابتدا در سایت ثبت نام و وارد شوید."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:515
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1163
+msgid "New Folder"
+msgstr "پوشه جدید"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:535
+msgid "Sub Folder of"
+msgstr "زیرپوشه"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:563
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:982
+msgid "Show Icons"
+msgstr "نمایش آیکونها"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:570
+msgid "(display icons when folder selected)"
+msgstr "زمانیکه پوشه انتخاب شد آیکون آنرا نمایش دهد"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:655
+msgid "e.g. http://domain.com"
+msgstr "بعنوان مثال: http://domain.com"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:659
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1003
+msgid "Members Only"
+msgstr "ویژه اعضاء"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:667
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1008
+msgid "Show to Guests"
+msgstr "نمایش به بازدیدکنندگان مهمان"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:735
+msgid "Folders have been successfully re-ordered."
+msgstr "پوشه ها با موفقیت ، باز مرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:746
+msgid "Folder has been successfully deleted."
+msgstr "پوشه مورد نظر با موفقیت حذف شد."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:759
+msgid "Folder cannot be subfolder of itself!"
+msgstr "پوشه نمی تواند زیر پوشه خودش باشد"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:788
+msgid "Folder has been successfully updated."
+msgstr "پوشه با موفقیت به روز رسانی شد."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:792
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:812
+msgid "View Folder"
+msgstr "مشاهده محتویات پوشه"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:808
+msgid "Folder has been successfully created."
+msgstr "پوشه مورد نظر با موفقیت ایجاد شد"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:841
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:910
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1701
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1801
+msgid "Files"
+msgstr "پرونده ها"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:846
+msgid "Icon"
+msgstr "آیکون"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:930
+msgid "Icons"
+msgstr "آیکونها"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1134
+msgid "File Sharing Administration"
+msgstr "مدیریت تنظیمات اشتراک گذاری پرونده"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1162
+msgid "Edit Folder"
+msgstr "اصلاح پوشه"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1212
+msgid "No folders found."
+msgstr "پوشه ای وجود ندارد"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1327
+#, php-format
+msgid "Folder couldn't be created! Error: %s"
+msgstr "امکان ایجاد پوشه وجود ندارد: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1414
+#, php-format
+msgid "Folder couldn't be updated! Error: %s"
+msgstr "امکان به روز رسانی پوشه وجود ندار: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1549
+msgid "Directory couldn't be protected!"
+msgstr "امکان حفاظت پوشه وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1640
+msgid "This area is limited to members only. Please login below."
+msgstr "این بخش ویژه اعضاء می باشد.لطفا وارد سایت شوید."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1800
+msgid "Files / Folders"
+msgstr "پرونده ها/پوشه ها"
+

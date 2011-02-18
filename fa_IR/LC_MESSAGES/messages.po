@@ -1,0 +1,4502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 18:39+0200\n"
+"PO-Revision-Date: 2011-02-18 18:43+0200\n"
+"Last-Translator: Foroshandegan Developer's Group <info@foroshandegan.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/sources\n"
+
+#: Global settings
+msgid "Page Settings"
+msgstr "تنظیمات صفحه"
+
+msgid "Meta Keywords"
+msgstr "کلیدواژه های متا"
+
+msgid "Meta Description"
+msgstr "شرح متا"
+
+msgid "Webmaster Email"
+msgstr "نشانی ایمیل مدیر سایت"
+
+msgid "Webmaster BCC Email"
+msgstr "نشانی ایمیل ناشناس مدیر سایت"
+
+msgid "TimeZone"
+msgstr "منطقه زمانی"
+
+msgid "Charset"
+msgstr "کاراکترست"
+
+msgid "404 Error Text"
+msgstr "متن برای نمایش صفحات اشتباه/404"
+
+msgid "Date Format"
+msgstr "قالب تاریخ"
+
+msgid "Time Format"
+msgstr "قالب زمان"
+
+msgid "First Weekday"
+msgstr "اولین روز هفته"
+
+msgid "Picture Settings"
+msgstr "تنظیمات تصویر ها"
+
+msgid "Thumbnail Height"
+msgstr "ارتفاع بندانگشتی"
+
+msgid "Thumbnail Width"
+msgstr "عرض بندانگشتی"
+
+msgid "Watermark"
+msgstr "سایه دار"
+
+msgid "Watermark Text"
+msgstr "متن سایه دار"
+
+msgid "Watermark Text Font"
+msgstr "قلم متن سایه دار"
+
+msgid "Watermark Logo"
+msgstr "لوگوی سایه دار"
+
+msgid "Watermark Position"
+msgstr "محل سایه"
+
+msgid "Maximum Failure Attempts"
+msgstr "حداکثر دفعات تلاش ناموفق مجاز"
+
+msgid "Time Minutes"
+msgstr "زمان به دقیقه"
+
+msgid "Maximum Failure Attempts Before TwoWeeks Ban"
+msgstr "حداکثر دفعات مجاز قبل از دوهفته از انسداد"
+
+msgid "Email Notification"
+msgstr "آگاهی از طریق پست الکترونیک"
+
+msgid "Enabled"
+msgstr "فعال"
+
+msgid "Maximum Simultaneous Logins"
+msgstr "ورود همزمان حداکثر"
+
+msgid "Maintenance Settings"
+msgstr "تنظیمات نگهداری"
+
+msgid "Website Suspended"
+msgstr "سایت موقتا تعطیل شده"
+
+msgid "Suspend Text"
+msgstr "متن تعطیل موقت"
+
+msgid "Notification Text"
+msgstr "متن آگاهی"
+
+msgid "Registrations Suspended"
+msgstr "ثبت نام موقتا غیرفعال است"
+
+msgid "Logins Suspended"
+msgstr "ورود به سایت موقتا غبرفعال است"
+
+msgid "Functionality Settings"
+msgstr "تنظیمات کارکردها"
+
+msgid "Ajax Paging"
+msgstr "صفحه بندی ای جکس"
+
+msgid "Blog Ping On New Posts"
+msgstr "در پستهای جدید ، وبلاگ نیز به روز گردد"
+
+msgid "Blog Ping Servers"
+msgstr "سرورهای وبلاگ که باید به روز گردند"
+
+msgid "Default Locale"
+msgstr "مکان فعلی"
+
+msgid "Minimum Password Length"
+msgstr "حداقل اندازه گذرواژه"
+
+msgid "Username Changes Disabled"
+msgstr "تغییر گذرواژه غیرفعال است"
+
+msgid "Avatars Disabled"
+msgstr "آواتار غیرفعال است"
+
+msgid "Avatars Size"
+msgstr "اندازه آواتار"
+
+msgid "Default Avatar URL"
+msgstr "نشانی  URL آواتار پیشفرض"
+
+msgid "Email Settings"
+msgstr "تنظیمات ایمیل"
+
+msgid "Use SMTP"
+msgstr "استفاده از سرور SMTP"
+
+msgid "Use SSL SMTP"
+msgstr "استفاده از سرور SSL SMTP"
+
+msgid "SMTP Host"
+msgstr "نشانی سرور SMTP"
+
+msgid "SMTP Port"
+msgstr "پورت سرور SMTP"
+
+msgid "SMTP Username"
+msgstr "شناسه SMTP"
+
+msgid "SMTP Password"
+msgstr "گذرواژه SMTP"
+
+msgid "PGP Encrypt"
+msgstr "PGP Encrypt"
+
+msgid "PGP Public Keys Directory"
+msgstr "PGP Public Keys Directory"
+
+msgid "PGP Binary"
+msgstr "PGP Binary"
+
+msgid "Comments Settings"
+msgstr "تنظیمات یادداشتها/نظرات"
+
+msgid "Moderated Comments"
+msgstr "نظرات تایید شده"
+
+msgid "Moderated Comments By Approval"
+msgstr "نظرات تایید شده پس از بررسی"
+
+msgid "Moderated Comments Pending Minutes"
+msgstr "نظرات منتظر تایید"
+
+msgid "jQuery Settings"
+msgstr "تنظیمات jQuery"
+
+msgid "Load Plugins"
+msgstr "فعالسازی افزونه"
+
+msgid "Load Admin Plugins"
+msgstr "فعالسازی افزونه مدیر"
+
+msgid "Disabled"
+msgstr "غیرفعال"
+
+msgid "Security Image Settings"
+msgstr "تنظیمات تصویر امنیتی"
+
+msgid "Code Length"
+msgstr "اندازه کد"
+
+msgid "Font"
+msgstr "قلم"
+
+msgid "Font Size"
+msgstr "اندازه قلم"
+
+msgid "Random Lines"
+msgstr "خطوط تصادفی"
+
+msgid "Foreground Color"
+msgstr "رنگ قلم"
+
+msgid "Background Color"
+msgstr "رنگ زمینه"
+
+msgid "Random Words"
+msgstr "کلمات تصادفی"
+
+msgid "Random Fonts"
+msgstr "قلمهای تصادفی"
+
+msgid "Admin Settings"
+msgstr "تنظیمات مدیر"
+
+msgid "Items Counter Enabled"
+msgstr "شمارنده فعال"
+
+msgid "Favorite Links Enabled"
+msgstr "پیوندهای دلخواه، فعال"
+
+msgid "Remove"
+msgstr "حذف"
+
+msgid "Get Help"
+msgstr "راهنما"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:98
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:453
+msgid "New Language"
+msgstr "زبان جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:102
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:37
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:91
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:156
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:31
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:35
+msgid "Pages / Posts"
+msgstr "صفحات/پست ها"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:105
+msgid "Blocks"
+msgstr "بلاک ها"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:111
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:45
+msgid "Title"
+msgstr "عنوان"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:116
+msgid "e.g. English"
+msgstr "مثلا: فارسی"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:119
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:39
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:74
+msgid "Path"
+msgstr "مسیر"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:126
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:128
+msgid "e.g. en"
+msgstr "مثلا: fa"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:131
+msgid "Locale Directory"
+msgstr "مسیر پرونده های ترجمه"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:138
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:140
+msgid "e.g. en_UK"
+msgstr "مثلا: fa_IR"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:143
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:45
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:240
+msgid "Additional Options"
+msgstr "سایر گزینه ها"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:148
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:287
+msgid "Default"
+msgstr "پیش گزیده"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:156
+msgid "Deactivated"
+msgstr "غیرفعال شده"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:165
+msgid "(marked with strike through)"
+msgstr "(بصورت خط خورده نمایش داده می شوند)"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:170
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:281
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:56
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:147
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:281
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:404
+msgid "Order"
+msgstr "ترتیب"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:217
+msgid "Languages have been successfully re-ordered."
+msgstr "زبانها با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:228
+msgid "Language has been successfully deleted."
+msgstr "زبانها با موفقیت حذف گردیدند."
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:245
+msgid "Language has been successfully updated."
+msgstr "زبانها با موفقیت به روز شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:247
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:264
+msgid "View Pages"
+msgstr "مشاهده صفحات"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:251
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:269
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:298
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:342
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:162
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:196
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:166
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:316
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:377
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:379
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:393
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:421
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:490
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:159
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:173
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:250
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:384
+msgid "Edit"
+msgstr "اصلاح"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:262
+msgid "Language has been successfully created."
+msgstr "زبان مورد نظر با موفقیت اضافه شد."
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:285
+msgid "Title / Path"
+msgstr "عنوان/مسیر"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:289
+msgid "Locale"
+msgstr "بومی سازی"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:300
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:349
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:164
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:203
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:411
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:534
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:318
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:384
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:423
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:507
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:252
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:391
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:448
+msgid "Delete"
+msgstr "حذف"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:325
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:548
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:553
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:558
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:339
+msgid "Yes"
+msgstr "بلی"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:359
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:213
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:576
+msgid "Reorder"
+msgstr "بازمرتب سازی"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:361
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:215
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:578
+msgid "Reset"
+msgstr "مقادیرپیشفرض"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:427
+msgid "Languages Administration"
+msgstr "مدیریت زیانها"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:452
+msgid "Edit Language"
+msgstr "اصلاح زبان"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:463
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:317
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:491
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:708
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:633
+msgid "Cancel"
+msgstr "انصراف"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:495
+msgid "No languages found. Default en_US will be used for translations (can be changed in Global Settings)."
+msgstr "هیچ زبانی پیدا نشد.زبان فارسی fa_IR بعنوان پیشفرض مورد استفاده قرار می گیرد."
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:575
+#, php-format
+msgid "Language couldn't be created! Error: %s"
+msgstr "زبان جدید ایجاد نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:623
+#, php-format
+msgid "Language couldn't be updated! Error: %s"
+msgstr "زبان مورد نظر به روز نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:30
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:149
+msgid "Value"
+msgstr "مقدار"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:37
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:153
+msgid "Selected"
+msgstr "انتخاب شده"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:50
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:151
+msgid "Alternative Title"
+msgstr "عنوان جایگزین/دوم"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:102
+msgid "Field values have been successfully re-ordered."
+msgstr "مقادیر فیلد با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:113
+msgid "Field value has been successfully deleted."
+msgstr "مقادیر فیلد با موفقیت حذف شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:127
+msgid "Field value has been successfully updated."
+msgstr "مقادبر فیلد با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:137
+msgid "Field value has been successfully created."
+msgstr "مقدار فیلد با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:277
+msgid "Field Values"
+msgstr "مقادیر فیلد"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:306
+msgid "Edit Field Value"
+msgstr "اصلاح مقدار فیلد"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:307
+msgid "New Field Value"
+msgstr "ایجاد مقدار فیلد جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:345
+msgid "No field values found."
+msgstr "هیچ مقدار فیلدی یافت نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:408
+#, php-format
+msgid "Field value couldn't be added! Error: %s"
+msgstr "مقدار فیلد اضافه نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:441
+#, php-format
+msgid "Field value couldn't be updated! Error: %s"
+msgstr "مقدار فیلد به روز نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:31
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:88
+msgid "Template Files"
+msgstr "پرونده های قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:105
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:153
+msgid "JS Editor"
+msgstr "ویرایشگر جاوا"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:43
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:97
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:165
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:401
+msgid "Template"
+msgstr "قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:51
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:85
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:150
+msgid "CSS Editor"
+msgstr "ویرایشگر سبک/ CSS"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:61
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:115
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:183
+msgid "Write access is required to access this area!"
+msgstr "برای دسترسی به این بخش باید حق نوشتن داشته باشید!"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:142
+msgid "New File"
+msgstr "پرونده جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:159
+msgid "Content Files"
+msgstr "پرونده های محتوایی"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:173
+msgid "Images"
+msgstr "تصاویر"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:222
+msgid "Upload Template"
+msgstr "ارسال قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:226
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:303
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:317
+msgid "View Website"
+msgstr "مشاهده سایت شما"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:232
+msgid "Template File"
+msgstr "پرونده قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:238
+msgid "e.g. template-name.tar.gz"
+msgstr "مثلا:  template-name.tar.gz"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:252
+msgid "Upload another template"
+msgstr "ارسال قالب دیگر"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:290
+msgid "Template has been successfully deleted."
+msgstr "قالب مورد نظر با موفقیت حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:301
+msgid "Template has been successfully activated."
+msgstr "قالب مورد نظر با موفقیت فعال گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:315
+msgid "Default template has been successfully reset for your website."
+msgstr "قالب پیشفرض با موفقیت بعنوان قالب سایت تنظیم شد."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:329
+msgid "Template has been successfully set for Admin section."
+msgstr "قالب مورد نظر با موفقیت برای قسمت مدیریت سایت انتخاب شد."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:331
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:345
+msgid "Refresh"
+msgstr "بازخوانی"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:343
+msgid "Default template has been successfully reset for Admin section."
+msgstr "قالب پیشفرض بعنوان قالب مدیر سایت انتخاب شد."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:357
+msgid "No template selected to be uploaded! Please select at least one template to upload."
+msgstr "هیچ قالبی برای ارسال انتخاب نشده است.لطفا دست کم یک قالب را انتخاب فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:379
+#, php-format
+msgid "There were problems uploading some of the templates you selected. The following templates couldn't be uploaded: %s."
+msgstr "در ارسال پرونده قالب خطای غیرمنتظره رویداده است.این خطا مربوط به قالب:  %s می باشد"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:389
+#, php-format
+msgid "Templates have been successfully uploaded. The following templates have been uploaded: %s."
+msgstr "پرونده قالب با موفقیت ارسال شد و هم اکنون قابل استفاده می باشد:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:452
+#, php-format
+msgid "by %s"
+msgstr "توسط:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:465
+msgid "Tags"
+msgstr "برچسبها"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:470
+msgid "Location"
+msgstr "محل"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:485
+msgid "Restore default template for your website"
+msgstr "بازگردانی قالب پیشفرض سایت"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:487
+msgid "Deactivate"
+msgstr "غیرفعال سازی"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:497
+msgid "Restore default template for Admin section"
+msgstr "بازگردانی قالب پیشفرض بخش مدیریت سایت"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:499
+msgid "Unset Admin"
+msgstr "لغو مدیریت"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:506
+msgid "Set template as default for Admin section"
+msgstr "تنظیم این قالب بعنوان قالب پیشفرض مدیریت"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:508
+msgid "Set Admin"
+msgstr "تنظیم مدیر"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:519
+msgid "Activate and set it as the current template for your website"
+msgstr "فعالسازی و انتخاب این قالب بعنوان قالب پیشفرض سایت"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:521
+msgid "Activate"
+msgstr "فعالسازی"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:617
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:623
+msgid "Template Administration"
+msgstr "مدیریت قالبها"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:629
+msgid "Below are the available templates found in the \"<b>template/</b>\" folder. To install a new template just extract it to the \"<b>template/</b>\" folder, or using the form below select the template package file (e.g. template-name.tar.gz)."
+msgstr "در فهرست زیر قالبهای موجود در پوشه  \"<b>template/</b>\"  سایت نمایش داده می شوند.شما می توانید پرونده های قالب خود را در این پوشه قرار داده و سپس از طریق همین بخش آنرا فعال نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:641
+msgid "Edit the CSS template file"
+msgstr "اصلاح پرونده CSS مربوط به قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:644
+msgid "Edit CSS File"
+msgstr "اصلاح پرونده CSS"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:651
+msgid "Edit the JavaScript template file"
+msgstr "اصلاح پرونده جاوااسکریپت قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:654
+msgid "Edit JS File"
+msgstr "اصلاح پرونده جاوااسکریپت"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:661
+msgid "Browse template Images"
+msgstr "نمایش تصاویر مربوط به قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:664
+msgid "Template Images"
+msgstr "تصاویر قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:673
+msgid "Browse and download more templates"
+msgstr "قالبهای بیشتری می خواهید؟ اینجا کلیک کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:676
+msgid "Get Templates"
+msgstr "دریافت قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:701
+msgid "Modify Activated Template"
+msgstr "تغییر/اصلاح قالب فعال"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:721
+msgid "Upload New Template"
+msgstr "ارسال قالب جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:767
+msgid "No installed templates found."
+msgstr "هیچ قالبی جهت استفاده نصب نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:795
+#, php-format
+msgid "Template couldn't be added! Error: %s"
+msgstr "قالب اضافه نشد.خطا: %s "
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:819
+#, php-format
+msgid "Template couldn't be updated! Error: %s"
+msgstr "قالب به روز نشده است.خطا: %s "
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:857
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:948
+msgid "Invalid or template installer script cannot be found."
+msgstr "پرونده نصب قالب پیدا نشد و یا قالب معتبر نیست."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:894
+#, php-format
+msgid "Template couldn't be deleted but it is now safe to be deleted manually by just simply removing the \"%s\" folder."
+msgstr "امکان حذف قالب وجود ندارد.توصیه می شود پوشه %s را بصورت دستی حذف فرمایید"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:915
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:997
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1023
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1045
+msgid "The template you selected cannot be found!"
+msgstr "قالب انتخاب شده پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1063
+msgid "Couldn't extract template as it is to big to be processed with the current memory limit set. Please try to extract it manually or increment the PHP memory limit."
+msgstr "امکان بازکردن پرونده قالب وجود ندارد.به نظر میرسد حجم این پرونده بیشتر از مقدار مجاز می باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1077
+msgid "Template couldn't be extracted! Error: Invalid template! Please make sure to upload a valid tar.gz template file."
+msgstr "امکان بازگشایی پرونده قالب وجود ندارد.به نظر می رسد این پرونده شامل پرونده های قالب نیست."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1090
+msgid "Template couldn't be extracted! Error: Empty template! The template you selected seems to be an empty tar.gz file."
+msgstr "امکان بازگشایی پرونده قالب وجود ندارد.این پرونده خالی است."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1106
+#, php-format
+msgid "Template couldn't be extracted! Error: \"%s\" directory couldn't be created."
+msgstr "امکان بازگشایی پرونده قالب وجود ندارد.خطا: امکان ایجاد پوشه  \"%s\" وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1126
+#, php-format
+msgid "Template couldn't be extracted! Error: \"%s\" file couldn't be created."
+msgstr "امکان بازگشایی پرونده قالب وجود ندارد.خطا: امکان ایجاد پرونده  \"%s\" وجود ندارد!"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1303
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:708
+msgid "Request can only be accessed by administrators!"
+msgstr "این درخواست تنها توسط مدیر سیستم قابل اجرا است."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1335
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1362
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1389
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:727
+msgid "You do not have permission to access this path!"
+msgstr "شما مجاز به دسترسی به این مسیر نمی باشید!"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:207
+#, php-format
+msgid "Query took %s seconds"
+msgstr "زمان اجرای درخواست: %s ثانیه"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:208
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:363
+msgid "SQL Error:"
+msgstr "خطای SQL:"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:309
+msgid "Could not establish a connection to the database."
+msgstr "امکان ارتباط با بانک اطلاعاتی وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:312
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:320
+msgid "Site Temporary Unavailable"
+msgstr "سایت بطور موقت در دسترس نیست"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:326
+#, php-format
+msgid "We are sorry for the inconvenience and appreciate your patience during this time. Please wait for a few minutes and <a href='%s'>try again</a>."
+msgstr "از اشکال ایجاد شده عذر می خواهیم و تقاضامندیم صبور بوده و با کلیک بر روی  <a href='%s'>تلاش مجدد</a> صبور باشید."
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:370
+msgid "Backtrace"
+msgstr "ردیابی"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:377
+msgid "SQL Error! Please contact site administrator or login to learn more about this error."
+msgstr "خطای SQL:لطفا با مدیر سیستم تماس بگیرید تا با کمک وی این مشکل را مرتفع نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:379
+msgid "SQL Error! Please contact site administrator."
+msgstr "خطای SQL: لطفا با مدیر سیستم تماس بگیرید."
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:392
+#, php-format
+msgid "(affected rows: %s)"
+msgstr "(رکوردها:  %s)"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:46
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:49
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:89
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:92
+msgid "e.g. admin/content/menuitems/1/posts"
+msgstr "مثلا:  admin/content/menuitems/1/posts"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:57
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:83
+msgid "Select path"
+msgstr "انتخاب مسیر"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:66
+msgid "Add another path"
+msgstr "مسیر دیگری اضافه کنید"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:96
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:307
+msgid "Permission"
+msgstr "مجوز"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:111
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:480
+msgid "New Permission"
+msgstr "مجوز جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:115
+msgid "Users"
+msgstr "کاربران"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:138
+msgid "Permission has been successfully deleted."
+msgstr "مجوزها با موفقیت حذف گردیدند."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:149
+msgid "No paths have been defined! Please define at least one path to set permission to."
+msgstr "هیچ مسیری تعریف نشده است.لطفا دست کم یک مسیر تعریف نموده و مجوز مناسب به آن تخصیص دهید."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:164
+msgid "Permission has been successfully updated."
+msgstr "مجوز با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:191
+#, php-format
+msgid "There were problems adding some of the permissions you defined. The following permissions couldn't be added: %s."
+msgstr "مشکلی در اضافه کردن مجوز مورد نظر رویداده است.مجوز وقابل اضافه نشده است: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:201
+#, php-format
+msgid "Permission(s) have been successfully added. The following permissions have been added: %s."
+msgstr "مجوز/ها با موفقیت اضافه شد.مجوز اضافه شده: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:213
+msgid "Available Sections"
+msgstr "بخشهای در دسترس"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:305
+msgid "Section / Path"
+msgstr "بخش/مسیر"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:359
+msgid "Unknown Section"
+msgstr "بخش نامشخص"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:436
+msgid "User Permissions"
+msgstr "مجوزهای دسترسی کاربر"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:442
+msgid "User will have full access to all paths (if marked as Admin) unless you define some paths below."
+msgstr "اگر کاربری بعنوان مدیر تعریف شده باشد ، به رغم تعریف مسیرهای زسر به تمامی مسیرهای دیگر نیز دسترسی کامل خواهد داشت."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:453
+msgid "You are not allowed to modify your own permissions!"
+msgstr "شما مجاز به تغییر مجوزهای خودتان نیستید!"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:479
+msgid "Edit Permission"
+msgstr "اصلاح مجوز"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:519
+msgid "No user permissions found."
+msgstr "هیچ مجوز کاربری پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:561
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:605
+#, php-format
+msgid "Permission to path \"%s\" already exists."
+msgstr "قبلا مجوز دسترسی به مسیر  \"%s\" وجود دارد."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:578
+#, php-format
+msgid "Permission couldn't be set! Error: %s"
+msgstr "مجوز قابل تخصیص نیست.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:621
+#, php-format
+msgid "Permission couldn't be updated! Error: %s"
+msgstr "مجوز به روز نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:648
+msgid "Read"
+msgstr "خواندن"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:650
+msgid "Write"
+msgstr "نوشتن"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:652
+msgid "Undefined!"
+msgstr "نامشخص"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:24
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:698
+msgid "New Field"
+msgstr "فیلد جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:28
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:32
+msgid "Forms"
+msgstr "فرمها"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:52
+msgid "Type"
+msgstr "نوع"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:120
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:408
+msgid "Value Type"
+msgstr "نوع مقدار"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:152
+msgid "Value Options"
+msgstr "تنظیمات مقدار"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:157
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:517
+msgid "Field Name"
+msgstr "نام فیلد"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:164
+msgid "Value(s)"
+msgstr "مقادیر"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:172
+msgid "Enter one value per line. Values can also have two arguments if required (title and value), for e.g. \"Tech Department = tech@domain.com\". To have a value preselected as the default mark it with an asterisk (*), for e.g. \"*Tech Deparment\""
+msgstr "هر مقدار در خط جدید وارد شود.مثلا:  \"Tech Department = tech@domain.com\" برای مقدار پیشفرض یک ستاره * به ابتدای آن بیافزایید مثلا:  \"*Tech Deparment\""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:186
+msgid "Display Options"
+msgstr "تنظیمات نمایش"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:191
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:537
+msgid "Style"
+msgstr "سبک/استایل"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:198
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:532
+msgid "Additional Text"
+msgstr "متن الحاقی"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:205
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:522
+msgid "Placeholder Text"
+msgstr "متن برای Placeholder"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:211
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:527
+msgid "Tooltip Text"
+msgstr "متن Tooltip"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:219
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:542
+msgid "Viewable by"
+msgstr "قابل مشاهده برای"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:245
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:547
+msgid "Required"
+msgstr "الزامی"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:254
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:552
+msgid "Searchable"
+msgstr "قابل نمایش در جستجو"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:262
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:557
+msgid "Data Preview"
+msgstr "پیش نمایش داده"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:270
+msgid "(field will be used as preview when browsing saved data)"
+msgstr "(فیلد بعنوان پیش نمایش زمان مشاهده داده ها بکار می رود)"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:275
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:562
+msgid "Attributes"
+msgstr "ویژگیها"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:322
+msgid "You are NOT allowed to delete a protected field!"
+msgstr "شما مجاز به حذف فیلدهای حفاظت شده نیستید"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:341
+msgid "Fields have been successfully re-ordered."
+msgstr "فیلدها با موفقیت بازمرتب سازی شدند"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:352
+msgid "Field has been successfully deleted."
+msgstr "فبلد با موفقیت حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:377
+msgid "Field has been successfully updated."
+msgstr "فیلد با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:390
+msgid "Field has been successfully created."
+msgstr "فیلد با موفقیت ایجاد گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:406
+msgid "Title / Type"
+msgstr "عنوان/نوع"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:415
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:465
+msgid "Values"
+msgstr "مقادیر"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:498
+msgid "Protected Field"
+msgstr "فیلد حفاظت شده"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:500
+msgid "Protected"
+msgstr "حفاظت شده"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:658
+msgid "Form Fields"
+msgstr "فیلدهای فرم"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:688
+msgid "Form couldn't be found!"
+msgstr "فرم پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:697
+msgid "Edit Field"
+msgstr "اصلاح فیلد"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:729
+msgid "Preview Dynamic Form"
+msgstr "پیش نمایش فرم پویا"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:752
+msgid "No form fields found."
+msgstr "هیچ فیلد فرمی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:794
+msgid "Field for the storage table couldn't be added. Please see the SQL error above and report it to webmaster."
+msgstr "فیلد مورد نظر در بانک اطلاعاتی ذخیره نشد.خطای SQL را به مدیر سیستم گزارش دهید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:873
+#, php-format
+msgid "Field couldn't be created! Error: %s"
+msgstr "فیلد مورد نظر ایجاد نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:898
+msgid "Field for the storage table couldn't be edited. Please see the SQL error above and report it to webmaster."
+msgstr "فیلد در بانک اطلاعاتی ذخیره نشد.لطفا خطای SQL را به مدیر سیستم گزارش دهید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:964
+#, php-format
+msgid "Field couldn't be updated! Error: %s"
+msgstr "امکان به روز رسانی فیلد وجود ندارد.خطا:%s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1077
+msgid "Field selected to be edited doesn't exist!"
+msgstr "فیلد انتخاب شده جهت اصلاح ، وجود ندارد!"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1225
+msgid "Admins Only"
+msgstr "ویژه مدیر"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1227
+msgid "Guests"
+msgstr "مهمانان"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1229
+msgid "Members"
+msgstr "اعضاء"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1231
+msgid "Everyone"
+msgstr "هرکسی"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:53
+msgid "Installing files"
+msgstr "در حال نصب پرونده ها"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:69
+msgid "Running SQL Queries"
+msgstr "در حال اجرای دستورات SQL"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:83
+msgid "Couldn't update template.css file."
+msgstr "امکان به روز رسانی template.css وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:84
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:91
+#, php-format
+msgid "Please make sure \"%s\" is writable by me or contact webmaster."
+msgstr "لطفا مطمئن شوید مسیر \"%s\" قابل نوشتن باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:90
+msgid "Couldn't update template.js file."
+msgstr "امکان به روز رسانی پرونده template.js وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:126
+msgid "Activating Module"
+msgstr "در حال فعالسازی افزونه"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:134
+msgid "Module has been successfully installed."
+msgstr "افزونه مورد نظر با موفقیت نصب شد."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:136
+msgid "View Module"
+msgstr "مشاهده افزونه"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:144
+msgid "No SQL queries to run."
+msgstr "هیچ دستور SQL جهت اجرا وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:150
+msgid "No files to install."
+msgstr "هیچ پرونده ای جهت نصب وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:169
+msgid "Success"
+msgstr "موفقیت آمیز"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:170
+msgid "Error"
+msgstr "خطا"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:180
+msgid "This module needs to be installed before it can be used."
+msgstr "جهت استفاده از این افزونه ابتدا باید آنرا نصب کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:187
+msgid "Install Module"
+msgstr "نصب افزونه"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:193
+msgid "Module Installation"
+msgstr "نصب افزونه"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:28
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:619
+msgid "New Data"
+msgstr "داده جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:102
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:113
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:124
+msgid "Data has been successfully deleted."
+msgstr "داده مورد نظر با موفقیت حذف شد."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:157
+msgid "Data has been successfully updated."
+msgstr "داده مورد نظر با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:170
+msgid "Data has been successfully added."
+msgstr "داده مورد نظر با موفقیت اضافه شد."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:191
+msgid "ID"
+msgstr "ID"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:340
+msgid "No"
+msgstr "شماره"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:440
+msgid "search..."
+msgstr "جستجو..."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:442
+msgid "Search"
+msgstr "جستجو"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:451
+msgid "Delete All"
+msgstr "حذف همگی"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:534
+msgid "Data"
+msgstr "داده"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:579
+msgid "You are NOT allowed to access form data!"
+msgstr "شما مجاز به مشاهده داده های فرم ها نیستید!"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:588
+msgid "You should be automatically redirected to browse form data, if for some reason you aren't please click the \"Browse Data\" button below."
+msgstr "لطفا صبور باشید.تا لحطاتی دیگر به صفحه مشاهده اطلاعات هدایت می شوید.اگر نمی خواهید صبر کنید بر روی دکمه  \"مشاهده اطلاعات\" کلیک فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:595
+msgid "Browse Data"
+msgstr "مشاهده اطلاعات"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:609
+msgid "No SQL Table defined for this form."
+msgstr "هیچ جدول داده ای برای این فرم ساخته نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:618
+msgid "Edit Data"
+msgstr "اصلاح داده"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:674
+msgid "No data found."
+msgstr "هیچ داده ای پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:755
+#, php-format
+msgid "Could not save data to the DB! Error: %s"
+msgstr "امکان ذخیره اطلاعات در بانک اطلاعاتی وجود ندارد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:818
+#, php-format
+msgid "Could not update DB data! Error: %s"
+msgstr "امکان به روز رسانی بانک اطلاعاتی وجود ندارد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:213
+#, php-format
+msgid "Email couldn't be sent. Please try again or send your email <a href='mailto:%s'>manually</a>."
+msgstr "امکان ارسال ایمیل وجود ندارد.می توانید بصورت دستی با کلیک بر <a href='mailto:%s'>ارسال دستی</a> اینکار را انجام دهید."
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:247
+msgid "Couldn't send email using SMTP as SMTP Host and/or SMTP Port are not defined! Please go to your administration panel and in the Global Settings define both required values."
+msgstr "امکان ارسال ایمیل با استفاده از پروتوکول SMTP وجود ندارد.لطفا تنظیمات مربوطه را در سایت بررسی فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:277
+#, php-format
+msgid "SMTP connection couldn't be established. %s"
+msgstr "امکان ارتباط با سرویس دهنده SMTP وجود ندارد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:347
+msgid "Connection broken up. Please make sure to define the right SMTP port, 465 for SSL and 25 for normal connections."
+msgstr "ارتباط دچار قطعی/شکست گردیده است.ممکن است پورت 465 بسته شده باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:351
+#, php-format
+msgid "SMTP error: %s"
+msgstr "خطای SMTP:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:367
+msgid "Couldn't encrypt email as PGP Public Keys directory and/or PGP Binary file are not defined! Please go to your administration panel and in the Global Settings define both required values."
+msgstr "امکان رمزگذاری ایمیل وجود ندارد.تنظیمات کلید PGP را بررسی فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:389
+#, php-format
+msgid "Email couldn't be encrypted! Please make sure you have the right paths set for the PGP binary and public key files. %s"
+msgstr "امکان رمزگذاری ایمیل وجود ندارد.خطا در رمزگذاری با کلید PGP: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/url.class.php:479
+msgid "Searching for"
+msgstr "در حال جستجو برای"
+
+#: /home/julius/workspace/jcore/lib/sources/url.class.php:517
+msgid "clear"
+msgstr "پاکسازی"
+
+#: /home/julius/workspace/jcore/lib/sources/url.class.php:526
+msgid "Your search returned no results. Please make sure all words are spelled correctly or try fewer keywords by clicking on them to remove."
+msgstr "جستجوی شما هیچ نتیجه ای در بر نداشته است.می توانید واژه های دیگری را امتحان کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:39
+msgid "Only registered users can rate."
+msgstr "تنها کاربران عضو امکان امتیاز دهی دارند."
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:55
+#, php-format
+msgid "You already rated this %s."
+msgstr "شما قبلا به  %s امتیاز داده اید."
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:75
+#, php-format
+msgid "Rating couldn't be stored! Error: %s"
+msgstr "امکان ثبت امتیاز وجود ندارد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:97
+msgid "Thank you for your vote."
+msgstr "از اینکه در نظرسنجی ما شرکت فرمودید سپاسگذاریم."
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:135
+#, php-format
+msgid "Your vote: %s (votes: %s, average: %s out of %s)"
+msgstr "رای شما: %s (کل آرا: %s, میانگین: %s از %s)"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:46
+msgid "More Settings"
+msgstr "سایر تنظیمات"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:75
+msgid "Brute Force Protection has been turned ON."
+msgstr "سیستم حفاظت از Brute Force فعال می باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:81
+msgid "Brute Force Protection has been turned OFF."
+msgstr "سیستم حفاظتی Brute Force غیر فعال می باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:92
+msgid "Password Trading Protection has been turned ON."
+msgstr "سیستم حفاظتی Password Trading فعال می باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:98
+msgid "Password Trading Protection has been turned OFF."
+msgstr "سیستم حفاظتی Password Trading فعال نمی باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:109
+#, php-format
+msgid "IP \"%s\" has been successfully removed from the list."
+msgstr "IP \"%s\"  بطور موفق از لیست سیاه حذف شد."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:122
+#, php-format
+msgid "User \"%s\" has been successfully removed from the list."
+msgstr "کاربر \"%s\" از لیست سیاه حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:133
+msgid "IP"
+msgstr "IP"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:135
+msgid "Usernames used"
+msgstr "شناسه های کاربری استفاده شده"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:137
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:277
+msgid "Expires on"
+msgstr "انقضاء در"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:183
+msgid "For additional brute force protection settings please see"
+msgstr "برای مشاهده تنظیمات سیستم حفاظت از Brute Force به پیوند مقابل رجوع کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:186
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:331
+msgid "Global Settings"
+msgstr "تنظیمات سراسری"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:234
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:379
+msgid "Turn Protection On/Off"
+msgstr "فعال/غیر فعال سازی سیستم حفاظت"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:242
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:387
+msgid "Turn OFF"
+msgstr "خاموش"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:243
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:388
+msgid "Turn ON"
+msgstr "روشن"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:251
+msgid "Brute Force Protection"
+msgstr "سیستم حفاظت از Brute Force"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:254
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:399
+msgid "ON"
+msgstr "روشن"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:255
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:400
+msgid "OFF"
+msgstr "خاموش"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:263
+msgid "The logged IP adresses in the list below have been banned (because trying to login with different users in a short time) and won't be able to login until expiration date / time. To unban an IP just delete it from the list."
+msgstr "آی پی های موجود در لیست سیاه زیر امکان دسترسی به سایت را نخواهند داشت.شما می توانید آی پی مورد نظر را بیافزایید و یا حذف کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:273
+msgid "User"
+msgstr "کاربر"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:275
+msgid "IPs used"
+msgstr "آی پی های استفاده شده"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:328
+msgid "For additional password trading protection settings please see"
+msgstr "برای مشاهده تنظیمات بیشتر سیستم حفاظت از Password Trading پیوند مقابل را ببینید."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:396
+msgid "Password Trading Protection"
+msgstr "سیستم حافظت از Password Trading"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:408
+msgid "The logged Users in the list below have been suspended (because of simultaneously logins from different IPs) and won't be able to login until expiration date / time. To unsuspend a user just delete it from the list."
+msgstr "کاربران موجود در لیست سیاه زیر امکان دسترسی به سایت را ندارند.شما می توانید کاربر مورد نظر را اضافه و یا حذف کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:417
+msgid "Security Alerts Administration"
+msgstr "مدیریت اخطارهای امنیتی"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:466
+msgid "No brute force attempts have been logged."
+msgstr "هیچ تلاش ضد امنیتی از نوع Brute Force تا کنون روی نداده است."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:496
+msgid "No password trading attempts have been logged."
+msgstr "هیچ تلاش ضد امنیتی از نوع Password Trading تابحال روی نداده است."
+
+#: /home/julius/workspace/jcore/lib/sources/gdata.class.php:28
+#, php-format
+msgid "Couldn't connect to %s!"
+msgstr "امکان برقراری ارتباط با %s وجود ندارد!"
+
+#: /home/julius/workspace/jcore/lib/sources/gdata.class.php:64
+#, php-format
+msgid "GData auth token couldn't be exchanged! Result: %s"
+msgstr "GData auth token قادر به تبادل اطلاعات نمی باشد.نتیجه: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/gdata.class.php:88
+#, php-format
+msgid "GData auth token has been successfully retrieved. <br /><b>Your new GData auth token is: %s</b>"
+msgstr "GData auth بطور موفق بازیابی گردید.<br /> GData auth token جدید شما عبارتست از:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:46
+msgid "Post has been successfully deleted."
+msgstr "پست مورد نظر با موفقیت حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:57
+msgid "No posts selected! Please select at least one post that you would like to copy and/or move."
+msgstr "هیچ پستی انتخاب نشده است.لطفا دست کم یک پست را انتخاب فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:66
+msgid "No menu selected to copy and/or move posts to! Please select a menu to move the posts to at the bottom of the list."
+msgstr "هیچ منویی برای کپی/انتقال انتخاب نشده است.لطفا دست کم یک منو را انتخاب فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:79
+msgid "The menu you have selected to copy and/or move posts to does not exists. This could be happening because the menu has been deleted meanwhile."
+msgstr "منوی انتخاب شده برای عملیات کپی/انتقال وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:94
+#, php-format
+msgid "Posts have been successfully moved over to \"%s\"."
+msgstr "پستها با موفقیت منتقل شد به: \"%s\""
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:107
+#, php-format
+msgid "Posts have been successfully copied over to \"%s\"."
+msgstr "پستها با موفقیت کپی شدند به: \"%s\""
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:121
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:76
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:118
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:143
+msgid "Display On All Pages"
+msgstr "نمایش همه صفحات روشن"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:144
+msgid "On All Pages"
+msgstr "در همه صفحات"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:145
+msgid "Display On Main Page"
+msgstr "نمایش در صفحه اصلی"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:146
+msgid "On Main Page"
+msgstr "در صفحه اصلی"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:196
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:662
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1737
+#, php-format
+msgid "%s views"
+msgstr "%s بازدید"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:256
+msgid "Copy / Move selected posts to:"
+msgstr "کپی/انتقال پستهای انتخاب شده به:"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:295
+msgid "Copy"
+msgstr "کپی"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:297
+msgid "Move"
+msgstr "انتقال"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:411
+msgid "Handling Posts"
+msgstr "مدیریت پستها"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:464
+msgid "No posts found."
+msgstr "هیج پستی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:493
+#, php-format
+msgid "Post couldn't be copied! Error: %s"
+msgstr "پست مورد نظر کپی نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:592
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:612
+#, php-format
+msgid "Post couldn't be moved! Error: %s"
+msgstr "پست مورد نظر منتقل نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:318
+msgid "New Link"
+msgstr "پیوند جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:48
+msgid "Link"
+msgstr "پیوند"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:118
+msgid "Links have been successfully re-ordered."
+msgstr "پیوندها با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:129
+msgid "Link has been successfully deleted."
+msgstr "پیوندهای مورد نظر با موفقیت حذف شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:143
+msgid "Link has been successfully updated."
+msgstr "پیوندهای مورد نظر با موفقیت به روز شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:156
+msgid "Link has been successfully created."
+msgstr "پیوند مورد نظر با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:172
+msgid "Title / Link"
+msgstr "عنوان/پیوند"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:292
+msgid "Favorite Links Administration"
+msgstr "مدیریت پیوندهای مورد علاقه"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:317
+msgid "Edit Link"
+msgstr "اصلاح پیوند"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:356
+msgid "No links found."
+msgstr "هیچ پیوندی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:418
+#, php-format
+msgid "Link couldn't be added! Error: %s"
+msgstr "پیوند ایجاد نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:451
+#, php-format
+msgid "Link couldn't be updated! Error: %s"
+msgstr "پیوند به روز نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:43
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:587
+msgid "Folder couldn't be created."
+msgstr "پوشه ایجاد نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:52
+msgid "Folder has been successfully created."
+msgstr "پوشه مورد نظر با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:74
+msgid "File / Folder couldn't be deleted."
+msgstr "پرونده/پوشه مورد نظر حذف نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:83
+msgid "File / Folder has been successfully deleted."
+msgstr "پرونده/پوشه مورد نظر با موفقیت حذف شد."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:94
+msgid "No file selected to be uploaded! Please select at least one file to upload."
+msgstr "پرونده ای جهت ارسال انتخاب نشده است.لطفا دست کم یک پرونده را انتخاب کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:109
+msgid "File / Folder couldn't be renamed."
+msgstr "پرونده/پوشه مورد نظر تغییر نام داده نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:118
+msgid "File / Folder has been successfully renamed."
+msgstr "نام پرونده/پوشه مورد نظر با موفقیت تغییر یافت."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:141
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:556
+#, php-format
+msgid "There were problems uploading some of the files you selected. The following files couldn't be uploaded: %s."
+msgstr "دست کم یکی از پرونده های مورد نظر ، ارسال نشده است.این پرونده عبارتست از:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:151
+#, php-format
+msgid "Files have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "پرونده های مورد نظر با موفقیت ارسال شدند.نام این پرونده ها:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:179
+msgid "No file selected to download!"
+msgstr "هیچ پرونده ای برای دانلود وجود ندارد!"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:219
+msgid "Folder name"
+msgstr "نام پوشه"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:234
+msgid "File / Folder name"
+msgstr "نام پرونده/پوشه"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:243
+msgid "File to upload"
+msgstr "پرونده مورد نظر برای ارسال"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:261
+msgid "Upload another file"
+msgstr "ارسال یک پرونده دیگر"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:282
+msgid "Size"
+msgstr "اندازه"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:301
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:343
+#, php-format
+msgid "Change directory to %s"
+msgstr "تغییر نام پوشه به  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:319
+#, php-format
+msgid "Preview %s"
+msgstr "پیش نمایش  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:328
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:365
+#, php-format
+msgid "Download %s"
+msgstr "دانلود  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:354
+#, php-format
+msgid "Link to %s"
+msgstr "پیوند به  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:503
+msgid "Root Path not defined!"
+msgstr "مسیر ریشه تعریف نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:517
+msgid "New Folder"
+msgstr "پوشه جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:533
+msgid "Edit File / Folder"
+msgstr "اصلاح پرونده/پوشه"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:635
+msgid "No files / directories found."
+msgstr "هیچ پرونده/پوشه ای پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:72
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:822
+msgid "New Picture"
+msgstr "تصویر جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:91
+msgid "Upload a new picture"
+msgstr "ارسال تصویر جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:96
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:134
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:152
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:580
+msgid "Picture"
+msgstr "تصویر"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:103
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:105
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:140
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:142
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:241
+msgid "e.g. image.jpg, image.gif"
+msgstr "مثلا: image.jpg, image.gif"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:119
+msgid "Upload another picture"
+msgstr "ارسال یک تصویر دیگر"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:147
+msgid "Already uploaded picture"
+msgstr "این تصویر قبلا ارسال شده است"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:163
+msgid "Existing Picture (URL)"
+msgstr "تصویر موجود-URL:"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:167
+msgid "e.g. http://domain.com/image.jpg"
+msgstr "مثلا: http://domain.com/image.jpg"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:177
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:201
+msgid "No Thumbnail"
+msgstr "فاقد تصویر بندانگشتی"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:185
+msgid "Thumbnail Options"
+msgstr "تنظیمات تصاویر بندانگشتی"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:191
+msgid "Regenerate"
+msgstr "تولید مجدد"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:197
+msgid "(create a new thumbnail)"
+msgstr "(ایجاد تصویر بندانگشتی جدید)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:207
+msgid "(do not generate thumbnail)"
+msgstr "(تصویر بندانگشتی ساخته نشود)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:210
+msgid "No Sharpen"
+msgstr "واضح نشده"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:216
+msgid "(do not apply sharpen effect to thumbnail)"
+msgstr "(جلوه وضوح برای تصاویر بندانگشتی اعمال نشود)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:219
+msgid "Width"
+msgstr "عرض"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:228
+msgid "Height"
+msgstr "ارتفاع"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:237
+msgid "Custom"
+msgstr "سفارشی"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:251
+msgid "Watermark Options"
+msgstr "تنظیمات سایه گذاری"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:256
+msgid "No Watermark"
+msgstr "(سایه اعمال نشود)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:262
+msgid "(do not add watermark)"
+msgstr "(سایه اشافه نشود)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:265
+msgid "Position"
+msgstr "موقعیت"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:271
+msgid "e.g. 100% 100% (right-bottom), 0% 0% (left-top)"
+msgstr "مثلا:  100% 100% (right-bottom), 0% 0% (left-top)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:285
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:674
+msgid "Link to URL"
+msgstr "پیوند به URL"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:292
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:294
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:299
+msgid "e.g. http://domain.com"
+msgstr "مثلا: http://domain.com"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:297
+msgid "Uploaded on"
+msgstr "ارسال شده در"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:351
+msgid "Pictures have been successfully re-ordered."
+msgstr "تصاویر با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:362
+msgid "Picture has been successfully deleted."
+msgstr "تصاویر با موفقیت حذف شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:376
+msgid "No file selected to be uploaded as a new picture! Please select a file / picture to upload or define an already uploaded picture."
+msgstr "هیچ پرونده ای برای ارسال انتخاب نشده است.لطفا دست کم یک پرونده/تصویر انتخاب فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:441
+msgid "Thumbnail couldn't be updated as the selected picture cannot be found!"
+msgstr "تصویر بند انگشتی بدلیل عدم وجود پرونده تصویری اصلی ایجاد نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:467
+msgid "Picture has been successfully updated."
+msgstr "تصویر با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:494
+msgid "Picture has been successfully added."
+msgstr "تصویر با موفقیت اضافه شد."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:566
+#, php-format
+msgid "Picture(s) have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "تصاویر مورد نظر با موفقیت ارسال شدند.این تصاویر عبارتند از: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:582
+msgid "Details"
+msgstr "جزییات"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:667
+msgid "Dimension"
+msgstr "ابعاد"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:670
+msgid "Thumbnail"
+msgstr "بندانگشتی"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:785
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1809
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:604
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1671
+msgid "Storage table not defined."
+msgstr "جدول ذخیره تعریف نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:821
+msgid "Edit Picture"
+msgstr "اصلاح تصویر"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:869
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:706
+#, php-format
+msgid "No %s found for this %s."
+msgstr "تعداد %s برای %s پیدا شد."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:996
+#, php-format
+msgid "Picture couldn't be created! Error: %s"
+msgstr "امکان ایجاد تصویر وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1053
+#, php-format
+msgid "Picture couldn't be updated! Error: %s"
+msgstr "تصویر به روز نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1269
+msgid "Thumbnail couldn't be created!"
+msgstr "تصویر بند انگشتی ایجاد نشده است.خطا"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1300
+msgid "Couldn't create thumbnail as the defined picture is to big to be processed with the current memory limit set. Please try to upload a smaller image instead."
+msgstr "امکان ایجاد تصویر بند انگشتی بدلیل اندازه بالای پرونده ارسال شده وجود ندارد.لطفا پرونده را حذف و با سایز کوچکتر ، مجددا ارسال فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1395
+msgid "Thumbnail couldn't be regenerated as the selected picture cannot be found!"
+msgstr "امکان ایجاد تصویر بند انگشتی بدلیل عدم وجود پرونده تصویر ، وجود ندارد: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1424
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file cannot be found!"
+msgstr "امکان ایجاد جلوه سایه وجود ندارد چرا که پرونده تصویری وجود ندارد: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1435
+msgid "Couldn't add watermark to picture as the picture is to big to be processed with the current memory limit set. Please try to upload a smaller image instead."
+msgstr "امکان ایجاد جلوه سایه بدلیل محدودیهای تنظیم شده برای سایت شما توسط مدیر سیستم وجود ندارد!"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1455
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file is not a compatible image file! Please try again by uploading a JPEG file instead."
+msgstr "امکان ایجاد جلوه سایه بدلیل غیر استاندارد بودن نوع پرونده تصویری وجود ندارد: %s . لطفا پرونده ای از نوع JPEG را ارسال فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1494
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file is not a compatible image file! Please try again by defining a JPEG or PNG watermark file."
+msgstr "امکان ایجاد جلوه سایه بدلیل غیر استاندارد بودن نوع پرونده تصویری وجود ندارد: %s . لطفا پرونده ای از نوع JPEG را ارسال فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1640
+msgid "No picture selected to download!"
+msgstr "هیچ تصویری برای دانلود انتخاب نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1652
+msgid "The selected picture cannot be found!"
+msgstr "تصویر انتخاب شده پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1664
+#, php-format
+msgid "Picture \"%s\" cannot be found!"
+msgstr "تصویر: \"%s\"  پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:79
+msgid "Last page"
+msgstr "آخرین صفحه"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:86
+msgid "Next page"
+msgstr "صفحه بعد"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:102
+#, php-format
+msgid "Page (%s)"
+msgstr "صفحه: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:118
+msgid "Previous page"
+msgstr "صفحه قبلی"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:125
+msgid "First page"
+msgstr "اولین صفحه"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:131
+msgid "Pages"
+msgstr "صفحه"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:114
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:654
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1695
+msgid "New Comment"
+msgstr "نظر جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:124
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1304
+msgid "Nickname"
+msgstr "نام مستعار"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:133
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1313
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:683
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:221
+msgid "Email"
+msgstr "پست الکترونیک"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:140
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:360
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1327
+msgid "Comment"
+msgstr "نظر"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:147
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1355
+msgid "In Reply To"
+msgstr "در پاسخ به"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:227
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:274
+msgid "Comments have been successfully deleted."
+msgstr "نظرات مورد نظر با موفقیت حذف گردیدند."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:237
+msgid "No comment selected! Please select at least one comment."
+msgstr "هیچ نظری انتخاب نشده است.دست کم یک نظر را انتخاب فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:250
+msgid "Comments have been successfully declined and are now NOT visible to the public."
+msgstr "نظرات مورد نظر رد شده و قابل مشاهده توسط بازدیدکنندگان نمی باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:262
+msgid "Comments have been successfully approved and are now visible to the public."
+msgstr "نظرات مورد نظر تایید شده و هم اکنون قابل مشاهده توسط بازدید کنندگان می باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:286
+msgid "Comment has been successfully declined and is now NOT visible to the public."
+msgstr "نظر مورد نظر رد شده و قابل مشاهده توسط بازدیدکنندگان نمی باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:298
+msgid "Comment has been successfully approved and is now visible to the public."
+msgstr "نظر مورد نظر تایید شده و هم اکنون قابل مشاهده توسط بازدید کنندگان می باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:310
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1162
+msgid "Comment has been successfully deleted."
+msgstr "نظر مورد نظر بطور موفق حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:324
+msgid "Comment has been successfully updated."
+msgstr "نظر مورد نظر بطور موفق به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:337
+msgid "Comment has been successfully created."
+msgstr "نظر مورد نظر با موفقیت ثبت گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:358
+msgid "Posted By"
+msgstr "ارسال شده توسط"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:372
+msgid "Approved"
+msgstr "تایید شده"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:466
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:520
+msgid "Approve"
+msgstr "تایید"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:475
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:522
+msgid "Decline"
+msgstr "رد"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:653
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1398
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1404
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1417
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1709
+msgid "Edit Comment"
+msgstr "اصلاح نظر"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:774
+msgid "Comment already posted!"
+msgstr "این نظر قبلا ارسال و ثبت شده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:810
+#, php-format
+msgid "Comment couldn't be added! Error: %s"
+msgstr "امکان ثبت این نظر وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:915
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1012
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1033
+#, php-format
+msgid "Comment couldn't be updated! Error: %s"
+msgstr "امکان به روز رسانی این نظر وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1058
+msgid "Comment does not exist!"
+msgstr "نظر مورد نظر وجود ندارد!"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1068
+msgid "You cannot rate your own comments!"
+msgstr "شما نمی توانید به نظر خود امتیاز بدهید!"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1084
+msgid "You already rated this comment."
+msgstr "شما قبلا به این نظر امتیاز داده اید."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1131
+msgid "Thank you for rating this comment."
+msgstr "از اینکه به این نظر امتیاز دادید سپاسگذاریم."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1152
+msgid "Only administrators can delete comments."
+msgstr "تنها مدیر امکان حذف نظرات را دارد."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1185
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1383
+msgid "Selected comment cannot be found!"
+msgstr "نظر مورد نظر پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1195
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1393
+msgid "You can only edit your own comments."
+msgstr "شما تنها قادر به اصلاح نظر های خود می باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1204
+msgid "Your comment has been successfully updated."
+msgstr "نظر مورد نظر با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1217
+msgid "Thank you for your comment."
+msgstr "از ارسال نظر توسط شما سپاسگذاریم."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1318
+msgid "(optional, used only for receiving Notification on replies and for the <a href='http://gravatar.com' target='_blank' rel='nofollow'>Avatar</a>)"
+msgstr "(اختیاری:تنها در صورتیکه تمایل دارید سایر نظرات و پاسخها را از طریق ایمیل دریافت نمایید. <a href='http://gravatar.com' target='_blank' rel='nofollow'>آواتار</a>)"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1335
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:723
+msgid "Verification code"
+msgstr "کد انتطباق"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1344
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1479
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1775
+msgid "Only registered users can comment."
+msgstr "تنها کاربران عضو مجاز به درج نظر می باشند."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1349
+msgid "Quick Reply"
+msgstr "پاسخ سریع"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1364
+msgid "Submit Reply"
+msgstr "ثبت پاسخ"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1436
+msgid "Delete comment and all it's subcomments"
+msgstr "این نظر و تمامی پاسخهای آنرا حذف کن"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1454
+msgid "Edit this comment"
+msgstr "اصلاح این نظر"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1469
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1480
+msgid "Reply to this comment"
+msgstr "پاسخ به این نظر"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1471
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1482
+msgid "Reply"
+msgstr "پاسخ"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1502
+msgid "Vote Up"
+msgstr "ارتقای رای"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1510
+msgid "Vote Down"
+msgstr "کاهش رای"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1532
+msgid "Will be visible to the public once approved."
+msgstr "پس از تایید قابل مشاهده توسط سایرین خواهد بود."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1534
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1549
+msgid "Pending"
+msgstr "منتظرتایید"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1546
+#, php-format
+msgid "Will be visible to the public in %s minutes."
+msgstr "طی %s دقیقه آینده قابل مشاهده برای سایرین خواهد بود."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1692
+#, php-format
+msgid "Reply To comment #%s"
+msgstr "پاسخ به نظر #%s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1694
+#, php-format
+msgid "Edit comment #%s"
+msgstr "اصلاح نظر #%s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1700
+msgid "Reply To"
+msgstr "پاسخ به"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1717
+msgid "You can use some HTML tags, such as &lt;b&gt;, &lt;i&gt;, &lt;a&gt;, &lt;em&gt;, &lt;blockquote&gt;, &lt;code&gt;"
+msgstr "شما می توانید از تگ های HTML نیز استفاده کنید مانند:  &lt;b&gt;, &lt;i&gt;, &lt;a&gt;, &lt;em&gt;, &lt;blockquote&gt;, &lt;code&gt;"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1727
+msgid "Cancel Reply"
+msgstr "لغو پاسخ"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1736
+msgid "Cancel Edit"
+msgstr "لغو اصلاح"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1750
+msgid "Comments"
+msgstr "نظرات"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1756
+msgid "No comments yet."
+msgstr "هیچ نظری تاکنون داده نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:231
+msgid "Enter the code shown on the right"
+msgstr "لطفا کد نمایش داده شده را وارد کنید:"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:253
+msgid "Security Image"
+msgstr "تصویر امنیتی"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:258
+msgid "Reload"
+msgstr "کد جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:284
+msgid "e.g. user@domain.com"
+msgstr "مثلا:  user@domain.com"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:287
+msgid "e.g. 2010-07-21 21:00:00"
+msgstr "مثلا: 1389-12-01 21:00:00"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:290
+msgid "e.g. 2010-07-21"
+msgstr "مثلا: 1389-12-01"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:293
+msgid "e.g. 21:00:00"
+msgstr "مثلا: 21:00:00"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:296
+msgid "e.g. #ff9933"
+msgstr "مثلا:  #ff9933"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:302
+msgid "e.g. +1 (202) 555-1234"
+msgstr "مثلا: +98 (21) 555-12034"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:681
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:773
+msgid "Text"
+msgstr "متن"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:685
+msgid "Checkbox"
+msgstr "جعبه انتخاب"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:687
+msgid "Radio"
+msgstr "جعبه رادیویی"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:689
+msgid "Select"
+msgstr "انتخاب"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:691
+msgid "Multi Select"
+msgstr "چند انتخابی"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:693
+msgid "Recipient Select"
+msgstr "انتخاب گیرنده"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:695
+msgid "Textarea"
+msgstr "محدوده متن"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:697
+msgid "Text Editor"
+msgstr "ویرایشگر متن"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:699
+msgid "Code Editor"
+msgstr "ویرایشگر کد"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:701
+msgid "Hidden"
+msgstr "مخفی"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:703
+msgid "Review"
+msgstr "بازنگری"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:705
+msgid "Password"
+msgstr "گذرواژه"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:707
+msgid "Confirm Previous Field"
+msgstr "فیلد قبل را تایید کنید"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:709
+msgid "Date Time"
+msgstr "تاریخ/زمان"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:711
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:765
+msgid "Date"
+msgstr "تاریخ"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:713
+msgid "Time"
+msgstr "زمان"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:715
+msgid "Static Text"
+msgstr "متن ثابت"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:717
+msgid "Button Submit"
+msgstr "دکمه ثبت"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:719
+msgid "Button Reset"
+msgstr "دکمه نوسازی"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:721
+msgid "Button"
+msgstr "دکمه"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:725
+msgid "File"
+msgstr "پرونده"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:727
+msgid "Open Form Area"
+msgstr "محدوده بازگشایی فرم"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:729
+msgid "Close Form Area"
+msgstr "محدوده بستن فرم"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:731
+msgid "Color"
+msgstr "رنگ"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:735
+msgid "Telephone"
+msgstr "تلفن"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:737
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:769
+msgid "URL"
+msgstr "نشانی URL"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:739
+msgid "Range"
+msgstr "محدوده"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:741
+msgid "Number"
+msgstr "شماره"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:743
+msgid "Page Break"
+msgstr "تفکیک کننده صفحه"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:755
+msgid "String"
+msgstr "رشته"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:757
+msgid "Int"
+msgstr "عددصحیح"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:759
+msgid "Float"
+msgstr "عدد اعشاری"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:761
+msgid "Array"
+msgstr "آرایه"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:763
+msgid "TimeStamp"
+msgstr "برچسب زمانی"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:767
+msgid "HTML"
+msgstr "کد HTML"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:771
+msgid "LimitedString"
+msgstr "رشته محدود"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:775
+msgid "Boolean"
+msgstr "منطقی"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:801
+msgid "Submit"
+msgstr "ثبت"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1065
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1992
+msgid "Fields marked with an asterisk (*) are required."
+msgstr "فیلدهای علامتدار با * الزامی هستند."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1066
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:2005
+msgid "Field(s) marked with an asterisk (*) is/are required."
+msgstr "فیلدهای علامتدار با * الزامی هستند."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1071
+msgid "No file selected for upload."
+msgstr "هیچ پرونده ای جهت ارسال انتخاب نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1075
+msgid "Some fields do not match. Please make sure to enter the same value when asked to confirm a previous field."
+msgstr "برخی فیلدها مطابقت ندارند.لطفا اطمینان یابید که مقادیر خواسته شده با فیلد قبلی آن یکسان باشند."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1080
+msgid "Incorrect verification code. Please enter the code shown on the image."
+msgstr "کد امنیتی صحیح نیست.لطفا کد نمایش داده شده در تصویر را عینا وارد نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1085
+msgid "Invalid email address. Please make sure you enter a valid email address."
+msgstr "پست الکترونیک معتبر نیست.لطفا نشانی پست الکترونیک خود را صحیح وارد نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1090
+#, php-format
+msgid "The password you entered is too short. Your password must be at least %s characters long."
+msgstr "گذرواژه وارده بسیار کوتاه است.لطفا گذرواژه ای با تعداد حروف بیشتری وارد نمایید.دست کم: %s حرفی"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1096
+msgid "Please review / correct the marked fields in the form below and try again."
+msgstr "بطفا فیلدهای مشخص شده زیر را اصلاح نموده و مجددا تلاش کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1325
+msgid "Next"
+msgstr "بعدی"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1354
+msgid "Back"
+msgstr "بازگشت"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1496
+#, php-format
+msgid "max %s"
+msgstr "حداکثر %s"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1960
+#, php-format
+msgid "(Step %s of %s)"
+msgstr "(مرحله %s از %s)"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1995
+msgid "Field marked with an asterisk (*) is required."
+msgstr "فیلدهای علامتدار با * الزامی هستند."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:49
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:468
+msgid "New Form"
+msgstr "فرم جدید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:69
+msgid "Form ID"
+msgstr "شناسه ID فرم"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:76
+msgid "Notification Options"
+msgstr "تنظیمات آگاهی رسانی"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:81
+msgid "Send Email"
+msgstr "ارسال پیام الکترونیکی"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:90
+msgid "Send To"
+msgstr "ارسال به"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:102
+msgid "Storage Options"
+msgstr "تنظیمات ذخیره سازی"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:107
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:359
+msgid "SQL Table"
+msgstr "جدول SQL"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:124
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:363
+msgid "Method"
+msgstr "روش"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:133
+msgid "Success Message"
+msgstr "پیام موفقیت"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:166
+msgid "You are NOT allowed to delete a protected form!"
+msgstr "شما قادر به حذف یک فرم حفاظت شده نیستید!"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:178
+msgid "Form has been successfully deleted."
+msgstr "فرم مورد نظر با موفقیت حذف شد."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:192
+msgid "Form has been successfully updated."
+msgstr "فرم مورد نظر با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:205
+msgid "Form has been successfully created."
+msgstr "فرم مورد نظر با موفقیت ایجاد گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:219
+msgid "Title / Form ID"
+msgstr "عنوان/شناسه ID فرم"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:229
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:302
+msgid "Fields"
+msgstr "فیلدها"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:334
+msgid "Protected Form"
+msgstr "فرم محافظت شده"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:354
+msgid "Send Email To"
+msgstr "ارسال ایمیل به"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:437
+msgid "Dynamic Forms Administration"
+msgstr "مدیریت فرمهای پویا"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:443
+msgid "To implement a form in your post just add the following code <code>{forms}formid{/forms}</code> to your content where <i>formid</i> is your form's id, for e.g. contact."
+msgstr "جهت درج فرم در پست ، کافی است عبارت <code>{forms}formid{/forms}</code> را در متن وارد نمایید.بجای formid شناسه فرم را وارد نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:467
+msgid "Edit Form"
+msgstr "اصلاح فرم"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:506
+msgid "No dynamic forms found."
+msgstr "هیچ فرم پویایی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:552
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:633
+msgid "A form with this ID already exists! Please choose a different id for your form."
+msgstr "یک فرم با شناسه فرم معرفی شده از قبل موجود است.لطفا شناسه دیگری را برای این فرم برگزینید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:569
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:654
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:714
+#, php-format
+msgid "SQL Table \"%s\" already exists! Please choose a different table for your form."
+msgstr "جدول SQL  \"%s\" از قبل وجود دارد.لطفا نام دیگری برگزینید."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:609
+#, php-format
+msgid "Form couldn't be created! Error: %s"
+msgstr "امکان ایجاد فرم وجود ندارد.خطا:  \"%s\""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:700
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:733
+msgid "Protected SQL Tables cannot be renamed / deleted!"
+msgstr "جداول محافظت شده SQL قابل نامگذاری مجدد/حذف نمی باشند!"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:772
+#, php-format
+msgid "Form couldn't be updated! Error: %s"
+msgstr "فرم مورد نظر به روز نشد! خطا:  \"%s\""
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:25
+msgid "Email ID"
+msgstr "شناسه ایمیل"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:31
+msgid "e.g. WebmasterWarning (without spaces)"
+msgstr "مثلا: WebmasterWarning(بدون فاصله)"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:180
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:93
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:582
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:683
+msgid "Subject"
+msgstr "موضوع"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:40
+msgid "Body"
+msgstr "متن"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:74
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:85
+msgid "Emails have been successfully reset."
+msgstr "ایمیل ها با موفقیت نوسازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:99
+msgid "Email has been successfully updated."
+msgstr "ایمیل مورد نظر با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:122
+msgid "Email ID / Subject"
+msgstr "شناسه ایمیل/موضوع"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:195
+msgid "Reset All"
+msgstr "نوسازی همگی"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:279
+msgid "Notification Emails Administration"
+msgstr "مدیریت آگاهی رسانی از طریق ایمیل"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:305
+msgid "Edit Email"
+msgstr "اصلاح ایمیل"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:306
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:28
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:762
+msgid "New Email"
+msgstr "ایمیل جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:350
+msgid "No emails found."
+msgstr "هیچ ایمیلی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:388
+msgid "An email with this id already exists!"
+msgstr "یک ایمیل با همین شناسه قبلا وجود دارد!"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:405
+#, php-format
+msgid "Email couldn't be added! Error: %s"
+msgstr "ایمیل اضافه نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:435
+#, php-format
+msgid "Email couldn't be updated! Error: %s"
+msgstr "ایمیل به روز نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:463
+msgid "The specified email cannot be found!"
+msgstr "ایمیل مورد نظر پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:88
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:757
+msgid "New Block"
+msgstr "بلاک جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:125
+msgid "Sub Block of"
+msgstr "زیر بلاک "
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:133
+msgid "Content Options"
+msgstr "تنظیمات محتوا"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:138
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1273
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:81
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:365
+msgid "Content"
+msgstr "محتوا"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:155
+msgid "Block ID"
+msgstr "شناسه بلاک"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:162
+msgid "CSS Class"
+msgstr "کلاس CSS"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:171
+msgid "In Language(s)"
+msgstr "در زبانهای"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:191
+msgid "In Menu(s)"
+msgstr "در منوهای"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:198
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:530
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:341
+msgid "Administration Section"
+msgstr "بخش مدیریت"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:241
+msgid "Caching Options"
+msgstr "تنظیمات حافظه پنهان"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:246
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:590
+msgid "Enable Caching"
+msgstr "فعالسازی حافظه پنهان"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:254
+msgid "(cache the content of this block including all sub blocks)"
+msgstr "(این بلاک به همراه تمامی زیر بلاکهایش در حافظه پنهان قرار خواهند گرفت)"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:257
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:593
+msgid "Only for Guests"
+msgstr "تنها برای بازدیدکنندگان مهمان"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:265
+msgid "(don't use caching for logged in users)"
+msgstr "(حافظه پنهان برای کاربران وارد شده به سایت استفاده نشود)"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:268
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:597
+msgid "Refresh Time"
+msgstr "زمان نوسازی"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:277
+msgid "(cache refresh time interval in minutes)"
+msgstr "(تناوب زمانی نوسازی حافظه پنهان بر اساس دقیقه)"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:280
+msgid "Refresh Now"
+msgstr "هم اکنون نوسازی شود"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:312
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:585
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:350
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:607
+msgid "Limit"
+msgstr "محدودیت"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:365
+msgid "Blocks have been successfully re-ordered."
+msgstr "بلاکهای مورد نظر با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:376
+msgid "Block has been successfully deleted."
+msgstr "بلاک مورد نظر با موفقیت حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:389
+msgid "Block cannot be subblock of itself!"
+msgstr "یک بلاک نمی تواند زیربلاک خودش باشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:409
+msgid "Block has been successfully updated."
+msgstr "بلاک مورد نظر با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:426
+msgid "Block has been successfully created."
+msgstr "بلاک مورد نظر با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:446
+msgid "Title / Block ID / CSS Class"
+msgstr "عنوان/شناسه بلاک/کلاس CSS"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:568
+msgid "Display Except in Menu"
+msgstr "نمایش بجز دی منوی"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:569
+msgid "Display Only in Menu"
+msgstr "نمایش تنها در منوی"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:575
+msgid "Display Except in Language"
+msgstr "نمایش بجز در زبان"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:576
+msgid "Display Only in Language"
+msgstr "نمایش فقط در زبان"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:598
+#, php-format
+msgid "%s minutes"
+msgstr "%s دقیقه"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:732
+msgid "Blocks Administration"
+msgstr "مدیریت بلاک ها"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:756
+msgid "Edit Block"
+msgstr "اصلاح بلاک"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:802
+msgid "No blocks found."
+msgstr "هیچ بلاکی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:838
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:860
+msgid "Only"
+msgstr "تنها"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:847
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:869
+msgid "Except"
+msgstr "بجز"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:982
+#, php-format
+msgid "Block couldn't be created! Error: %s"
+msgstr "بلاک مورد نظر ایجاد نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1026
+msgid "Block type cannot be changed as it is a \"Main Content\" block! Please first create another \"Main Content\" block and then try to edit this block again."
+msgstr "نوع بلاک اصلی قابل تغییر نیست.لطفا بلاک اصلی دیگری ایجاد نموده و سپس نوع آنرا تغییر دهید و بلاک قبلی را می توانید حذق نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1103
+#, php-format
+msgid "Block couldn't be updated! Error: %s"
+msgstr "بلاک مورد نظر به روز نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1189
+msgid "Block cannot be deleted as it is or contains a \"Main Content\" block! Please first create another \"Main Content\" block that wont be affected by this operation."
+msgstr "این بلاک قابل حذف نیست چراکه بعنوان بلاک اصلی تعریف شده است.ابتدا بلاک اصلی دیگری تعریف نمایید و عملیات اصلاحی را روی آن انجام داده و بلاک اصلی قدیمی را حذف نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1271
+msgid "Main Content"
+msgstr "محتوای اصلی"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1275
+msgid "Menu"
+msgstr "منو"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1277
+msgid "Advertisement"
+msgstr "تبلیغات"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1286
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1441
+msgid "Admins"
+msgstr "مدیران"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:281
+#, php-format
+msgid "The file you are trying to upload \"%s\" already exists on our site. Please rename and reselect the file you would like to upload."
+msgstr "پرونده ای که سعی دارید ارسال نمایید : %s قبلا در این سایت وجود دارد.لطفا پرونده قدیمی یا پرونده مورد نظر را تغییر نام دهید سپس اقدام به ارسال نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:291
+#, php-format
+msgid "Unsupported file format! Supported formats are: %s."
+msgstr "نوع پرونده استاندارد نیست.پرونده های استاندارد عبارتند از: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:300
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:35
+msgid "File couldn't be saved!"
+msgstr "امکان ذخیره این پرونده وجود ندارد!"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:316
+#, php-format
+msgid "File couldn't be saved! This usually means that your file is larger than the allowed upload limit (%s) or something went wrong while saving the file to it's permanent place. Please try again or contact webmaster."
+msgstr "پرونده مورد نظر ذخیره نشده است.به نظر می رسد اندازه پرونده از اندازه مجاز %s بیشتر است."
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:430
+msgid "unknown/file"
+msgstr "پرونده/نامشخص"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:442
+msgid "Unknown File Type"
+msgstr "نوع پرونده/نامشخص"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:540
+#, php-format
+msgid "Writing file %s"
+msgstr "در حال نوشتن پرونده %s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:57
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:595
+msgid "New Attachment"
+msgstr "پیوست جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:73
+msgid "Upload a new attachment"
+msgstr "پیوست دیگری ارسال نمایید"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:78
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:116
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:134
+msgid "Attachment"
+msgstr "پیوست"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:85
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:87
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:122
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:124
+msgid "e.g. document.doc, document.pdf"
+msgstr "مثلا: document.doc, document.pdf"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:129
+msgid "Already uploaded attachment"
+msgstr "قبلا پیوست شده است"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:145
+msgid "Existing File (URL)"
+msgstr "از مسیر URL موجود"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:149
+msgid "e.g. http://domain.com/document.pdf"
+msgstr "مثلا:  http://domain.com/document.pdf"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:217
+msgid "Attachments have been successfully re-ordered."
+msgstr "پیوستها با موفقیت باز مرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:228
+msgid "Attachment has been successfully deleted."
+msgstr "پیوست با موفقیت حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:242
+msgid "No file selected to be uploaded as a new attachment! Please select a file to upload or define an already uploaded attachment."
+msgstr "هیچ پرونده ای جهت ارسال بعنوان پیوست انتخاب نشده است.لطفا دست کم یک پرونده را انتخاب نموده و مجددا تلاش فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:292
+msgid "Attachment has been successfully updated."
+msgstr "این پیوست قبلا ارسال شده است."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:315
+msgid "Attachment has been successfully added."
+msgstr "پیوست مورد نظر با موفقیت اضافه شد."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:384
+#, php-format
+msgid "Attachment(s) have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "پیوستهای مقابل با موفقیت ارسال شدند: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:398
+msgid "Icon"
+msgstr "آیکون"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:400
+msgid "Title / Uploaded on / File"
+msgstr "عنوان/ارسال شده در/پرونده"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:402
+msgid "Downloads"
+msgstr "دانلودها"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:404
+msgid "Filesize"
+msgstr "اندازه پرونده"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:435
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:959
+#, php-format
+msgid "uploaded on %s"
+msgstr "ارسال شده در %s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:594
+msgid "Edit Attachment"
+msgstr "اصلاح پیوست"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:748
+#, php-format
+msgid "Attachment couldn't be created! Error: %s"
+msgstr "امکان ایجاد پیوست وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:815
+#, php-format
+msgid "Attachment couldn't be updated! Error: %s"
+msgstr "پیوست مورد نظر به روز نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:866
+msgid "No attachment selected to download!"
+msgstr "هیچ پیوستی برای دانلود انتخاب نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:878
+msgid "The selected attachment cannot be found!"
+msgstr "پیوست انتخاب شده پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:887
+#, php-format
+msgid "File \"%s\" cannot be found!"
+msgstr "پرونده %s پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:934
+msgid "Download"
+msgstr "دانلود"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:952
+#, php-format
+msgid "%s downloads"
+msgstr "%s دانلود"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:1054
+msgid "click to download"
+msgstr "برای دانلود کلیک نمایید"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:27
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:41
+msgid "Note"
+msgstr "توضیح"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:61
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:407
+msgid "New Note"
+msgstr "توضیح جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:93
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:293
+msgid "Status"
+msgstr "وضعیت"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:101
+msgid "(closed ones are marked with strike through)"
+msgstr "(عناوینی که بصورت خط خورده هستند بسته شده اند)"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:113
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:377
+msgid "Created on"
+msgstr "ایجاد شده در"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:120
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:298
+msgid "Due Date"
+msgstr "به تاریخ"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:151
+msgid "Note has been successfully deleted."
+msgstr "توضیح مورد نظر با موفقیت حذف گردید"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:165
+msgid "Note has been successfully updated."
+msgstr "توضیح مورد نظر با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:178
+msgid "Note has been successfully created."
+msgstr "توضیح مورد نظر با موفقیت ثبت شد."
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:192
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:802
+msgid "Title / Created on"
+msgstr "عنوان/ایجاد شده در"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:200
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:250
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:810
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:874
+msgid "Attachments"
+msgstr "پیوستها"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:289
+msgid "Owner"
+msgstr "مالک"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:381
+msgid "Notes Administration"
+msgstr "مدیریت توضیحات"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:406
+msgid "Edit Note"
+msgstr "اصلاح توضیح"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:447
+msgid "No notes found."
+msgstr "هیچ توضیحی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:503
+#, php-format
+msgid "Note couldn't be created! Error: %s"
+msgstr "امکان ایجاد توضیح وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:525
+msgid "You are not allowed to edit someone else's note! If you would like to add something to the note please do so in the comments."
+msgstr "شما مجاز به اصلاح توضیح سایر کاربران نمی باشید.اگر تمایل دارید مطلبی بیافزایید می توانید از قسمت نظرات  ، اینکار را انجام دهید."
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:555
+#, php-format
+msgid "Note couldn't be updated! Error: %s"
+msgstr "توضیح مورد نظر به روز نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:574
+msgid "You are not allowed to delete someone else's note! If you would like to add something to the note please do so in the comments."
+msgstr "شما مجاز به حذف توضیحات سایر کاربران نمی باشید.اگر تمایل دارید توضیحی بیافزایید اینکار را از طریق نظرات انجام دهید."
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:618
+msgid "Open"
+msgstr "باز"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:620
+msgid "Closed"
+msgstr "بسته"
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:25
+msgid "No file defined to be saved!"
+msgstr "هیچ پرونده ای برای ذخیره انتخاب نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:44
+msgid "File has been successfully saved."
+msgstr "پرونده مورد نظر با موفقیت ذخیره شد."
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:61
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:79
+msgid "File Editor"
+msgstr "ویرایشگ پرونده"
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:77
+msgid "No File defined!"
+msgstr "هیچ پرونده ای انتخاب نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:33
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:68
+msgid "Content Management"
+msgstr "مدیریت محتوا"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:36
+msgid "Module Management"
+msgstr "مدیریت افزونه ها"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:39
+msgid "Site Layout and Functionality"
+msgstr "آرایش سایت و کارکردهای آن"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:42
+msgid "Member Management"
+msgstr "مدیریت اعضاء"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:65
+msgid "Manage the content (posts) of your site"
+msgstr "محتوا و پستهای سایت خود را مدیریت کنید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:75
+msgid "Upload / Add advertisements"
+msgstr "تبلیغات به سایت خود ارسال/ثبت کنید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:78
+msgid "Ads & Banners"
+msgstr "تبلیغات و بنر های تبلیغاتی"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:85
+msgid "Create / Modify custom submit forms"
+msgstr "ایجاد/اصلاح فرمهای سفارشی"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:88
+msgid "Dynamic Forms"
+msgstr "فرمهای پویا"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:96
+msgid "Copy and/or Move posts from one menu to another"
+msgstr "کپی/انتقال پستها از یک منو به منوی دیگر"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:99
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:129
+msgid "Moving Posts"
+msgstr "در حال انتقال پستها"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:106
+msgid "Manage / Upload files separately"
+msgstr "مدیریت/ارسال پرونده ها بطور مجزا"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:109
+msgid "File Manager"
+msgstr "مدیر پرونده"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:117
+msgid "Change settings like Webmaster Email, Site title and so on"
+msgstr "تنظیماتی همچون ایمیل مدیر سایت ، عنوان سایت و .... را تغییر دهید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:128
+msgid "Set up your site's layout / look"
+msgstr "شیوه نمایش/آرایش سایت خود را تغییر دهید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:131
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:69
+msgid "Layout Blocks"
+msgstr "بلاک لایه ها"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:138
+msgid "Create multiple menu areas"
+msgstr "محدوده های متعددی برای منوها تعریف کنید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:141
+msgid "Menu Blocks"
+msgstr "بلاک منوها"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:149
+msgid "Change the look of your website"
+msgstr "شیوه نمایش سایت خود را تغییر دهید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:152
+msgid "Template Manager"
+msgstr "مدیر قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:159
+msgid "Edit template CSS / JS files and upload images"
+msgstr "پرونده های شیوه نامه و اسکریپتهای جاوا را اصلاح نمایید و یا تصویر به سایت ارسال نمایید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:162
+msgid "Template Editor"
+msgstr "ویرایشگر قالب"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:169
+msgid "Share your site's content in a standardized format"
+msgstr "محتویات سایت خود را به قالبهای استاندارد به اشتراک بگذارید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:172
+msgid "RSS Feeds"
+msgstr "خوراکهای RSS"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:180
+msgid "Store notes and/or todos"
+msgstr "توضیحات/کارهای در دست اقدام خود را ثبت کنید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:183
+msgid "Admin Notes"
+msgstr "توضیحات مدیر"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:191
+msgid "Links to quickly access your favorite places"
+msgstr "برای قسمتهای پر استفاده/مورد علاقه خود پیوند دسترسی سریع ایجاد کنید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:194
+msgid "Favorite Links"
+msgstr "پیوندهای مورد علاقه"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:201
+msgid "Modify emails that are sent out by the system"
+msgstr "ایمیل های سیستمی را تغییر دهید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:204
+msgid "Notification Emails"
+msgstr "ایمیل های آگاهی رسانی"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:212
+msgid "Define additional languages"
+msgstr "زبانهای دیگری به سایت بیافزایید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:215
+msgid "Site Languages"
+msgstr "زبانهای سایت"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:223
+msgid "Manage Brute Force and Password Trading protection"
+msgstr "سیستم حفاظت در برابر Brute Force/Password Trading را مدیریت کنید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:226
+msgid "Security Alerts"
+msgstr "اخطارهای امنیتی"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:233
+msgid "Regenerate and/or edit XML Sitemap file"
+msgstr "ایجاد/اصلاح نقشه سایت به قالب XML"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:236
+msgid "XML Sitemap"
+msgstr "نقشه سایت XML"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:244
+msgid "Manage users, set permissions"
+msgstr "مدیریت کاربران و مجوزهای دسترسی"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:254
+msgid "Contact site members all at once"
+msgstr "با تمامی کاربران سایت به یکباره تماس بگیرید"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:257
+msgid "Mass Email"
+msgstr "ایمیل انبوه"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:264
+msgid "Logout and close this session"
+msgstr "خروج از سایت"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:267
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:449
+msgid "Logout"
+msgstr "خروج"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:447
+msgid "You do not have enough permission to access this area!"
+msgstr "شما اجازه دسترسی به این بخش از سایت را ندارید!"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:468
+msgid "Go Back"
+msgstr "بازگشت"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:494
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:510
+msgid "Invalid path!"
+msgstr "مسیر نامعتبر است!"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:109
+msgid "Address Not Found"
+msgstr "نشانی پیدا نشد"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:125
+msgid "New Page"
+msgstr "صفحه جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:145
+msgid "Sub Menu of"
+msgstr "زیرمنوی"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:153
+msgid "Menu Block"
+msgstr "بلاک منو"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:170
+msgid "Language"
+msgstr "زبان"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:657
+msgid "Modules"
+msgstr "افزونه ها"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:266
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:630
+msgid "SEO Options"
+msgstr "تنظیمات SEO"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:271
+msgid "Page Title"
+msgstr "عنوان صفحه"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:277
+msgid "Description"
+msgstr "شرح"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:283
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:390
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:731
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2128
+msgid "Keywords"
+msgstr "کلیدواژه ها"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:403
+msgid "Menu items have been successfully re-ordered."
+msgstr "گزینه های منوی مورد نظر با موفقیت باز مرتب سازی گردیدند."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:414
+msgid "Menu item and all its submenus have been successfully deleted."
+msgstr "منوی مورد نظر بهمراه تمامی زیر منوهای آن با موفقیت حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:443
+msgid "Menu item cannot be submenu of itself!"
+msgstr "یک منو نمی تواند زیر منوی خودش باشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:460
+msgid "Menu item has been successfully updated."
+msgstr "گزینه منوی مورد نظر با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:462
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:483
+msgid "View Page"
+msgstr "مشاهده صفحه"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:481
+msgid "Menu item has been successfully created."
+msgstr "گزینه منو با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:588
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:816
+msgid "No menu items found."
+msgstr "هیچ گزینه ای در این منو پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:601
+msgid "Title / Path / Link"
+msgstr "عنوان/مسیر/پیوند"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:613
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:732
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:23
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1015
+msgid "Posts"
+msgstr "پستها"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:809
+msgid "No Language Defined"
+msgstr "هیچ زبانی تعریف نشده"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:845
+msgid "Menu Items Administration (Pages)"
+msgstr "مدیریت گزینه های منو(صفحات)"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:870
+msgid "Edit Menu Item (Page)"
+msgstr "اصلاح گزینه منو(صفحه)"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:871
+msgid "New Menu Item (Page)"
+msgstr "گزینه منوی جدید(صفحه)"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:453
+msgid "No menu blocks found."
+msgstr "هیچ بلاک منو یی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:924
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and creat at least one menu block to put menu items in."
+msgstr "لطفا به قسمت مدیریت->آرایش و کارکردهای سایت->بلاک منو بروید و دست کم یک بلاک منو تعریف نمایید تا قادر باشید در آن منویی ایجاد نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1053
+#, php-format
+msgid "Menu Item couldn't be created! Error: %s"
+msgstr "گزینه مورد نظر برای منو ایجاد نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1090
+msgid "Menu item successfully created but xml sitemap file couldn't be updated."
+msgstr "گزینه منوی مورد نظر با موفقیت ایجاد شده اما پرونده XML مربوط به نقشه سایت به روز نشده است.آنرا به روز رسانی فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1187
+#, php-format
+msgid "Menu item couldn't be updated! Error: %s"
+msgstr "گزینه مربوط به منوی مورد نظر به روز نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1312
+msgid "Menu item successfully updated but xml sitemap file couldn't be updated."
+msgstr "گزینه منوی مورد نظر با موفقیت به روز شد اما پرونده XML نقشه سایت به روز نشده است.لطفا آنرا دستی به روز نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1366
+msgid "Menu item successfully deleted but xml sitemap file couldn't be updated."
+msgstr "گزینه منوی مورد نظر با موفقیت حذف شد اما پرونده XML نقشه سایت به روز نشده.لطفا آنرا دستی به روز نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:53
+msgid "Settings have been successfully updated but the template.js file couldn't be updated."
+msgstr "تنظیمات با موفقیت به روز گردید اما پرونده template.js به روز نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:65
+msgid "Settings have been successfully updated."
+msgstr "تنظیمات با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:94
+msgid "Settings Administration"
+msgstr "مدیریت تنظیمات"
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:123
+msgid "Change Settings"
+msgstr "تغییر تنظیمات"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:38
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:774
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:45
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:574
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:667
+msgid "From"
+msgstr "از"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:54
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:578
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:675
+msgid "To"
+msgstr "تا"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:65
+msgid "Active Users"
+msgstr "کاربران فعال"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:70
+msgid "All Users"
+msgstr "همه کاربران"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:75
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:76
+msgid "Add User(s)"
+msgstr "کاربر جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:100
+msgid "Message"
+msgstr "پیام"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:107
+msgid "Partial sending (split your emails into chunks)"
+msgstr "ارسال چند مرحله ای(ایمیل به چند قطعه تقسیم و ارسال می شود)"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:112
+msgid "Number of Emails"
+msgstr "تعداد ایمیل ها"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:117
+msgid "e.g. 500"
+msgstr "مثلا: 50"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:120
+msgid "Starting from"
+msgstr "شروع از"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:125
+msgid "e.g. 100"
+msgstr "مثلا: 10"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:153
+msgid "Email has been successfully deleted."
+msgstr "ایمیل مورد نظر با موفقیت حذف شد."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:170
+msgid "From email address is not a valid email address!"
+msgstr "ایمیل فرستنده معتبر نیست!"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:208
+#, php-format
+msgid "Invalid email addresses defined. The following addresses are not valid email addresses: %s."
+msgstr "ایمیل گیرندگان معتبر نیست: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:248
+#, php-format
+msgid "Sending %s emails starting from %s, please wait..."
+msgstr "در حال ارسال %s ایمیل آغاز از %s , لطفا اندکی صبور باشید...."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:252
+#, php-format
+msgid "Sending %s emails, please wait..."
+msgstr "در حال ارسال %s ایمیل.لطفا صبور باشید..."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:255
+#, php-format
+msgid "Sending emails starting from %s, please wait..."
+msgstr "در حال ارسال ایمیل ، آغاز از %s.لطفا صبور باشید..."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:257
+msgid "Sending emails, please wait..."
+msgstr "در حال ارسال ایمیل.لطفا صبور باشید...."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:350
+msgid "All emails have been successfully sent. No more emails left to be sent."
+msgstr "تمامی ایمیل ها با موفقیت ارسال گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:361
+msgid "No emails have been sent out!"
+msgstr "هیچ ایمیلی ارسال نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:363
+msgid "No users found to send email to."
+msgstr "هیچ کاربری جهت ارسال ایمیل وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:364
+msgid "Please see detailed error messages above and try again."
+msgstr "لطفا پیام خطای زیر را بررسی و سپس مجددا تلاش کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:373
+#, php-format
+msgid "Emails have been successfully sent to: %s. Emails sent: %s"
+msgstr "ایمیل های مورد نظر با موفقیت ارسال شدند به: %s . تعداد ایمیل ارسالی: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:418
+msgid "Add"
+msgstr "اضافه"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:421
+msgid "Username"
+msgstr "شناسه کاربری"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:424
+msgid "Admin"
+msgstr "مدیر"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:430
+msgid "Registered on"
+msgstr "عضویت در تاریخ"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:512
+msgid "Subject / Sent out"
+msgstr "موضوع/ارسال در"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:514
+msgid "Emails Sent"
+msgstr "ایمیل ارسال شد"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:523
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:552
+msgid "Resend"
+msgstr "ارسال مجدد"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:570
+msgid "Sent out by"
+msgstr "ارسال شده توسط"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:657
+msgid "Email Sent"
+msgstr "ایمیل ارسال شد"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:658
+msgid "Preview Email"
+msgstr "پیش نمایش ایمیل"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:695
+msgid "Partial sending"
+msgstr "ارسال چند مرحله ای"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:701
+#, php-format
+msgid "%s emails starting from %s"
+msgstr "%s ایمیل ، شروع از %s"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:706
+#, php-format
+msgid "%s emails"
+msgstr "%s ایمیل"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:710
+#, php-format
+msgid "starting from %s"
+msgstr "شروع از %s"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:739
+msgid "Mass Email Administration"
+msgstr "مدیریت ایمیل انبوه"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:819
+#, php-format
+msgid "Send next %s Emails"
+msgstr "ارسال %s ایمیل بعدی"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:825
+msgid "View Emails"
+msgstr "مشاهده ایمیل ها"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:829
+msgid "Admin Home"
+msgstr "صفحه اصلی مدیریت"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:868
+msgid "No emails sent out yet."
+msgstr "هیچ ایمیلی تاکنون ارسال نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:941
+#, php-format
+msgid "Mass Email couldn't be created! Error: %s"
+msgstr "امکان ایجاد ایمیل انبوه وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:65
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:411
+msgid "New Menu"
+msgstr "منوی جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:85
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:241
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:455
+msgid "In Block"
+msgstr "در بلاک"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:115
+msgid "Name"
+msgstr "نام"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:170
+msgid "Menus have been successfully re-ordered."
+msgstr "منوها با موفقیت باز مرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:181
+msgid "Menu has been successfully deleted."
+msgstr "منوی مورد نظر با موفقیت حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:198
+msgid "Menu has been successfully updated."
+msgstr "منوی مورد نظر با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:216
+msgid "Menu has been successfully created."
+msgstr "منوی مورد نظر با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:239
+msgid "Title / Name"
+msgstr "عنوان/نام"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:385
+msgid "Menus Administration"
+msgstr "مدیریت منوها"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:410
+msgid "Edit Menu"
+msgstr "اصلاح منو"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:516
+#, php-format
+msgid "Menu couldn't be created! Error: %s"
+msgstr "امکان ایجاد منو وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:548
+#, php-format
+msgid "Menu couldn't be updated! Error: %s"
+msgstr "امکان به روز رسانی منو وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:98
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:112
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:131
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:145
+msgid "Post"
+msgstr "پست"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:276
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1058
+msgid "New Post"
+msgstr "پست جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:331
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:446
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:754
+msgid "Display on All pages"
+msgstr "نمایش در تمامی صفحات"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:332
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:447
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:755
+msgid "Display on Main page"
+msgstr "نمایش در صفحه اصلی"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:337
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:576
+msgid "Insert as New"
+msgstr "درج بعنوان جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:349
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:585
+msgid "(will create a new post)"
+msgstr "(یک پست جدید ایجاد می کند)"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:372
+msgid "Blogging Options"
+msgstr "تنظیمات وبلاگ"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:396
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:398
+msgid "e.g. oranges, lemons, limes"
+msgstr "مثلا: قرمز ، آبی ، زرد"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:416
+msgid "Announcement Options"
+msgstr "تنظیمات اطلاع رسانی"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:421
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:743
+msgid "Start Date"
+msgstr "تاریخ شروع"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:428
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:748
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:480
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:760
+msgid "Partial Content"
+msgstr "محتوی چند بخشی"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:489
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:765
+msgid "Display Related Posts"
+msgstr "نمایش پستهای مرتبط"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:504
+msgid "Rating Options"
+msgstr "تنطیمات امتیاز دهی"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:509
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:770
+msgid "Enable Rating"
+msgstr "امتیاز دهی فعال شود"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:517
+msgid "Enable Guest Rating"
+msgstr "امتیاز دهی مهمان فعال گردد"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:531
+msgid "Comments Options"
+msgstr "تنظیمات نظرات"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:536
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:778
+msgid "Enable Comments"
+msgstr "درج نظر فعال گردد"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:544
+msgid "Enable Guest Comments"
+msgstr "درج نظر برای مهمان فعال گردد"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:637
+msgid "Posts have been successfully re-ordered."
+msgstr "پستهای مورد نظر با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:669
+msgid "Post has been successfully updated."
+msgstr "پست مورد نظر با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:671
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:692
+msgid "View Post"
+msgstr "مشاهده پست"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:690
+msgid "Post has been successfully created."
+msgstr "پست مورد نظر با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:726
+msgid "Display in Block"
+msgstr "نمایش در بلاک"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:773
+msgid "(Guests can rate too!)"
+msgstr "(بازدیدکنندگان مهمان هم می توانند امتیاز بدهند)"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:781
+msgid "(Guests can comment too!)"
+msgstr "(بازدیدکنندگان مهمان هم می توانند نظر بدهند)"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:812
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:891
+msgid "Pictures"
+msgstr "تصاویر"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1057
+msgid "Edit Post"
+msgstr "اصلاح پست"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1225
+#, php-format
+msgid "Post couldn't be created! Error: %s"
+msgstr "پست مورد نظر ایجاد نشده.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1264
+msgid "Post successfully created but xml sitemap file couldn't be updated."
+msgstr "پست مورد نظر با موفقیت ایجاد شد.اما پرونده XML نقشه سایت به روز نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1273
+msgid "Post successfully created but rss feed couldn't be updated."
+msgstr "پست مورد نظر با موفقیت ایجاد شد اما خوراک به روز نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1281
+msgid "Post successfully created but couldn't ping blog servers. Please define at least one blog ping server or multiple servers separated by commas in Global Settings."
+msgstr "پست مورد نظر با موفقیت ایجاد شد اما امکان به روز رسانی سرورهای مربوط به وبلاگهای تعریف شده وجود ندارد.لطفا تنظیمات آنرا بررسی و مجددا تلاش کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1364
+#, php-format
+msgid "Post couldn't be updated! Error: %s"
+msgstr "امکان به روز رسانی پست مورد نظر وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1398
+msgid "Post successfully updated but xml sitemap file couldn't be updated."
+msgstr "پست مورد نظر با موفیت به روز شد اما پرونده XML نقشه سایت به روز نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1407
+msgid "Post successfully updated but rss feed couldn't be updated."
+msgstr "پست مورد نظر با موفقیت به روز شد اما خوراک به روز نشده است."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1485
+msgid "Post successfully deleted but rss feed couldn't be updated."
+msgstr "پست مورد نظر با موفقیت به روز شد اما امکان به روز رسانی خوراک وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1883
+#, php-format
+msgid "Starting <b>%s</b> until <b>%s</b>"
+msgstr "در حال شروع %s تا %s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1891
+#, php-format
+msgid "Starting <b>%s</b>"
+msgstr "در حال شروع %s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1898
+#, php-format
+msgid "Until <b>%s</b>"
+msgstr "تا %s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2149
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2164
+msgid "Read more"
+msgstr "بیشتر"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2197
+msgid "Related Posts"
+msgstr "پستهای مرتبط"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2542
+msgid "This area is limited to members only. Please login below."
+msgstr "این بخش ویژه اعضاء می باشد.لطفا ابتدا وارد سایت شوید."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2668
+msgid "This page has been deactivated."
+msgstr "این صفحه موقتا غیر فعال شده است."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2699
+msgid "to search results."
+msgstr "برای جستجوی نتیجه."
+
+#: /home/julius/workspace/jcore/lib/sources/ckeditor.class.php:270
+msgid "No file selected!"
+msgstr "هیج پرونده ای انتخاب نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/contentforms.class.php:34
+msgid "Form has been successfully submitted and a notification email has been sent to the webmaster."
+msgstr "فرم مورد نظر با موفقیت ثبت و به اطلاع مدیر سایت رسانده شد."
+
+#: /home/julius/workspace/jcore/lib/sources/contentforms.class.php:41
+msgid "Form has been successfully submitted."
+msgstr "فرم مورد نظر با موفقیت ثبت شد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:115
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:769
+msgid "New User"
+msgstr "کاربر جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:160
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:279
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:606
+msgid "Suspended"
+msgstr "معلق"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:168
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:287
+msgid "Administrator"
+msgstr "مدیر سایت"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:177
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:296
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:611
+msgid "Skip IP Check"
+msgstr "از بررسی IP صرفنظر گردد"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:303
+msgid "(don't bind user to IP)"
+msgstr "(آی پی کاربر محدود به مقدار ثابتی نباشد)"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:210
+msgid "Change Password"
+msgstr "تغییر گذرواژه"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:223
+msgid "Confirm password"
+msgstr "تکرار گذرواژه"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:232
+msgid "Please note that you will need to enter a valid e-mail address before your account is activated. You will receive an e-mail at the address you provided that contains an account activation link."
+msgstr "توجه داشته باشید برای فعال شدن حساب کاربری شما ، باید نشانی ایمیل معتبر خود را ارائه نموده و مرحله فعالسازی از طریق پیامی که به این ایمیل ارسال می شود انجام خواهد شد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:252
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:577
+msgid "Website"
+msgstr "تارنما"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:259
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:585
+msgid "Show Avatar"
+msgstr "نمایش آواتار"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:267
+msgid "Change Avatar"
+msgstr "تغییر آواتار"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:271
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:590
+msgid "Stay Logged In"
+msgstr "مرا به خاطر بسپار"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:313
+#, php-format
+msgid "minimum %s characters"
+msgstr "حداقل %s حرف"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:349
+msgid "No user selected! Please select at least one user."
+msgstr "هیچ کاربری انتخاب نشده است.لطفا دست کم یک کاربر را انتخاب نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:362
+msgid "Users have been successfully activated and are now able to login."
+msgstr "کاربران مورد نظر با موفقیت فعال گردیده و هم اکنون قادر به ورود به سایت می باشند."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:374
+msgid "Users have been successfully suspended."
+msgstr "کاربران مورد نظر با موفقیت معلق شده اند."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:385
+msgid "Users have been successfully deleted."
+msgstr "کاربران مورد نظر با موفقیت حذف شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:397
+msgid "User has been successfully deleted."
+msgstr "کاربر مورد نظر با موفقیت حذف شد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:413
+msgid "User has been successfully updated."
+msgstr "کاربر مورد نظر با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:426
+msgid "User has been successfully created and a notification email with the login information has been sent to the email address specified."
+msgstr "کاربر مورد نظر با موفقیت ایجاد شده و یک ایمیل حاوی اطلاعات کاربری به وی ارسال گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:449
+msgid "Username / Registered on"
+msgstr "شناسه کاربری/تاریخ عضویت"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:459
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:520
+msgid "Permissions"
+msgstr "مجوزها"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:596
+msgid "Last visit"
+msgstr "آخرین بازدید"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:601
+msgid "From IP"
+msgstr "از آی پی"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:616
+msgid "Account Pending"
+msgstr "منتظر فعالسازی"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:641
+msgid "Suspend"
+msgstr "معلق"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:727
+msgid "Users Administration"
+msgstr "مدیریت کاربران"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:768
+msgid "Edit User"
+msgstr "اصلاح کاربر"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:818
+msgid "No users found."
+msgstr "هیچ کاربری پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:852
+msgid "New account registration has been temporarily suspended. Please try again later."
+msgstr "امکان ثبت نام کاربر جدید موقتا غیر فعال شده است.لطفا در زمانی دیگر تلاش نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:861
+msgid "No username specified!"
+msgstr "هیچ شناسه کاربری مشخص نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:869
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:988
+msgid "Username and Email are required!"
+msgstr "شناسه کاربری و ایمیل الزامی هستند!"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:935
+#, php-format
+msgid "User couldn't be registered! Error: %s"
+msgstr "امکان ایجاد کاربر وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:980
+msgid "No data defined to update user to!"
+msgstr "هیچ داده ای جهت به روز رسانی کاربر تعریف نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1005
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1354
+msgid "Incorrect username. Usernames may consist of a-z, 0-9 and underscores only."
+msgstr "شناسه کاربر معتبر نیست.شناسه باید حرفی/عددی ، با حروف لاتین ، بدون فاصله و حرف زیرخط/دش باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1061
+#, php-format
+msgid "User couldn't be updated! Error: %s"
+msgstr "امکان به روز رسانی کاربر وجود ندارد.خطا:%s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1371
+msgid "Username is already taken. Please choose a different username or login."
+msgstr "این شناسه کاربری قبلا به ثبت رسیده است.لطفا نام دیگری را برگزینید و مجددا تلاش کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1395
+msgid "Email address is already in use."
+msgstr "این ایمیل قبلا ثبت شده است."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1397
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2038
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2067
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2147
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2167
+msgid "Forgot your password?"
+msgstr "آیا گذرواژه خود را از یاد برده اید؟"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1410
+msgid "No request values specified!"
+msgstr "هیچ مقدار درخواستی مشخص نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1418
+msgid "No owner defined for the request!"
+msgstr "هیچ مالکی برای این درخواست تعریف نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1432
+#, php-format
+msgid "You have reached the maximum number of %s requests! If you are still having problems completing your request please contact us or wait a few hours and try again."
+msgstr "شما بیش از مقدار مجاز %s درخواست داشته اید.لطفا صبر کنید تا درخواستهای قبلی شما پردازش شوند و یا با مدیریت سایت تماس حاصل فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1459
+#, php-format
+msgid "Request couldn't be stored! Error: %s"
+msgstr "درخواست مورد نظر ذخیره نشده است.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1524
+#, php-format
+msgid "User couldn't be activated! Error: %s"
+msgstr "امکان فعالسازی کاربر مورد نظر وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1554
+#, php-format
+msgid "User couldn't be suspended! Error: %s"
+msgstr "امکان تعلیق کاربر مورد نظر وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1599
+msgid "No email address specified! Please enter the email address provided at registration."
+msgstr "هیچ نشانی ایمیلی تعریف نشده است.لطفا یک نشانی ایمیل معتبر برای ثبت نام معرفی نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1624
+msgid "Your email address is not in our database. Please be sure to use the one provided at registration."
+msgstr "نشانی ایمیل شما در بانک اطلاعاتی ما پیدا نشد.لطفا نشانی ایمیلی که قبلا با آن ثبت نام نموده اید را وارد کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1679
+msgid "<b>Request Successful</b><br /> A notification email has been sent to your email address with the neccessary information to login to your account."
+msgstr "درخواست موفقیت آمیز بود.<br /> یک پیام حاوی اطلاعات لازم برای ورود به سایت به نشانی ایمیل شما ارسال شده است.توجه داشته باشید این پیام ممکن است در بخش Spam/Bulk صندوق پستی شما قرار گرفته باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1687
+msgid "<b>Request Successful</b><br /> A notification email has been sent to your email address with the neccessary information to request a new password."
+msgstr "درخواست موفقیت آمیز بود.<br /> یک پیام حاوی اطلاعات لازم برای ورود به سایت به نشانی ایمیل شما ارسال شده است.توجه داشته باشید این پیام ممکن است در بخش Spam/Bulk صندوق پستی شما قرار گرفته باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1695
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1819
+msgid "<b>IMPORTANT:</b> Some email providers put messages received from addresses, which are not in your contact list, in the \"Bulk / Junk E-Mail\" folders. Please check those folders too."
+msgstr "مهم: برخی سیستمهای پست الکترونیکی ایمیلهای صادره از این سایت را در بخش Spam/Bulk/Junk خود قرار می دهند.لذا در صورت عدم وجود پیام در بخش Inbox این بخشها را نیز بررسی فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1718
+msgid "Request not found! Please make sure the request was made in the last 3 hours as older requests are automatically deleted."
+msgstr "درخواست مورد نظر پیدا نشد! لطفا اطمینان یابید که درخواست شما طی 3 ساعت گذشته ثبت شده و هنوز حذف نشده باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1729
+msgid "Request owner couldn't be found!"
+msgstr "مالک این درخواست پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1745
+#, php-format
+msgid "Your account couldn't be activated! Error: %s"
+msgstr "امکان فعالسازی این حساب کاربری وجود ندارد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1753
+msgid "<b>Your Account has been Activated</b><br /> Thank you for registering."
+msgstr "حساب کاربری شما هم اکنون فعال گردید. از ثبت نام شما سپاسگذاریم."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1768
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1794
+#, php-format
+msgid "Your new password couldn't be activated! Error: %s"
+msgstr "گذرواژه جدید شما فعال نشده است.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1776
+msgid "<b>Your New Password has been Activated</b><br /> Please copy and paste your new password from the email you received to prevent any misspelling issues."
+msgstr "گذرواژه جدید شما هم اکنون فعال گردید.لطفا این گذرواژه را به خاطر بسپارید و از دادن آن به اشخاص دیگر خودداری فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1813
+msgid "<b>Your New Password has been Sent</b><br /> A notification email has been sent to your email address with the new login information."
+msgstr "گذرواژه جدید به نشانی پست الکترونیک شما ارسال شد.این پیام حاوی اطلاعات لازم برای ورود به این سایت می باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1893
+#, php-format
+msgid "Welcome back %s"
+msgstr "خوش آمدید  %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1934
+msgid "Remember me (stay logged in)"
+msgstr "مرا به خاطر بسپار"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1942
+msgid "Please enter the email address you have provided at registration / join."
+msgstr "لطفا نشانی ایمیلی را که زمان ثبت نام ارائه فرموده بودید را وارد نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1947
+msgid "Email address"
+msgstr "نشانی ایمیل"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1987
+msgid "Avatar"
+msgstr "آواتار"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1999
+msgid "Quick Account"
+msgstr "حساب کاربری سریع"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2025
+msgid "Quick Login"
+msgstr "ورود سریع"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2032
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2060
+msgid "Login"
+msgstr "ورود"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2053
+msgid "Member Login"
+msgstr "ورود اعضاء"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2088
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2093
+msgid "Request a New Password"
+msgstr "درخواست گذرواژه جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2137
+msgid "This account has been suspended!"
+msgstr "این حساب کاربری توسط مدیر سایت معلق شده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2142
+msgid "You have entered an invalid username or password. Please enter the correct details (use copy and paste) or use your email address as your username and try again. Don't forget that the password is case sensitive."
+msgstr "شناسه کاربری و یا گذرواژه وارده صحیح نیست.لطفا اطلاعات مذبور را بررسی نموده و اصلاح نمایید و مجددا تلاش کنید.توجه داشته باشید که گذرواژه به بزرگی/کوچکی حروف حساس می باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2150
+#, php-format
+msgid "You have used %s out of %s login attempts. After all %s have been used, you will be unable to login for %s minutes."
+msgstr "شما تعداد %s بار از %s مجاز ، تلاش برای ورود ناموفق داشته %s اید.توجه داشته باشید پس از آن تا %s دقیقه امکان ورود به سایت را نخواهید داشت."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2162
+#, php-format
+msgid "Wrong username or password. <b>You have used up your failed login quota! Please wait %s minutes before trying again.</b> Don't forget that the password is case sensitive."
+msgstr "شناسه کاربری و یا گذرواژه وارده صحیح نیست.لطفا اطلاعات مذبور را بررسی نموده و اصلاح نمایید و مجددا %s تلاش کنید.توجه داشته باشید که گذرواژه به بزرگی/کوچکی حروف حساس می باشد."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2172
+#, php-format
+msgid "Account suspended! <b>This account has been suspended for %s minutes because of to many logins from different IP addresses.</b> Please ensure that you have a secure password and/or your are logged out from your other PCs before trying again."
+msgstr "این حساب کاربری موقتا بدلیل تعداد دفعات غیرمجاز تلاش برای ورود ناکام ، برای  %s دقیقه معلق شده است."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2182
+msgid "Your session couldn't be stored! Please contact the webmaster with this error and your login information."
+msgstr "امکان راه اندازی جلسه جدید برای ورود شما میسر نیست.لطفا با مدیر سایت تماس حاصل فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2189
+msgid "Login has been temporarily suspended. Please try again later."
+msgstr "ورود به سایت موقتا غیر فعال شده است.لطفا صبور باشید و در زمانی دیگر مجددا تلاش کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2195
+msgid "The specified username is currently inactive. If you have problems activating your account, please contact us or request a new password to activate your account."
+msgstr "شناسه کاربری مورد نظر فعلا غیر فعال است.اگر برای فعالسازی این حساب مشکلی دارید می توانید مجددا تقاضای ارسال ایمیل فعالسازی نمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:44
+msgid "New Feed"
+msgstr "خوراک جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:48
+msgid "Available Feeds"
+msgstr "خوراکهای موجود"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:64
+msgid "Feed URL"
+msgstr "نشانی URL خوراک"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:72
+msgid "Select Feed"
+msgstr "انتخاب خوراک"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:71
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:77
+msgid "e.g. http://jcore.net/rss/posts.xml"
+msgstr "مثلا:  http://domain.net/rss/posts.xml"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:144
+msgid "RSS feeds have been successfully re-ordered."
+msgstr "خوراک های مورد نظر با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:155
+msgid "RSS feed has been successfully deleted."
+msgstr "خوراک های مورد نظر با موفقیت حذف گردیدند."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:169
+msgid "RSS feed has been successfully updated."
+msgstr "خوراکهای مورد نظر با موفقیت به روز شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:171
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:188
+msgid "View RSS"
+msgstr "مشاهده خوراکها"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:186
+msgid "RSS feed has been successfully created."
+msgstr "خوراک مورد نظر با موفقیت ایجاد گردید."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:206
+msgid "Title / Feed URL"
+msgstr "عنوان/نشانی URL خوراک"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:331
+msgid "RSS Feeds Administration"
+msgstr "مدیریت خوراک ها"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:356
+msgid "Edit RSS Feed"
+msgstr "اصلاح خوراک"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:357
+msgid "New RSS Feed"
+msgstr "خوراک جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:394
+msgid "No RSS feeds found."
+msgstr "هیچ خوراکی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:455
+#, php-format
+msgid "Feed couldn't be created! Error: %s"
+msgstr "امکان ایجاد خوراک وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:488
+#, php-format
+msgid "Feed couldn't be updated! Error: %s"
+msgstr "امکان به روز رسانی خوراک وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:52
+msgid "New Ad"
+msgstr "تبلیغات جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:65
+msgid "Promo text"
+msgstr "متن کوتاه آغازگر"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:96
+msgid "Upload a banner"
+msgstr "ارسال یک بنر"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:102
+msgid "Banner"
+msgstr "بنر"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:108
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:110
+msgid "e.g. image.jpg, flash.swf"
+msgstr "مثلا:   image.jpg, flash.swf"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:126
+msgid "Use Google or other Ad Code"
+msgstr "از گوگل و یا سایر کدهای تبلیغاتی استفاده کنید"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:131
+msgid "Ad Code (leave it empty to automatically generate code for flash ads)"
+msgstr "کد تبلیغات(اگر می خواهید کد بطور خودکار بویژه برای بنرهای فلش ، تولید شود ، این قسمت را خالی بگذارید)"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:138
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:140
+msgid "e.g. Google Ad Code"
+msgstr "مثلا: Google Ad Code"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:148
+msgid "Show Ad only within a defined time interval"
+msgstr "تبلیغات تنها در تناوبهای زمانی تعریف شده نمایش داده شوند"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:167
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:434
+msgid "Show on"
+msgstr "نمایش در"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:241
+msgid "Ads have been successfully re-ordered."
+msgstr "تبلیغات مورد نظر با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:252
+msgid "Ad has been successfully deleted."
+msgstr "تبلیغات مورد نظر با موفقیت حذف شد."
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:277
+msgid "Ad has been successfully updated."
+msgstr "تبلیغات مورد نظر با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:290
+msgid "Ad has been successfully created."
+msgstr "تبلیغات مورد نظر با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:346
+msgid "No Place Defined"
+msgstr "هیچ مکانی تعریف نشده"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:349
+msgid "Total"
+msgstr "جمع"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:373
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:420
+msgid "Expired"
+msgstr "منقضی شده"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:430
+msgid "Every day"
+msgstr "هر روز"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:438
+msgid "Stats"
+msgstr "آمار"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:439
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:478
+msgid "Displays"
+msgstr "نمایش ها"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:441
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:480
+msgid "Clicks"
+msgstr "کلیک ها"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:443
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:482
+msgid "Ratio"
+msgstr "نرخ"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:613
+msgid "Ads Administration"
+msgstr "مدیریت تبلیغات"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:638
+msgid "Edit Ad / Banner"
+msgstr "اصلاح تبلیغات/بنر"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:639
+msgid "New Ad / Banner"
+msgstr "تبلیغات/بنر جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:678
+msgid "No ads found."
+msgstr "هیچ تبلیغاتی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:783
+#, php-format
+msgid "Ad couldn't be created! Error: %s"
+msgstr "امکان ایجاد نبلیغات وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:862
+#, php-format
+msgid "Ad couldn't be updated! Error: %s"
+msgstr "امکان به روز رسانی تبلیغات وجود ندارد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:907
+msgid "Ad not found!"
+msgstr "تبلیغات پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:42
+msgid "Languages"
+msgstr "زبانها"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:59
+msgid "Couldn't regenerate sitemap XML file."
+msgstr "امکان بازتولید پرونده نقشه سایت XML وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:69
+msgid "Sitemap XML file has been successfully regenerated."
+msgstr "پرونده XML نقشه سایت با موفقیت باز تولید شد."
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:79
+msgid "Sitemap XML File Administration"
+msgstr "مدیریت پرونده XML نقشه سایت"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:86
+#, php-format
+msgid "This file (%s) gets updated automatically every time you create / edit / delete a menu item but you can regenerate or modify it manually below."
+msgstr "این پرونده %s بطور خودکار در پی تغییر/ایجاد/حذف منو ها ، به روز می شود.در عین حال شما می توانید آنرا بصورت دستی نیز بازتولید و به روز فرمایید."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:69
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:635
+msgid "New Video"
+msgstr "ویدئوی جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:91
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:151
+msgid "Video Cap"
+msgstr "برداشت ویدئو"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:98
+msgid "Add an already uploaded video (for e.g. youtube, vimeo url)"
+msgstr "ویدئویی از سایت دیگر را اضافه کنید(مثلا از یوتیوب و ...)"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:103
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:170
+msgid "Video (URL)"
+msgstr "نشانی URL ویدئو"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:108
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:174
+msgid "e.g. http://www.youtube.com/watch?v=0_fPV13lKm4"
+msgstr "مثلا:  http://www.youtube.com/watch?v=0_fPV13lKm4"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:121
+msgid "Add another url"
+msgstr "نشانی دیگری اضافه کنید"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:128
+msgid "Local Video"
+msgstr "ویدئوی محلی از سایت"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:139
+msgid "Upload a new video"
+msgstr "ارسال ویدئوی جدید"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:144
+msgid "Video File"
+msgstr "پرونده ویدئویی"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:148
+msgid "e.g. video.mp4, video.flv"
+msgstr "مثلا: video.mp4, video.flv"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:237
+msgid "Videos have been successfully re-ordered."
+msgstr "ویدئو های مورد نظر با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:248
+msgid "Video has been successfully deleted."
+msgstr "ویدئوی مورد نظر با موفقیت حذف شد."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:261
+msgid "No file selected to be uploaded as a new video! Please select a file / video to upload or define an already uploaded video."
+msgstr "هیچ پرونده ای برای ارسال بعنوان ویدئو انتخاب نشده است.لطفا دست کم یک پرونده را ارنتخاب نمایید و مجددا تلاش کنید."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:303
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:383
+#, php-format
+msgid "Video \"%s\" is not embeddable, \"%s\"."
+msgstr "ویدئوی  \"%s\" قابل درج نیست ،  \"%s\""
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:313
+msgid "Video has been successfully updated."
+msgstr "ویدئوی مورد نظر با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:327
+msgid "Video has been successfully uploaded."
+msgstr "ویدئوی مورد نظر با موفقیت ارسال شد."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:351
+msgid "Video has been successfully added."
+msgstr "ویدئوی مورد نظر با موفقیت اضافه شد."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:413
+#, php-format
+msgid "There were problems adding some of the video urls you defined. The following videos couldn't be added: %s."
+msgstr "به نظر می رسد در ثبت نشانی برخی ویدئو ها مشکلی پیش آمده است.این مشکل به موارد مقابل مربوط می شود:  \"%s\""
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:423
+#, php-format
+msgid "Video(s) have been successfully added. The following videos have been added: %s."
+msgstr "ویدئو/ها ی مورد نظر با موفقیت اضافه شد.ویدئو/های اضافه شده عبارتند از:  \"%s\""
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:437
+msgid "Video"
+msgstr "ویدئو"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:439
+msgid "Title / Added on"
+msgstr "عنوان/اضافه شده در تاریخ"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:634
+msgid "Edit Video"
+msgstr "اصلاح ویدئو"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:793
+#, php-format
+msgid "Video couldn't be created! Error: %s"
+msgstr "امکان ایجاد ویدئو وجود ندارد.خطا:  \"%s\""
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:849
+#, php-format
+msgid "Video couldn't be updated! Error: %s"
+msgstr "امکان به روز رسانی ویدئو وجود ندارد.خطا:  \"%s\""
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:1058
+msgid "No video selected!"
+msgstr "هیچ ویدئویی انتخاب نشده است!"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:1070
+msgid "The selected video cannot be found!"
+msgstr "ویدئوی انتخاب شده وجود ندارد!"
+

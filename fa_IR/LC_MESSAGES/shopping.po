@@ -1,0 +1,1834 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:23+0200\n"
+"PO-Revision-Date: 2011-02-18 18:40+0200\n"
+"Last-Translator: Foroshandegan Developer's Group <info@foroshandegan.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: Dynamic Forms
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Description"
+msgstr "شرح"
+
+msgid "Custom Options Placeholder"
+msgstr "محل تنظیمات سفارشی سازی"
+
+msgid "Blogging Options"
+msgstr "تنظیمات وبلاگ"
+
+msgid "Created on"
+msgstr "ایحاد شده در"
+
+msgid "Path"
+msgstr "مسیر"
+
+msgid "Keywords"
+msgstr "کلیدواژه ها"
+
+msgid "Rating Options"
+msgstr "تنظیمات امتیازدهی"
+
+msgid "Enable Rating"
+msgstr "فعال سازی امتیازدهی"
+
+msgid "Enable Guest Rating"
+msgstr "فعالسازی امتیازدهی مهمان"
+
+msgid "Comments Options"
+msgstr "تنظیمات درج نظر"
+
+msgid "Enable Comments"
+msgstr "فعالسازی درج نظر"
+
+msgid "Enable Guest Comments"
+msgstr "فعالسازی درج نظر مهمان"
+
+msgid "Additional Options"
+msgstr "سایر تنظیمات"
+
+msgid "Deactivated"
+msgstr "غیرفعال"
+
+msgid "e.g. 150"
+msgstr "مثلا: 150"
+
+msgid "<span class='comment' style='text-decoration: line-through;'>(marked with strike through)</span>"
+msgstr "<span class='comment' style='text-decoration: line-through;'>(این عبارت بصورت خط خورده نمایش داده خواهد شد)</span>"
+
+msgid "<b>Billing information</b><br />* This information must match your credit card to prevent any delays"
+msgstr "<b>اطلاعات پرداخت</b><br />* این اطلاعات باید با مشخصات کارت بانکی شما منطبق باشد."
+
+msgid "Your name"
+msgstr "نام شما"
+
+msgid "Phone number"
+msgstr "شماره تلفن"
+
+msgid "<b>Shipping address</b><br />* Leave blank If same as Billing Information"
+msgstr "<b>نشانی محل تحویل</b><br />* اگر با نشانی محل سکونت شما یکسان است خالی بگذارید"
+
+msgid "Company / Organization"
+msgstr "شرکت/موسسه"
+
+msgid "Address"
+msgstr "نشانی"
+
+msgid "City"
+msgstr "شهر"
+
+msgid "State"
+msgstr "استان"
+
+msgid "Zip/Postal code"
+msgstr "کدپستی"
+
+msgid "Country"
+msgstr "کشور"
+
+msgid "Comments"
+msgstr "توضیحات"
+
+msgid "Indicate here your preferences or other comments"
+msgstr "در این قسمت اگر توضیح خاصی دارید بنویسید"
+
+msgid "Gift order"
+msgstr "ارسال کالا بعنوان هدیه"
+
+msgid "Is this a gift order?"
+msgstr "آیا این کالا را بعنوان هدیه به شخص دیگری ارسال می کنید؟"
+
+msgid "Please enter your gift message here"
+msgstr "پیام مورد نظر جهت ارسال بهمراه هدیه را بنویسید"
+
+#: Cart Settings
+msgid "Automatic Continue Shopping"
+msgstr "بطور خودکار ارسال گردد"
+
+msgid "Currency Position"
+msgstr "محل ارز"
+
+msgid "Weight Unit"
+msgstr "واحد وزنی"
+
+msgid "Display Similar Items"
+msgstr "نمایش اقلام مشابه"
+
+msgid "Limit"
+msgstr "محدود"
+
+msgid "Email Notification"
+msgstr "اطلاع رسانی از طریق پست الکترونیک"
+
+msgid "Send Notification Email On New Order"
+msgstr "هر سفارش جدیدی که دریافت شد ، یک پیام به پست الکترونیکی شما ارسال گردد"
+
+msgid "Send Notification Email To"
+msgstr "اطلاع رسانی سفارشات به نشانی زیر ارسال گردد"
+
+msgid "Limits"
+msgstr "محدودیت ها"
+
+msgid "Minimum Item Order"
+msgstr "حداقل تعداد سفارش"
+
+msgid "Minimum Order Price"
+msgstr "حداقل بهای سفارش"
+
+msgid "Order Method InvoiceCustomer"
+msgstr "روش پرداخت از طریق ارسال پستی صورتحساب سفارش"
+
+msgid "Order Method Check"
+msgstr "پرداخت از طریق چک/حواله"
+
+msgid "To Name"
+msgstr "به نام"
+
+msgid "Order Method PayPal"
+msgstr "پرداخت Paypal"
+
+msgid "Order Method CCBill"
+msgstr "پرداخت CCBill"
+
+msgid "Account Number"
+msgstr "شماره حساب"
+
+msgid "SubAccount Number"
+msgstr "کد حساب"
+
+msgid "Form ID"
+msgstr "کد فرم"
+
+msgid "Encryption Key"
+msgstr "کلید رمز"
+
+msgid "Currency Code"
+msgstr "کد ارز"
+
+msgid "Order Method AlertPay"
+msgstr "پرداخت به روش AlertPay"
+
+msgid "Security Code"
+msgstr "کد امنیتی"
+
+msgid "Order Method AuthorizeDotNet"
+msgstr "پرداخت به روش AuthorizeDotNet"
+
+msgid "API Login ID"
+msgstr "API Login ID"
+
+msgid "Transaction Key"
+msgstr "کلید تراکنش"
+
+msgid "Order Method 2CheckOut"
+msgstr "پرداخت به روش 2CheckOut"
+
+msgid "Vendor ID"
+msgstr "API Login ID"
+
+msgid "Skip Fraud Check"
+msgstr "صرفنظر از Fraud Check"
+
+msgid "Order Method MoneyBookers"
+msgstr "پرداخت از طریق MoneyBookers"
+
+msgid "Enabled"
+msgstr "فعال"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Currency"
+msgstr "ارز"
+
+msgid "Secret Word"
+msgstr "کلید خصوصی"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:32
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1509
+msgid "Shopping Orders"
+msgstr "سفارشات"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:33
+msgid "Handle New / Processed orders and display members their orders history"
+msgstr "مدیریت سفارشات و نمایش سابقه سفارشات اعضا"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:69
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:116
+msgid "Invoice Customer"
+msgstr "صورتحساب مشتری"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:70
+msgid "You will be contacted personally to finalize the payments"
+msgstr "جهت تکمیل فرآیند خرید ، با شما تماس خواهیم گرفت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:74
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:144
+msgid "Check Payment"
+msgstr "بررسی پرداخت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:75
+#, php-format
+msgid "Please complete the check to be sent to %s"
+msgstr "لطفا چک ارسالی به  %s را تکمیل فرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:82
+msgid "Credit Card Payment (PayPal)"
+msgstr "پرداخت کارتهای اعتباری از طریق PayPal"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:83
+msgid "An extra step will be required trough Paypal.com"
+msgstr "علاوه بر این چند مرحله باید در سایت PayPal سپری گردد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:87
+msgid "Credit Card Payment (CCBill)"
+msgstr "پرداخت کارتهای اعتباری از طریق CCBill"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:88
+msgid "An extra step will be required trough CCBill.com"
+msgstr "علاوه بر این باید چند مرحله در CCBill.com سپری گردد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:92
+msgid "Credit Card Payment (AlertPay)"
+msgstr "پرداخت کارت اعتباری از طریق AlertPay"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:93
+msgid "An extra step will be required trough AlertPay.com"
+msgstr "علاوه بر این چند مرحله باید در  AlertPay.com سپری گردد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:97
+msgid "Credit Card Payment (Authorize.net)"
+msgstr "پرداخت کارتهای اعتباری از طریق Authorize.net"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:98
+msgid "An extra step will be required trough Authorize.net"
+msgstr "علاوه بر این باید چند مرحله در Authorize.net سپری گردد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:102
+msgid "Credit Card Payment (2CheckOut)"
+msgstr "پرداخت کارتهای اعتباری از طریق 2CheckOut"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:103
+msgid "An extra step will be required trough 2CheckOut.com"
+msgstr "علاوه بر این باید چند مرحله باید در 2CheckOut.com سپری گردد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:107
+msgid "Credit Card Payment (MoneyBookers)"
+msgstr "پرداخت کارتهای اعتباری از طریق MoneyBookers"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:108
+msgid "An extra step will be required trough MoneyBookers.com"
+msgstr "علاوه بر این باید چند مرحله در  MoneyBookers.com  سپری گردد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:121
+msgid "Please contact client to finalize the payments."
+msgstr "لطفا جهت تکمیل پرداخت با مشتری تماس بگیرید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:149
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:171
+msgid "Name on Check"
+msgstr "نام روی چک"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:152
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:178
+msgid "Check Number"
+msgstr "شماره چک"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:155
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:185
+msgid "Check Amount"
+msgstr "مبلغ چک"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:199
+msgid "PayPal"
+msgstr "PayPal"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:202
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:429
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:623
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:818
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1030
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1265
+msgid "Your order has been successfully created but your payment has not been processed yet. To finalize your payments please click on the button below."
+msgstr "سفارش شما با موفقیت ثبت گردید اما برای تکمیل پرداخت لازمست بر روی لینک زیر کلیک نمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:208
+msgid "User redirected to paypal, payment is being processed."
+msgstr "کاربر به paypal هدایت شده است.پرداخت در حال پردازش است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:256
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:485
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:677
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:886
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1082
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1316
+msgid "Click to Finalize Payments"
+msgstr "برای اتمام پرداخت اینجا کلیک کنید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:426
+msgid "CCBill"
+msgstr "CCBill"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:435
+msgid "User redirected to ccbill, payment is being processed."
+msgstr "کاربر به ccbill هدایت شده است و پرداخت در حال پردازش است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:620
+msgid "AlertPay"
+msgstr "AlertPay"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:629
+msgid "User redirected to alertpay, payment is being processed."
+msgstr "کاربر به alertpay هدایت شده و پرداخت در حال پردازش است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:815
+msgid "Authorize.net"
+msgstr "Authorize.net"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:824
+msgid "User redirected to authorize.net, payment is being processed."
+msgstr "کاربر به Authorize.net هدایت شده و پرداخت در حال پردازش است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1027
+msgid "2CheckOut"
+msgstr "2CheckOut"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1036
+msgid "User redirected to 2checkout, payment is being processed."
+msgstr "کاربر به 2CheckOut هدایت شده و پرداخت در حال پردازش است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1262
+msgid "MoneyBookers"
+msgstr "MoneyBookers"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1271
+msgid "User redirected to moneybookers, payment is being processed."
+msgstr "کاربر به MoneyBookers هدایت شده و پرداخت در حال پردازش است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1536
+msgid "Order"
+msgstr "سفارش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1576
+msgid "Order item couldn't be added to the db! Please contact us with this error asap."
+msgstr "سفارش شما به بانک اطلاعاتی اضافه نشده است! لطفا پیام خطا را به ما گزارش دهید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1616
+#, php-format
+msgid "Order item couldn't be updated! Error: %s"
+msgstr "سفارش به روز نشده است..خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1868
+msgid "Shopping cart settings table cannot be found! Please first install the Shopping Cart module and then try again."
+msgstr "تنظیمات سبد خرید پیدا نشد.لطفا افزونه سبد خرید را مجددا نصب فرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2094
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3566
+msgid "New Order"
+msgstr "سفارش جدید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2098
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4703
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4755
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5780
+msgid "Items"
+msgstr "موارد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2101
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:449
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4385
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3645
+msgid "Cart Settings"
+msgstr "تنظیمات سبد خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2120
+msgid "Order Status"
+msgstr "وضعیت سفارش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2157
+msgid "Order Owner"
+msgstr "سفارش دهنده"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2171
+msgid "Define the owner of this order"
+msgstr "مالک این سفارش را تعریف کنید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2172
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:157
+msgid "Select User"
+msgstr "انتخاب کاربر"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2176
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:24
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1990
+msgid "Shopping Items"
+msgstr "اقلام فروشگاهی"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2177
+msgid "Click on the Add Items link below to add items to this order."
+msgstr "بر روی دکمه اضافه شود کلیک نمایید تا کالای مورد نظر به سبد خرید افزوده شود."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2196
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4072
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4526
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2838
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2844
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2909
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2961
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3007
+msgid "Order Method"
+msgstr "روش سفارش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2220
+msgid "No Order Method Specified"
+msgstr "هیچ روشی برای سفارش تعریف نشده است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2226
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3329
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4549
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4732
+msgid "Status"
+msgstr "وضعیت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2257
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4569
+msgid "Details"
+msgstr "جزییات"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2265
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3059
+msgid "Please select the order method you would like to proceed with"
+msgstr "لطفا روش انجام سفارش را انتخاب نمایید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2363
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2543
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1816
+msgid "Custom Options"
+msgstr "تنظیمات سفارشی"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2412
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3149
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:583
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1762
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4417
+msgid "Ref. Number"
+msgstr "شماره مرجع"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2417
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3154
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:61
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:89
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:230
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:250
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:280
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4189
+msgid "Item"
+msgstr "مورد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2422
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3159
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3285
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3319
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4194
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4429
+msgid "Quantity"
+msgstr "تعداد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2427
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3164
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4434
+msgid "Unit Price"
+msgstr "قیمت واحد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2432
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4439
+msgid "Total Price"
+msgstr "جمع کل"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2451
+msgid "Add items to this order"
+msgstr "موارد به سفارش اضافه شوند"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2452
+msgid "Add Items"
+msgstr "اضافه شود"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2457
+msgid "Refresh order totals"
+msgstr "محاسبه مجدد جمع کل"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2458
+msgid "Refresh"
+msgstr "بازخوانی"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2464
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4114
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4274
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4576
+msgid "Subtotal"
+msgstr "جمع جزء"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2473
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4120
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2080
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4288
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4601
+msgid "Tax"
+msgstr "مالیات"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2482
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4126
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:418
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4303
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4626
+msgid "Discount"
+msgstr "تخفیف"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2490
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4132
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4318
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4651
+msgid "Shipping & Handling"
+msgstr "مدیریت ارسال/حمل"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2498
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3327
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4138
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4730
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4332
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4676
+msgid "Grand Total"
+msgstr "جمع کل"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2731
+msgid "Order has been successfully deleted."
+msgstr "سفارش با موفقیت حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2745
+msgid "Order has been successfully updated."
+msgstr "سفارش با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2761
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2499
+msgid "We are sorry for the inconvenience but it seems this order method doesn't have order processing capabilities. Please choose a different order method or contact webmaster."
+msgstr "از وضعیت ایجاد شده عذرخواهی می کنیم و لذا تقاضا داریم که برای رفع مشکل ، روش دیگری را برای انجام سفارش انتخاب نمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2775
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:232
+msgid "Username couldn't be found!"
+msgstr "شناسه کاربری پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2776
+msgid "Please make sure you have entered / selected the right username or if you wish to add this order to a new user please first create the user at Member Management -> Users."
+msgstr "لطفا مطمئن شوید که کاربر مورد نظر از تمام وجوه همان کاربر مورد نظر شما برای اضافه کردن سفارش به وی می باشد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2815
+msgid "No items added / selected for this order! Please select / add at least one item for the new order to proceed."
+msgstr "هیچ موردی در سبد خرید وجود ندارد.لطفا ابتدا کالای مورد نظر خود را انتخاب و به سبد خرید اضافه نمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2892
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2625
+msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number asap."
+msgstr "به نظر می رسد در پردازش سفارش شما خطایی ایجاد شده است.لطفا صبور باشید و بار دیگر تلاش فرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2902
+#, php-format
+msgid "Order has been successfully created.<br /> The confirmation / tracking number is <b>%s</b>."
+msgstr "سفارش با موفقیت ایجاد شد. .<br /> کد رهگیری عبارتست از:  <b>%s</b>."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2907
+msgid "View Order"
+msgstr "ترتیب نمایش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2963
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1189
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2007
+msgid "Select"
+msgstr "انتخاب"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3034
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:380
+msgid "Yes"
+msgstr "بلی"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3144
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:310
+msgid "Add"
+msgstr "اضافه شود"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3169
+msgid "Stock"
+msgstr "استوک"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3301
+msgid "Available"
+msgstr "موجود"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3302
+msgid "Unavailable"
+msgstr "موجود نیست"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3325
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4728
+msgid "Order ID / Submitted on"
+msgstr "زمان سفارش "
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3506
+msgid "Shopping Orders Administration"
+msgstr "مدیریت سفارشات"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3565
+msgid "Edit Order"
+msgstr "اصلاح سفارش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3612
+msgid "New and Processing Orders"
+msgstr "سفارشات جدید/در حال پردازش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3622
+msgid "Processed Orders"
+msgstr "سفارش پردازش شده"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3648
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4931
+msgid "No orders found."
+msgstr "هیچ سفارشی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3735
+msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error asap."
+msgstr "با عرض پوزش ، سفارش به بانک اطلاعاتی ما اضافه نشده است.لطفا صبور باشید و این مشکل را به ما اطلاع دهید.با سپاس"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3760
+#, php-format
+msgid "Order couldn't be created / updated! Error: %s"
+msgstr "سفارش ایجاد/به روز نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3842
+#, php-format
+msgid "Order couldn't be updated! Error: %s"
+msgstr "سفارش به روز نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3908
+msgid "Accepted"
+msgstr "پذیرفته شده"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3910
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3930
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4021
+msgid "Cancelled"
+msgstr "انصراف داده شد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3912
+msgid "New"
+msgstr "جدید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3914
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3940
+msgid "Processing"
+msgstr "در حال پردازش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3916
+msgid "Rejected"
+msgstr "رد شده"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3918
+msgid "Delivered"
+msgstr "تحویل داده شد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3920
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3942
+msgid "Undefined!"
+msgstr "تعریف نشده!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3932
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4015
+msgid "Paid"
+msgstr "پرداخت شده"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3934
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4028
+msgid "Pending"
+msgstr "منتظر پرداخت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3936
+msgid "Failed"
+msgstr "خطا در پرداخت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3938
+msgid "Expired"
+msgstr "منقضی شده"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3978
+msgid "Email couldn't be sent! The defined order cannot be found."
+msgstr "پیام الکترونیکی ارسال نشد.سفارش مورد نظر پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4017
+msgid "It's now safe to ship the goods if necessary."
+msgstr "اکنون می توان در صورت لزوم اقدام به ارسال کالا نمود."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4023
+msgid "IMPORTANT: payment has been cancelled so shipment should be cancelled too!"
+msgstr "مهم:پرداخت لغو گردیده لذا باید ارسال کالا نیز لغو گردد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4030
+msgid "IMPORTANT: do NOT ship any goods till payment has been confirmed / processed!"
+msgstr "مهم:کالاها را تا تمکیل مراحل پرداخت و تایید آن ارسال نفرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4078
+msgid "Items ordered"
+msgstr "موارد سفارش داده شده"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4145
+msgid "You can access / download your digital goods at:"
+msgstr "شما می توانید کالاهای خود را بصورت اینترنتی از طریق زیر دریافت نمایید:"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4284
+msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait till we receive the confirmation for your payment."
+msgstr "پرداخت هنوز انجام نشده است.جهت دریافت کالای اینترنتی خود ابتدا مرحله پرداخت را تکمیل فرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4324
+msgid "Order #"
+msgstr "سفارش#"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4349
+msgid "Your order details are listed below, if you would like to change any of the submitted information or have further question / comments please let us know in the comments."
+msgstr "جزییات سفارش را می توانید در زیر ملاحظه فرمایید.اگر تمایل دارید می توانید آنرا تغییر دهید و یا توضیحی به سفارش خود بیافزایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4453
+msgid "Payment confirmed and received."
+msgstr "پرداخت انجام و تایید گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4461
+msgid "Payment still pending!"
+msgstr "پرداخت هنوز انجام نشده است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4469
+msgid "Payment failed!"
+msgstr "پرداخت با خطا مواجه گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4477
+msgid "Payment expired!"
+msgstr "پرداخت منقضی گردیده است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4485
+msgid "Awaiting payment deposit!"
+msgstr "منتظر پرداخت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4507
+msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes till we receive the confirmation, otherwise please click on the button below."
+msgstr "به نظر می رسد هنوز پرداخت انجام/تایید نشده است.اگر از انجام پرداخت اطمینان دارید ، لطفا منتظر بمانید تا تاییدیه آن به ما واصل شده و در اینصورت کالا ارسال خواهد شد.در غیر اینصورت بر روی پیوند زیر کلیک نمایید:"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4531
+msgid "Method"
+msgstr "روش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4608
+#, php-format
+msgid "%s, started on <i>%s</i>, finished on %s, from %s"
+msgstr "%s, آغاز شده در <i>%s</i>, تکمیل شده در %s, از %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4613
+msgid "unknown"
+msgstr "نامشخص"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4647
+msgid "Downloads"
+msgstr "بارگذاریها"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:16
+msgid "Shopping Store"
+msgstr "غرفه فروشگاه"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:17
+msgid "Sell products in a directory like structure"
+msgstr "کالاهای خود را بصورت طبقه بندی شده عرضه نمایید"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:100
+msgid "No file selected to download!"
+msgstr "هیج پرونده ای برای دریافت انتخاب نشده است!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:112
+msgid "The selected file cannot be found!"
+msgstr "پرونده انتخاب شده پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:119
+msgid "You need to be logged in to download this file. Please login or register."
+msgstr "جهت دریافت این پرونده باید عضو سایت شده و وارد سامانه شده باشید."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:132
+msgid "An order with this file cannot be found!"
+msgstr "هیچ سفارشی برای این پرونده پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:143
+msgid "The order you selected cannot be found!"
+msgstr "سفارش مورد نظر پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:152
+msgid "You are not the owner of this order!"
+msgstr "شما حق دسترسی به این سفارش را ندارید!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:159
+msgid "Your payment has not yet been confirmed!"
+msgstr "پرداخت شما تاکنون تایید نشده است!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:169
+msgid "Your order has been cancelled!"
+msgstr "سفارش شما لغو گردیده است."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:187
+msgid "Your download has expired!"
+msgstr "این دانلود منقضی شده است!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:442
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2032
+msgid "New Item"
+msgstr "مورد جدید"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:446
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4382
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3613
+msgid "Orders"
+msgstr "سفارش ها"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:498
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:751
+msgid "(will create a new item)"
+msgstr "(یک مورد جدید ایجاد خواهد کرد)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:552
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3218
+msgid "Item Options"
+msgstr "تنظیمات هر قلم"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:558
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1741
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4199
+msgid "Price"
+msgstr "قیمت"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:580
+msgid "e.g. 170"
+msgstr "مثلا: 170"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:587
+msgid "e.g. ITEM-0711"
+msgstr "مثلا:  ITEM-0711"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:595
+msgid "Quantity Options"
+msgstr "تنظیمات تعداد/مقدار"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:600
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1828
+msgid "Available Quantity"
+msgstr "تعداد موجودی"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:607
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:609
+msgid "e.g. 1000 (leave it empty for unlimited)"
+msgstr "مثلا: 1000(0 به معنای نامحدود است)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:612
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1833
+msgid "Max Order Quantity at Once"
+msgstr "حداکثر تعداد قابل سفارش در هر خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:619
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:621
+msgid "e.g. 15 (default 30)"
+msgstr "مثلا: 15 (پیشفرض:30)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:624
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1838
+msgid "Show Quantity Picker"
+msgstr "نمایش انتخابگر تعداد/مقدار"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:663
+msgid "e.g. oranges, lemons, limes"
+msgstr "مثلا: نارنجی،قرمز،آبی"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:864
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1307
+msgid "Title* (e.g. Color, Size)"
+msgstr "عنوان* (مثلا: رنگ،اندازه)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:874
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1317
+msgid "Required"
+msgstr "الزامی"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:939
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1154
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1372
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1437
+msgid "Price Difference"
+msgstr "اختلاف قیمت"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:944
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1163
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1377
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1442
+msgid "Price Type"
+msgstr "نوع قیمت"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:949
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1382
+msgid "Max Characters"
+msgstr "حداکثر تعداد حروف"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1012
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1103
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1259
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1409
+msgid "Fixed"
+msgstr "ثابت"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1019
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1110
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1260
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1410
+msgid "Percent"
+msgstr "درصد"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1145
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1432
+msgid "Title* (e.g. Red, XXL)"
+msgstr "عنوان*(مثلا: قرمز،XXL("
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1187
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1456
+msgid "Add new row"
+msgstr "سطر جدید اضافه نمایید"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1208
+msgid "Add new option"
+msgstr "مشخصه جدید اضافه کنید"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1514
+msgid "Items have been successfully re-ordered."
+msgstr "اقلام با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1525
+msgid "Item has been successfully deleted."
+msgstr "اقلام با موفقیت حذف گردیدند."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1547
+msgid "Item has been successfully updated."
+msgstr "اقلام با موفقیت به روز گردیدند."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1551
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1571
+msgid "View Item"
+msgstr "مشاهده قلم"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1567
+msgid "Item has been successfully created."
+msgstr "اقلامم با موفقیت ایجاد شدند."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1605
+msgid "Goods"
+msgstr "کالاها"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1704
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4468
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4853
+msgid "Digital Goods"
+msgstr "کالاهای نرم افزاری"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1747
+msgid "Special Price"
+msgstr "فروش ویژه"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1752
+msgid "Special Price Starts"
+msgstr "تاریخ فروش ویژه از:"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1757
+msgid "Special Price Ends"
+msgstr "تاریخ پایان فروش ویژه:"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1767
+msgid "Weight"
+msgstr "وزن"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1777
+msgid "Taxable"
+msgstr "مشمول مالیات"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1864
+msgid "Display Related Items"
+msgstr "نمایش کالاهای مرتبط"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2031
+msgid "Edit Item"
+msgstr "اصلاح قلم"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2076
+msgid "Out of Stock Items"
+msgstr "اقلام تمام شده"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2086
+msgid "Items in Stock"
+msgstr "اقلام موجود در انبار"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2108
+msgid "No items found for this category."
+msgstr "هیچ موردی در این طبقه وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2159
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2388
+msgid "Custom option title is required!"
+msgstr "عنوان مشخصه سفارشی الزامی است!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2168
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2179
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2397
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2408
+#, php-format
+msgid "No custom option price defined for \"%s\"!"
+msgstr "هیچ قیمتی برای این مشخصه خاص تعریف نشده:  \"%s\"!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2188
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2417
+#, php-format
+msgid "Custom option price title for \"%s\" is required!"
+msgstr "قیمت مشخصه سفارشی الزامی است:  \"%s\"!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2275
+#, php-format
+msgid "Item couldn't be added! Error: %s"
+msgstr "اقلام اضافه نشدند: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2302
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2598
+#, php-format
+msgid "Custom option couldn't be created! Error: %s"
+msgstr "مشخصه سفارشی ایجاد نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2316
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2337
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2494
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2571
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2616
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2636
+#, php-format
+msgid "Custom option price couldn't be created! Error: %s"
+msgstr "قیمت مشخصه سفارشی ایجاد نشده.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2457
+#, php-format
+msgid "Custom option couldn't be updated! Error: %s"
+msgstr "مشخصه سفارشی به روز نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2513
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2550
+#, php-format
+msgid "Custom option price couldn't be updated! Error: %s"
+msgstr "قیمت مشخصه سفارشی به روز نشد.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2725
+#, php-format
+msgid "Item couldn't be updated! Error: %s"
+msgstr "اقلام به روز نشده اند.خطا: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2957
+msgid "Stock: available"
+msgstr "وضعیت انبار:موجود"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2962
+msgid "Stock: unavailable"
+msgstr "وضعیت انبار: موجود نیست"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3146
+msgid "More Details"
+msgstr "جزییات بیشتر"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3166
+msgid "Out of Stock"
+msgstr "در انبار موجود نیست"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3295
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3339
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3349
+msgid "Add to My Cart"
+msgstr "اضافه به سبد خرید من"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3438
+msgid "Related Items"
+msgstr "کالاهای مرتبط"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4378
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5012
+msgid "New Category"
+msgstr "طبقه بندی جدید"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4398
+msgid "Sub Category of"
+msgstr "زیر طبقه ای از "
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4426
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4828
+msgid "Show Icons"
+msgstr "نمایش آیکونها"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4433
+msgid "(display icons when category selected)"
+msgstr "(وقتی طبقه ای انتخاب می شود آیکون آن نمایش داده خواهد شد)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4438
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4833
+msgid "Full Items"
+msgstr "تمامی اقلام"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4448
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4838
+msgid "Hide Subgroup Items"
+msgstr "اقلام زیر این طبقه بندی مخفی شوند"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4463
+msgid "Digital / Downloadable Goods"
+msgstr "کالاهای قابل دانلود"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4476
+msgid "Downloads Expire after"
+msgstr "انقضای دانلود پس از "
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4484
+msgid "days (when ordered)"
+msgstr "روز(پس از سفارش)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4522
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4843
+msgid "Members Only"
+msgstr "ویژه اعضاء"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4530
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4848
+msgid "Show to Guests"
+msgstr "نمایش به بازدیدکنندگان مهمان"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4599
+msgid "Categories have been successfully re-ordered."
+msgstr "طبقه بندی ها با موفقیت بازمرتب سازی شدند."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4610
+msgid "Category has been successfully deleted."
+msgstr "طبقه بندی با موفقیت حذف شد."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4623
+msgid "Category cannot be subcategory of itself!"
+msgstr "طبقه بندی نمی تواند شامل خودش هم باشد!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4652
+msgid "Category has been successfully updated."
+msgstr "طبقه بندی با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4656
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4676
+msgid "View Category"
+msgstr "مشاهده طبقه بندی"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4672
+msgid "Category has been successfully created."
+msgstr "طبقه بندی با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4708
+msgid "Icon"
+msgstr "آیکون"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4775
+msgid "Icons"
+msgstr "آیکونها"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4856
+#, php-format
+msgid "(downloads expire after %s days)"
+msgstr "(دانلودها پس از  %s  روز منقضی می شوند)"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4983
+msgid "Shopping Administration"
+msgstr "مدیریت فروشگاه"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5011
+msgid "Edit Category"
+msgstr "اصلاح طبقه بندی"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5061
+msgid "No categories found."
+msgstr "هیچ طبقه بندی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5182
+#, php-format
+msgid "Shopping Category couldn't be created! Error: %s"
+msgstr "طبقه بندی قابل ایجاد نیست.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5276
+#, php-format
+msgid "Shopping Category couldn't be updated! Error: %s"
+msgstr "طبقه بندی به روز نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5405
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5419
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5432
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5445
+msgid "Directory couldn't be protected!"
+msgstr "پوشه حفاظت نشد!"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5545
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4875
+msgid "Latest Items"
+msgstr "آخرین اقلام"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5551
+msgid "Active Items"
+msgstr "اقلام فعال"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5557
+msgid "Popular Items"
+msgstr "اقلام عامه پسند"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5563
+msgid "Discussed Items"
+msgstr "اقلام بحث انگیز"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5569
+msgid "Rated Items"
+msgstr "اقلام امتیاز داده شده"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5620
+msgid "This area is limited to members only. Please login below."
+msgstr "این بخش ویژه اعضای سایت می باشد.لطفا ابتدا وارد سایت شوید."
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5681
+msgid "Shopping"
+msgstr "فروش"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5779
+msgid "Items / Categories"
+msgstr "اقلام کالاها/طبقه بندی ها"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:14
+msgid "Shopping Cart"
+msgstr "سبد خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:15
+msgid "Set Fees, Discounts, Taxes, checkout Limits and let people place orders"
+msgstr "مشاهده قیمتها/تخفیف ها/مالیات ها/محدودیت پرداختها و ...."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:65
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:618
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3605
+msgid "New Discount"
+msgstr "تخفیف جدید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:78
+msgid "Discount Percentage"
+msgstr "درصد تخفیف"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:87
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:89
+msgid "e.g. 25"
+msgstr "مقلا: 25 "
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:93
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:938
+msgid "Price Above or Equal"
+msgstr "قیمت برابر یا بیشتر از "
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:112
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:114
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:957
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:959
+msgid "e.g. 10"
+msgstr "مثلا: 10"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:117
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:962
+msgid "Price Below"
+msgstr "قیمت کمتر از"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:136
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:138
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:981
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:983
+msgid "e.g. 70"
+msgstr "مثلا : 70 "
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:142
+msgid "For Defined User"
+msgstr "برای کاربر تعریف شده"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:156
+msgid "Define the owner of the discount."
+msgstr "تعریف خریداران مشمول تخفیف"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:202
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1103
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1921
+msgid "Priorities have been successfully set."
+msgstr "اولویت ها با موفقیت تنظیم شدند."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:213
+msgid "Discount has been successfully deleted."
+msgstr "تخفیف ها با موفقیت حذف شدند."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:233
+msgid "Please make sure you have entered / selected the right username or if you wish to add this discount to a new user please first create the user at Member Management -> Users."
+msgstr "لطفا از کاربری که قصد اعطای تخفیف ویژه به وی را دارید مطمئن شوید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:250
+msgid "Discount has been successfully updated."
+msgstr "تخفیف با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:263
+msgid "Discount has been successfully created."
+msgstr "تخفیف با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:414
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1261
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2078
+msgid "Priority"
+msgstr "اولویت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:420
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1267
+msgid "Price >="
+msgstr "قیمت>="
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:422
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1269
+msgid "Price <"
+msgstr "قیمت <"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:427
+msgid "User"
+msgstr "کاربر"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:490
+msgid "User deleted!"
+msgstr "کاربر حذف گردید!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:525
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1426
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2161
+msgid "Set Priority"
+msgstr "تنظیم اولویت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:592
+msgid "Shopping Cart Discounts Administration"
+msgstr "مدیریت تخفیف های متعلقه به سبد خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:617
+msgid "Edit Discount"
+msgstr "اصلاح تخفیف"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:663
+msgid "No discounts found."
+msgstr "هیچ تخفیفی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:720
+#, php-format
+msgid "Discount couldn't be added! Error: %s"
+msgstr "تخفیف اضافه نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:758
+#, php-format
+msgid "Discount couldn't be updated! Error: %s"
+msgstr "تخفیف به روز نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:900
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1519
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3608
+msgid "New Fee"
+msgstr "قیمت جدید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:907
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1850
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3097
+msgid "Order Form"
+msgstr "فرم سفارش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:913
+msgid "Fee Amount"
+msgstr "قیمت واحد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:933
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:935
+msgid "e.g. 5"
+msgstr "مثلا: 5"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:987
+msgid "Using Weight"
+msgstr "بر اساس وزن"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:992
+msgid "Weight Above or Equal"
+msgstr "وزن بیشتر یا مساوی"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1005
+msgid "e.g. 0.5"
+msgstr "مثلا: 0.5"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1008
+msgid "Weight Below"
+msgstr "وزن کمتر از"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1021
+msgid "e.g. 3"
+msgstr "مثلا: 3"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1032
+msgid "Using Order Form Field Values"
+msgstr "بر اساس مقادیر فرم سفارش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1037
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1865
+msgid "Field name"
+msgstr "نام فیلد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1046
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1874
+msgid "Define the field you would like to compare."
+msgstr "فیلدی که تمایل دارید با آن مقایسه صورت گیرد را تعریف نمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1047
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1875
+msgid "Select Field"
+msgstr "انتخاب فیلد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1051
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1283
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1879
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2084
+msgid "Is or Contains"
+msgstr "که شامل"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1057
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1059
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1884
+msgid "e.g. field name \"ShippingState\" is \"CA\" or contains \"CA, WA, NY\""
+msgstr "مثلا:  field name \"ShippingState\" is \"CA\" or contains \"CA, WA, NY\""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1114
+msgid "Fee has been successfully deleted."
+msgstr "قیمت واحد با موفقیت حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1139
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1957
+msgid "Order form field couldn't be found!"
+msgstr "فیلد مربوط به فرم سفارش پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1140
+msgid "Please make sure you have entered / selected the right field or if you wish to add this fee to a new field please first create the field at Content Management -> Dynamic Forms."
+msgstr "لطفا از وجود فیلدی که قصد انتخاب/ورود آنرا دارید مطمدن شوید.اگر وجود ندارد آنرا از طریق منوی مدیریت محتوا->فرمهای پویا تعریف فرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1156
+msgid "Fee has been successfully updated."
+msgstr "قیمت واحد با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1169
+msgid "Fee has been successfully created."
+msgstr "قیمت واحد با موفقیت ایجاد گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1183
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2001
+msgid "Order Form Fields"
+msgstr "فیلدهای فرم سفارش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1194
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1281
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2012
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2082
+msgid "Field"
+msgstr "فیلد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1199
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2017
+msgid "Name"
+msgstr "نام"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1265
+msgid "Fee"
+msgstr "قیمت واحد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1274
+msgid "Weight >="
+msgstr "وزن>="
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1276
+msgid "Weight <"
+msgstr "وزن<"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1386
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2122
+msgid "Field deleted!"
+msgstr "فیلد حذف گردید!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1493
+msgid "Shopping Cart Fees Administration"
+msgstr "مدیریت قیمتهای سبد خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1518
+msgid "Edit Fee"
+msgstr "اصلاح قیمت واحد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1564
+msgid "No fees found."
+msgstr "هیچ قیمت واحدی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1642
+#, php-format
+msgid "Fee couldn't be added! Error: %s"
+msgstr "هیچ قیمت واحدی اضافه نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1696
+#, php-format
+msgid "Fee couldn't be updated! Error: %s"
+msgstr "قیمت واحد به روز نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1843
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2253
+msgid "New Tax"
+msgstr "مالیات جدید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1856
+msgid "Tax Percentage"
+msgstr "درصد مالیات متعلقه"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1932
+msgid "Tax has been successfully deleted."
+msgstr "مالیات با موفقیت حذف شد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1958
+msgid "Please make sure you have entered / selected the right field or if you wish to add this tax to a new field please first create the field at Content Management -> Dynamic Forms."
+msgstr "لطفا از وجود فیلدی که قصد تعلق مالیات بر اساس آنرا دارید مطمئن شوید.اگر وجود ندارد از طریق منوی مدیریت محتوا->فرمهای پویا آنرا ایجاد فرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1974
+msgid "Tax has been successfully updated."
+msgstr "مالیات با موفقیت به روز شد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1987
+msgid "Tax has been successfully created."
+msgstr "مالیات با موفقیت ایجاد شد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2227
+msgid "Shopping Cart Taxes Administration"
+msgstr "مدیریت مالیاتهای متعلقه به سبد خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2252
+msgid "Edit Tax"
+msgstr "اصلاح مالیات"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2293
+msgid "No taxes found."
+msgstr "مالیاتی پیدا نشد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2343
+#, php-format
+msgid "Tax couldn't be added! Error: %s"
+msgstr "مالیات اضافه نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2371
+#, php-format
+msgid "Tax couldn't be updated! Error: %s"
+msgstr "مالیات به روز نشد.خطا:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2483
+msgid "Checkout Form"
+msgstr "فزم پرداخت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2529
+#, php-format
+msgid "We are sorry but it seems the stock for \"%s\" has changed meanwhile and there aren't enough items in stock now. Please go back and update your cart. Total available items in stock for this item are: %s."
+msgstr "با عرض پوزش به نظر می رسد که موجودی  %s برای تکمیل سفارش شما/تعداد مورد نظر شما کافی نیست.لطفا به مرحله قبل بازگردید و تعداد سفارش را اصلاح نمایید. %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2640
+#, php-format
+msgid "<b>Your order %s has been successfully saved.</b><br /> You can now complete the payment or leave it for a later date."
+msgstr "سفارش:  %s شما با موفقیت ثبت گردید.><br /> اکنون باید مراحل پرداخت را تکمیل فرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2644
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2655
+msgid "View Your Orders"
+msgstr "مشاهده سفارشات شما"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2648
+#, php-format
+msgid "<b>Thank you for your order!</b><br /><br /> Your confirmation / tracking number is <b>%s</b>, please keep it for your record, also a receipt has been emailed to you with all the information including your confirmation / tracking number."
+msgstr "از خرید شما سپاسگذاریم.><br /> شماره رسید خرید شما عبارتست از:  <b>%s</b> لطفا آنرا یادداشت فرمایید.اطلاعات و صورتحساب سفارش به نشانی پست الکترونیکی شما نیز ارسال گردیده است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2684
+msgid "Invalid order method selected. Please choose a different order method below."
+msgstr "روش انجام سفارش انتخاب شده معتبر نیست.لطفا روش دیگری را برگزینید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2717
+msgid "Checkout Step"
+msgstr "مرحله پرداخت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2731
+msgid "Review Your Order"
+msgstr "سفارش را بازبینی فرمایید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2736
+msgid "Account information"
+msgstr "اطلاعات مالی"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2772
+msgid "Your password will be emailed to the email address specified here.<br /> You will be able to change your password by using your account page after login."
+msgstr "گذرواژه جدید شما به نشانی پست الکترونیک شما ارسال گردید.<br />پس از ورود به سایت شما می توانید مجددا آنرا تغییر دهید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2927
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3025
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3115
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3198
+msgid "Email address"
+msgstr "نشانی پست الکترونیکی"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2968
+msgid "Invalid order method selected! Please choose a different order method below."
+msgstr "روش سفارش انتخاب شده معتبر نیست.لطفا روش دیگری را برگزینید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3174
+msgid "New User?"
+msgstr "کاربر جدید هستید؟"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3178
+msgid "Please enter your desired username / password to continue as a new user."
+msgstr "لطفا شناسه کاربری/گذرواژه مورد نظر خود را برای حساب کاربری جدید خود وارد نمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3180
+msgid "Please enter your desired username to continue as a new user."
+msgstr "لطفا شناسه کاربری دلخواه خود را وارد نمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3236
+msgid "Continue as a New User"
+msgstr "ادامه بعنوان یک کاربر جدید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3250
+msgid "Submit / Process Order"
+msgstr "ثبت سفارش"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3255
+msgid "Submit / Review"
+msgstr "ثبت/بازبینی"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3288
+msgid "Form is being processed. Please wait."
+msgstr "فرم در حال پردازش است.لطفا چند لحظه صبور باشید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3619
+msgid "Shopping Cart Administration"
+msgstr "مدیریت فروشگاه/سبد خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3642
+msgid "Set checkout methods, currency and cart limits"
+msgstr "تنظیم روشهای پرداخت ، ارزها و محدودیتهای سبد خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3661
+msgid "Set global or user discounts"
+msgstr "تنظیم تخفیف موردی یا سراسری"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3664
+msgid "Discount Settings"
+msgstr "تنظیمات تخفیف"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3680
+msgid "Set global or local fees"
+msgstr "تنظیم قیمت واحد موردی یا سراسری"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3683
+msgid "Fees Settings"
+msgstr "تنظیمات قیمت واحد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3702
+msgid "Set and manage taxes"
+msgstr "تنظیم و مدیریت مالیات ها"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3705
+msgid "Tax Settings"
+msgstr "تنظیم مالیات"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3881
+msgid "No item defined to remove from your cart."
+msgstr "هیچ کالایی در سبد خرید وجود ندارد که حذف گردد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3891
+msgid "Item has been successfully removed from your cart."
+msgstr "کالای مورد نظر با موفقیت از سبد خرید حذف شد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3900
+msgid "No item defined to add to your cart."
+msgstr "هیچ کالایی برای اضافه کردن به سبد خرید انتخاب نشده است."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3914
+msgid "The item you wanted to add to your cart cannot be found or is unfortunately temporarily out of stock. To check the availability of this item please contact us."
+msgstr "کالای مورد نظر در حال حاضر در انبار موجود نیست.برای بررسی موجودی قطعی و سفارش احتمالی ، می توانید با ما تماس حاصل فرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3928
+msgid "The item you wanted to add to your cart is temporary not available. Please contact us for more information on this item."
+msgstr "کالایی که قصد اضافه کردن آن به سبد خرید را دارید در حال حاضر در انبار موجود نیست.برای اطلاع بیشتر با ما تماس بگیرید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3937
+msgid "The item you wanted to add to your cart can only be accessed by members. Please login first and try again."
+msgstr "کالای انتخاب شده تنها توسط اعضای سایت قابل سفارش/خرید می باشد.لطفا ابتدا وارد سایت شوید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3971
+msgid "Item option cannot be found!"
+msgstr "مشخصه مورد نظر پیدا نشد!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4056
+msgid "Item has been successfully added to your cart."
+msgstr "کالای با مشخصه انتخاب شده با موفقیت به سبد شما اضافه شد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4058
+msgid "Refresh Cart"
+msgstr "نوسازی سبدخرید/محاسبه مجدد"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4081
+msgid "Cart has been successfully updated."
+msgstr "سبد خرید با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4116
+msgid "Already Registered?"
+msgstr "آیا عضو این سایت هستید؟"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4120
+msgid "Please enter your login information below to checkout with your account."
+msgstr "لطفا اطلاعات کاربری خود را وارد نمایید تا قادر به تکمیل مراحل پرداخت باشید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4179
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4930
+msgid "There are no items in your cart."
+msgstr "هیچ کالایی در سبد خرید شما وجود ندارد."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4348
+msgid "View My Cart"
+msgstr "مشاهده سبد خرید من"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4378
+#, php-format
+msgid "My Cart: %s items"
+msgstr "سبد خرید من:  %s قلم"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4423
+msgid "Item / Options"
+msgstr "اقلام/مشخصه ها"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4424
+msgid "Item / Added to Cart"
+msgstr "اقلام اضافه شده به سبد خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4451
+msgid "Remove"
+msgstr "حذف"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4567
+msgid "Remove Item"
+msgstr "حذف کالا"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4757
+#, php-format
+msgid "<b>TIP:</b> Orders over %s get %s discount!"
+msgstr "%s نکته: سفارشهای بیشتر از  %s  مشمول تخفیف ویژه می شوند!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4768
+msgid "* For more details on each item click on the item's title. To change the quantity of an item pick a new quantity and press the Update Cart button."
+msgstr "* برای اطلاعات بیشتر در خصوص هر کالا ، بر روی عنوان کالا کلیک فرمایید.برای تغییر تعداد/مقدار ، عدد مربوطه را تغییر داده و دکمه به روز رسانی سبد خرید را کلیک فرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4777
+msgid "Checkout"
+msgstr "پرداخت"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4784
+msgid "Continue Shopping"
+msgstr "ادامه خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4792
+msgid "Update Cart"
+msgstr "به روز رسانی سبد خرید"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4873
+msgid "Similar Items"
+msgstr "کالاهای مشابه"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4941
+#, php-format
+msgid "<b>Checkout Limit:</b> You must purchase at least %s item(s) to complete your checkout."
+msgstr "محدودیت خرید: شما دست کم باید  %s  عدد سفارش دهید تا بتوانید خرید و پرداخت خود را تکمیل فرمایید."
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4954
+#, php-format
+msgid "<b>Checkout Limit:</b> You must purchase item(s) for at least %s to complete your checkout."
+msgstr "محدودیت خرید: شما دست کم باید  %s  عدد سفارش دهید تا بتوانید خرید و پرداخت خود را تکمیل فرمایید."
+

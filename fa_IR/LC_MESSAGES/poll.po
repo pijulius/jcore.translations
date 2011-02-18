@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:21+0200\n"
+"PO-Revision-Date: 2011-02-18 18:35+0200\n"
+"Last-Translator: Foroshandegan Developer's Group <info@foroshandegan.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:14
+msgid "Polls"
+msgstr "نظرسنجی"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:15
+msgid "Quickly gather information on different subjects"
+msgstr "اطلاعات بیشتری در خصوص موضوعات سایت خود کسب کنید"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:34
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:57
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:77
+msgid "Poll"
+msgstr "نظرسنجی"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:216
+#, php-format
+msgid "Poll answer couldn't be created! Error: %s"
+msgstr "پاسخ نظرسنجی قابل ایجاد نیست:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:244
+#, php-format
+msgid "Poll answer couldn't be updated! Error: %s"
+msgstr "پاسخ نظرسنجی قابل به روز رسانی نیست:  %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:285
+#, php-format
+msgid "%s votes"
+msgstr " %s رای"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:711
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1345
+msgid "New Poll"
+msgstr "نظرسنجی جدید"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:724
+msgid "Question"
+msgstr "پرسش"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:747
+msgid "Answers"
+msgstr "پاسخ ها"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:749
+msgid "(check boxes for Guest answers)"
+msgstr "(برای آنکه بازدیدکنندگان مهمان امکان پاسخ داشته باشند،علامت بزنید)"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:768
+msgid "Add another answer"
+msgstr "یک پاسخ دیگر تعریف نمایید"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:775
+msgid "Voting Options"
+msgstr "تنظیمات نظرسنجی"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:780
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1189
+msgid "Hide Results"
+msgstr "نتایج مخفی شوند"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:789
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1194
+msgid "Voting Closed"
+msgstr "نظرسنجی بسته شد"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:798
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1176
+msgid "Voting Interval"
+msgstr "تناوب/فاصله زمانی نظرسنجی"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:807
+msgid "minutes (if set to 0 only one vote will be allowed per ip or user)"
+msgstr "در دقیقه(اگر 0 باشد به ازای هر IP و کاربر تنها امکان یکبار شرکت در نظرسنجی خواهد بود)"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:876
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1200
+msgid "Members Only"
+msgstr "ویژه اعضا"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:884
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1205
+msgid "Show to Guests"
+msgstr "به بازدیدکنندگان مهمان نمایش داده شود"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:963
+msgid "Polls and answers have been successfully re-ordered."
+msgstr "پرسشها و پاسخها با موفقیت بازمرتب سازی گردیدند."
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:974
+msgid "Poll has been successfully deleted."
+msgstr "نظرسنجی مورد نظر با موفقیت حذف گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:996
+msgid "Poll has been successfully updated."
+msgstr "نظرسنجی مورد نظر با موفقیت به روز گردید."
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1000
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1020
+msgid "View Poll"
+msgstr "مشاهده نظرسنجی"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1016
+msgid "Poll has been successfully created."
+msgstr "نظرسنجی مورد نظر با موفقیت ایجاد شد"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1041
+msgid "Votes"
+msgstr "آراء"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1196
+#, php-format
+msgid "(on %s)"
+msgstr "(در %s)"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1316
+msgid "Poll Administration"
+msgstr "مدیریت نظرسنجی"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1344
+msgid "Edit Poll"
+msgstr "اصلاح نظرسنجی"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1383
+msgid "No polls found."
+msgstr "هیچ نظرسنجی پیدا نشد"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1567
+#, php-format
+msgid "Poll couldn't be created! Error: %s"
+msgstr "نظر سنجی ایجاد نشد: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1647
+#, php-format
+msgid "Poll couldn't be updated! Error: %s"
+msgstr "نظر سنجی به روز نشد: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1784
+msgid "Select (one answer can be chosen)"
+msgstr "انتخابی(یک پاسخ قابل انتخاب خواهد بود)"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1786
+msgid "Check (multiple answers can be chosen)"
+msgstr "چند گزینه ای (قابلیت انتخاب چند پاسخ)"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1788
+msgid "Undefined!"
+msgstr "تعریف نشده!"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1811
+msgid "No answer selected!"
+msgstr "هیچ پاسخی انتخاب نشده است."
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1825
+msgid "Poll cannot be found or it has been deactivated!"
+msgstr "نظرسنجی قابل انتخاب نبوده و یا غیرفعال شده است!"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1832
+msgid "Only registered users can vote."
+msgstr "تنها کاربران عضو قادر به شرکت در نظرسنجی می باشند."
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1849
+msgid "You already voted on this poll!"
+msgstr "شما قبلا در این نظرسنجی شرکت نموده اید."
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1884
+#, php-format
+msgid "Vote couldn't be stored! Error: %s"
+msgstr "نظر شما ثبت نشده است: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1905
+msgid "Thank you for your vote."
+msgstr "از حسن نظر شما در پاسخ به این نظرسنجی سپاسگذاریم."
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1929
+msgid "This area is limited to members only. Please login below."
+msgstr "این بخش ویژه اعضای سایت می باشد.لطفا ابتدا وارد سایت شوید."
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1954
+#, php-format
+msgid "Closed on %s"
+msgstr "بسته شده در %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:2037
+msgid "Vote"
+msgstr "رای"
+
