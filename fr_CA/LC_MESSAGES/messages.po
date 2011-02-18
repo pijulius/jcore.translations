@@ -1,0 +1,4500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 18:39+0200\n"
+"PO-Revision-Date: 2011-02-18 17:03+0200\n"
+"Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: CANADA\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/sources\n"
+
+#: Global settings
+msgid "Page Settings"
+msgstr "Paramètres de la page"
+
+msgid "Meta Keywords"
+msgstr "Mots-clés méta"
+
+msgid "Meta Description"
+msgstr "Description méta"
+
+msgid "Webmaster Email"
+msgstr "Courriel du webmestre"
+
+msgid "Webmaster BCC Email"
+msgstr "Courriel BCC du webmestre"
+
+msgid "TimeZone"
+msgstr "Fuseau horaire"
+
+msgid "Charset"
+msgstr "Jeu de caractères"
+
+msgid "404 Error Text"
+msgstr "Texte de la page d'erreur 404"
+
+msgid "Date Format"
+msgstr "Format de date"
+
+msgid "Time Format"
+msgstr "Format d'heure"
+
+msgid "First Weekday"
+msgstr "Premier jour de la semaine"
+
+msgid "Picture Settings"
+msgstr "Paramètres des images"
+
+msgid "Thumbnail Height"
+msgstr "Hauteur de la miniature"
+
+msgid "Thumbnail Width"
+msgstr "Lageur de la miniature"
+
+msgid "Watermark"
+msgstr "Filigrane"
+
+msgid "Watermark Text"
+msgstr "Texte de la filigrane"
+
+msgid "Watermark Text Font"
+msgstr "Police de la filigrane"
+
+msgid "Watermark Logo"
+msgstr "Logo de la filigrane"
+
+msgid "Watermark Position"
+msgstr "Position de la filigrane"
+
+msgid "Maximum Failure Attempts"
+msgstr "Nombre d'essais maximum"
+
+msgid "Time Minutes"
+msgstr "Nombre de minutes"
+
+msgid "Maximum Failure Attempts Before TwoWeeks Ban"
+msgstr "Nombre d'essais maximum avant le banissement de deux semaines"
+
+msgid "Email Notification"
+msgstr "Notification par courriel"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Maximum Simultaneous Logins"
+msgstr "Nombre de connexions simultanées"
+
+msgid "Maintenance Settings"
+msgstr "Gestion de la maintenance"
+
+msgid "Website Suspended"
+msgstr "Site web hors fonction"
+
+msgid "Suspend Text"
+msgstr "Texte hors fonction"
+
+msgid "Notification Text"
+msgstr "Texte de notification"
+
+msgid "Registrations Suspended"
+msgstr "Inscriptions hors fonction"
+
+msgid "Logins Suspended"
+msgstr "Connections hors fonction"
+
+msgid "Functionality Settings"
+msgstr "Paramètres des fonctionnalités"
+
+msgid "Ajax Paging"
+msgstr "Pagination AJAX"
+
+msgid "Blog Ping On New Posts"
+msgstr "Ping de nouveaux articles"
+
+msgid "Blog Ping Servers"
+msgstr "Serveurs Ping"
+
+msgid "Default Locale"
+msgstr "Localisation par défaut"
+
+msgid "Minimum Password Length"
+msgstr "Longueur minimale des mots de passes"
+
+msgid "Username Changes Disabled"
+msgstr "Empêcher la modification du nom d'utilisateur"
+
+msgid "Avatars Disabled"
+msgstr "Désactiver les avatars"
+
+msgid "Avatars Size"
+msgstr "Dimensions des avatars"
+
+msgid "Default Avatar URL"
+msgstr "Adresse URL de l'avatar par défaut"
+
+msgid "Email Settings"
+msgstr "Paramètres courriel"
+
+msgid "Use SMTP"
+msgstr "Utiliser un serveur SMTP"
+
+msgid "Use SSL SMTP"
+msgstr "Utiliser un serveur SMTP SSL"
+
+msgid "SMTP Host"
+msgstr "Serveur SMTP"
+
+msgid "SMTP Port"
+msgstr "Port SMTP"
+
+msgid "SMTP Username"
+msgstr "Num d'utilisateur SMTP"
+
+msgid "SMTP Password"
+msgstr "Mot de passe SMTP"
+
+msgid "PGP Encrypt"
+msgstr "Chiffrement PGP"
+
+msgid "PGP Public Keys Directory"
+msgstr "Dossier des clés publiques PGP"
+
+msgid "PGP Binary"
+msgstr "Binaire PGP"
+
+msgid "Comments Settings"
+msgstr "Paramètres des commentaires"
+
+msgid "Moderated Comments"
+msgstr "Commentaires modérés"
+
+msgid "Moderated Comments By Approval"
+msgstr "Commentaires modérés par approbation"
+
+msgid "Moderated Comments Pending Minutes"
+msgstr "Commentaires modérés par temps d'attente"
+
+msgid "jQuery Settings"
+msgstr "Paramètres jQuery"
+
+msgid "Load Plugins"
+msgstr "Extensions à charger"
+
+msgid "Load Admin Plugins"
+msgstr "Extensions à charger dans l'admin."
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "Security Image Settings"
+msgstr "Paramètres des images de sécurité"
+
+msgid "Code Length"
+msgstr "Longueur du code"
+
+msgid "Font"
+msgstr "Police"
+
+msgid "Font Size"
+msgstr "Taille de la police"
+
+msgid "Random Lines"
+msgstr "Lignes aléatoires"
+
+msgid "Foreground Color"
+msgstr "Couleur d'avant-plan"
+
+msgid "Background Color"
+msgstr "Couleur d'arrière-plan"
+
+msgid "Random Words"
+msgstr "Mots aléatoires"
+
+msgid "Random Fonts"
+msgstr "Polices aléatoires"
+
+msgid "Admin Settings"
+msgstr "Paramètres admin."
+
+msgid "Items Counter Enabled"
+msgstr "Compteur d'items activé"
+
+msgid "Favorite Links Enabled"
+msgstr "Liens favoris activés"
+
+msgid "Remove"
+msgstr "Retirer"
+
+msgid "Get Help"
+msgstr "Obtenir de l'aide"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:98
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:453
+msgid "New Language"
+msgstr "Nouvelle langue"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:102
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:37
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:91
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:156
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:31
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:35
+msgid "Pages / Posts"
+msgstr "Pages / Articles"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:105
+msgid "Blocks"
+msgstr "Blocs"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:111
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:45
+msgid "Title"
+msgstr "Titre"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:116
+msgid "e.g. English"
+msgstr "ex. : français"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:119
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:39
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:74
+msgid "Path"
+msgstr "Chemin"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:126
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:128
+msgid "e.g. en"
+msgstr "ex. : fr"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:131
+msgid "Locale Directory"
+msgstr "Dossier de localisation"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:138
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:140
+msgid "e.g. en_UK"
+msgstr "ex. : fr_CA"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:143
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:45
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:240
+msgid "Additional Options"
+msgstr "Options aditionnelles"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:148
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:287
+msgid "Default"
+msgstr "Défaut"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:156
+msgid "Deactivated"
+msgstr "Désactivé"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:165
+msgid "(marked with strike through)"
+msgstr "(marqué en barré)"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:170
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:281
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:56
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:147
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:281
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:404
+msgid "Order"
+msgstr "Ordre"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:217
+msgid "Languages have been successfully re-ordered."
+msgstr "Les langues ont été réordonnées."
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:228
+msgid "Language has been successfully deleted."
+msgstr "La langue a été supprimée."
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:245
+msgid "Language has been successfully updated."
+msgstr "La langue a été mise à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:247
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:264
+msgid "View Pages"
+msgstr "Voir les pages"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:251
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:269
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:298
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:342
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:162
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:196
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:166
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:316
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:377
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:379
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:393
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:421
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:490
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:159
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:173
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:250
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:384
+msgid "Edit"
+msgstr "Modifier"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:262
+msgid "Language has been successfully created."
+msgstr "La langue a été créée."
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:285
+msgid "Title / Path"
+msgstr "Titre / Chemin"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:289
+msgid "Locale"
+msgstr "Localisation"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:300
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:349
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:164
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:203
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:411
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:534
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:318
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:384
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:423
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:507
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:252
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:391
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:448
+msgid "Delete"
+msgstr "Supprimer"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:325
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:548
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:553
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:558
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:339
+msgid "Yes"
+msgstr "Oui"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:359
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:213
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:576
+msgid "Reorder"
+msgstr "Réordonner"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:361
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:215
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:578
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:427
+msgid "Languages Administration"
+msgstr "Gestion des langues"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:452
+msgid "Edit Language"
+msgstr "Modifier la langue"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:463
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:317
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:491
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:708
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:633
+msgid "Cancel"
+msgstr "Annuler"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:495
+msgid "No languages found. Default en_US will be used for translations (can be changed in Global Settings)."
+msgstr "Aucune langue trouvée. La localisation en_US sera utilisée par défaut pour les traductions (peut être changé dans les Paramètres généraux)."
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:575
+#, php-format
+msgid "Language couldn't be created! Error: %s"
+msgstr "La langue n'a pas pu être créée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:623
+#, php-format
+msgid "Language couldn't be updated! Error: %s"
+msgstr "la langue n'a pas pu être mise à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:30
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:149
+msgid "Value"
+msgstr "Valeur"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:37
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:153
+msgid "Selected"
+msgstr "Sélectionné"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:50
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:151
+msgid "Alternative Title"
+msgstr "Titre alternatif"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:102
+msgid "Field values have been successfully re-ordered."
+msgstr "La valeurs de champ ont été réordonnées."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:113
+msgid "Field value has been successfully deleted."
+msgstr "La valeur de champ a été supprimée."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:127
+msgid "Field value has been successfully updated."
+msgstr "la valeur de champ a été mise à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:137
+msgid "Field value has been successfully created."
+msgstr "La valeur de champ a été créée."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:277
+msgid "Field Values"
+msgstr "Valeurs de champ"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:306
+msgid "Edit Field Value"
+msgstr "Modifier les valeurs de champ"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:307
+msgid "New Field Value"
+msgstr "Nouvelle valeur de champ"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:345
+msgid "No field values found."
+msgstr "Aucune valeur de champ trouvée."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:408
+#, php-format
+msgid "Field value couldn't be added! Error: %s"
+msgstr "La valeur de champ n'a pas pu être ajoutée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:441
+#, php-format
+msgid "Field value couldn't be updated! Error: %s"
+msgstr "La valeur de champ n'a pas pu être mise à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:31
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:88
+msgid "Template Files"
+msgstr "Fichiers d'habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:105
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:153
+msgid "JS Editor"
+msgstr "Editeur JS"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:43
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:97
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:165
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:401
+msgid "Template"
+msgstr "Habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:51
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:85
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:150
+msgid "CSS Editor"
+msgstr "Editeur CSS"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:61
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:115
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:183
+msgid "Write access is required to access this area!"
+msgstr "L'accès en écriture est requis pour cette section !"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:142
+msgid "New File"
+msgstr "Nouveau fichier"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:159
+msgid "Content Files"
+msgstr "Fichiers de contenu"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:173
+msgid "Images"
+msgstr "Images"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:222
+msgid "Upload Template"
+msgstr "Téléverser un habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:226
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:303
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:317
+msgid "View Website"
+msgstr "Voir le site"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:232
+msgid "Template File"
+msgstr "Fichier d'habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:238
+msgid "e.g. template-name.tar.gz"
+msgstr "ex. : template-name.tar.gz"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:252
+msgid "Upload another template"
+msgstr "Téléverser un autre habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:290
+msgid "Template has been successfully deleted."
+msgstr "L'habillage a été suppimé."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:301
+msgid "Template has been successfully activated."
+msgstr "L'habillage a été activé."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:315
+msgid "Default template has been successfully reset for your website."
+msgstr "L'habillage par défaut a été réinitialisé pour votre site."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:329
+msgid "Template has been successfully set for Admin section."
+msgstr "L'habillage a été défini pour l'administration."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:331
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:345
+msgid "Refresh"
+msgstr "Actualiser"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:343
+msgid "Default template has been successfully reset for Admin section."
+msgstr "L'habillage par défaut a été défini pour l'administration."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:357
+msgid "No template selected to be uploaded! Please select at least one template to upload."
+msgstr "Aucun habillage sélectionné pour le téléversement ! Veuillez sélectionner au moins un habillage à téléverser."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:379
+#, php-format
+msgid "There were problems uploading some of the templates you selected. The following templates couldn't be uploaded: %s."
+msgstr "Des problèmes sont survenus lors du téléversement de l'habillage sélectionné. Les habillages suivants n'ont pas pu être téléversés : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:389
+#, php-format
+msgid "Templates have been successfully uploaded. The following templates have been uploaded: %s."
+msgstr "Les habillages ont été téléversés. Les habillages suivants ont été téléversés : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:452
+#, php-format
+msgid "by %s"
+msgstr "par %s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:465
+msgid "Tags"
+msgstr "Mots-clés"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:470
+msgid "Location"
+msgstr "Localisation"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:485
+msgid "Restore default template for your website"
+msgstr "Restaurer l'habillage par défaut pour votre site web"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:487
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:497
+msgid "Restore default template for Admin section"
+msgstr "Restaurer l'habillage par défaut pour l'administration"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:499
+msgid "Unset Admin"
+msgstr "Retirer de l'aministration"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:506
+msgid "Set template as default for Admin section"
+msgstr "Définie l'habillage pour l'administration"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:508
+msgid "Set Admin"
+msgstr "Définir pour l'administration"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:519
+msgid "Activate and set it as the current template for your website"
+msgstr "Utiliser cet habillage sur votre site web"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:521
+msgid "Activate"
+msgstr "Activer"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:617
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:623
+msgid "Template Administration"
+msgstr "Gestion des habillages"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:629
+msgid "Below are the available templates found in the \"<b>template/</b>\" folder. To install a new template just extract it to the \"<b>template/</b>\" folder, or using the form below select the template package file (e.g. template-name.tar.gz)."
+msgstr "Voici la liste des habillages trouvés dans le dossier \"<b>template/</b>\". Pour installer un nouvel habillage, vous n'avez qu'à l'extraire dans le dossier \"<b>template/</b>\" ou utiliser le forumulaire au bas de cette page en sélectionnant l'archive de l'habillage (ex. : template-name.tar.gz)."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:641
+msgid "Edit the CSS template file"
+msgstr "Modifier le fichier CSS de l'habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:644
+msgid "Edit CSS File"
+msgstr "Modifier le CSS"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:651
+msgid "Edit the JavaScript template file"
+msgstr "Modifier le fichier JavaScript de l'habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:654
+msgid "Edit JS File"
+msgstr "Modifier le JavaScript"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:661
+msgid "Browse template Images"
+msgstr "Gérer les images de l'habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:664
+msgid "Template Images"
+msgstr "Images de l'habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:673
+msgid "Browse and download more templates"
+msgstr "Obtenir de nouveaux habillages"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:676
+msgid "Get Templates"
+msgstr "Télécharger"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:701
+msgid "Modify Activated Template"
+msgstr "Modifier l'habillage actuel"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:721
+msgid "Upload New Template"
+msgstr "Téléverser un nouvel habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:767
+msgid "No installed templates found."
+msgstr "Auncun habillage installé."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:795
+#, php-format
+msgid "Template couldn't be added! Error: %s"
+msgstr "L'habillage n'a pas pu être ajouté ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:819
+#, php-format
+msgid "Template couldn't be updated! Error: %s"
+msgstr "L'habillage n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:857
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:948
+msgid "Invalid or template installer script cannot be found."
+msgstr "Habillage invalide ou fichier d'installation introuvable."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:894
+#, php-format
+msgid "Template couldn't be deleted but it is now safe to be deleted manually by just simply removing the \"%s\" folder."
+msgstr "L'habillage n'a pas pu être supprimé, mais vous pouvez effacer manuellement le dossier \"%s\" en toute sécurité."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:915
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:997
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1023
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1045
+msgid "The template you selected cannot be found!"
+msgstr "L'habillage sélectionné est introuvable !"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1063
+msgid "Couldn't extract template as it is to big to be processed with the current memory limit set. Please try to extract it manually or increment the PHP memory limit."
+msgstr "Impossible d'extraire l'habillage car le fichier est trop volumineux pour être traité par le serveur. Veuillez extraire le fichier manuellement dans le dossier \"template\" ou augmentez la valeur d'utilisation maximale de la mémoire (memory_limit) de PHP."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1077
+msgid "Template couldn't be extracted! Error: Invalid template! Please make sure to upload a valid tar.gz template file."
+msgstr "L'habillage n'a pas pu être extrait ! Erreur : Habillage invlaide ! Veuillez vous assurer de téléverser un fichier tar.gz valide."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1090
+msgid "Template couldn't be extracted! Error: Empty template! The template you selected seems to be an empty tar.gz file."
+msgstr "L'habillage n'a pas pu être extrait ! Erreur : le fichier .tar.gz semble vide."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1106
+#, php-format
+msgid "Template couldn't be extracted! Error: \"%s\" directory couldn't be created."
+msgstr "L'habillage n'a pas pu être extrait ! Erreur : le dossier \"%s\" ne peut être créé."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1126
+#, php-format
+msgid "Template couldn't be extracted! Error: \"%s\" file couldn't be created."
+msgstr "L'habillage n'a pas pu être extrait ! Erreur : le fichier \"%s\" ne peut être créé."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1303
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:708
+msgid "Request can only be accessed by administrators!"
+msgstr "La requête ne peut être exécutée que par un administrateur !"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1335
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1362
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1389
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:727
+msgid "You do not have permission to access this path!"
+msgstr "Vous ne possédez pas des droits nécessaires pour accéder à cette section !"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:207
+#, php-format
+msgid "Query took %s seconds"
+msgstr "La requête s'est exécutée en %s secondes"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:208
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:363
+msgid "SQL Error:"
+msgstr "Erreur SQL : "
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:312
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:320
+msgid "Site Temporary Unavailable"
+msgstr "Site temporairement hors-service"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:326
+#, php-format
+msgid "We are sorry for the inconvenience and appreciate your patience during this time. Please wait for a few minutes and <a href='%s'>try again</a>."
+msgstr "Nous nous excusons pour les incovénients que cela peut vous causer et nous vous remercions de votre compréhension. Veuillez patienter quelques minutes et <a href='%s'>essayer de nouveau</a>."
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:370
+msgid "Backtrace"
+msgstr "Trace"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:377
+msgid "SQL Error! Please contact site administrator or login to learn more about this error."
+msgstr "Erreur SQL ! Veuillez contacter l'administrateur du site ou vous connecter pour en connaitre davantage sur cette erreur."
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:379
+msgid "SQL Error! Please contact site administrator."
+msgstr "Erreur SQL ! Veuillez contacter l'administrateur du site."
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:392
+#, php-format
+msgid "(affected rows: %s)"
+msgstr "(entrées affectées : %s)"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:46
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:49
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:89
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:92
+msgid "e.g. admin/content/menuitems/1/posts"
+msgstr "ex : admin/content/menuitems/1/posts"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:57
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:83
+msgid "Select path"
+msgstr "Sélectionner un chemin"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:66
+msgid "Add another path"
+msgstr "Ajouter un autre chemin"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:96
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:307
+msgid "Permission"
+msgstr "Permission"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:111
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:480
+msgid "New Permission"
+msgstr "Nouvelle permission"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:115
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:138
+msgid "Permission has been successfully deleted."
+msgstr "La permission a été supprimée."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:149
+msgid "No paths have been defined! Please define at least one path to set permission to."
+msgstr "Aucun chemin défini ! Veuillez définir au moins un chemin auquel attribuer la permission."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:164
+msgid "Permission has been successfully updated."
+msgstr "La permission a été mise à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:191
+#, php-format
+msgid "There were problems adding some of the permissions you defined. The following permissions couldn't be added: %s."
+msgstr "Des erreurs sont survenues lors de l'ajout des permissions. Les permissions suivantes n'ont pas pu être ajoutées : %s."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:201
+#, php-format
+msgid "Permission(s) have been successfully added. The following permissions have been added: %s."
+msgstr "Les permissions suivantes ont été ajoutées : %s."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:213
+msgid "Available Sections"
+msgstr "Sections disponibles"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:305
+msgid "Section / Path"
+msgstr "Section / Chemin"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:359
+msgid "Unknown Section"
+msgstr "Section inconnue"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:436
+msgid "User Permissions"
+msgstr "Permissions de l'utilisateur"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:442
+msgid "User will have full access to all paths (if marked as Admin) unless you define some paths below."
+msgstr "L'utilisateur aura accès à toutes les sections (si marqué comme Admin) sauf si vous définissez des chemins ci-dessous."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:453
+msgid "You are not allowed to modify your own permissions!"
+msgstr "Vous n'êtes pas autorisé à modifier vos propres permissions !"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:479
+msgid "Edit Permission"
+msgstr "Modifier la permission"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:519
+msgid "No user permissions found."
+msgstr "Aucune permission accordée."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:561
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:605
+#, php-format
+msgid "Permission to path \"%s\" already exists."
+msgstr "La permission pour le chemin \"%s\" est déjà existante."
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:578
+#, php-format
+msgid "Permission couldn't be set! Error: %s"
+msgstr "La permission n'a pas pu être accordée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:621
+#, php-format
+msgid "Permission couldn't be updated! Error: %s"
+msgstr "La permission n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:648
+msgid "Read"
+msgstr "Lecture"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:650
+msgid "Write"
+msgstr "Écriture"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:652
+msgid "Undefined!"
+msgstr "Indéfini !"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:24
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:698
+msgid "New Field"
+msgstr "Nouveau champ"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:28
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:32
+msgid "Forms"
+msgstr "Formulaires"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:52
+msgid "Type"
+msgstr "Type"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:120
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:408
+msgid "Value Type"
+msgstr "Type de valeur"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:152
+msgid "Value Options"
+msgstr "Option de la valeur"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:157
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:517
+msgid "Field Name"
+msgstr "Nom du champ"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:164
+msgid "Value(s)"
+msgstr "Valeur(s)"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:172
+msgid "Enter one value per line. Values can also have two arguments if required (title and value), for e.g. \"Tech Department = tech@domain.com\". To have a value preselected as the default mark it with an asterisk (*), for e.g. \"*Tech Deparment\""
+msgstr "Entrez une valeur par ligne. Les valeurs peuvent également contenir deux arguments, si requis (titre et valeur), par exemple : \"Département des TIC = tic@exemple.com\". Pour avoir une valeur présélectionnée par défaut, préfixez-là d'un astérisque (*), par exemple : \"*Département des TIC\"."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:186
+msgid "Display Options"
+msgstr "Options d'affichage"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:191
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:537
+msgid "Style"
+msgstr "Style"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:198
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:532
+msgid "Additional Text"
+msgstr "Texte additionnel"
+
+# À REVISER
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:205
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:522
+msgid "Placeholder Text"
+msgstr "Texte de placement"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:211
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:527
+msgid "Tooltip Text"
+msgstr "Texte d'aide"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:219
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:542
+msgid "Viewable by"
+msgstr "Visible par"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:245
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:547
+msgid "Required"
+msgstr "Requis"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:254
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:552
+msgid "Searchable"
+msgstr "Cherchable"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:262
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:557
+msgid "Data Preview"
+msgstr "Prévisualisation des données"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:270
+msgid "(field will be used as preview when browsing saved data)"
+msgstr "(ce champ sera utilisé pour la prévisualisation lors de l'affichage des données sauvegardées)"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:275
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:562
+msgid "Attributes"
+msgstr "Attributs"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:322
+msgid "You are NOT allowed to delete a protected field!"
+msgstr "Vous n'êtes pas autorisé à supprimer un champ protégé !"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:341
+msgid "Fields have been successfully re-ordered."
+msgstr "Les champs ont été réordonnés."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:352
+msgid "Field has been successfully deleted."
+msgstr "Le champ a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:377
+msgid "Field has been successfully updated."
+msgstr "Le champ a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:390
+msgid "Field has been successfully created."
+msgstr "Le champ a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:406
+msgid "Title / Type"
+msgstr "Titre / Type"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:415
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:465
+msgid "Values"
+msgstr "Valeurs"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:498
+msgid "Protected Field"
+msgstr "Champ protégé"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:500
+msgid "Protected"
+msgstr "Protégé"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:658
+msgid "Form Fields"
+msgstr "Champs du formulaire"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:688
+msgid "Form couldn't be found!"
+msgstr "Le formulaire demandé est introuvable !"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:697
+msgid "Edit Field"
+msgstr "Modifier le champ"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:729
+msgid "Preview Dynamic Form"
+msgstr "Prévisualisation du formualire"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:752
+msgid "No form fields found."
+msgstr "Aucun champ trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:794
+msgid "Field for the storage table couldn't be added. Please see the SQL error above and report it to webmaster."
+msgstr "Le champ de la base de données n'a pas pu être ajouté. Veuillez vérifier l'erreur SQL ci-dessus et la reporter au webmestre."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:873
+#, php-format
+msgid "Field couldn't be created! Error: %s"
+msgstr "Le champ n'a pa pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:898
+msgid "Field for the storage table couldn't be edited. Please see the SQL error above and report it to webmaster."
+msgstr "Le champ de la base de données n'a pas pu être modifié. Veuillez vérifier l'erreur SQL ci-dessus et la rapporter au webmestre."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:964
+#, php-format
+msgid "Field couldn't be updated! Error: %s"
+msgstr "Le fichier n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1077
+msgid "Field selected to be edited doesn't exist!"
+msgstr "Le fichier sélectionné pour modification est inexistant !"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1225
+msgid "Admins Only"
+msgstr "Administrateurs seulement"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1227
+msgid "Guests"
+msgstr "Non-membres"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1229
+msgid "Members"
+msgstr "Membres"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1231
+msgid "Everyone"
+msgstr "Tous"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:53
+msgid "Installing files"
+msgstr "Installation des fichiers"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:69
+msgid "Running SQL Queries"
+msgstr "Exécution des requêtes SQL"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:83
+msgid "Couldn't update template.css file."
+msgstr "La mise à jour du fichier template.css n'a pas pu être effectuée."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:84
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:91
+#, php-format
+msgid "Please make sure \"%s\" is writable by me or contact webmaster."
+msgstr "Veuillez vous assurer que \"%s\" est ouvert en écriture par le serveur ou contactez le webmestre."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:90
+msgid "Couldn't update template.js file."
+msgstr "La mise à jour du fichier template.js n'a pas pu être effectuée."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:126
+msgid "Activating Module"
+msgstr "Activation du module"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:134
+msgid "Module has been successfully installed."
+msgstr "Le module a été installé avec succès."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:136
+msgid "View Module"
+msgstr "Accéder au module"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:144
+msgid "No SQL queries to run."
+msgstr "Aucune requête SQL à exécuter."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:150
+msgid "No files to install."
+msgstr "Aucun fichier à installer."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:169
+msgid "Success"
+msgstr "Succès"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:170
+msgid "Error"
+msgstr "Erreur"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:180
+msgid "This module needs to be installed before it can be used."
+msgstr "Ce module doit être installé pour pour pouvoir être utilisé."
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:187
+msgid "Install Module"
+msgstr "Installer le module"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:193
+msgid "Module Installation"
+msgstr "Installation du module"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:28
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:619
+msgid "New Data"
+msgstr "Nouvelle entrée"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:102
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:113
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:124
+msgid "Data has been successfully deleted."
+msgstr "L'entrée a été supprimée."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:157
+msgid "Data has been successfully updated."
+msgstr "L'entrée a été mise à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:170
+msgid "Data has been successfully added."
+msgstr "L'entrée a été ajoutée."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:191
+msgid "ID"
+msgstr "ID"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:340
+msgid "No"
+msgstr "Non"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:440
+msgid "search..."
+msgstr "rechercher..."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:442
+msgid "Search"
+msgstr "Rechercher"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:451
+msgid "Delete All"
+msgstr "Tout supprimer"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:534
+msgid "Data"
+msgstr "Données"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:579
+msgid "You are NOT allowed to access form data!"
+msgstr "Vous n'êtes pas autorisé à accéder aux données !"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:588
+msgid "You should be automatically redirected to browse form data, if for some reason you aren't please click the \"Browse Data\" button below."
+msgstr "Vous devriez être redirigé automatiquement au gestionnaire des données. Si vous ne l'êtes pas, veuillez cliquer sur le bouton \"Gérer les données\" ci-dessous."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:595
+msgid "Browse Data"
+msgstr "Gérer les données"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:609
+msgid "No SQL Table defined for this form."
+msgstr "Aucune table SQL définie pour ce formulaire."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:618
+msgid "Edit Data"
+msgstr "Modifier l'entrée"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:674
+msgid "No data found."
+msgstr "Aucune donnée trouvée."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:755
+#, php-format
+msgid "Could not save data to the DB! Error: %s"
+msgstr "Les données n'ont pas pu être sauvegardées dans la base de données ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:818
+#, php-format
+msgid "Could not update DB data! Error: %s"
+msgstr "Les données n'ont pas pu être mises à jour dans la base de données ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:213
+#, php-format
+msgid "Email couldn't be sent. Please try again or send your email <a href='mailto:%s'>manually</a>."
+msgstr "Le courriel n'a pas pu être envoyé. Veuillez réessayer à nouveau ou envoyer votre courriel <a href='mailto:%s'>manuellement</a>."
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:247
+msgid "Couldn't send email using SMTP as SMTP Host and/or SMTP Port are not defined! Please go to your administration panel and in the Global Settings define both required values."
+msgstr "Impossible d'envoyer le courriel par SMTP car aucun serveur/port SMTP n'est défini ! Veuillez vous assurer que ces paramètres sont définis dans le Paramètres généraux de l'administration."
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:277
+#, php-format
+msgid "SMTP connection couldn't be established. %s"
+msgstr "La connexion au serveur SMTP n'a pas pu être établie. %s"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:347
+msgid "Connection broken up. Please make sure to define the right SMTP port, 465 for SSL and 25 for normal connections."
+msgstr "La connexion a été perdue. Veuillez vous assurer de renseigner le bon port SMTP, normalement 465 pour une connexion SSL et 25 pour une connexion régulière."
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:351
+#, php-format
+msgid "SMTP error: %s"
+msgstr "Erreur SMTP : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:367
+msgid "Couldn't encrypt email as PGP Public Keys directory and/or PGP Binary file are not defined! Please go to your administration panel and in the Global Settings define both required values."
+msgstr "Le courriel n'a pas pu être encrypté puisque le dossier contenant les clés publiques PGP et/ou le binaire PGP ne sont pas définis ! Veuillez vous assurer de définir correctement ces deux valeur dans les Paramètres généraux de l'administration."
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:389
+#, php-format
+msgid "Email couldn't be encrypted! Please make sure you have the right paths set for the PGP binary and public key files. %s"
+msgstr "Le courriel n'a pas pu être encrypté ! Veuillez vous assurer que vous avez défini les bons chemins vers les clés publiques et le binaire PGP. %s"
+
+#: /home/julius/workspace/jcore/lib/sources/url.class.php:479
+msgid "Searching for"
+msgstr "Recherche pour"
+
+#: /home/julius/workspace/jcore/lib/sources/url.class.php:517
+msgid "clear"
+msgstr "effacer"
+
+#: /home/julius/workspace/jcore/lib/sources/url.class.php:526
+msgid "Your search returned no results. Please make sure all words are spelled correctly or try fewer keywords by clicking on them to remove."
+msgstr "Votre recherche n'a retournée aucun résultat. Veuillez vous assurer que tous les mots sont correctement orthographiés ou retirez-en en cliquant sur ceux-ci."
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:39
+msgid "Only registered users can rate."
+msgstr "Seuls les utilisateurs enregistrés peuvent noter."
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:55
+#, php-format
+msgid "You already rated this %s."
+msgstr "Vous avez déjà noté cet élément : %s."
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:75
+#, php-format
+msgid "Rating couldn't be stored! Error: %s"
+msgstr "La note n'a pas pu être sauvegardée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:97
+msgid "Thank you for your vote."
+msgstr "Merci pour votre vote."
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:135
+#, php-format
+msgid "Your vote: %s (votes: %s, average: %s out of %s)"
+msgstr "Votre note : %s (votes : %s, moyenne : %s sur %s)"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:46
+msgid "More Settings"
+msgstr "Plus de paramètres"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:75
+msgid "Brute Force Protection has been turned ON."
+msgstr "La protection contre la force brute a été activée."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:81
+msgid "Brute Force Protection has been turned OFF."
+msgstr "La protection contre la force brute a été désactivée."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:92
+msgid "Password Trading Protection has been turned ON."
+msgstr "La protection contre le partage de mots de passe a été activée."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:98
+msgid "Password Trading Protection has been turned OFF."
+msgstr "La protection contre le partage de mots de passe a été désactivée."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:109
+#, php-format
+msgid "IP \"%s\" has been successfully removed from the list."
+msgstr "L'adresse \"%s\" a été retiré de la liste."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:122
+#, php-format
+msgid "User \"%s\" has been successfully removed from the list."
+msgstr "L'utilisateur \"%s\" a été retiré de la liste."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:133
+msgid "IP"
+msgstr "IP"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:135
+msgid "Usernames used"
+msgstr "Noms d'utilisateur utilisés"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:137
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:277
+msgid "Expires on"
+msgstr "Expire le"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:183
+msgid "For additional brute force protection settings please see"
+msgstr "Pour plus de paramètres de protection contre la force brute, veuillez voir"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:186
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:331
+msgid "Global Settings"
+msgstr "Paramètres généraux"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:234
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:379
+msgid "Turn Protection On/Off"
+msgstr "Activer/désectiver la protection"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:242
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:387
+msgid "Turn OFF"
+msgstr "Activer"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:243
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:388
+msgid "Turn ON"
+msgstr "Désactiver"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:251
+msgid "Brute Force Protection"
+msgstr "Protection contre la force brute"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:254
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:399
+msgid "ON"
+msgstr "ACTIVÉ"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:255
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:400
+msgid "OFF"
+msgstr "DÉSACTIVÉ"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:263
+msgid "The logged IP adresses in the list below have been banned (because trying to login with different users in a short time) and won't be able to login until expiration date / time. To unban an IP just delete it from the list."
+msgstr "Les adresses IP affichées dans la liste ci-bas ont été bannies (pour tentative de connexion avec différents utilisateurs dans une courte période de temps) et ne seront plus en mesure de se connecter jusqu'au moment de l'expiration. Pour débannir une adresse IP, supprimez-la de la liste."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:273
+msgid "User"
+msgstr "Utilisateur"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:275
+msgid "IPs used"
+msgstr "Adresses IP utilisées"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:328
+msgid "For additional password trading protection settings please see"
+msgstr "Pour plus de paramètres de protection contre le partage de mot de passe, veuillez voir"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:396
+msgid "Password Trading Protection"
+msgstr "Protection contre le partage de mots de passe"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:408
+msgid "The logged Users in the list below have been suspended (because of simultaneously logins from different IPs) and won't be able to login until expiration date / time. To unsuspend a user just delete it from the list."
+msgstr "Les utilisateurs affichés dans la liste ci-bas ont été suspendus (pour tentative de connexions simultanées à partir de différentes adresses IP) et ne seront plus en mesure de de connecter jusqu'à l'expiration. Pour retirer la suspension, supprimez-la de la liste."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:417
+msgid "Security Alerts Administration"
+msgstr "Gestion des alertes de sécurité"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:466
+msgid "No brute force attempts have been logged."
+msgstr "Aucun essai de connexion par force brute n'a été journalisée."
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:496
+msgid "No password trading attempts have been logged."
+msgstr "Aucun essai de connexion par partage de mot de passe n'a été journalisé."
+
+#: /home/julius/workspace/jcore/lib/sources/gdata.class.php:28
+#, php-format
+msgid "Couldn't connect to %s!"
+msgstr "Impossible de se connecter à %s !"
+
+#: /home/julius/workspace/jcore/lib/sources/gdata.class.php:64
+#, php-format
+msgid "GData auth token couldn't be exchanged! Result: %s"
+msgstr "Le jeton d'authentification GData n'a pas pu être échangé ! Résultat : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/gdata.class.php:88
+#, php-format
+msgid "GData auth token has been successfully retrieved. <br /><b>Your new GData auth token is: %s</b>"
+msgstr "Le jeton d'authentification GData a été extrait. <br /><b>Votre nouveau jeton d'authetification GData est : %s</b>"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:46
+msgid "Post has been successfully deleted."
+msgstr "L'article a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:57
+msgid "No posts selected! Please select at least one post that you would like to copy and/or move."
+msgstr "Aucun article sélectionné ! Veuillez sélectionner au moins un article à copier et/ou déplacer."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:66
+msgid "No menu selected to copy and/or move posts to! Please select a menu to move the posts to at the bottom of the list."
+msgstr "Aucun menu sélectionné comme destination pour la copie et/ou le déplacement des articles. Veuillez sélectionné un menu ci-bas."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:79
+msgid "The menu you have selected to copy and/or move posts to does not exists. This could be happening because the menu has been deleted meanwhile."
+msgstr "Le menu que vous avez sélectionné pour la copie et/ou le déplacement des articles n'existe pas. Le menu a pu être supprimé entre temps par un autre administrateur."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:94
+#, php-format
+msgid "Posts have been successfully moved over to \"%s\"."
+msgstr "Les articles ont été déplacés vers \"%s\"."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:107
+#, php-format
+msgid "Posts have been successfully copied over to \"%s\"."
+msgstr "Les articles ont été copié vers \"%s\"."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:121
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:76
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:118
+msgid "Settings"
+msgstr "Paramètres"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:143
+msgid "Display On All Pages"
+msgstr "Afficher sur toutes les pages"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:144
+msgid "On All Pages"
+msgstr "Sur toutes les pages"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:145
+msgid "Display On Main Page"
+msgstr "Afficher sur la page principale"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:146
+msgid "On Main Page"
+msgstr "Sur la page principale"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:196
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:662
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1737
+#, php-format
+msgid "%s views"
+msgstr "%s vues"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:256
+msgid "Copy / Move selected posts to:"
+msgstr "Copier/déplacer les articles vers :"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:295
+msgid "Copy"
+msgstr "Copier"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:297
+msgid "Move"
+msgstr "Déplacer"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:411
+msgid "Handling Posts"
+msgstr "Manipulation des articles"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:464
+msgid "No posts found."
+msgstr "Aucun article trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:493
+#, php-format
+msgid "Post couldn't be copied! Error: %s"
+msgstr "Les articles n'ont pas pu être copiés ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:592
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:612
+#, php-format
+msgid "Post couldn't be moved! Error: %s"
+msgstr "Les articles n'ont pas pu être déplacés ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:318
+msgid "New Link"
+msgstr "Nouveau lien"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:48
+msgid "Link"
+msgstr "Lien"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:118
+msgid "Links have been successfully re-ordered."
+msgstr "Les liens ont été réordonnés."
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:129
+msgid "Link has been successfully deleted."
+msgstr "Le lien a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:143
+msgid "Link has been successfully updated."
+msgstr "Le lien a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:156
+msgid "Link has been successfully created."
+msgstr "Le lien a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:172
+msgid "Title / Link"
+msgstr "Titre / Lien"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:292
+msgid "Favorite Links Administration"
+msgstr "Gestion "
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:317
+msgid "Edit Link"
+msgstr "Modifier le lien"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:356
+msgid "No links found."
+msgstr "Aucun lien trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:418
+#, php-format
+msgid "Link couldn't be added! Error: %s"
+msgstr "Le lien n'a pas pu être ajouté ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:451
+#, php-format
+msgid "Link couldn't be updated! Error: %s"
+msgstr "Le lien n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:43
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:587
+msgid "Folder couldn't be created."
+msgstr "Le dossier n'a pas pu être créé."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:52
+msgid "Folder has been successfully created."
+msgstr "Le dossier a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:74
+msgid "File / Folder couldn't be deleted."
+msgstr "Le fichier/dossier n'a pas pu être supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:83
+msgid "File / Folder has been successfully deleted."
+msgstr "Le fichier/dossier a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:94
+msgid "No file selected to be uploaded! Please select at least one file to upload."
+msgstr "Aucun fichier sélectionné pour le téléversement ! Veuillez sélectionner au moins un fichier."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:109
+msgid "File / Folder couldn't be renamed."
+msgstr "Le fichier/dossier n'a pas pu être renommé."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:118
+msgid "File / Folder has been successfully renamed."
+msgstr "le fichier/dossier a été renommé."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:141
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:556
+#, php-format
+msgid "There were problems uploading some of the files you selected. The following files couldn't be uploaded: %s."
+msgstr "Des erreurs sont survenues lors du téléversement des fichiers suivants  %s."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:151
+#, php-format
+msgid "Files have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "Les fichiers suivants ont correctement été téléversés sur le serveur : %s."
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:179
+msgid "No file selected to download!"
+msgstr "Aucun fichier sélectionné pour le téléchargement !"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:219
+msgid "Folder name"
+msgstr "Nom du dossier"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:234
+msgid "File / Folder name"
+msgstr "Nom du dossier/fichier"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:243
+msgid "File to upload"
+msgstr "Fichier à téléverser"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:261
+msgid "Upload another file"
+msgstr "Téléverser un autre fichier"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:282
+msgid "Size"
+msgstr "Taille"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:301
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:343
+#, php-format
+msgid "Change directory to %s"
+msgstr "Changer le dossier pour %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:319
+#, php-format
+msgid "Preview %s"
+msgstr "Prévisualiser %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:328
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:365
+#, php-format
+msgid "Download %s"
+msgstr "Télécharger %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:354
+#, php-format
+msgid "Link to %s"
+msgstr "Lier à %s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:503
+msgid "Root Path not defined!"
+msgstr "Le chemin racine n'est pas défini !"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:517
+msgid "New Folder"
+msgstr "Nouveau dossier"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:533
+msgid "Edit File / Folder"
+msgstr "Modifier le fichier/dossier"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:635
+msgid "No files / directories found."
+msgstr "Aucun fichier/dossier trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:72
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:822
+msgid "New Picture"
+msgstr "Nouvelle image"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:91
+msgid "Upload a new picture"
+msgstr "Téléverser une nouvelle image"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:96
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:134
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:152
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:580
+msgid "Picture"
+msgstr "Image"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:103
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:105
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:140
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:142
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:241
+msgid "e.g. image.jpg, image.gif"
+msgstr "ex. : image.jpg, image.gif"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:119
+msgid "Upload another picture"
+msgstr "Téléverser une autre image"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:147
+msgid "Already uploaded picture"
+msgstr "Image déjà téléversée"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:163
+msgid "Existing Picture (URL)"
+msgstr "Image (URL) déjà existante"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:167
+msgid "e.g. http://domain.com/image.jpg"
+msgstr "ex. : http://exemple.com/image.jpg"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:177
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:201
+msgid "No Thumbnail"
+msgstr "Aucune miniature"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:185
+msgid "Thumbnail Options"
+msgstr "Options de la miniature"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:191
+msgid "Regenerate"
+msgstr "Regénérer"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:197
+msgid "(create a new thumbnail)"
+msgstr "(créer une nouvelle miniature)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:207
+msgid "(do not generate thumbnail)"
+msgstr "(ne pas générer de miniature)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:210
+msgid "No Sharpen"
+msgstr "Ne pas améliorer"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:216
+msgid "(do not apply sharpen effect to thumbnail)"
+msgstr "(n'applique aucun effet d'amélioration à la miniature)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:219
+msgid "Width"
+msgstr "Largeur"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:228
+msgid "Height"
+msgstr "Hauteur"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:237
+msgid "Custom"
+msgstr "Personnalisée"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:251
+msgid "Watermark Options"
+msgstr "Options de filigrane"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:256
+msgid "No Watermark"
+msgstr "Aucune filigrane"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:262
+msgid "(do not add watermark)"
+msgstr "(ne pas ajouter de filigrane)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:265
+msgid "Position"
+msgstr "Position"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:271
+msgid "e.g. 100% 100% (right-bottom), 0% 0% (left-top)"
+msgstr "ex. : 100% 100% (en bas à droite), 0% 0% (en haut à gauche)"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:285
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:674
+msgid "Link to URL"
+msgstr "Lier à l'URL"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:292
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:294
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:299
+msgid "e.g. http://domain.com"
+msgstr "ex. : http://exemple.com"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:297
+msgid "Uploaded on"
+msgstr "Ajoutée le"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:351
+msgid "Pictures have been successfully re-ordered."
+msgstr "Les images ont été réordonnées."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:362
+msgid "Picture has been successfully deleted."
+msgstr "L'image a été supprimée."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:376
+msgid "No file selected to be uploaded as a new picture! Please select a file / picture to upload or define an already uploaded picture."
+msgstr "Aucun fichierr a téléverser comme nouvelle image ! Veuillez sélectionner un fichier/image à téléverser or définissez une image déjà téléversée."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:441
+msgid "Thumbnail couldn't be updated as the selected picture cannot be found!"
+msgstr "La miniature n'a pas pu être mise à jour puisque l'image sélectionnée est introuvable !"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:467
+msgid "Picture has been successfully updated."
+msgstr "L'image a été mise à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:494
+msgid "Picture has been successfully added."
+msgstr "L'image a été ajoutée."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:566
+#, php-format
+msgid "Picture(s) have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "Les images ont été téléversées. Les fichiers suivants on été téléversés : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:582
+msgid "Details"
+msgstr "Détails"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:667
+msgid "Dimension"
+msgstr "Dimensions"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:670
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:785
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1809
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:604
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1671
+msgid "Storage table not defined."
+msgstr "La table de stockage n'est pas définie."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:821
+msgid "Edit Picture"
+msgstr "Modifier l'image"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:869
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:706
+#, php-format
+msgid "No %s found for this %s."
+msgstr "Aucun(e)s %s trouvé(e)s pour ce(t/te) %s."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:996
+#, php-format
+msgid "Picture couldn't be created! Error: %s"
+msgstr "La photo n'a pas pu être créée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1053
+#, php-format
+msgid "Picture couldn't be updated! Error: %s"
+msgstr "La photo n'a pas pu être mise à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1269
+msgid "Thumbnail couldn't be created!"
+msgstr "La miniature n'a pas pu être créée !"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1300
+msgid "Couldn't create thumbnail as the defined picture is to big to be processed with the current memory limit set. Please try to upload a smaller image instead."
+msgstr "Impossible de créer la miniature puisque la photo est trop lourde pour être traitée avec la limite de mémoire actuelle. Veuillez essayer de téléverser une image plus légère."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1395
+msgid "Thumbnail couldn't be regenerated as the selected picture cannot be found!"
+msgstr "La miniature n'a pas pu être regénérée puisque la photo sélectionnée n'a pas pu être trouvée !"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1424
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file cannot be found!"
+msgstr "Impossible d'ajouter la filigrane à la photo puisque le fichier spécifié \"%s\" n'a pas pu être trouvé !"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1435
+msgid "Couldn't add watermark to picture as the picture is to big to be processed with the current memory limit set. Please try to upload a smaller image instead."
+msgstr "Impossible d'ajouter la filigrane à la photo puisque la photo est trop lourde pour être traitée avec la limite de mémoire actuelle. Veuillez essayer de téléverser une image plus légère."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1455
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file is not a compatible image file! Please try again by uploading a JPEG file instead."
+msgstr "Impossible d'ajouter de filigrane à la photo puisque le fichier \"%s\" n'est pas dans un format supporté  Veuillez essayer à nouveau avec un fichier JPEG."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1494
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file is not a compatible image file! Please try again by defining a JPEG or PNG watermark file."
+msgstr "Impossible d'ajouter de filigrane à la photo puisque le fichier \"%s\" n'est pas dans un format supporté  Veuillez essayer à nouveau avec une filigrane de format JPEG ou PNG."
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1640
+msgid "No picture selected to download!"
+msgstr "Aucune image n'a été sélectionnée pour le téléchargement !"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1652
+msgid "The selected picture cannot be found!"
+msgstr "L'image sélectionnée est introuvable !"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1664
+#, php-format
+msgid "Picture \"%s\" cannot be found!"
+msgstr "L'image \"%s\" est introuvable !"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:79
+msgid "Last page"
+msgstr "Dernière page"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:86
+msgid "Next page"
+msgstr "Page suivante"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:102
+#, php-format
+msgid "Page (%s)"
+msgstr "Page (%s)"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:118
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:125
+msgid "First page"
+msgstr "Première page"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:131
+msgid "Pages"
+msgstr "Pages"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:114
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:654
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1695
+msgid "New Comment"
+msgstr "Nouveau commentaire"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:124
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1304
+msgid "Nickname"
+msgstr "Surnom"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:133
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1313
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:683
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:221
+msgid "Email"
+msgstr "Adresse courriel"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:140
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:360
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1327
+msgid "Comment"
+msgstr "Commentaire"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:147
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1355
+msgid "In Reply To"
+msgstr "En réponse à"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:227
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:274
+msgid "Comments have been successfully deleted."
+msgstr "Les commentaires ont été supprimés."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:237
+msgid "No comment selected! Please select at least one comment."
+msgstr "Aucun commentaire sélectionné ! Veuillez sélectionner au moins un commentaire."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:250
+msgid "Comments have been successfully declined and are now NOT visible to the public."
+msgstr "Les commentaires ont été refusés et ne seront PAS visibles au public."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:262
+msgid "Comments have been successfully approved and are now visible to the public."
+msgstr "Les commentaires ont été approuvée et sont désormais visibles publiquement."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:286
+msgid "Comment has been successfully declined and is now NOT visible to the public."
+msgstr "le commentaire a été refusé et ne sera PAS visible publiquement."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:298
+msgid "Comment has been successfully approved and is now visible to the public."
+msgstr "Le commentaire a été approuvé et est désormais visible publiquement."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:310
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1162
+msgid "Comment has been successfully deleted."
+msgstr "Le commentaire a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:324
+msgid "Comment has been successfully updated."
+msgstr "Le commentaire a été mis à jouré"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:337
+msgid "Comment has been successfully created."
+msgstr "Le commentaire a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:358
+msgid "Posted By"
+msgstr "Envoyé par"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:372
+msgid "Approved"
+msgstr "Approuvé"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:466
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:520
+msgid "Approve"
+msgstr "Approuver"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:475
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:522
+msgid "Decline"
+msgstr "Refuser"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:653
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1398
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1404
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1417
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1709
+msgid "Edit Comment"
+msgstr "Modifier le commentaire"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:774
+msgid "Comment already posted!"
+msgstr "Le commentaire a été publié !"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:810
+#, php-format
+msgid "Comment couldn't be added! Error: %s"
+msgstr "Le commentaire n'a pas pu être ajouté ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:915
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1012
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1033
+#, php-format
+msgid "Comment couldn't be updated! Error: %s"
+msgstr "Le commentaire n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1058
+msgid "Comment does not exist!"
+msgstr "Le commentaire n'existe pas !"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1068
+msgid "You cannot rate your own comments!"
+msgstr "Vous ne pouvez pas noter vos propres commentaires !"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1084
+msgid "You already rated this comment."
+msgstr "Vous avez déjà noté ce commentaire."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1131
+msgid "Thank you for rating this comment."
+msgstr "Merci d'avoir noté ce commentaire."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1152
+msgid "Only administrators can delete comments."
+msgstr "Seuls les administrateurs peuvent supprimer des commentaires."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1185
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1383
+msgid "Selected comment cannot be found!"
+msgstr "Le commentaire sélectionné n'a pas pu être trouvé !"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1195
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1393
+msgid "You can only edit your own comments."
+msgstr "Vous ne pouvez modifier que vos propres commentaires."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1204
+msgid "Your comment has been successfully updated."
+msgstr "Votre commentaire a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1217
+msgid "Thank you for your comment."
+msgstr "Merci pour votre commentaire."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1318
+msgid "(optional, used only for receiving Notification on replies and for the <a href='http://gravatar.com' target='_blank' rel='nofollow'>Avatar</a>)"
+msgstr "(optionnel, utilisé seulement pour recevoir des notifications de réponses ainsi que pour charger votre <a href='http://gravatar.com' target='_blank' rel='nofollow'>Avatar</a>)"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1335
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:723
+msgid "Verification code"
+msgstr "Code de vérification"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1344
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1479
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1775
+msgid "Only registered users can comment."
+msgstr "Seuls les utilisateurs enregistrés peuvent commenter."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1349
+msgid "Quick Reply"
+msgstr "Réponse rapide"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1364
+msgid "Submit Reply"
+msgstr "Soumettre la réponse"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1436
+msgid "Delete comment and all it's subcomments"
+msgstr "Supprimer le commentaire et toutes ses réponses"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1454
+msgid "Edit this comment"
+msgstr "Modifier ce commentaire"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1469
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1480
+msgid "Reply to this comment"
+msgstr "Répondre à ce commentaire"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1471
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1482
+msgid "Reply"
+msgstr "Répondre"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1502
+msgid "Vote Up"
+msgstr "J'aime"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1510
+msgid "Vote Down"
+msgstr "Je n'aime pas"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1532
+msgid "Will be visible to the public once approved."
+msgstr "Sera visible publiquement après approbation."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1534
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1549
+msgid "Pending"
+msgstr "En attente"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1546
+#, php-format
+msgid "Will be visible to the public in %s minutes."
+msgstr "Sera visible oubliquement dans %s minutes."
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1692
+#, php-format
+msgid "Reply To comment #%s"
+msgstr "Répondre au commentaire #%s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1694
+#, php-format
+msgid "Edit comment #%s"
+msgstr "Modifier le commentaire #%s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1700
+msgid "Reply To"
+msgstr "Pépondre à"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1717
+msgid "You can use some HTML tags, such as &lt;b&gt;, &lt;i&gt;, &lt;a&gt;, &lt;em&gt;, &lt;blockquote&gt;, &lt;code&gt;"
+msgstr "Vous pouvez utiliser certainses balises HTML telles que &lt;b&gt;, &lt;i&gt;, &lt;a&gt;, &lt;em&gt;, &lt;blockquote&gt;, &lt;code&gt;"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1727
+msgid "Cancel Reply"
+msgstr "Annuler la réponse"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1736
+msgid "Cancel Edit"
+msgstr "Annuler la modification"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1750
+msgid "Comments"
+msgstr "Commentaires"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1756
+msgid "No comments yet."
+msgstr "Aucun commentaire actuellement."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:231
+msgid "Enter the code shown on the right"
+msgstr "Entrez le code affiché à droite"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:253
+msgid "Security Image"
+msgstr "Image de sécurité"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:258
+msgid "Reload"
+msgstr "Recharger"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:284
+msgid "e.g. user@domain.com"
+msgstr "ex. : utilisateur@exemple.com"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:287
+msgid "e.g. 2010-07-21 21:00:00"
+msgstr "ex. : 2010-07-21 21:00:00"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:290
+msgid "e.g. 2010-07-21"
+msgstr "ex. : 2010-07-21"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:293
+msgid "e.g. 21:00:00"
+msgstr "ex. : 21:00:00"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:296
+msgid "e.g. #ff9933"
+msgstr "ex. : #ff9933"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:302
+msgid "e.g. +1 (202) 555-1234"
+msgstr "ex. : +1 (202) 555-1234"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:681
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:773
+msgid "Text"
+msgstr "Texte"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:685
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:687
+msgid "Radio"
+msgstr "Bouton radio"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:689
+msgid "Select"
+msgstr "Menu de sélection"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:691
+msgid "Multi Select"
+msgstr "Menu de sélection multiple"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:693
+msgid "Recipient Select"
+msgstr "Sélection du destinataire"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:695
+msgid "Textarea"
+msgstr "Zone de texte"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:697
+msgid "Text Editor"
+msgstr "Editeur de texte"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:699
+msgid "Code Editor"
+msgstr "Editeur de code"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:701
+msgid "Hidden"
+msgstr "Caché"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:703
+msgid "Review"
+msgstr "Réviser"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:705
+msgid "Password"
+msgstr "Mot de passe"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:707
+msgid "Confirm Previous Field"
+msgstr "Confirmer le champs précédent"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:709
+msgid "Date Time"
+msgstr "Date et heure"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:711
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:765
+msgid "Date"
+msgstr "Date"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:713
+msgid "Time"
+msgstr "Heure"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:715
+msgid "Static Text"
+msgstr "Texte statique"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:717
+msgid "Button Submit"
+msgstr "Boutton Soumettre"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:719
+msgid "Button Reset"
+msgstr "Bouton Réinitialiser"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:721
+msgid "Button"
+msgstr "Bouton"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:725
+msgid "File"
+msgstr "Fichier"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:727
+msgid "Open Form Area"
+msgstr "Ouverture d'une zone de formulaire"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:729
+msgid "Close Form Area"
+msgstr "Fermeture d'une zone de formulaire"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:731
+msgid "Color"
+msgstr "Couleur"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:735
+msgid "Telephone"
+msgstr "Numéro de téléphone"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:737
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:769
+msgid "URL"
+msgstr "Adresse URL"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:739
+msgid "Range"
+msgstr "Étendue"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:741
+msgid "Number"
+msgstr "Nombre"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:743
+msgid "Page Break"
+msgstr "Saut de page"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:755
+msgid "String"
+msgstr "Chaîne"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:757
+msgid "Int"
+msgstr "Nombre intégral"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:759
+msgid "Float"
+msgstr "Nombre flottant"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:761
+msgid "Array"
+msgstr "Tableau"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:763
+msgid "TimeStamp"
+msgstr "Heure UNIX"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:767
+msgid "HTML"
+msgstr "HTML"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:771
+msgid "LimitedString"
+msgstr "Chaîne limitée"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:775
+msgid "Boolean"
+msgstr "Boléen"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:801
+msgid "Submit"
+msgstr "Soumettre"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1065
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1992
+msgid "Fields marked with an asterisk (*) are required."
+msgstr "Les champs marqués d'un astérique (*) sont requis."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1066
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:2005
+msgid "Field(s) marked with an asterisk (*) is/are required."
+msgstr "Les champs marqués d'un astérisque (*) sont requis."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1071
+msgid "No file selected for upload."
+msgstr "Aucun fichier sélectionné pour le téléversement."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1075
+msgid "Some fields do not match. Please make sure to enter the same value when asked to confirm a previous field."
+msgstr "Certains champs ne correspondent pas. Veuillez vous assurer d'entrer la même valeur lorsqu'une confirmation d'un champ précédent est demandée."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1080
+msgid "Incorrect verification code. Please enter the code shown on the image."
+msgstr "Code de vérification incorrect. Veuillez entrer le code affiché sur l'image."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1085
+msgid "Invalid email address. Please make sure you enter a valid email address."
+msgstr "L'adresse courriel est invalide. Veuillez vous assurer d'enter une adresse courriel valide."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1090
+#, php-format
+msgid "The password you entered is too short. Your password must be at least %s characters long."
+msgstr "Le mot de passe sélectionné est trop court. Votre mot de passe doit faire un minimum de %s caracatères."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1096
+msgid "Please review / correct the marked fields in the form below and try again."
+msgstr "Veuillez réviser/corriger les champs marqués dans le formulaire et réessayez."
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1325
+msgid "Next"
+msgstr "Suivant"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1354
+msgid "Back"
+msgstr "Retour"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1496
+#, php-format
+msgid "max %s"
+msgstr "max %s"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1960
+#, php-format
+msgid "(Step %s of %s)"
+msgstr "(Étape %s de %s)"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1995
+msgid "Field marked with an asterisk (*) is required."
+msgstr "Le champ marqué d'un astérisque (*) est requis."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:49
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:468
+msgid "New Form"
+msgstr "Nouveau formulaire"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:69
+msgid "Form ID"
+msgstr "Identifiant du formulaire"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:76
+msgid "Notification Options"
+msgstr "Options de notification"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:81
+msgid "Send Email"
+msgstr "Envoyer un courriel"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:90
+msgid "Send To"
+msgstr "Envoyer à"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:102
+msgid "Storage Options"
+msgstr "Option de stockage"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:107
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:359
+msgid "SQL Table"
+msgstr "Table SQL"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:124
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:363
+msgid "Method"
+msgstr "Méthode"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:133
+msgid "Success Message"
+msgstr "Message de succès"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:166
+msgid "You are NOT allowed to delete a protected form!"
+msgstr "Vous n'êtes pas autorisé à supprimer un formulaire protégé !"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:178
+msgid "Form has been successfully deleted."
+msgstr "Le formulaire a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:192
+msgid "Form has been successfully updated."
+msgstr "Le formulaire a été mis à jouré"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:205
+msgid "Form has been successfully created."
+msgstr "Le formulaire a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:219
+msgid "Title / Form ID"
+msgstr "Titre / Identifiant du formulaire"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:229
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:302
+msgid "Fields"
+msgstr "Champs"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:334
+msgid "Protected Form"
+msgstr "Formulaire protégé"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:354
+msgid "Send Email To"
+msgstr "Envoyer un courriel à"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:437
+msgid "Dynamic Forms Administration"
+msgstr "Gestion des formulaires dynamiques"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:443
+msgid "To implement a form in your post just add the following code <code>{forms}formid{/forms}</code> to your content where <i>formid</i> is your form's id, for e.g. contact."
+msgstr "Pour ajouter un formulaire dans votre article, ajoutez le code suivant à votre contenu <code>{forms}identifiant{/forms}</code> où <i>identifiant</i> est l'identifiant du formulaire (par exemple contact)."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:467
+msgid "Edit Form"
+msgstr "Modifier le formulaire"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:506
+msgid "No dynamic forms found."
+msgstr "Aucun formulaire dynamique trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:552
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:633
+msgid "A form with this ID already exists! Please choose a different id for your form."
+msgstr "Un formulaire avec cet identifiant existe déjà ! Veuillez sélectionner un identifiant différent pour votre formulaire."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:569
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:654
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:714
+#, php-format
+msgid "SQL Table \"%s\" already exists! Please choose a different table for your form."
+msgstr "La table SQL \"%s\" existe déjà ! Veuillez sélectionner une table SQL différente pour votre formulaire."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:609
+#, php-format
+msgid "Form couldn't be created! Error: %s"
+msgstr "Le formulaire n'a pas pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:700
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:733
+msgid "Protected SQL Tables cannot be renamed / deleted!"
+msgstr "Les tables SQL protégées ne peuvent pas être renommées/supprimées !"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:772
+#, php-format
+msgid "Form couldn't be updated! Error: %s"
+msgstr "Le formulaire n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:25
+msgid "Email ID"
+msgstr "Identifiant courriel"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:31
+msgid "e.g. WebmasterWarning (without spaces)"
+msgstr "ex. : AvertissementWebmestre (sans espace)"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:180
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:93
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:582
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:683
+msgid "Subject"
+msgstr "Sujet"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:40
+msgid "Body"
+msgstr "Corps"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:74
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:85
+msgid "Emails have been successfully reset."
+msgstr "Les courriels ont été réinitialisés."
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:99
+msgid "Email has been successfully updated."
+msgstr "Les courriels ont été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:122
+msgid "Email ID / Subject"
+msgstr "Identifiant courriel / Sujet"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:195
+msgid "Reset All"
+msgstr "Réinitialiser tout"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:279
+msgid "Notification Emails Administration"
+msgstr "Gestion des courriels de notification"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:305
+msgid "Edit Email"
+msgstr "Modifier le courriel"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:306
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:28
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:762
+msgid "New Email"
+msgstr "Nouveau courriel"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:350
+msgid "No emails found."
+msgstr "Aucun courriel trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:388
+msgid "An email with this id already exists!"
+msgstr "Un courriel avec cet identifiant existe déjà !"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:405
+#, php-format
+msgid "Email couldn't be added! Error: %s"
+msgstr "Le courriel n'a pas pu être ajouté ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:435
+#, php-format
+msgid "Email couldn't be updated! Error: %s"
+msgstr "Le courriel n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:463
+msgid "The specified email cannot be found!"
+msgstr "Le courriel spécifié n'existe pas !"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:88
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:757
+msgid "New Block"
+msgstr "Nouveau bloc"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:125
+msgid "Sub Block of"
+msgstr "Sous-bloc de"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:133
+msgid "Content Options"
+msgstr "Options de contenu"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:138
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1273
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:81
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:365
+msgid "Content"
+msgstr "Contenu"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:155
+msgid "Block ID"
+msgstr "Identifiant du bloc"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:162
+msgid "CSS Class"
+msgstr "Classe CSS"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:171
+msgid "In Language(s)"
+msgstr "Dans les langues suivantes"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:191
+msgid "In Menu(s)"
+msgstr "Dans les menus suivants"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:198
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:530
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:341
+msgid "Administration Section"
+msgstr "Section d'administration"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:241
+msgid "Caching Options"
+msgstr "Options de cache"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:246
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:590
+msgid "Enable Caching"
+msgstr "Activer le cache"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:254
+msgid "(cache the content of this block including all sub blocks)"
+msgstr "(met en cache le contenu de ce bloc, incluant tous les sous-blocs)"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:257
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:593
+msgid "Only for Guests"
+msgstr "Seulement pour les non-membres"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:265
+msgid "(don't use caching for logged in users)"
+msgstr "(n'utilise pas le cache pour les membres connectés)"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:268
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:597
+msgid "Refresh Time"
+msgstr "Période de rafraîchissement"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:277
+msgid "(cache refresh time interval in minutes)"
+msgstr "(intervalle, en minutes, du rafraîchissement du cache)"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:280
+msgid "Refresh Now"
+msgstr "Rafraîchir maintenant"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:312
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:585
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:350
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:607
+msgid "Limit"
+msgstr "Limite"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:365
+msgid "Blocks have been successfully re-ordered."
+msgstr "Les blocs ont été réordonnés."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:376
+msgid "Block has been successfully deleted."
+msgstr "Le bloc a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:389
+msgid "Block cannot be subblock of itself!"
+msgstr "Le bloc ne peut pas être un sous-bloc de lui-même !"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:409
+msgid "Block has been successfully updated."
+msgstr "Le bloc a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:426
+msgid "Block has been successfully created."
+msgstr "Le bloc a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:446
+msgid "Title / Block ID / CSS Class"
+msgstr "Titre/Identifiant/Classe CSS"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:568
+msgid "Display Except in Menu"
+msgstr "Afficher sauf dans le menu"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:569
+msgid "Display Only in Menu"
+msgstr "Afficher seulement dans le menu"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:575
+msgid "Display Except in Language"
+msgstr "Afficher sauf dans la langue"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:576
+msgid "Display Only in Language"
+msgstr "Afficher seulement dans la langue"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:598
+#, php-format
+msgid "%s minutes"
+msgstr "%s minutes"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:732
+msgid "Blocks Administration"
+msgstr "Gestion des blocs"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:756
+msgid "Edit Block"
+msgstr "Modifier le bloc"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:802
+msgid "No blocks found."
+msgstr "Aucun bloc trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:838
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:860
+msgid "Only"
+msgstr "Seulement"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:847
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:869
+msgid "Except"
+msgstr "Sauf"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:982
+#, php-format
+msgid "Block couldn't be created! Error: %s"
+msgstr "Le bloc n'a pas pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1026
+msgid "Block type cannot be changed as it is a \"Main Content\" block! Please first create another \"Main Content\" block and then try to edit this block again."
+msgstr "Le type du bloc ne peut pas être changé puisqu'il s'agit d'un bloc de contenu principal. Veuillez créer un autre bloc de contenu principal afin de pouvoir modifier ce bloc-ci."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1103
+#, php-format
+msgid "Block couldn't be updated! Error: %s"
+msgstr "Le bloc n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1189
+msgid "Block cannot be deleted as it is or contains a \"Main Content\" block! Please first create another \"Main Content\" block that wont be affected by this operation."
+msgstr "Le bloc n'a pas pas pu être supprimé puisqu'il s'agit d'un bloc de contenu principal. Veuillez d'abord créer un autre bloc de contenu principal qui ne sera pas affecté par cette suppression."
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1271
+msgid "Main Content"
+msgstr "Contenu principal"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1275
+msgid "Menu"
+msgstr "Menu"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1277
+msgid "Advertisement"
+msgstr "Publicités"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1286
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1441
+msgid "Admins"
+msgstr "Administrateur"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:281
+#, php-format
+msgid "The file you are trying to upload \"%s\" already exists on our site. Please rename and reselect the file you would like to upload."
+msgstr "Le fichier \"%s\" que vous essayez de téléverser existe déjà sur notre site. Veuillez renommer et resélectionner le fichier pour le téléversement."
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:291
+#, php-format
+msgid "Unsupported file format! Supported formats are: %s."
+msgstr "Format de fichier non supporté ! Les formats supportés sont : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:300
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:35
+msgid "File couldn't be saved!"
+msgstr "Le fichier n'a pas pu être sauvegardé !"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:316
+#, php-format
+msgid "File couldn't be saved! This usually means that your file is larger than the allowed upload limit (%s) or something went wrong while saving the file to it's permanent place. Please try again or contact webmaster."
+msgstr "Le fichier n'a pas pu être sauvegardé ! Ceci peut être causé par un fichier plus lourd que la limite du serveur (%s) ou une erreur peut être survenue durant la sauvegarde à l'endroit définitif. Veuillez réessayer de nouveau ou contacter le webmestre."
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:430
+msgid "unknown/file"
+msgstr "fichier inconnu"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:442
+msgid "Unknown File Type"
+msgstr "Type de fichier inconnu"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:540
+#, php-format
+msgid "Writing file %s"
+msgstr "Écriture du fichier %s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:57
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:595
+msgid "New Attachment"
+msgstr "Nouvelle pièce jointe"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:73
+msgid "Upload a new attachment"
+msgstr "Téléverser une nouvelle pièce jointe"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:78
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:116
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:134
+msgid "Attachment"
+msgstr "Pièce jointe"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:85
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:87
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:122
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:124
+msgid "e.g. document.doc, document.pdf"
+msgstr "ex. : document.doc, document.pdf"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:129
+msgid "Already uploaded attachment"
+msgstr "Pièce jointe déjà téléversée"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:145
+msgid "Existing File (URL)"
+msgstr "Fichier existant (URL)"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:149
+msgid "e.g. http://domain.com/document.pdf"
+msgstr "ex. : http://exemple.com/document.pdf"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:217
+msgid "Attachments have been successfully re-ordered."
+msgstr "Les pièces jointes on été réordonnées."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:228
+msgid "Attachment has been successfully deleted."
+msgstr "La pièce jointe a été supprimée."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:242
+msgid "No file selected to be uploaded as a new attachment! Please select a file to upload or define an already uploaded attachment."
+msgstr "Aucun fichier sélectionné pour le téléversement en tant que nouvelle pièce jointe ! Veuillez sélectionner un fichier ou définir une pièce jointe déjà téléversée."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:292
+msgid "Attachment has been successfully updated."
+msgstr "La pièce jointe a été mise à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:315
+msgid "Attachment has been successfully added."
+msgstr "La pièce jointe a été ajoutée."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:384
+#, php-format
+msgid "Attachment(s) have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "Les pièces jointes ont été téléversées. Les fichiers suivants ont été téléversés : %s."
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:398
+msgid "Icon"
+msgstr "Icône"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:400
+msgid "Title / Uploaded on / File"
+msgstr "Titre/Téléversée le/Fichier"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:402
+msgid "Downloads"
+msgstr "Téléchargements"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:404
+msgid "Filesize"
+msgstr "Taille du fichier"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:435
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:959
+#, php-format
+msgid "uploaded on %s"
+msgstr "téléversée le %s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:594
+msgid "Edit Attachment"
+msgstr "Modifier la pièce jointe"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:748
+#, php-format
+msgid "Attachment couldn't be created! Error: %s"
+msgstr "La pièce jointe n'a pas pu être créée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:815
+#, php-format
+msgid "Attachment couldn't be updated! Error: %s"
+msgstr "La pièce jointe n'a pas pu être mise à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:866
+msgid "No attachment selected to download!"
+msgstr "Aucune pièce jointe sélectionnée pour le téléchargement !"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:878
+msgid "The selected attachment cannot be found!"
+msgstr "La pièce jointe sélectionnée n'a pas pu être trouvée !"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:887
+#, php-format
+msgid "File \"%s\" cannot be found!"
+msgstr "Le fichier \"%s\" n'a pas pu être trouvée !"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:934
+msgid "Download"
+msgstr "Téléchargement"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:952
+#, php-format
+msgid "%s downloads"
+msgstr "%s téléchargements"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:1054
+msgid "click to download"
+msgstr "cliquer pour télécharger"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:27
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:41
+msgid "Note"
+msgstr "Note"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:61
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:407
+msgid "New Note"
+msgstr "Nouvelle note"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:93
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:293
+msgid "Status"
+msgstr "Statut"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:101
+msgid "(closed ones are marked with strike through)"
+msgstr "(les notes fermée sont affichée barrées)"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:113
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:377
+msgid "Created on"
+msgstr "Créé le"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:120
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:298
+msgid "Due Date"
+msgstr "Date dûe"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:151
+msgid "Note has been successfully deleted."
+msgstr "La note a été supprimée."
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:165
+msgid "Note has been successfully updated."
+msgstr "La note a été mise à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:178
+msgid "Note has been successfully created."
+msgstr "La note a été créée."
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:192
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:802
+msgid "Title / Created on"
+msgstr "Titre/Créé le"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:200
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:250
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:810
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:874
+msgid "Attachments"
+msgstr "Pièces jointes"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:289
+msgid "Owner"
+msgstr "Propriétaire"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:381
+msgid "Notes Administration"
+msgstr "Gestion des notes"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:406
+msgid "Edit Note"
+msgstr "Modifier la note"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:447
+msgid "No notes found."
+msgstr "Aucune note trouvée"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:503
+#, php-format
+msgid "Note couldn't be created! Error: %s"
+msgstr "La note n'a pas pu être créée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:525
+msgid "You are not allowed to edit someone else's note! If you would like to add something to the note please do so in the comments."
+msgstr "Vous n'êtes pas autorisé à modifier la note d'une autre personne ! Si vous désirez ajouter quelque chose, veuillez le faire dans les commentaires."
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:555
+#, php-format
+msgid "Note couldn't be updated! Error: %s"
+msgstr "La note n'a pas pu être mise à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:574
+msgid "You are not allowed to delete someone else's note! If you would like to add something to the note please do so in the comments."
+msgstr "Vous n'êtes pas autorisé à supprimer la note d'une autre personne ! Si vous désirez ajouter quelque chose, veuillez le faire dans les commentaires."
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:618
+msgid "Open"
+msgstr "Ouverte"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:620
+msgid "Closed"
+msgstr "Fermée"
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:25
+msgid "No file defined to be saved!"
+msgstr "Aucun fichier défini pour la sauvegarde !"
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:44
+msgid "File has been successfully saved."
+msgstr "Le fichier a été sauvegardé."
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:61
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:79
+msgid "File Editor"
+msgstr "Éditeur de fichier"
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:77
+msgid "No File defined!"
+msgstr "Aucun fichier défini !"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:33
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:68
+msgid "Content Management"
+msgstr "Gestion du contenu"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:36
+msgid "Module Management"
+msgstr "Gestion des modules"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:39
+msgid "Site Layout and Functionality"
+msgstr "Habillage du site et fonctionnalités"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:42
+msgid "Member Management"
+msgstr "Gestion des membres"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:65
+msgid "Manage the content (pages) of your site"
+msgstr "Gérer le contenu (articles) de votre site"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:75
+msgid "Upload / Add advertisements"
+msgstr "Téléverser/ajouter des publicités"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:78
+msgid "Ads & Banners"
+msgstr "Publicités"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:85
+msgid "Create / Modify custom submit forms"
+msgstr "Créer/modifier des formulaires personnalisés"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:88
+msgid "Dynamic Forms"
+msgstr "Formulaires dynamiques"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:96
+msgid "Copy and/or Move posts from one menu to another"
+msgstr "Copier et/ou déplacer des articles d'un menu à un autre"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:99
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:129
+msgid "Moving Posts"
+msgstr "Déplacer des articles"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:106
+msgid "Manage / Upload files separately"
+msgstr "Gérer/téléverser des fichiers séparéments"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:109
+msgid "File Manager"
+msgstr "Fichiers"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:117
+msgid "Change settings like Webmaster Email, Site title and so on"
+msgstr "Modifier les paramètres tels que le courriel du webmestre, le titre du site, etc."
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:128
+msgid "Set up your site's layout / look"
+msgstr "Définir la mise en page de votre site"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:131
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:69
+msgid "Layout Blocks"
+msgstr "Blocs"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:138
+msgid "Create multiple menu areas"
+msgstr "Créer de multiples zones de menu"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:141
+msgid "Menu Blocks"
+msgstr "Blocs de menu"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:149
+msgid "Change the look of your website"
+msgstr "Changer l'apparence de votre site"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:152
+msgid "Template Manager"
+msgstr "Gestion de l'habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:159
+msgid "Edit template CSS / JS files and upload images"
+msgstr "Modifier les fichiers CSS/JS et téléverser des images"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:162
+msgid "Template Editor"
+msgstr "Editeur d'habillage"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:169
+msgid "Share your site's content in a standardized format"
+msgstr "Partager le contenu de votre site dans un format standard"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:172
+msgid "RSS Feeds"
+msgstr "Flux RSS"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:180
+msgid "Store notes and/or todos"
+msgstr "Sauvegarder des notes et/ou des tâches"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:183
+msgid "Admin Notes"
+msgstr "Notes"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:191
+msgid "Links to quickly access your favorite places"
+msgstr "Liens d'accès rapide à vos outils favoris"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:194
+msgid "Favorite Links"
+msgstr "Liens favoris"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:201
+msgid "Modify emails that are sent out by the system"
+msgstr "Modifier les courriels envoyés par le système"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:204
+msgid "Notification Emails"
+msgstr "Courriels de notification"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:212
+msgid "Define additional languages"
+msgstr "Définir des langues additionnelles"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:215
+msgid "Site Languages"
+msgstr "Langues du site"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:223
+msgid "Manage Brute Force and Password Trading protection"
+msgstr "Gestion de la protection contre la force brute et le partage de mot de passe"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:226
+msgid "Security Alerts"
+msgstr "Alertes de sécurité"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:233
+msgid "Regenerate and/or edit XML Sitemap file"
+msgstr "Regénérer et/ou modifier le plan du site XML"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:236
+msgid "XML Sitemap"
+msgstr "Plan du site XML"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:244
+msgid "Manage users, set permissions"
+msgstr "Gérer les utilisateurs et définir les permissions"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:254
+msgid "Contact site members all at once"
+msgstr "Contacter tous les membres à la fois"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:257
+msgid "Mass Email"
+msgstr "Courriel de masse"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:264
+msgid "Logout and close this session"
+msgstr "Déconnecter et fermer cette session"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:267
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:449
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:447
+msgid "You do not have enough permission to access this area!"
+msgstr "Vous n'avez pas les permissions pour accéder à cette section !"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:468
+msgid "Go Back"
+msgstr "Revenir en arrière"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:494
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:510
+msgid "Invalid path!"
+msgstr "Chemin invalide !"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:109
+msgid "Address Not Found"
+msgstr "Adresse non trouvée"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:125
+msgid "New Page"
+msgstr "Nouvelle page"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:145
+msgid "Sub Menu of"
+msgstr "Sous-menu de"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:153
+msgid "Menu Block"
+msgstr "Bloc de menu"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:170
+msgid "Language"
+msgstr "Langue"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:657
+msgid "Modules"
+msgstr "Modules"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:266
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:630
+msgid "SEO Options"
+msgstr "Options de référencement"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:271
+msgid "Page Title"
+msgstr "Titre de la page"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:277
+msgid "Description"
+msgstr "Description"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:283
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:390
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:731
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2128
+msgid "Keywords"
+msgstr "Mots-clé"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:403
+msgid "Menu items have been successfully re-ordered."
+msgstr "Les éléments du menu ont été réordonnés."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:414
+msgid "Menu item and all its submenus have been successfully deleted."
+msgstr "L'élément et tous ses sous-menus ont été supprimés du menu."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:443
+msgid "Menu item cannot be submenu of itself!"
+msgstr "L'élément ne peut pas être un sous-menu de lui-même !"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:460
+msgid "Menu item has been successfully updated."
+msgstr "L'élément du menu a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:462
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:483
+msgid "View Page"
+msgstr "Visualiser la page"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:481
+msgid "Menu item has been successfully created."
+msgstr "L'item de menu"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:588
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:816
+msgid "No menu items found."
+msgstr "Aucun élément trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:601
+msgid "Title / Path / Link"
+msgstr "Titre/Chemin/Lien"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:613
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:732
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:23
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1015
+msgid "Posts"
+msgstr "Articles"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:809
+msgid "No Language Defined"
+msgstr "Aucune langue définie"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:845
+msgid "Menu Items Administration (Pages)"
+msgstr "Gestion des éléments de menu (pages)"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:870
+msgid "Edit Menu Item (Page)"
+msgstr "Modifier l'élément du menu (page)"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:871
+msgid "New Menu Item (Page)"
+msgstr "Nouvel élément de menu (page)"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:453
+msgid "No menu blocks found."
+msgstr "Aucun bloc de menu trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:924
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put menu items in."
+msgstr "Veuillez créer au moins un bloc de menu dans lequel ajouter l'élément en vous rendant à Admin -> Habillage du site et fonctionnalités -> Blocs de menu."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1053
+#, php-format
+msgid "Menu Item couldn't be created! Error: %s"
+msgstr "L'élément de menu n'a pas pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1090
+msgid "Menu item successfully created but xml sitemap file couldn't be updated."
+msgstr "L'élément de menu a été ajouté, mais le plan de site XML n'a pas pu être mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1187
+#, php-format
+msgid "Menu item couldn't be updated! Error: %s"
+msgstr "L'élément de menu n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1312
+msgid "Menu item successfully updated but xml sitemap file couldn't be updated."
+msgstr "L'élément de menu a été mis à jour, mais le plan de site XML n'a pas pu être mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1366
+msgid "Menu item successfully deleted but xml sitemap file couldn't be updated."
+msgstr "L'élément de menu a été supprimé, mais le plan de site XML n'a pas pu être mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:53
+msgid "Settings have been successfully updated but the template.js file couldn't be updated."
+msgstr "Les paramètres ont été mis à jour, mais le fichier template.js n'a pas pu être mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:65
+msgid "Settings have been successfully updated."
+msgstr "Les paramètres ont été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:94
+msgid "Settings Administration"
+msgstr "Gestion des paramètres"
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:123
+msgid "Change Settings"
+msgstr "Modifier les paramètres"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:38
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:774
+msgid "Preview"
+msgstr "Prévisualiser"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:45
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:574
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:667
+msgid "From"
+msgstr "De"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:54
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:578
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:675
+msgid "To"
+msgstr "À"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:65
+msgid "Active Users"
+msgstr "Utilisateurs actifs"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:70
+msgid "All Users"
+msgstr "Tous les utilisateurs"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:75
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:76
+msgid "Add User(s)"
+msgstr "Ajouter des utilisateurs"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:100
+msgid "Message"
+msgstr "Message"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:107
+msgid "Partial sending (split your emails into chunks)"
+msgstr "Envoi partiel (séparer l'envoi en parties)"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:112
+msgid "Number of Emails"
+msgstr "Nombre de courriels"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:117
+msgid "e.g. 500"
+msgstr "ex. : 500"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:120
+msgid "Starting from"
+msgstr "À partir de"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:125
+msgid "e.g. 100"
+msgstr "ex. : 100"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:153
+msgid "Email has been successfully deleted."
+msgstr "Le courriel a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:170
+msgid "From email address is not a valid email address!"
+msgstr "L'adresse courriel de l'expéditeur n'est pas une adresse courriel valide !"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:208
+#, php-format
+msgid "Invalid email addresses defined. The following addresses are not valid email addresses: %s."
+msgstr "Des adresse courriel invalides ont été définies. Les adresses courriel suivantes ne sont pas valides : %s."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:248
+#, php-format
+msgid "Sending %s emails starting from %s, please wait..."
+msgstr "Envoi de %s courriels à partir de %s, veuillez patienter..."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:252
+#, php-format
+msgid "Sending %s emails, please wait..."
+msgstr "Envoi de %s courriels, veuillez patienter..."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:255
+#, php-format
+msgid "Sending emails starting from %s, please wait..."
+msgstr "Envoi des courriels à partir de %s, veuillez patienter..."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:257
+msgid "Sending emails, please wait..."
+msgstr "Envoi des courriels, veuillez patienter"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:350
+msgid "All emails have been successfully sent. No more emails left to be sent."
+msgstr "Tous les courriels ont été envoyés. Aucun courriel restant à envoyer."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:361
+msgid "No emails have been sent out!"
+msgstr "Aucun courriel n'a été envoyé !"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:363
+msgid "No users found to send email to."
+msgstr "Aucun utilisateur trouvé comme destinataire du courriel."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:364
+msgid "Please see detailed error messages above and try again."
+msgstr "Veuillez jetter un coup d'oeil aux messages ci-dessus et essayer à nouveau."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:373
+#, php-format
+msgid "Emails have been successfully sent to: %s. Emails sent: %s"
+msgstr "Les courriels ont été envoyés à : %s. Courriels envoyés : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:418
+msgid "Add"
+msgstr "Ajouter"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:421
+msgid "Username"
+msgstr "Utilisateur"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:424
+msgid "Admin"
+msgstr "Admin"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:430
+msgid "Registered on"
+msgstr "Enregistré le"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:512
+msgid "Subject / Sent out"
+msgstr "Sujet/Envoyé"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:514
+msgid "Emails Sent"
+msgstr "Courriels envoyés"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:523
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:552
+msgid "Resend"
+msgstr "Réenvoyer"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:570
+msgid "Sent out by"
+msgstr "Envoyé par"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:657
+msgid "Email Sent"
+msgstr "Courriel envoyé"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:658
+msgid "Preview Email"
+msgstr "Prévisualiser le courriel"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:695
+msgid "Partial sending"
+msgstr "Envoi partiel"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:701
+#, php-format
+msgid "%s emails starting from %s"
+msgstr "%s courriel à partir de %s"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:706
+#, php-format
+msgid "%s emails"
+msgstr "%s courriels"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:710
+#, php-format
+msgid "starting from %s"
+msgstr "à partir de %s"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:739
+msgid "Mass Email Administration"
+msgstr "Gestion des courriels de masse"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:819
+#, php-format
+msgid "Send next %s Emails"
+msgstr "Envoyer les %s prochains courriels"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:825
+msgid "View Emails"
+msgstr "Voir les courriels"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:829
+msgid "Admin Home"
+msgstr "Accueil de l'admin"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:868
+msgid "No emails sent out yet."
+msgstr "Aucun courriel envoyé jusqu'à maintenant."
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:941
+#, php-format
+msgid "Mass Email couldn't be created! Error: %s"
+msgstr "Le courriel de masse n'a pas pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:65
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:411
+msgid "New Menu"
+msgstr "Nouveau menu"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:85
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:241
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:455
+msgid "In Block"
+msgstr "Dans le bloc"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:115
+msgid "Name"
+msgstr "Nom"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:170
+msgid "Menus have been successfully re-ordered."
+msgstr "Les menus ont été réordonnés."
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:181
+msgid "Menu has been successfully deleted."
+msgstr "Le menu a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:198
+msgid "Menu has been successfully updated."
+msgstr "Le menu a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:216
+msgid "Menu has been successfully created."
+msgstr "Le menu a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:239
+msgid "Title / Name"
+msgstr "Titre/Nom"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:385
+msgid "Menus Administration"
+msgstr "Gestion des menus"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:410
+msgid "Edit Menu"
+msgstr "Modifier le menu"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:516
+#, php-format
+msgid "Menu couldn't be created! Error: %s"
+msgstr "Le menu n'a pas pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:548
+#, php-format
+msgid "Menu couldn't be updated! Error: %s"
+msgstr "Le menu n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:98
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:112
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:131
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:145
+msgid "Post"
+msgstr "article"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:276
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1058
+msgid "New Post"
+msgstr "Nouvel article"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:331
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:446
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:754
+msgid "Display on All pages"
+msgstr "Afficher sur toutes les pages"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:332
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:447
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:755
+msgid "Display on Main page"
+msgstr "Afficher sur la page principale"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:337
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:576
+msgid "Insert as New"
+msgstr "Insérer en tant que nouveau"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:349
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:585
+msgid "(will create a new post)"
+msgstr "(créera un nouvel article)"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:372
+msgid "Blogging Options"
+msgstr "Options de blogage"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:396
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:398
+msgid "e.g. oranges, lemons, limes"
+msgstr "ex. : oranges, citrons, limes"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:416
+msgid "Announcement Options"
+msgstr "Options de publication"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:421
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:743
+msgid "Start Date"
+msgstr "Date de début de parution"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:428
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:748
+msgid "End Date"
+msgstr "Date de fin de parution"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:480
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:760
+msgid "Partial Content"
+msgstr "Contenu partiel"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:489
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:765
+msgid "Display Related Posts"
+msgstr "Afficher les articles connexes"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:504
+msgid "Rating Options"
+msgstr "Options de notation"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:509
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:770
+msgid "Enable Rating"
+msgstr "Activer la notation"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:517
+msgid "Enable Guest Rating"
+msgstr "Activer la notation par les non-membres"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:531
+msgid "Comments Options"
+msgstr "Options des commentaires"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:536
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:778
+msgid "Enable Comments"
+msgstr "Activer les commentaires"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:544
+msgid "Enable Guest Comments"
+msgstr "Activer les commentaires par les non-membres"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:637
+msgid "Posts have been successfully re-ordered."
+msgstr "Les articles ont été réordonnés."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:669
+msgid "Post has been successfully updated."
+msgstr "L'article a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:671
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:692
+msgid "View Post"
+msgstr "Visualiser l'article"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:690
+msgid "Post has been successfully created."
+msgstr "L'article a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:726
+msgid "Display in Block"
+msgstr "Afficher dans le un bloc"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:773
+msgid "(Guests can rate too!)"
+msgstr "(Les non-membres peuvent aussi noter !)"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:781
+msgid "(Guests can comment too!)"
+msgstr "(Les non-membres peuvent aussi commenter !)"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:812
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:891
+msgid "Pictures"
+msgstr "Images"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1057
+msgid "Edit Post"
+msgstr "Modifier l'article"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1225
+#, php-format
+msgid "Post couldn't be created! Error: %s"
+msgstr "L'article n'a pas pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1264
+msgid "Post successfully created but xml sitemap file couldn't be updated."
+msgstr "L'article a été créé, mais le plan de site XML n'a pas pu être mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1273
+msgid "Post successfully created but rss feed couldn't be updated."
+msgstr "L'article a été créé, mais le flux RSS n'a pas pu être mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1281
+msgid "Post successfully created but couldn't ping blog servers. Please define at least one blog ping server or multiple servers separated by commas in Global Settings."
+msgstr "L'article a été créé, mais le <i>ping</i> des serveurs de blogage a échoué. Veuillez définir au moins un serveur de <i>ping</i> ou plusieurs serveurs séparés par des virgules dans les Paramètres généraux."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1364
+#, php-format
+msgid "Post couldn't be updated! Error: %s"
+msgstr "L'article n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1398
+msgid "Post successfully updated but xml sitemap file couldn't be updated."
+msgstr "L'article a été mis à jour, mais le plan de site XML n'a pas pu être mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1407
+msgid "Post successfully updated but rss feed couldn't be updated."
+msgstr "L'article a été mis à jour, mais le flux RSS n'a pas pu être mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1485
+msgid "Post successfully deleted but rss feed couldn't be updated."
+msgstr "L'article a été supprimé, mais le flux RSS n'a pas pu être mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1883
+#, php-format
+msgid "Starting <b>%s</b> until <b>%s</b>"
+msgstr "Débute le <b>%s</b> jusqu'au <b>%s</b>"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1891
+#, php-format
+msgid "Starting <b>%s</b>"
+msgstr "Débute le <b>%s</b>"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1898
+#, php-format
+msgid "Until <b>%s</b>"
+msgstr "Jusqu'au <b>%s</b>"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2149
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2164
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2197
+msgid "Related Posts"
+msgstr "Articles connexes"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2542
+msgid "This area is limited to members only. Please login below."
+msgstr "Cette section est limiée aux membres seulement. Veuillez vous connecter ci-bas."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2668
+msgid "This page has been deactivated."
+msgstr "Cette page a été désactivée."
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2699
+msgid "to search results."
+msgstr "aux résultats de recherche."
+
+#: /home/julius/workspace/jcore/lib/sources/ckeditor.class.php:270
+msgid "No file selected!"
+msgstr "Aucun fichier sélectionné !"
+
+#: /home/julius/workspace/jcore/lib/sources/contentforms.class.php:34
+msgid "Form has been successfully submitted and a notification email has been sent to the webmaster."
+msgstr "Le formulaire a été soumis et un courriel de notification a été envoyé au webmestre."
+
+#: /home/julius/workspace/jcore/lib/sources/contentforms.class.php:41
+msgid "Form has been successfully submitted."
+msgstr "Le formulaire a été soumis."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:115
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:769
+msgid "New User"
+msgstr "Nouvel utilisateur"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:160
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:279
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:606
+msgid "Suspended"
+msgstr "Suspendu"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:168
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:287
+msgid "Administrator"
+msgstr "Administrateur"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:177
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:296
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:611
+msgid "Skip IP Check"
+msgstr "Sauter la vérification IP"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:303
+msgid "(don't bind user to IP)"
+msgstr "(ne pas rattacher l'utilisateur à son IP)"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:210
+msgid "Change Password"
+msgstr "Changer le mot de passe"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:223
+msgid "Confirm password"
+msgstr "Confirmer le mot de passe"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:232
+msgid "Please note that you will need to enter a valid e-mail address before your account is activated. You will receive an e-mail at the address you provided that contains an account activation link."
+msgstr "Veuillez noter que vous devez entrer une adresse courriel valide pour vérifer votre compte. Vous recevrez un courriel contenant un lien d'activation à l'adresse fournie."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:252
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:577
+msgid "Website"
+msgstr "Site"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:259
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:585
+msgid "Show Avatar"
+msgstr "Afficher l'avatar"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:267
+msgid "Change Avatar"
+msgstr "Changer l'avatar"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:271
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:590
+msgid "Stay Logged In"
+msgstr "Rester connecté"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:313
+#, php-format
+msgid "minimum %s characters"
+msgstr "minimum %s caractères"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:349
+msgid "No user selected! Please select at least one user."
+msgstr "Aucun utilisateur sélectionné ! Veuillez sélectionner au moins un utilisateur."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:362
+msgid "Users have been successfully activated and are now able to login."
+msgstr "Les utilisateurs ont été activés et peuvent désormais se connecter."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:374
+msgid "Users have been successfully suspended."
+msgstr "Les utilisateurs ont été suspendus."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:385
+msgid "Users have been successfully deleted."
+msgstr "Les utilisateurs ont été supprimés."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:397
+msgid "User has been successfully deleted."
+msgstr "L'utilisateur a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:413
+msgid "User has been successfully updated."
+msgstr "L'utilisateur a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:426
+msgid "User has been successfully created and a notification email with the login information has been sent to the email address specified."
+msgstr "L'utilisateur a été créé et un courriel de notification contenant les informations de connexion a été envoyé à l'adresse spécifiée."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:449
+msgid "Username / Registered on"
+msgstr "Nom d'utilisateur/Enregistré le"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:459
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:520
+msgid "Permissions"
+msgstr "Permissions"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:596
+msgid "Last visit"
+msgstr "Dernière visite"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:601
+msgid "From IP"
+msgstr "Depuis l'IP"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:616
+msgid "Account Pending"
+msgstr "Compte en attente"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:641
+msgid "Suspend"
+msgstr "Suspendre"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:727
+msgid "Users Administration"
+msgstr "Gestion des utilisateurs"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:768
+msgid "Edit User"
+msgstr "Modifier l'utilisateur"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:818
+msgid "No users found."
+msgstr "Aucun utilisateur trouvé"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:852
+msgid "New account registration has been temporarily suspended. Please try again later."
+msgstr "L'enregistrement de nouveaux compte a été temporairement suspendu. Veuillez réessayer plus tard."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:861
+msgid "No username specified!"
+msgstr "Aucun utilisateur spécifié !"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:869
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:988
+msgid "Username and Email are required!"
+msgstr "Le nom d'utilisateur et l'adresse courriel sont requis !"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:935
+#, php-format
+msgid "User couldn't be registered! Error: %s"
+msgstr "L'utilisateur n'a pas pu être enregistré ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:980
+msgid "No data defined to update user to!"
+msgstr "Aucune donnée définie pour la mise à jour de l'utilisateur !"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1005
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1354
+msgid "Incorrect username. Usernames may consist of a-z, 0-9 and underscores only."
+msgstr "Nom d'utilisateur incorrect. Les noms d'utilisateurs ne peuvent contenir que des lettres (a-z), des chiffres(0-9) et des barres soulignements ( _ )."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1061
+#, php-format
+msgid "User couldn't be updated! Error: %s"
+msgstr "L'utilisateur n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1371
+msgid "Username is already taken. Please choose a different username or login."
+msgstr "Le nom d'utilisateur sélectionné est déjà utilisé. Veuillex sélectionner un nom d'utilisateur différent ou vous connecter."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1395
+msgid "Email address is already in use."
+msgstr "L'adresse courriel est déjà utilisée."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1397
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2038
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2067
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2147
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2167
+msgid "Forgot your password?"
+msgstr "Oublié votre mot de passe ?"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1410
+msgid "No request values specified!"
+msgstr "Aucune valeur de requête spécifiée !"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1418
+msgid "No owner defined for the request!"
+msgstr "Aucun propriétaire défini pour la requête !"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1432
+#, php-format
+msgid "You have reached the maximum number of %s requests! If you are suntil having problems completing your request please contact us or wait a few hours and try again."
+msgstr "Vous avez atteint la limite de %s requêtes ! Si vous rencontrez toujours des problèmes à compléter votre requête, veuillez nous contacter ou patienter quelques heures et réeesayer."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1459
+#, php-format
+msgid "Request couldn't be stored! Error: %s"
+msgstr "La requête n'a pas pu être sauvegardée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1524
+#, php-format
+msgid "User couldn't be activated! Error: %s"
+msgstr "L'utilisateur n'a pas pu être activé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1554
+#, php-format
+msgid "User couldn't be suspended! Error: %s"
+msgstr "L'utilisateur n'a pas pu être suspendu ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1599
+msgid "No email address specified! Please enter the email address provided at registration."
+msgstr "Aucune adresse courriel spécifiée ! Veuillez entrer l'adresse courriel fournie lors de l'enregistrement."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1624
+msgid "Your email address is not in our database. Please be sure to use the one provided at registration."
+msgstr "Votre adresse courriel n'est pas dans notre base de données. Veuillez vous assurer que vous entrez l'adresse courriel fournie lors de l'enregistrement."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1679
+msgid "<b>Request Successful</b><br /> A notification email has been sent to your email address with the neccessary information to login to your account."
+msgstr "<b>Requête réussie</b><br /> Un courriel de notification a été envoyé à votre adresse courriel avec les informations nécessaires pour vous connecter."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1687
+msgid "<b>Request Successful</b><br /> A notification email has been sent to your email address with the neccessary information to request a new password."
+msgstr "<b>Requête réussie</b><br /> Un courriel de notification a été envoyé à votre adresse courriel avec les informations nécessaires pour demander un nouveau mot de passe."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1695
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1819
+msgid "<b>IMPORTANT:</b> Some email providers put messages received from addresses, which are not in your contact list, in the \"Bulk / Junk E-Mail\" folders. Please check those folders too."
+msgstr "<b>IMPORTANT :</b> Certains services de courriel placent les courriels reçus depuis des adresse qui ne font pas partis de votre liste de contacts dans le dossier de courrier indésirable. Veuillez vérifier ce dossier si vous n'avez pas reçu le courriel."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1718
+msgid "Request not found! Please make sure the request was made in the last 3 hours as older requests are automatically deleted."
+msgstr "Requête non trouvée ! Veuillez vous assurer que la requête a été faite dans les trois dernières heures puisque les requêtes plus anciennes sont automatiquement supprimées."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1729
+msgid "Request owner couldn't be found!"
+msgstr "Le propriétaire de la requête n'a pas pu être trouvé !"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1745
+#, php-format
+msgid "Your account couldn't be activated! Error: %s"
+msgstr "Votre compte n'a pas pu être activé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1753
+msgid "<b>Your Account has been Activated</b><br /> Thank you for registering."
+msgstr "<b>Votre compte a été activé</b><br /> Merci pour votre enregistrement."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1768
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1794
+#, php-format
+msgid "Your new password couldn't be activated! Error: %s"
+msgstr "Votre nouveau mot de passe n'a pas pu être activé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1776
+msgid "<b>Your New Password has been Activated</b><br /> Please copy and paste your new password from the email you received to prevent any misspelling issues."
+msgstr "<b>Votre nouveau mot de passe a été activé</b><br />Veuillez copier/coller votre nouveau mot de passe depui le courriel que vous avez reçu afin de prévenir toute faute d'orthographe."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1813
+msgid "<b>Your New Password has been Sent</b><br /> A notification email has been sent to your email address with the new login information."
+msgstr "<b>Votre nouveau mot de passe a été envoyé</b><br />Un courriel de notification a été envoyé à votre adresse courriel avec vos nouvelle informations de connexion."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1893
+#, php-format
+msgid "Welcome back %s"
+msgstr "Rebonjour, %s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1934
+msgid "Remember me (stay logged in)"
+msgstr "Se souvenir de moi (demeurer connecté)"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1942
+msgid "Please enter the email address you have provided at registration / join."
+msgstr "Veuillez entrer l'adresse courriel vous avez fourni lors de votre enregistrement."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1947
+msgid "Email address"
+msgstr "Adresse courriel"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1987
+msgid "Avatar"
+msgstr "Avatar"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1999
+msgid "Quick Account"
+msgstr "Compte rapide"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2025
+msgid "Quick Login"
+msgstr "Connexion rapide"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2032
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2060
+msgid "Login"
+msgstr "Connexion"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2053
+msgid "Member Login"
+msgstr "Connexion"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2088
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2093
+msgid "Request a New Password"
+msgstr "Demander un nouveau mot de passe"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2137
+msgid "This account has been suspended!"
+msgstr "Ce compte a été suspendu !"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2142
+msgid "You have entered an invalid username or password. Please enter the correct details (use copy and paste) or use your email address as your username and try again. Don't forget that the password is case sensitive."
+msgstr "Vous avez entré un nom d'utilisateur ou un mot de passe invalides. Veuillez réentrer correctement vos identifiants (vous pouvez utiliser le copier/coller depuis votre courriel d'enregistrement) ou essayer à l'aide de votre adresse courriel en tant que nom d'utilisateur. N'oubliez pas que les mots de passes sont sensible à la casse."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2150
+#, php-format
+msgid "You have used %s out of %s login attempts. After all %s have been used, you will be unable to login for %s minutes."
+msgstr "Vous avez utilisé %s des %s essais de connexion permis. Un fois ces %s essais utilisés, vous ne serez pas en mesure de vous connecter pour %s minutes."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2162
+#, php-format
+msgid "Wrong username or password. <b>You have used up your failed login quota! Please wait %s minutes before trying again.</b> Don't forget that the password is case sensitive."
+msgstr "Mauvais nom d'utilisateur ou mot de passe. <b>Vous avez épuisez votre quota de tentatives de connexion ! Veuillez patienter %s minutes avant de pouvoir réessayer.</b> N'oubliez pas que le mot de passe est sensible à la casse."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2172
+#, php-format
+msgid "Account suspended! <b>This account has been suspended for %s minutes because of to many logins from different IP addresses.</b> Please ensure that you have a secure password and/or your are logged out from your other PCs before trying again."
+msgstr "Compte suspendu ! <b>Ce compte a été suspendu pour %s minutes en raison d'un nombre élévé de tentatives de connexions à partir de différentes adresses IP.</b> Veuillez vous assurer que vous avez un mot de passe suffisamment sécuritaire et/ou que vous êtes déconnecté depuis un autre ordinateur avant de réessayer."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2182
+msgid "Your session couldn't be stored! Please contact the webmaster with this error and your login information."
+msgstr "Votre session n'a pas pu être sauvegardée ! Veuillez contacter le webmestre avec cette erreur et vos identifiants."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2189
+msgid "Login has been temporarily suspended. Please try again later."
+msgstr "Les connexions ont été temporairement suspendues. Veuillez réessayer plus tard."
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2195
+msgid "The specified username is currently inactive. If you have problems activating your account, please contact us or request a new password to activate your account."
+msgstr "Le nom d'utilisateur est actuellement inactif. Si vous éprouvez des problèmes pour activer votre compte, veuillez nous contacter ou demander un nouveau mot de passe pour activer votre compte."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:44
+msgid "New Feed"
+msgstr "Nouveau flux"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:48
+msgid "Available Feeds"
+msgstr "Flux disponibles"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:64
+msgid "Feed URL"
+msgstr "URL du flux"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:72
+msgid "Select Feed"
+msgstr "Sélectionner le flux"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:71
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:77
+msgid "e.g. http://jcore.net/rss/posts.xml"
+msgstr "ex. : http://jcore.net/rss/posts.xml"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:144
+msgid "RSS feeds have been successfully re-ordered."
+msgstr "Les flux RSS ont été réordonnés."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:155
+msgid "RSS feed has been successfully deleted."
+msgstr "Le flux RSS a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:169
+msgid "RSS feed has been successfully updated."
+msgstr "Le flux RSS a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:171
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:188
+msgid "View RSS"
+msgstr "Visualiser le RSS"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:186
+msgid "RSS feed has been successfully created."
+msgstr "Le flux RSS a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:206
+msgid "Title / Feed URL"
+msgstr "Titre/URL du flux"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:331
+msgid "RSS Feeds Administration"
+msgstr "Gestion des flux RSS"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:356
+msgid "Edit RSS Feed"
+msgstr "Modifier le flux RSS"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:357
+msgid "New RSS Feed"
+msgstr "Nouveau flux RSS"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:394
+msgid "No RSS feeds found."
+msgstr "Aucun flux RSS trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:455
+#, php-format
+msgid "Feed couldn't be created! Error: %s"
+msgstr "Le flux n'a pas pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:488
+#, php-format
+msgid "Feed couldn't be updated! Error: %s"
+msgstr "Le flux n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:52
+msgid "New Ad"
+msgstr "Nouvelle publicité"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:65
+msgid "Promo text"
+msgstr "Texte de promotion"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:96
+msgid "Upload a banner"
+msgstr "Téléverser une bannière"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:102
+msgid "Banner"
+msgstr "Bannière"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:108
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:110
+msgid "e.g. image.jpg, flash.swf"
+msgstr "ex. : image.jpg, flash.swf"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:126
+msgid "Use Google or other Ad Code"
+msgstr "Utiliser un code Google ou autre"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:131
+msgid "Ad Code (leave it empty to automatically generate code for flash ads)"
+msgstr "Code de publicité (laisser vide pour générer un code automatiquement pour les annonces Flash)"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:138
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:140
+msgid "e.g. Google Ad Code"
+msgstr "ex. : code Google AdSense"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:148
+msgid "Show Ad only within a defined time interval"
+msgstr "Afficher la publicité dans une intervale de temps"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:167
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:434
+msgid "Show on"
+msgstr "Afficher le"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:241
+msgid "Ads have been successfully re-ordered."
+msgstr "Les publicités ont été réordonnées."
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:252
+msgid "Ad has been successfully deleted."
+msgstr "La publicité a été supprimée."
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:277
+msgid "Ad has been successfully updated."
+msgstr "La publicité a été mise à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:290
+msgid "Ad has been successfully created."
+msgstr "La publicité a été créée."
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:346
+msgid "No Place Defined"
+msgstr "Aucun endroit spécifié"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:349
+msgid "Total"
+msgstr "Total"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:373
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:420
+msgid "Expired"
+msgstr "Expirée"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:430
+msgid "Every day"
+msgstr "Tous les jours"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:438
+msgid "Stats"
+msgstr "Stats"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:439
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:478
+msgid "Displays"
+msgstr "Affichages"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:441
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:480
+msgid "Clicks"
+msgstr "Clics"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:443
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:482
+msgid "Ratio"
+msgstr "Ratio"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:613
+msgid "Ads Administration"
+msgstr "Gestion des publicités"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:638
+msgid "Edit Ad / Banner"
+msgstr "Modifier la publicité"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:639
+msgid "New Ad / Banner"
+msgstr "Nouvelle publicité"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:678
+msgid "No ads found."
+msgstr "Aucune publicité trouvée."
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:783
+#, php-format
+msgid "Ad couldn't be created! Error: %s"
+msgstr "La publicité n'a pas pu être créée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:862
+#, php-format
+msgid "Ad couldn't be updated! Error: %s"
+msgstr "La publicité n'a pas pu être mise à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:907
+msgid "Ad not found!"
+msgstr "Publicité non trouvée !"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:42
+msgid "Languages"
+msgstr "Langues"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:59
+msgid "Couldn't regenerate sitemap XML file."
+msgstr "Impossible de regénérer le plan de site XML."
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:69
+msgid "Sitemap XML file has been successfully regenerated."
+msgstr "Le plan de site XML a été regénéré."
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:79
+msgid "Sitemap XML File Administration"
+msgstr "Gestion du plan de site XML"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:86
+#, php-format
+msgid "This file (%s) gets updated automatically every time you create / edit / delete a menu item but you can regenerate or modify it manually below."
+msgstr "Ce fichier (%s) est mis à jour automatiquement chaque fois que vous créez/modifiez/supprimez un nouvel élément de menu, mais vous pouvez le regénérer ou le modifier manuellement ci-bas."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:69
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:635
+msgid "New Video"
+msgstr "Nouvelle vidéo"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:91
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:151
+msgid "Video Cap"
+msgstr "Couverture vidéo"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:98
+msgid "Add an already uploaded video (for e.g. youtube, vimeo url)"
+msgstr "Ajouter une vidéo déjà téléversée (ex. : YouTube, Vimeo)"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:103
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:170
+msgid "Video (URL)"
+msgstr "Video (URL)"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:108
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:174
+msgid "e.g. http://www.youtube.com/watch?v=0_fPV13lKm4"
+msgstr "ex. : http://www.youtube.com/watch?v=0_fPV13lKm4"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:121
+msgid "Add another url"
+msgstr "Ajouter une autre URL"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:128
+msgid "Local Video"
+msgstr "Vidéo local"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:139
+msgid "Upload a new video"
+msgstr "Téléverser une nouvelle vidéo"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:144
+msgid "Video File"
+msgstr "Fichier vidéo"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:148
+msgid "e.g. video.mp4, video.flv"
+msgstr "ex. : video.mp4, video.flv"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:237
+msgid "Videos have been successfully re-ordered."
+msgstr "Les vidéos ont été réordonnées."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:248
+msgid "Video has been successfully deleted."
+msgstr "la vidéo a été supprimée."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:261
+msgid "No file selected to be uploaded as a new video! Please select a file / video to upload or define an already uploaded video."
+msgstr "Aucun fichier sélectionné pour le téléversement en tant que nouvelle vidéo. Veuillez sélectionner un fichier vidéo à téléverser ou définissez une vidéo déjà téléversée."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:303
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:383
+#, php-format
+msgid "Video \"%s\" is not embeddable, \"%s\"."
+msgstr "La vidéo \"%s\" n'est pas intégrable, \"%s\"."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:313
+msgid "Video has been successfully updated."
+msgstr "La vidéo a été mise à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:327
+msgid "Video has been successfully uploaded."
+msgstr "La vidéo a été téléversée."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:351
+msgid "Video has been successfully added."
+msgstr "La vidéo a été ajoutée."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:413
+#, php-format
+msgid "There were problems adding some of the video urls you defined. The following videos couldn't be added: %s."
+msgstr "Des erreurs sont survenus lors de l'ajout de certaines URL de vidéos définies. Les vidéos suivantes n'ont pas pu être ajoutés : %s."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:423
+#, php-format
+msgid "Video(s) have been successfully added. The following videos have been added: %s."
+msgstr "Les vidéos ont été ajoutées. Les vidéos suivantes ont été ajoutées : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:437
+msgid "Video"
+msgstr "Vid.o"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:439
+msgid "Title / Added on"
+msgstr "Titre/Ajoutée le"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:634
+msgid "Edit Video"
+msgstr "Modifier la vidéo"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:793
+#, php-format
+msgid "Video couldn't be created! Error: %s"
+msgstr "La vidéo n'a pas pu être créée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:849
+#, php-format
+msgid "Video couldn't be updated! Error: %s"
+msgstr "La vidéo n'a pas pu être mise à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:1058
+msgid "No video selected!"
+msgstr "Aucune vidéo sélectionnée !"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:1070
+msgid "The selected video cannot be found!"
+msgstr "La vidéo sélectionnée n'a pas pu être trouvée !"
+

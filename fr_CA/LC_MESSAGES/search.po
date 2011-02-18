@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:22+0200\n"
+"PO-Revision-Date: 2011-02-05 15:14-0500\n"
+"Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: CANADA\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:14
+msgid "Search Engine"
+msgstr "Moteur de recherche"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:15
+msgid "Have your own search engine"
+msgstr "Possédez votre propre moteur de recherche"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:170
+msgid "Items have been successfully updated."
+msgstr "Les items ont été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:202
+msgid "Title / Description"
+msgstr "Titre / Description"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:210
+msgid "Blog like content for menu items."
+msgstr "Contenus des items de menu."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:254
+msgid "Update"
+msgstr "Mette à jour"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:305
+msgid "Search Engine Administration"
+msgstr "Gestion du moteur de recherche"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:312
+msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the menu under which the search module is will be used."
+msgstr "Cochez les modules cherchables par le moteur de recherche local. Vous pouvez aussi limiter le nombre de résultats retournés par chacun d'eux. Par défaut, si aucun module n'est sélectionné et qu'aucune limite n'est définie, le module rattaché à la recherche dans le menu sera utilisé."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:349
+msgid "No modules found."
+msgstr "Aucun module trouvé"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:492
+msgid "Search for"
+msgstr "Rechercher"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:499
+msgid "search..."
+msgstr "rechercher..."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:505
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:516
+msgid "in"
+msgstr "dans"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:699
+msgid "Invalid target selected for your search! Please select a new target (search in) or don't select any if you want to search for posts."
+msgstr "La cible de votre recherche est invalide ! Veuillez sélectionner une nouvelle cible (rechercher dans) ou n'en sélectionnez aucune si vous désirez chercher dans les articles."
+

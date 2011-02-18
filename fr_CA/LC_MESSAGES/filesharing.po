@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:42+0200\n"
+"PO-Revision-Date: 2011-02-16 13:14-0500\n"
+"Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: CANADA\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:14
+msgid "File Sharing"
+msgstr "Partage de fichiers"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:15
+msgid "Share files in a directory like structure"
+msgstr "Partager des fichier selon une structure de dossiers"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:28
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:171
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:200
+msgid "Folder"
+msgstr "dossier"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:126
+msgid "No file selected to download!"
+msgstr "Aucun fichier sélectionné pour le téléchargement !"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:138
+msgid "The selected file cannot be found!"
+msgstr "Le fichier sélectionné est introuvable !"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:150
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1768
+msgid "You need to be logged in to download this file. Please login or register."
+msgstr "Vous devez être connecté pour télécharger ce fichier. Veuilleuz vous connecter ou vous inscrire."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:515
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1163
+msgid "New Folder"
+msgstr "Nouveau dossier"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:535
+msgid "Sub Folder of"
+msgstr "Sous-dossier de"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:563
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:982
+msgid "Show Icons"
+msgstr "Afficher les icônes"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:570
+msgid "(display icons when folder selected)"
+msgstr "(affiche les icônes lorsque le dossier est sélectionné)"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:655
+msgid "e.g. http://domain.com"
+msgstr "ex. : http://exemple.com"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:659
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1003
+msgid "Members Only"
+msgstr "Membres seulement"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:667
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1008
+msgid "Show to Guests"
+msgstr "Afficher aux non-membres"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:735
+msgid "Folders have been successfully re-ordered."
+msgstr "Les dossiers ont été réordonnés avec succès."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:746
+msgid "Folder has been successfully deleted."
+msgstr "Le dossier a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:759
+msgid "Folder cannot be subfolder of itself!"
+msgstr "Ce dossier ne peut être un sous-dossier de lui-même !"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:788
+msgid "Folder has been successfully updated."
+msgstr "Le dossier a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:792
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:812
+msgid "View Folder"
+msgstr "Voir le dossier"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:808
+msgid "Folder has been successfully created."
+msgstr "Le dossier a été créé."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:841
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:910
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1701
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1801
+msgid "Files"
+msgstr "Fichiers"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:846
+msgid "Icon"
+msgstr "Icône"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:930
+msgid "Icons"
+msgstr "Icônes"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1134
+msgid "File Sharing Administration"
+msgstr "Gestion du partage de fichiers"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1162
+msgid "Edit Folder"
+msgstr "Modifier le dossier"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1212
+msgid "No folders found."
+msgstr "Aucun dossier trouvé."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1327
+#, php-format
+msgid "Folder couldn't be created! Error: %s"
+msgstr "Le dossier n'a pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1414
+#, php-format
+msgid "Folder couldn't be updated! Error: %s"
+msgstr "Le dossier n'a pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1549
+msgid "Directory couldn't be protected!"
+msgstr "Le dossier ne peut être protégé !"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1640
+msgid "This area is limited to members only. Please login below."
+msgstr "Cette section est limitée aux memebres seulement. Veuillez vous connecter ci-bas."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1800
+msgid "Files / Folders"
+msgstr "Fichiers / Dossiers"
+

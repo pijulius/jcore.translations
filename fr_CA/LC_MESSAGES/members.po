@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:45+0200\n"
+"PO-Revision-Date: 2011-02-05 15:13-0500\n"
+"Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: CANADA\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: Member Dynamic Forms
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Verification code"
+msgstr "Code de vérification"
+
+msgid "Please note that you will need to enter a valid e-mail address before your account is activated. You will receive an e-mail at the address you provided that contains an account activation link."
+msgstr "Veuillez noter que vous devrez entrer une adresse courriel valide. Vous recevrez un courriel contenant un lien d'activation à l'adresse courriel spécifiée."
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Email address"
+msgstr "Adresse courriel"
+
+msgid "Website"
+msgstr "Site web"
+
+msgid "Show Avatar"
+msgstr "Afficher votre avatar"
+
+msgid "Stay Logged In"
+msgstr "Se rappeler de moi"
+
+msgid "Disable Notification Emails"
+msgstr "Désactiver les courriels de notification"
+
+msgid "Change password"
+msgstr "Modifier votre mot de passe"
+
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+msgid "Retype password"
+msgstr "Corfirmez le mot de passe "
+
+msgid "(<a href='http://gravatar.com' target='_blank'>Change Avatar</a>)"
+msgstr "(<a href=\"http://gravatar.com\" target=\"_blank\">Changer votre avatar</a>)"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:14
+msgid "Site Members"
+msgstr "Membres"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:15
+msgid "Forms for My Account, Register and Login pages"
+msgstr "Formulaires pour les pages «Mon compte», «Inscription» et «Connexion»"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:22
+msgid "Member Account"
+msgstr "Compte membre"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:52
+msgid "Your account has been successfully updated."
+msgstr "Votre compte a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:64
+msgid "Member Registration"
+msgstr "Inscription"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:88
+msgid "<b>Thank you for your registration.</b><br /> Your account has been created. However we require account activation, an activation key has been sent to the e-mail address you provided. Please check your e-mail for further information."
+msgstr "<b>Merci pour votre inscription.</b><br /> Votre compte a été créé. Cependant, votre compte requiert une activation. Une clé d'activation a été envoyée à l'adresse courriel que vous avez entrer. Vérifiez votre courriel pour plus d'information."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:96
+msgid "<b>Thank you for your registration.</b><br /> An email has been sent to you with the necessary information to login to your account."
+msgstr "<b>Merci pour votre inscription.</b><br /> Un courriel vous a été envoyés avec l'information nécessaire pour vous connecter à votre compte."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:243
+msgid "Form Settings"
+msgstr "Paramètres du formulaire"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:337
+msgid "Member Forms Administration"
+msgstr "Gestion des formulaires membres"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:363
+msgid "No member forms found."
+msgstr "Aucun formulaire membre trouvé."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:378
+msgid "Member Registration Form"
+msgstr "Formulaire d'inscription"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:383
+msgid "Member Login / Account Form"
+msgstr "Formulaire de connextion / modification du compte"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:389
+msgid "New account registration has been temporarily suspended. Please try again later."
+msgstr "L'inscription de nouveaux membres a été temporairement suspendu. Veuillez réessayer plus tard."
+
