@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-16 13:12-0500\n"
+"PO-Revision-Date: 2011-02-21 17:10-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -755,6 +755,10 @@ msgstr "La requête s'est exécutée en %s secondes"
 #: /home/julius/workspace/jcore/lib/sources/sql.class.php:363
 msgid "SQL Error:"
 msgstr "Erreur SQL : "
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:309
+msgid "Could not establish a connection to the database."
+msgstr "Impossible d'établir une connexion à la base de données."
 
 #: /home/julius/workspace/jcore/lib/sources/sql.class.php:312
 #: /home/julius/workspace/jcore/lib/sources/sql.class.php:320
@@ -4018,7 +4022,7 @@ msgstr "Aucun propriétaire défini pour la requête !"
 
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:1432
 #, php-format
-msgid "You have reached the maximum number of %s requests! If you are suntil having problems completing your request please contact us or wait a few hours and try again."
+msgid "You have reached the maximum number of %s requests! If you are still having problems completing your request please contact us or wait a few hours and try again."
 msgstr "Vous avez atteint la limite de %s requêtes ! Si vous rencontrez toujours des problèmes à compléter votre requête, veuillez nous contacter ou patienter quelques heures et réeesayer."
 
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:1459
@@ -4557,10 +4561,34 @@ msgid "Template has been successfully created."
 msgstr "L'habillage a été créé."
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:76
-msgid "Quicly create / modify posts"
+msgid "Quickly create / modify posts"
 msgstr "Créer/modifier des articles rapidement"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
 msgid "Posts at Glance"
 msgstr "Articles sur le pouce"
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:33
+msgid "Page"
+msgstr "Page"
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:26
+msgid "Post to Page"
+msgstr "Ajouter à la page"
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:56
+msgid "No posts selected! Please select at least one post."
+msgstr "Aucun article sélectionné ! Veuillez sélectionner au moins un article."
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:69
+msgid "Posts have been successfully deactivated and are now NOT visible to the public."
+msgstr "Les articles ont été désactivés et ne sont désormais PLUS visibles publiquement."
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:81
+msgid "Posts have been successfully activated and are now visible to the public."
+msgstr "Les articles ont été activés et sont désormais visibles publiquement."
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:93
+msgid "Posts have been successfully deleted."
+msgstr "Les articles ont été supprimés."
 
