@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-02-18 18:40+0200\n"
+"PO-Revision-Date: 2011-02-21 11:11+0200\n"
 "Last-Translator: Foroshandegan Developer's Group <info@foroshandegan.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -1611,7 +1611,7 @@ msgstr "فزم پرداخت"
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2529
 #, php-format
 msgid "We are sorry but it seems the stock for \"%s\" has changed meanwhile and there aren't enough items in stock now. Please go back and update your cart. Total available items in stock for this item are: %s."
-msgstr "با عرض پوزش به نظر می رسد که موجودی  %s برای تکمیل سفارش شما/تعداد مورد نظر شما کافی نیست.لطفا به مرحله قبل بازگردید و تعداد سفارش را اصلاح نمایید. %s"
+msgstr "با عرض پوزش به نظر می رسد که موجودی  %s برای تکمیل سفارش شما/تعداد مورد نظر شما کافی نیست.لطفا به مرحله قبل بازگردید و تعداد سفارش را اصلاح نمایید. تعداد کالای موجود: %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2640
 #, php-format
@@ -1800,7 +1800,7 @@ msgstr "حذف کالا"
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4757
 #, php-format
 msgid "<b>TIP:</b> Orders over %s get %s discount!"
-msgstr "%s نکته: سفارشهای بیشتر از  %s  مشمول تخفیف ویژه می شوند!"
+msgstr "نکته: سفارشهای بیشتر از  %s  مشمول تخفیف ویژه می شوند!این تخفیف عبارتست از: %s "
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4768
 msgid "* For more details on each item click on the item's title. To change the quantity of an item pick a new quantity and press the Update Cart button."

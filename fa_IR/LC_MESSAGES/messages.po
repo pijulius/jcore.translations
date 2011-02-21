@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-18 18:43+0200\n"
+"PO-Revision-Date: 2011-02-21 11:10+0200\n"
 "Last-Translator: Foroshandegan Developer's Group <info@foroshandegan.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -4144,12 +4144,12 @@ msgstr "شناسه کاربری و یا گذرواژه وارده صحیح نی�
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:2150
 #, php-format
 msgid "You have used %s out of %s login attempts. After all %s have been used, you will be unable to login for %s minutes."
-msgstr "شما تعداد %s بار از %s مجاز ، تلاش برای ورود ناموفق داشته %s اید.توجه داشته باشید پس از آن تا %s دقیقه امکان ورود به سایت را نخواهید داشت."
+msgstr "شما تعداد %s بار از %s مجاز ، تلاش برای ورود ناموفق داشته اید.توجه داشته باشید پس از آن تا %s دقیقه امکان ورود به سایت را نخواهید داشت.کل دفعات مجاز: %s"
 
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:2162
 #, php-format
 msgid "Wrong username or password. <b>You have used up your failed login quota! Please wait %s minutes before trying again.</b> Don't forget that the password is case sensitive."
-msgstr "شناسه کاربری و یا گذرواژه وارده صحیح نیست.لطفا اطلاعات مذبور را بررسی نموده و اصلاح نمایید و مجددا %s تلاش کنید.توجه داشته باشید که گذرواژه به بزرگی/کوچکی حروف حساس می باشد."
+msgstr "شناسه کاربری و یا گذرواژه وارده صحیح نیست.لطفا اطلاعات مذبور را بررسی نموده و اصلاح نمایید و مجددا تلاش کنید.توجه داشته باشید که گذرواژه به بزرگی/کوچکی حروف حساس می باشد.شما باید  %s دقیقه صبر کنید و مجددا تلاش فرمایید."
 
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:2172
 #, php-format
