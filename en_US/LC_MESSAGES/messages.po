@@ -4560,7 +4560,7 @@ msgid "Template has been successfully created."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:76
-msgid "Quicly create / modify posts"
+msgid "Quickly create / modify posts"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
