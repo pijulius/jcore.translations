@@ -2159,7 +2159,7 @@ msgid "No comments yet."
 msgstr "Aucun commentaire actuellement."
 
 #: /home/julius/workspace/jcore/lib/sources/form.class.php:231
-msgid "Enter the code shown on the right"
+msgid "Enter the code shown in the image"
 msgstr "Entrez le code affiché à droite"
 
 #: /home/julius/workspace/jcore/lib/sources/form.class.php:253

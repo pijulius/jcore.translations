@@ -2157,7 +2157,7 @@ msgid "No comments yet."
 msgstr "هیچ نظری تاکنون داده نشده است."
 
 #: /home/julius/workspace/jcore/lib/sources/form.class.php:231
-msgid "Enter the code shown on the right"
+msgid "Enter the code shown in the image"
 msgstr "لطفا کد نمایش داده شده را وارد کنید:"
 
 #: /home/julius/workspace/jcore/lib/sources/form.class.php:253
