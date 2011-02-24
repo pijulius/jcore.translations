@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:22+0200\n"
-"PO-Revision-Date: 2011-02-24 12:31+0200\n"
+"PO-Revision-Date: 2011-02-24 15:55-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -34,7 +34,7 @@ msgstr "Titre / Description"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:210
 msgid "Blog like content for pages."
-msgstr "Contenus des items de pages."
+msgstr "Contenu des pages à la manière d'un blog."
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:254
 msgid "Update"
@@ -46,7 +46,7 @@ msgstr "Gestion du moteur de recherche"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:312
 msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the page under which the search module is will be used."
-msgstr "Cochez les modules cherchables par le moteur de recherche local. Vous pouvez aussi limiter le nombre de résultats retournés par chacun d'eux. Par défaut, si aucun module n'est sélectionné et qu'aucune limite n'est définie, le module rattaché à la recherche dans le page sera utilisé."
+msgstr "Cochez les modules cherchables par le moteur de recherche local. Vous pouvez aussi limiter le nombre de résultats retournés par chacun d'eux. Par défaut, si aucun module n'est sélectionné et qu'aucune limite n'est définie, le module rattaché à la recherche dans la page sera utilisé."
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:349
 msgid "No modules found."
