@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 19:22+0200\n"
-"PO-Revision-Date: 2011-01-30 14:12+0200\n"
+"PO-Revision-Date: 2011-02-24 12:35+0200\n"
 "Last-Translator: Erkan <bravehearterkan@hotmail.com>\n"
 "Language-Team: jCore-Turkish <bravehearterkan@hotmail.com>\n"
 "Language: \n"
@@ -35,8 +35,8 @@ msgid "Title / Description"
 msgstr "Başlık / Açıklama"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:210
-msgid "Blog like content for menu items."
-msgstr "Menü elemanları için blog tarzı içerik."
+msgid "Blog like content for pages."
+msgstr "Sayfaları için blog tarzı içerik."
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:254
 msgid "Update"
@@ -47,8 +47,8 @@ msgid "Search Engine Administration"
 msgstr "Arama Motoru Yöneticisi"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:312
-msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the menu under which the search module is will be used."
-msgstr "Yerel Arama Motorlarını tarafından aranabilecek modülleri kontrol edebilir veya onları limitleyebilirsiniz. Varsayılan olarak bütün modüller aranabilir olacaktır. Eğer arama motorunda limit eklemez iseniz menülerin ek seçeneklerinde limit ekleyebilirsiniz."
+msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the page under which the search module is will be used."
+msgstr "Yerel Arama Motorlarını tarafından aranabilecek modülleri kontrol edebilir veya onları limitleyebilirsiniz. Varsayılan olarak bütün modüller aranabilir olacaktır. Eğer arama motorunda limit eklemez iseniz sayfa ek seçeneklerinde limit ekleyebilirsiniz."
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:349
 msgid "No modules found."

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-16 11:54+0200\n"
+"PO-Revision-Date: 2011-02-24 12:33+0200\n"
 "Last-Translator: Bram Kortleven <bram@bramkortleven.be>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -790,8 +790,8 @@ msgstr "(rijen verwerkt: %s)"
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:49
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:89
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:92
-msgid "e.g. admin/content/menuitems/1/posts"
-msgstr "bv. admin/content/menuitems/1/posts"
+msgid "e.g. admin/content/pages/1/posts"
+msgstr "bv. admin/content/pages/1/posts"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:57
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:83
@@ -1429,12 +1429,12 @@ msgid "No posts selected! Please select at least one post that you would like to
 msgstr "Geen posts geselecteerd! Selecteer minstens een post die u wenst te kopieren en/of verplaatsen."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:66
-msgid "No menu selected to copy and/or move posts to! Please select a menu to move the posts to at the bottom of the list."
-msgstr "Geen menu geselecteerd om posts naartoe te kopieren/verplaatsen! Selecteer een menu om posts naartoe te verplaatsen onderaan de lijst."
+msgid "No page selected to copy and/or move posts to! Please select a page to move the posts to at the bottom of the list."
+msgstr "Geen pagina geselecteerd om posts naartoe te kopieren/verplaatsen! Selecteer een pagina om posts naartoe te verplaatsen onderaan de lijst."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:79
-msgid "The menu you have selected to copy and/or move posts to does not exists. This could be happening because the menu has been deleted meanwhile."
-msgstr "Het menu dat u selecteerde om posts naartoe te kopieren/verplaatsen bestaat niet. Dit kan betekenen dat intussen het menu werd verwijderd."
+msgid "The page you have selected to copy and/or move posts to does not exists. This could be happening because the page has been deleted meanwhile."
+msgstr "Het pagina dat u selecteerde om posts naartoe te kopieren/verplaatsen bestaat niet. Dit kan betekenen dat intussen het pagina werd verwijderd."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:94
 #, php-format
@@ -2625,8 +2625,8 @@ msgid "In Language(s)"
 msgstr "In Taal/Talen"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:191
-msgid "In Menu(s)"
-msgstr "In Menu(s)"
+msgid "On Page(s)"
+msgstr "Op Pagina(s)"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:198
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:530
@@ -2671,8 +2671,8 @@ msgstr "Ververs Nu"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:312
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:585
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:350
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:607
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:607
 msgid "Limit"
 msgstr "Limiet"
 
@@ -2701,12 +2701,12 @@ msgid "Title / Block ID / CSS Class"
 msgstr "Titel / Blok ID / CSS Klasse"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:568
-msgid "Display Except in Menu"
-msgstr "Toon Uitgezonderd in Menu"
+msgid "Display Except on Page"
+msgstr "Toon Uitgezonderd op Pagina"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:569
-msgid "Display Only in Menu"
-msgstr "Toon Enkel in Menu"
+msgid "Display Only on Page"
+msgstr "Toon Enkel op Pagina"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:575
 msgid "Display Except in Language"
@@ -2774,7 +2774,7 @@ msgid "Advertisement"
 msgstr "Advertentie"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1286
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1441
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1441
 msgid "Admins"
 msgstr "Beheerders"
 
@@ -3083,11 +3083,11 @@ msgid "Dynamic Forms"
 msgstr "Dynamisch Formulier"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:96
-msgid "Copy and/or Move posts from one menu to another"
-msgstr "Kopieer en/of Verplaats posts van een menu naar een ander"
+msgid "Copy and/or Move posts from one page to another"
+msgstr "Kopieer en/of Verplaats posts van een pagina naar een ander"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:99
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:129
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:129
 msgid "Moving Posts"
 msgstr "Posts Verplaatsen"
 
@@ -3226,138 +3226,134 @@ msgstr "Ga Terug"
 msgid "Invalid path!"
 msgstr "Ongeldig pad!"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:109
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:109
 msgid "Address Not Found"
 msgstr "Adres Niet Gevonden"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:125
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:125
 msgid "New Page"
 msgstr "Nieuwe Pagina"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:145
-msgid "Sub Menu of"
-msgstr "Sub Menu van"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:145
+msgid "Sub Page of"
+msgstr "Sub Pagina van"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:153
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:153
 msgid "Menu Block"
 msgstr "Menu Blok"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:170
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:170
 msgid "Language"
 msgstr "Taal"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:184
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:657
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:657
 msgid "Modules"
 msgstr "Modules"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:266
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:630
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:266
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:630
 msgid "SEO Options"
 msgstr "SEO Opties"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:271
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:271
 msgid "Page Title"
 msgstr "Pagina Titel"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:277
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:277
 msgid "Description"
 msgstr "Omschrijving"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:283
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:283
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:390
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:731
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:2128
 msgid "Keywords"
 msgstr "Sleutelwoorden"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:403
-msgid "Menu items have been successfully re-ordered."
-msgstr "Menu items werden met succes herschikt."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:403
+msgid "Pages have been successfully re-ordered."
+msgstr "Pagina's werden met succes herschikt."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:414
-msgid "Menu item and all its submenus have been successfully deleted."
-msgstr "Menu item en alle submenu's werden met succes verwijderd."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:414
+msgid "Page and all its subpages have been successfully deleted."
+msgstr "Pagina en alle subpagina's werden met succes verwijderd."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:443
-msgid "Menu item cannot be submenu of itself!"
-msgstr "Menu item kan geen submenu van zichzelf zijn!"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:443
+msgid "Page cannot be subpage of itself!"
+msgstr "Pagina kan geen subpagina van zichzelf zijn!"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:460
-msgid "Menu item has been successfully updated."
-msgstr "Menu item werd met succes bijgewerkt."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:460
+msgid "Page has been successfully updated."
+msgstr "Pagina werd met succes bijgewerkt."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:462
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:483
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:462
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:483
 msgid "View Page"
 msgstr "Bekijk Pagina"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:481
-msgid "Menu item has been successfully created."
-msgstr "Menu item werd met succes gemaakt."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:481
+msgid "Page has been successfully created."
+msgstr "Pagina werd met succes gemaakt."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:588
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:816
-msgid "No menu items found."
-msgstr "Geen menu items gevonden."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:588
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:816
+msgid "No pages found."
+msgstr "Geen pagina's gevonden."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:601
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:601
 msgid "Title / Path / Link"
 msgstr "Titel / Pad / Link"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:613
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:732
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:613
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:732
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:23
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:1015
 msgid "Posts"
 msgstr "Posts"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:809
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:809
 msgid "No Language Defined"
 msgstr "Geen Taal Opgegeven"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:845
-msgid "Menu Items Administration (Pages)"
-msgstr "Menu Items Beheer (Pagina's)"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:845
+msgid "Pages Administration"
+msgstr "Pagina's Beheer"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:870
-msgid "Edit Menu Item (Page)"
-msgstr "Bewerk Menu Item (Pagina)"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:870
+msgid "Edit Page"
+msgstr "Bewerk Pagina"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:871
-msgid "New Menu Item (Page)"
-msgstr "Nieuw Menu Item (Pagina)"
-
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:923
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:453
 msgid "No menu blocks found."
 msgstr "Geen menu blokken gevonden."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:924
-msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put menu items in."
-msgstr "Ga naar Admin -> Site Layout en Functionaliteit -> Menu Blokken en maak monstens een menu blok om er menu items in te plaatsen."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:924
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put pages in."
+msgstr "Ga naar Admin -> Site Layout en Functionaliteit -> Menu Blokken en maak monstens een menu blok om er pagina's in te plaatsen."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1053
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1053
 #, php-format
-msgid "Menu Item couldn't be created! Error: %s"
-msgstr "Menu Item kon niet worden gemaakt! Fout: %s"
+msgid "Page couldn't be created! Error: %s"
+msgstr "Pagina kon niet worden gemaakt! Fout: %s"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1090
-msgid "Menu item successfully created but xml sitemap file couldn't be updated."
-msgstr "Menu item met succes gemaakt maar xml sitemap bestand kon niet worden bijgewerkt."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1090
+msgid "Page successfully created but xml sitemap file couldn't be updated."
+msgstr "Pagina met succes gemaakt maar xml sitemap bestand kon niet worden bijgewerkt."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1187
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1187
 #, php-format
-msgid "Menu item couldn't be updated! Error: %s"
-msgstr "Menu item kon niet worden bijgewerkt! Fout: %s"
+msgid "Page couldn't be updated! Error: %s"
+msgstr "Pagina kon niet worden bijgewerkt! Fout: %s"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1312
-msgid "Menu item successfully updated but xml sitemap file couldn't be updated."
-msgstr "Menu item met succes bijgewerkt maar xml sitemap bestand kon niet worden bijgewerkt."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1312
+msgid "Page successfully updated but xml sitemap file couldn't be updated."
+msgstr "Pagina met succes bijgewerkt maar xml sitemap bestand kon niet worden bijgewerkt."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1366
-msgid "Menu item successfully deleted but xml sitemap file couldn't be updated."
-msgstr "Menu item met succes verwijderd maar xml sitemap bestand kon niet worden bijgewerkt."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1366
+msgid "Page successfully deleted but xml sitemap file couldn't be updated."
+msgstr "Pagina met succes verwijderd maar xml sitemap bestand kon niet worden bijgewerkt."
 
 #: /home/julius/workspace/jcore/lib/sources/settings.class.php:53
 msgid "Settings have been successfully updated but the template.js file couldn't be updated."
@@ -4383,8 +4379,8 @@ msgstr "Sitemap XML Bestand Beheer"
 
 #: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:86
 #, php-format
-msgid "This file (%s) gets updated automatically every time you create / edit / delete a menu item but you can regenerate or modify it manually below."
-msgstr "Dit bestand (%s) wordt automatisch bijgewerkt elke keer u een menu item bijmaakt / bewerkt / verwijderd, maar u kan onderaan manueel regenereren of aanpassen."
+msgid "This file (%s) gets updated automatically every time you create / edit / delete a page but you can regenerate or modify it manually below."
+msgstr "Dit bestand (%s) wordt automatisch bijgewerkt elke keer u een pagina bijmaakt / bewerkt / verwijderd, maar u kan onderaan manueel regenereren of aanpassen."
 
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:69
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:635

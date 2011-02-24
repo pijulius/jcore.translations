@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:22+0200\n"
-"PO-Revision-Date: 2011-01-19 23:05+0200\n"
+"PO-Revision-Date: 2011-02-24 12:34+0200\n"
 "Last-Translator: Soreen <soreen@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -32,8 +32,8 @@ msgid "Title / Description"
 msgstr "Titlu / Descriere"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:210
-msgid "Blog like content for menu items."
-msgstr "Conţinut tip blog pentru elementele de meniu"
+msgid "Blog like content for pages."
+msgstr "Conţinut tip blog pentru pagini"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:254
 msgid "Update"
@@ -44,8 +44,8 @@ msgid "Search Engine Administration"
 msgstr "Administrare Motor de căutare"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:312
-msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the menu under which the search module is will be used."
-msgstr "Bifaţi modulele care indexabile de Motorul de Căutare Local. Puteţi defini de asemenea, limite personalizate pentru acestea. În mod implicit în cazul în care nu aveţi module bifate vor fi indexate toate modulele, iar căutarea va fi generală, iar în cazul în care nici limita nu este definită (0) va fi folosit modulul de căutare din meniul curent."
+msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the page under which the search module is will be used."
+msgstr "Bifaţi modulele care indexabile de Motorul de Căutare Local. Puteţi defini de asemenea, limite personalizate pentru acestea. În mod implicit în cazul în care nu aveţi module bifate vor fi indexate toate modulele, iar căutarea va fi generală, iar în cazul în care nici limita nu este definită (0) va fi folosit modulul de căutare din pagina curentă."
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:349
 msgid "No modules found."

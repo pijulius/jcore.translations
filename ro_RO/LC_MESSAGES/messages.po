@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-15 14:17+0200\n"
+"PO-Revision-Date: 2011-02-24 12:34+0200\n"
 "Last-Translator: Soreen <soreen@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -786,8 +786,8 @@ msgstr "(rândurile afectate: %s)"
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:49
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:89
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:92
-msgid "e.g. admin/content/menuitems/1/posts"
-msgstr "de exemplu, admin/content/menuitems/1/posts"
+msgid "e.g. admin/content/pages/1/posts"
+msgstr "de exemplu, admin/content/pages/1/posts"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:57
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:83
@@ -1425,12 +1425,12 @@ msgid "No posts selected! Please select at least one post that you would like to
 msgstr "Nu sunt mesaje selectate! Vă rugăm să selectaţi cel puţin un mesaj pe care doriţi să-l copiaţi şi / sau mutaţi."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:66
-msgid "No menu selected to copy and/or move posts to! Please select a menu to move the posts to at the bottom of the list."
-msgstr "Nu aţi selectat meniul în care să copiaţi / mutaţi mesajele! Vă rugăm să selectaţi un meniu din partea de jos a listei pentru a copia / muta mesajele."
+msgid "No page selected to copy and/or move posts to! Please select a page to move the posts to at the bottom of the list."
+msgstr "Nu aţi selectat pagina în care să copiaţi / mutaţi mesajele! Vă rugăm să selectaţi o pagină din partea de jos a listei pentru a copia / muta mesajele."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:79
-msgid "The menu you have selected to copy and/or move posts to does not exists. This could be happening because the menu has been deleted meanwhile."
-msgstr "Meniul selectat pentru a copia şi / sau muta mesajele nu există. Acest lucru se poate întâmpla, deoarece meniul a fost şters între timp."
+msgid "The page you have selected to copy and/or move posts to does not exists. This could be happening because the page has been deleted meanwhile."
+msgstr "Pagina selectat pentru a copia şi / sau muta mesajele nu există. Acest lucru se poate întâmpla, deoarece pagina a fost şters între timp."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:94
 #, php-format
@@ -2621,8 +2621,8 @@ msgid "In Language(s)"
 msgstr "În Limba(ile)"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:191
-msgid "In Menu(s)"
-msgstr "În Meniul(ri)"
+msgid "On Page(s)"
+msgstr "Pe Pagina(i)"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:198
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:530
@@ -2667,8 +2667,8 @@ msgstr "Actualizează Acum"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:312
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:585
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:350
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:607
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:607
 msgid "Limit"
 msgstr "Limita"
 
@@ -2697,12 +2697,12 @@ msgid "Title / Block ID / CSS Class"
 msgstr "Titlu / ID Bloc / Clasa CSS"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:568
-msgid "Display Except in Menu"
-msgstr "Afişează exceptând Meniul"
+msgid "Display Except on Page"
+msgstr "Afişează exceptând Pagina"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:569
-msgid "Display Only in Menu"
-msgstr "Afişează doar în Meniu"
+msgid "Display Only on Page"
+msgstr "Afişează doar pe Pagina"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:575
 msgid "Display Except in Language"
@@ -2770,7 +2770,7 @@ msgid "Advertisement"
 msgstr "Publicitate"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1286
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1441
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1441
 msgid "Admins"
 msgstr "Administratori"
 
@@ -3079,11 +3079,11 @@ msgid "Dynamic Forms"
 msgstr "Formulare Dinamice"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:96
-msgid "Copy and/or Move posts from one menu to another"
-msgstr "Copiaţi şi / sau Mutaţi mesajele de la un meniu la altul"
+msgid "Copy and/or Move posts from one page to another"
+msgstr "Copiaţi şi / sau Mutaţi mesajele de la o pagină la altul"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:99
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:129
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:129
 msgid "Moving Posts"
 msgstr "Mutarea Mesajelor"
 
@@ -3222,138 +3222,134 @@ msgstr "Înapoi"
 msgid "Invalid path!"
 msgstr "Cale nevalidă!"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:109
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:109
 msgid "Address Not Found"
 msgstr "Adresa nu a fost găsită"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:125
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:125
 msgid "New Page"
 msgstr "Pagină Nouă"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:145
-msgid "Sub Menu of"
-msgstr "Sub Meniu al"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:145
+msgid "Sub Page of"
+msgstr "Sub Pagina al"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:153
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:153
 msgid "Menu Block"
 msgstr "Bloc Meniu"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:170
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:170
 msgid "Language"
 msgstr "Limba"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:184
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:657
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:657
 msgid "Modules"
 msgstr "Module"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:266
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:630
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:266
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:630
 msgid "SEO Options"
 msgstr "Opţiuni SEO"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:271
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:271
 msgid "Page Title"
 msgstr "Titlu Pagin"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:277
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:277
 msgid "Description"
 msgstr "Descriere"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:283
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:283
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:390
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:731
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:2128
 msgid "Keywords"
 msgstr "Cuvinte cheie"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:403
-msgid "Menu items have been successfully re-ordered."
-msgstr "Elementele de meniu au fost re-ordonate."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:403
+msgid "Pages have been successfully re-ordered."
+msgstr "Paginile au fost re-ordonate."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:414
-msgid "Menu item and all its submenus have been successfully deleted."
-msgstr "Elementele de meniu şi toate submeniurile au fost şterse cu succes."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:414
+msgid "Page and all its subpages have been successfully deleted."
+msgstr "Pagina şi toate subpaginile au fost şterse cu succes."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:443
-msgid "Menu item cannot be submenu of itself!"
-msgstr "Meniul nu poate fi propriul submeniu!"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:443
+msgid "Page cannot be subpage of itself!"
+msgstr "Pagina nu poate fi propriul subpagina!"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:460
-msgid "Menu item has been successfully updated."
-msgstr "Elementul meniului a fost actualizat."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:460
+msgid "Page has been successfully updated."
+msgstr "Pagina a fost actualizat."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:462
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:483
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:462
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:483
 msgid "View Page"
 msgstr "Vezi Pagina"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:481
-msgid "Menu item has been successfully created."
-msgstr "Element de meniu creat."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:481
+msgid "Page has been successfully created."
+msgstr "Pagina creat."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:588
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:816
-msgid "No menu items found."
-msgstr "Nici un element de meniu găsit."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:588
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:816
+msgid "No pages found."
+msgstr "Nici o pagină găsit."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:601
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:601
 msgid "Title / Path / Link"
 msgstr "Titlu / Cale / Legătură"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:613
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:732
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:613
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:732
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:23
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:1015
 msgid "Posts"
 msgstr "Postări"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:809
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:809
 msgid "No Language Defined"
 msgstr "Nici o limbă definită"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:845
-msgid "Menu Items Administration (Pages)"
-msgstr "Administrarea Elementelor de Meniu (Pagini)"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:845
+msgid "Pages Administration"
+msgstr "Administrarea Pagini"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:870
-msgid "Edit Menu Item (Page)"
-msgstr "Editare element de meniu (Pagină)"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:870
+msgid "Edit Page"
+msgstr "Editare Pagini"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:871
-msgid "New Menu Item (Page)"
-msgstr "Element de meniu nou (Pagină)"
-
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:923
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:453
 msgid "No menu blocks found."
 msgstr "Nu aveţi blocuri de meniu."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:924
-msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put menu items in."
-msgstr "Vă rugăm să mergeţi la Administrare -> Aspectul şi funcţionalitate site -> Blocuri Meniu şi creaţi cel puţin un bloc de meniu în care să adăugaţi elemente de meniu"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:924
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put pages in."
+msgstr "Vă rugăm să mergeţi la Administrare -> Aspectul şi funcţionalitate site -> Blocuri Meniu şi creaţi cel puţin un bloc de meniu în care să adăugaţi pagini."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1053
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1053
 #, php-format
-msgid "Menu Item couldn't be created! Error: %s"
-msgstr "Elementul de meniu nu a putut fi creat! Eroare: %s"
+msgid "Page couldn't be created! Error: %s"
+msgstr "Pagina nu a putut fi creat! Eroare: %s"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1090
-msgid "Menu item successfully created but xml sitemap file couldn't be updated."
-msgstr "Elementului de meniu creat cu succes, dar fişierul sitemap XML nu a putut fi actualizat."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1090
+msgid "Page successfully created but xml sitemap file couldn't be updated."
+msgstr "Pagina creat cu succes, dar fişierul sitemap XML nu a putut fi actualizat."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1187
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1187
 #, php-format
-msgid "Menu item couldn't be updated! Error: %s"
-msgstr "Elementul de meniu nu a putut fi actualizat! Eroare: %s"
+msgid "Page couldn't be updated! Error: %s"
+msgstr "Pagina nu a putut fi actualizat! Eroare: %s"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1312
-msgid "Menu item successfully updated but xml sitemap file couldn't be updated."
-msgstr "Elementului de meniu actualizat cu succes, dar fişierul sitemap XML nu a putut fi actualizat."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1312
+msgid "Page successfully updated but xml sitemap file couldn't be updated."
+msgstr "Pagina actualizat cu succes, dar fişierul sitemap XML nu a putut fi actualizat."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1366
-msgid "Menu item successfully deleted but xml sitemap file couldn't be updated."
-msgstr "Elementului de meniu şters cu succes, dar fişierul sitemap XML nu a putut fi actualizat."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1366
+msgid "Page successfully deleted but xml sitemap file couldn't be updated."
+msgstr "Pagina şters cu succes, dar fişierul sitemap XML nu a putut fi actualizat."
 
 #: /home/julius/workspace/jcore/lib/sources/settings.class.php:53
 msgid "Settings have been successfully updated but the template.js file couldn't be updated."
@@ -4379,8 +4375,8 @@ msgstr "Administrarea fişierului sitemap XML"
 
 #: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:86
 #, php-format
-msgid "This file (%s) gets updated automatically every time you create / edit / delete a menu item but you can regenerate or modify it manually below."
-msgstr "Acest fişier (%s) este actualizat automat de fiecare dată când creaţi / editaţi / ştergeţi un element de meniu, dar aveţi posibilitatea de a-l regenera sau modifica manual mai jos."
+msgid "This file (%s) gets updated automatically every time you create / edit / delete a page but you can regenerate or modify it manually below."
+msgstr "Acest fişier (%s) este actualizat automat de fiecare dată când creaţi / editaţi / ştergeţi o pagină, dar aveţi posibilitatea de a-l regenera sau modifica manual mai jos."
 
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:69
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:635

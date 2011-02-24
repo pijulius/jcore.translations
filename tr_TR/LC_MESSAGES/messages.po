@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 19:22+0200\n"
-"PO-Revision-Date: 2011-02-15 14:19+0200\n"
+"PO-Revision-Date: 2011-02-24 12:34+0200\n"
 "Last-Translator: Erkan <bravehearterkan@hotmail.com>\n"
 "Language-Team: jCore-Turkish <bravehearterkan@hotmail.com>\n"
 "Language: \n"
@@ -793,8 +793,8 @@ msgstr "(etkilenen satırlar: %s)"
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:49
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:89
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:92
-msgid "e.g. admin/content/menuitems/1/posts"
-msgstr "örneğin admin/content/menuitems/1/posts"
+msgid "e.g. admin/content/pages/1/posts"
+msgstr "örneğin admin/content/pages/1/posts"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:57
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:83
@@ -1432,12 +1432,12 @@ msgid "No posts selected! Please select at least one post that you would like to
 msgstr "Seçilen mesaj yok. Taşıma veya kopyalama için en az bir mesaj seçmelisiniz."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:66
-msgid "No menu selected to copy and/or move posts to! Please select a menu to move the posts to at the bottom of the list."
-msgstr "Mesajları taşıma veya kopyalama için seçilen menü yok! Lütfen mesajları taşımak için listeden bir menü seçiniz."
+msgid "No page selected to copy and/or move posts to! Please select a page to move the posts to at the bottom of the list."
+msgstr "Mesajları taşıma veya kopyalama için seçilen sayfa yok! Lütfen mesajları taşımak için listeden bir sayfa seçiniz."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:79
-msgid "The menu you have selected to copy and/or move posts to does not exists. This could be happening because the menu has been deleted meanwhile."
-msgstr "Mesajları  koplayama veya taşıma için seçmiş olduğunuz menü yok. Bu menü silinmiş olduğundan dolayı olabilir."
+msgid "The page you have selected to copy and/or move posts to does not exists. This could be happening because the page has been deleted meanwhile."
+msgstr "Mesajları  koplayama veya taşıma için seçmiş olduğunuz sayfa yok. Bu sayfa silinmiş olduğundan dolayı olabilir."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:94
 #, php-format
@@ -2628,8 +2628,8 @@ msgid "In Language(s)"
 msgstr "Dil (ler) de"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:191
-msgid "In Menu(s)"
-msgstr "Menü (ler) de"
+msgid "On Page(s)"
+msgstr "Sayfası (larında) de"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:198
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:530
@@ -2674,8 +2674,8 @@ msgstr "Şimdi Yenileme"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:312
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:585
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:350
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:607
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:607
 msgid "Limit"
 msgstr "Sınır"
 
@@ -2704,12 +2704,12 @@ msgid "Title / Block ID / CSS Class"
 msgstr "Başlık / Blok kimliği / CSS sınıfı"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:568
-msgid "Display Except in Menu"
-msgstr "Menü dışında göster"
+msgid "Display Except on Page"
+msgstr "Sayfa dışında göster"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:569
-msgid "Display Only in Menu"
-msgstr "Sadece menüde göster"
+msgid "Display Only on Page"
+msgstr "Sadece sayfada göster"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:575
 msgid "Display Except in Language"
@@ -2777,7 +2777,7 @@ msgid "Advertisement"
 msgstr "Reklam"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1286
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1441
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1441
 msgid "Admins"
 msgstr "Yöneticiler"
 
@@ -3086,11 +3086,11 @@ msgid "Dynamic Forms"
 msgstr "Dinamik Formlar"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:96
-msgid "Copy and/or Move posts from one menu to another"
-msgstr "Kopya ve / veya başka bir menüden mesaj Taşımak"
+msgid "Copy and/or Move posts from one page to another"
+msgstr "Kopya ve / veya başka bir sayfa mesaj Taşımak"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:99
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:129
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:129
 msgid "Moving Posts"
 msgstr "İçerik Taşıma"
 
@@ -3229,138 +3229,134 @@ msgstr "Geri Dön"
 msgid "Invalid path!"
 msgstr "Geçersiz yol!"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:109
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:109
 msgid "Address Not Found"
 msgstr "Adres Bulunamadı"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:125
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:125
 msgid "New Page"
 msgstr "Yeni Sayfa"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:145
-msgid "Sub Menu of"
-msgstr "Alt Menüsü"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:145
+msgid "Sub Page of"
+msgstr "Alt Sayfa ve"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:153
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:153
 msgid "Menu Block"
 msgstr "Menü Blok"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:170
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:170
 msgid "Language"
 msgstr "Dil"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:184
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:657
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:657
 msgid "Modules"
 msgstr "Modüller"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:266
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:630
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:266
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:630
 msgid "SEO Options"
 msgstr "SEO Seçenekleri"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:271
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:271
 msgid "Page Title"
 msgstr "Sayfa Başlığı"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:277
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:277
 msgid "Description"
 msgstr "Açıklama"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:283
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:283
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:390
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:731
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:2128
 msgid "Keywords"
 msgstr "Anahtar kelimeler"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:403
-msgid "Menu items have been successfully re-ordered."
-msgstr "Menü öğeleri başarıyla yeniden düzenlendi."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:403
+msgid "Pages have been successfully re-ordered."
+msgstr "Sayfaları başarıyla yeniden düzenlendi."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:414
-msgid "Menu item and all its submenus have been successfully deleted."
-msgstr "Menü ve alt menüleri başarıyla silindi."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:414
+msgid "Page and all its subpages have been successfully deleted."
+msgstr "Sayfa ve alt sayfalar başarıyla silindi."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:443
-msgid "Menu item cannot be submenu of itself!"
-msgstr "Menü kendisinin alt menüsü olamaz!"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:443
+msgid "Page cannot be subpage of itself!"
+msgstr "Sayfa kendisinin alt sayfalar olamaz!"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:460
-msgid "Menu item has been successfully updated."
-msgstr "Menü başarıyla güncellendi."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:460
+msgid "Page has been successfully updated."
+msgstr "Sayfa başarıyla güncellendi."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:462
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:483
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:462
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:483
 msgid "View Page"
 msgstr "Sayfa Görünümü"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:481
-msgid "Menu item has been successfully created."
-msgstr "Menü başarılı bir şekilde oluşturuldu."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:481
+msgid "Page has been successfully created."
+msgstr "Sayfa başarılı bir şekilde oluşturuldu."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:588
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:816
-msgid "No menu items found."
-msgstr "Menü öğesi bulunmadı."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:588
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:816
+msgid "No pages found."
+msgstr "Sayfa bulunmadı."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:601
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:601
 msgid "Title / Path / Link"
 msgstr "Başlık / Yol / Bağlantı"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:613
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:732
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:613
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:732
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:23
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:1015
 msgid "Posts"
 msgstr "Mesajlar"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:809
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:809
 msgid "No Language Defined"
 msgstr "Tanımlanmış Dil Yok"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:845
-msgid "Menu Items Administration (Pages)"
-msgstr "Menü Öğeleri Yönetimi (Sayfalar)"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:845
+msgid "Pages Administration"
+msgstr "Sayfaları Yönetimi"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:870
-msgid "Edit Menu Item (Page)"
-msgstr "Menü Öğesi Düzenle (sayfa)"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:870
+msgid "Edit Page"
+msgstr "Düzenle sayfa"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:871
-msgid "New Menu Item (Page)"
-msgstr "Yeni Menü Öğesi (sayfa)"
-
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:923
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:453
 msgid "No menu blocks found."
 msgstr "Menü Bloğu bunlunmadı."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:924
-msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put menu items in."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:924
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put pages in."
 msgstr "Lütfen Yönetim -> Site Düzeni ve İşlevsellik-> Menü Bloklarına giderek en azındanbir tane menü bloğu oluşturarak öğleri içine yerleştiriniz."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1053
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1053
 #, php-format
-msgid "Menu Item couldn't be created! Error: %s"
-msgstr "Menü öğesi oluşturulamadı! Hata: %s"
+msgid "Page couldn't be created! Error: %s"
+msgstr "Sayfa oluşturulamadı! Hata: %s"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1090
-msgid "Menu item successfully created but xml sitemap file couldn't be updated."
-msgstr "Menü başarıyla oluşturuldu ancak xml sitemap dosyası güncellenemedi."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1090
+msgid "Page successfully created but xml sitemap file couldn't be updated."
+msgstr "Sayfa başarıyla oluşturuldu ancak xml sitemap dosyası güncellenemedi."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1187
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1187
 #, php-format
-msgid "Menu item couldn't be updated! Error: %s"
-msgstr "Menü öğesi güncellenemedi! Hata: %s"
+msgid "Page couldn't be updated! Error: %s"
+msgstr "Sayfa güncellenemedi! Hata: %s"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1312
-msgid "Menu item successfully updated but xml sitemap file couldn't be updated."
-msgstr "Menü başarılı güncelleştirilmiş ama xml sitemap dosyası güncellenemedi."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1312
+msgid "Page successfully updated but xml sitemap file couldn't be updated."
+msgstr "Sayfa başarılı güncelleştirilmiş ama xml sitemap dosyası güncellenemedi."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1366
-msgid "Menu item successfully deleted but xml sitemap file couldn't be updated."
-msgstr "Menü başarılı silinmiş ama xml sitemap dosyası güncellenemedi."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1366
+msgid "Page successfully deleted but xml sitemap file couldn't be updated."
+msgstr "Sayfa başarılı silinmiş ama xml sitemap dosyası güncellenemedi."
 
 #: /home/julius/workspace/jcore/lib/sources/settings.class.php:53
 msgid "Settings have been successfully updated but the template.js file couldn't be updated."
@@ -4386,8 +4382,8 @@ msgstr "Sitemap XML Dosya Yönetimi"
 
 #: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:86
 #, php-format
-msgid "This file (%s) gets updated automatically every time you create / edit / delete a menu item but you can regenerate or modify it manually below."
-msgstr "Dosya (%s) her yeni bir menü öğesi oluşturulduğunda / düzenlendiğinde /silindiğinde otomatik olarak güncelleniyor ama yeniden oluşturabilir veya el ile düzenleme yapabilirsiniz."
+msgid "This file (%s) gets updated automatically every time you create / edit / delete a page but you can regenerate or modify it manually below."
+msgstr "Dosya (%s) her yeni bir sayfa oluşturulduğunda / düzenlendiğinde /silindiğinde otomatik olarak güncelleniyor ama yeniden oluşturabilir veya el ile düzenleme yapabilirsiniz."
 
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:69
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:635

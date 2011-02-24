@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-21 11:10+0200\n"
+"PO-Revision-Date: 2011-02-24 12:29+0200\n"
 "Last-Translator: Foroshandegan Developer's Group <info@foroshandegan.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -790,8 +790,8 @@ msgstr "(رکوردها:  %s)"
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:49
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:89
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:92
-msgid "e.g. admin/content/menuitems/1/posts"
-msgstr "مثلا:  admin/content/menuitems/1/posts"
+msgid "e.g. admin/content/pages/1/posts"
+msgstr "مثلا:  admin/content/pages/1/posts"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:57
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:83
@@ -1429,11 +1429,11 @@ msgid "No posts selected! Please select at least one post that you would like to
 msgstr "هیچ پستی انتخاب نشده است.لطفا دست کم یک پست را انتخاب فرمایید."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:66
-msgid "No menu selected to copy and/or move posts to! Please select a menu to move the posts to at the bottom of the list."
+msgid "No page selected to copy and/or move posts to! Please select a page to move the posts to at the bottom of the list."
 msgstr "هیچ منویی برای کپی/انتقال انتخاب نشده است.لطفا دست کم یک منو را انتخاب فرمایید."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:79
-msgid "The menu you have selected to copy and/or move posts to does not exists. This could be happening because the menu has been deleted meanwhile."
+msgid "The page you have selected to copy and/or move posts to does not exists. This could be happening because the page has been deleted meanwhile."
 msgstr "منوی انتخاب شده برای عملیات کپی/انتقال وجود ندارد."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:94
@@ -2625,7 +2625,7 @@ msgid "In Language(s)"
 msgstr "در زبانهای"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:191
-msgid "In Menu(s)"
+msgid "On Page(s)"
 msgstr "در منوهای"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:198
@@ -2671,8 +2671,8 @@ msgstr "هم اکنون نوسازی شود"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:312
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:585
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:350
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:607
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:607
 msgid "Limit"
 msgstr "محدودیت"
 
@@ -2701,11 +2701,11 @@ msgid "Title / Block ID / CSS Class"
 msgstr "عنوان/شناسه بلاک/کلاس CSS"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:568
-msgid "Display Except in Menu"
+msgid "Display Except on Page"
 msgstr "نمایش بجز دی منوی"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:569
-msgid "Display Only in Menu"
+msgid "Display Only on Page"
 msgstr "نمایش تنها در منوی"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:575
@@ -2774,7 +2774,7 @@ msgid "Advertisement"
 msgstr "تبلیغات"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1286
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1441
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1441
 msgid "Admins"
 msgstr "مدیران"
 
@@ -3083,11 +3083,11 @@ msgid "Dynamic Forms"
 msgstr "فرمهای پویا"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:96
-msgid "Copy and/or Move posts from one menu to another"
+msgid "Copy and/or Move posts from one page to another"
 msgstr "کپی/انتقال پستها از یک منو به منوی دیگر"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:99
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:129
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:129
 msgid "Moving Posts"
 msgstr "در حال انتقال پستها"
 
@@ -3226,137 +3226,133 @@ msgstr "بازگشت"
 msgid "Invalid path!"
 msgstr "مسیر نامعتبر است!"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:109
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:109
 msgid "Address Not Found"
 msgstr "نشانی پیدا نشد"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:125
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:125
 msgid "New Page"
 msgstr "صفحه جدید"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:145
-msgid "Sub Menu of"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:145
+msgid "Sub Page of"
 msgstr "زیرمنوی"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:153
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:153
 msgid "Menu Block"
 msgstr "بلاک منو"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:170
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:170
 msgid "Language"
 msgstr "زبان"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:184
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:657
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:657
 msgid "Modules"
 msgstr "افزونه ها"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:266
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:630
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:266
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:630
 msgid "SEO Options"
 msgstr "تنظیمات SEO"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:271
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:271
 msgid "Page Title"
 msgstr "عنوان صفحه"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:277
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:277
 msgid "Description"
 msgstr "شرح"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:283
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:283
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:390
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:731
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:2128
 msgid "Keywords"
 msgstr "کلیدواژه ها"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:403
-msgid "Menu items have been successfully re-ordered."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:403
+msgid "Pages have been successfully re-ordered."
 msgstr "گزینه های منوی مورد نظر با موفقیت باز مرتب سازی گردیدند."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:414
-msgid "Menu item and all its submenus have been successfully deleted."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:414
+msgid "Page and all its subpages have been successfully deleted."
 msgstr "منوی مورد نظر بهمراه تمامی زیر منوهای آن با موفقیت حذف گردید."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:443
-msgid "Menu item cannot be submenu of itself!"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:443
+msgid "Page cannot be subpage of itself!"
 msgstr "یک منو نمی تواند زیر منوی خودش باشد!"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:460
-msgid "Menu item has been successfully updated."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:460
+msgid "Page has been successfully updated."
 msgstr "گزینه منوی مورد نظر با موفقیت به روز شد."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:462
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:483
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:462
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:483
 msgid "View Page"
 msgstr "مشاهده صفحه"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:481
-msgid "Menu item has been successfully created."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:481
+msgid "Page has been successfully created."
 msgstr "گزینه منو با موفقیت ایجاد شد."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:588
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:816
-msgid "No menu items found."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:588
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:816
+msgid "No pages found."
 msgstr "هیچ گزینه ای در این منو پیدا نشد."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:601
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:601
 msgid "Title / Path / Link"
 msgstr "عنوان/مسیر/پیوند"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:613
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:732
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:613
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:732
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:23
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:1015
 msgid "Posts"
 msgstr "پستها"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:809
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:809
 msgid "No Language Defined"
 msgstr "هیچ زبانی تعریف نشده"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:845
-msgid "Menu Items Administration (Pages)"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:845
+msgid "Pages Administration"
 msgstr "مدیریت گزینه های منو(صفحات)"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:870
-msgid "Edit Menu Item (Page)"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:870
+msgid "Edit Page"
 msgstr "اصلاح گزینه منو(صفحه)"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:871
-msgid "New Menu Item (Page)"
-msgstr "گزینه منوی جدید(صفحه)"
-
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:923
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:453
 msgid "No menu blocks found."
 msgstr "هیچ بلاک منو یی پیدا نشد."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:924
-msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and creat at least one menu block to put menu items in."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:924
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and creat at least one menu block to put pages in."
 msgstr "لطفا به قسمت مدیریت->آرایش و کارکردهای سایت->بلاک منو بروید و دست کم یک بلاک منو تعریف نمایید تا قادر باشید در آن منویی ایجاد نمایید."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1053
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1053
 #, php-format
-msgid "Menu Item couldn't be created! Error: %s"
+msgid "Page couldn't be created! Error: %s"
 msgstr "گزینه مورد نظر برای منو ایجاد نشد.خطا: %s"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1090
-msgid "Menu item successfully created but xml sitemap file couldn't be updated."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1090
+msgid "Page successfully created but xml sitemap file couldn't be updated."
 msgstr "گزینه منوی مورد نظر با موفقیت ایجاد شده اما پرونده XML مربوط به نقشه سایت به روز نشده است.آنرا به روز رسانی فرمایید."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1187
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1187
 #, php-format
-msgid "Menu item couldn't be updated! Error: %s"
+msgid "Page couldn't be updated! Error: %s"
 msgstr "گزینه مربوط به منوی مورد نظر به روز نشد.خطا: %s"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1312
-msgid "Menu item successfully updated but xml sitemap file couldn't be updated."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1312
+msgid "Page successfully updated but xml sitemap file couldn't be updated."
 msgstr "گزینه منوی مورد نظر با موفقیت به روز شد اما پرونده XML نقشه سایت به روز نشده است.لطفا آنرا دستی به روز نمایید."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1366
-msgid "Menu item successfully deleted but xml sitemap file couldn't be updated."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1366
+msgid "Page successfully deleted but xml sitemap file couldn't be updated."
 msgstr "گزینه منوی مورد نظر با موفقیت حذف شد اما پرونده XML نقشه سایت به روز نشده.لطفا آنرا دستی به روز نمایید."
 
 #: /home/julius/workspace/jcore/lib/sources/settings.class.php:53
@@ -4383,7 +4379,7 @@ msgstr "مدیریت پرونده XML نقشه سایت"
 
 #: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:86
 #, php-format
-msgid "This file (%s) gets updated automatically every time you create / edit / delete a menu item but you can regenerate or modify it manually below."
+msgid "This file (%s) gets updated automatically every time you create / edit / delete a page but you can regenerate or modify it manually below."
 msgstr "این پرونده %s بطور خودکار در پی تغییر/ایجاد/حذف منو ها ، به روز می شود.در عین حال شما می توانید آنرا بصورت دستی نیز بازتولید و به روز فرمایید."
 
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:69

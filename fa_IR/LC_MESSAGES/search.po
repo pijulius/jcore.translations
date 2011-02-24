@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:22+0200\n"
-"PO-Revision-Date: 2011-02-21 11:11+0200\n"
+"PO-Revision-Date: 2011-02-24 12:29+0200\n"
 "Last-Translator: Foroshandegan Developer's Group <info@foroshandegan.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -32,7 +32,7 @@ msgid "Title / Description"
 msgstr "عنوان/موضوع"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:210
-msgid "Blog like content for menu items."
+msgid "Blog like content for pages."
 msgstr "محتوای شبه بلاگ برای اقلام منوها"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:254
@@ -44,7 +44,7 @@ msgid "Search Engine Administration"
 msgstr "مدیریت موتور جستجو"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:312
-msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the menu under which the search module is will be used."
+msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the page under which the search module is will be used."
 msgstr "این گزینه افزونه های موجود را جهت بررسی قابلیت انجام جستجو در محتویات آنها ، مورد ارزیابی قرار می دهد.شما پس از آن قادر خواهید بود محدودیتهای مشخصی را برای جستجو در آنها نیز اعمال نمایید."
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:349

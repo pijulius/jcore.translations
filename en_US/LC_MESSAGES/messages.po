@@ -3324,10 +3324,6 @@ msgstr ""
 msgid "Edit Page"
 msgstr ""
 
-#: /home/julius/workspace/jcore/lib/sources/pages.class.php:871
-msgid "New Page"
-msgstr ""
-
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:923
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:453
 msgid "No menu blocks found."

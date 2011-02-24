@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:22+0200\n"
-"PO-Revision-Date: 2011-02-16 11:01+0200\n"
+"PO-Revision-Date: 2011-02-24 12:33+0200\n"
 "Last-Translator: Bram Kortleven <bram@bramkortleven.be>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -32,8 +32,8 @@ msgid "Title / Description"
 msgstr "Titel / Omschrijving"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:210
-msgid "Blog like content for menu items."
-msgstr "Blog-achtige inhoud voor menu items"
+msgid "Blog like content for pages."
+msgstr "Blog-achtige inhoud voor pages"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:254
 msgid "Update"
@@ -44,8 +44,8 @@ msgid "Search Engine Administration"
 msgstr "Zoek Machine Beheer"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:312
-msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the menu under which the search module is will be used."
-msgstr "Duid modules aan die doorzoekbaar moeten zijn door de Lokale Zoek machine. U kan daarvoor ook aangepaste limieten voor instellen. Indien geen geselecteerd worden alle modules doorzoekbaar en indien geen limiet opgegeven (0) wordt die van het menu waarin de zoek module zit gebruikt."
+msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the page under which the search module is will be used."
+msgstr "Duid modules aan die doorzoekbaar moeten zijn door de Lokale Zoek machine. U kan daarvoor ook aangepaste limieten voor instellen. Indien geen geselecteerd worden alle modules doorzoekbaar en indien geen limiet opgegeven (0) wordt die van het page waarin de zoek module zit gebruikt."
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:349
 msgid "No modules found."
