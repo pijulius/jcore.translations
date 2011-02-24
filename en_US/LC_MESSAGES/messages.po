@@ -4590,3 +4590,7 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:1499
 msgid "Template couldn't be activated!"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:290
+msgid "Post Keywords"
+msgstr ""
