@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-24 15:57-0500\n"
+"PO-Revision-Date: 2011-02-24 16:11-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -4587,4 +4587,12 @@ msgstr "Les articles ont été activés et sont désormais visibles publiquement
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:93
 msgid "Posts have been successfully deleted."
 msgstr "Les articles ont été supprimés."
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1499
+msgid "Template couldn't be activated!"
+msgstr "L'habillage n'a pas pu être activé !"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:290
+msgid "Post Keywords"
+msgstr "Mots-clés de l'article"
 
