@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-24 13:05+0200\n"
+"PO-Revision-Date: 2011-02-24 15:48-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -1432,11 +1432,11 @@ msgstr "Aucun article sélectionné ! Veuillez sélectionner au moins un article
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:66
 msgid "No page selected to copy and/or move posts to! Please select a page to move the posts to at the bottom of the list."
-msgstr "Aucun page sélectionné comme destination pour la copie et/ou le déplacement des articles. Veuillez sélectionné un page ci-bas."
+msgstr "Aucune page sélectionnée comme destination pour la copie et/ou le déplacement des articles. Veuillez sélectionner une page ci-bas."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:79
 msgid "The page you have selected to copy and/or move posts to does not exists. This could be happening because the page has been deleted meanwhile."
-msgstr "Le page que vous avez sélectionné pour la copie et/ou le déplacement des articles n'existe pas. Le page a pu être supprimé entre temps par un autre administrateur."
+msgstr "La page que vous avez sélectionnée pour la copie et/ou le déplacement des articles n'existe pas. La page a pu être supprimée entre temps par un autre administrateur."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:94
 #, php-format
@@ -2628,7 +2628,7 @@ msgstr "Dans les langues suivantes"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:191
 msgid "On Page(s)"
-msgstr "Sur les pages suivants"
+msgstr "Sur les pages suivantes"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:198
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:530
@@ -2704,11 +2704,11 @@ msgstr "Titre/Identifiant/Classe CSS"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:568
 msgid "Display Except on Page"
-msgstr "Afficher sauf sur le page"
+msgstr "Afficher sauf sur la page"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:569
 msgid "Display Only on Page"
-msgstr "Afficher seulement sur le page"
+msgstr "Afficher seulement sur la page"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:575
 msgid "Display Except in Language"
@@ -3086,7 +3086,7 @@ msgstr "Formulaires dynamiques"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:96
 msgid "Copy and/or Move posts from one page to another"
-msgstr "Copier et/ou déplacer des articles d'un page à un autre"
+msgstr "Copier et/ou déplacer des articles d'une page à une autre"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:99
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:129
@@ -3275,19 +3275,19 @@ msgstr "Mots-clé"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:403
 msgid "Pages have been successfully re-ordered."
-msgstr "Les éléments du page ont été réordonnés."
+msgstr "Les pages ont été réordonnées."
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:414
 msgid "Page and all its subpages have been successfully deleted."
-msgstr "L'élément et tous ses sous-pages ont été supprimés du page."
+msgstr "La page et toutes ses sous-pages ont été supprimées."
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:443
 msgid "Page cannot be subpage of itself!"
-msgstr "L'élément ne peut pas être un sous-page de lui-même !"
+msgstr "La page ne peut pas être une sous-page d'elle-même !"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:460
 msgid "Page has been successfully updated."
-msgstr "L'élément du page a été mis à jour."
+msgstr "La page a été mise à jour."
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:462
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:483
@@ -3296,12 +3296,12 @@ msgstr "Visualiser la page"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:481
 msgid "Page has been successfully created."
-msgstr "L'item de page"
+msgstr "La page a été créée."
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:588
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:816
 msgid "No pages found."
-msgstr "Aucun élément trouvé."
+msgstr "Aucune page trouvée."
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:601
 msgid "Title / Path / Link"
@@ -3333,29 +3333,29 @@ msgstr "Aucun bloc de menu trouvé."
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:924
 msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put pages in."
-msgstr "Veuillez créer au moins un bloc de menu dans lequel ajouter l'élément en vous rendant à Admin -> Habillage du site et fonctionnalités -> Blocs de menu."
+msgstr "Veuillez créer au moins un bloc de menu dans lequel ajouter la page en vous rendant à Admin -> Habillage du site et fonctionnalités -> Blocs de menu."
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:1053
 #, php-format
 msgid "Page couldn't be created! Error: %s"
-msgstr "Page n'a pas pu être créé ! Erreur : %s"
+msgstr "La page n'a pas pu être créée ! Erreur : %s"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:1090
 msgid "Page successfully created but xml sitemap file couldn't be updated."
-msgstr "Page a été ajouté, mais le plan de site XML n'a pas pu être mis à jour."
+msgstr "La page a été ajoutée, mais le plan de site XML n'a pas pu être mis à jour."
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:1187
 #, php-format
 msgid "Page couldn't be updated! Error: %s"
-msgstr "Page n'a pas pu être mis à jour ! Erreur : %s"
+msgstr "La page n'a pas pu être mise à jour ! Erreur : %s"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:1312
 msgid "Page successfully updated but xml sitemap file couldn't be updated."
-msgstr "Page a été mis à jour, mais le plan de site XML n'a pas pu être mis à jour."
+msgstr "La page a été mise à jour, mais le plan de site XML n'a pas pu être mis à jour."
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:1366
 msgid "Page successfully deleted but xml sitemap file couldn't be updated."
-msgstr "Page a été supprimé, mais le plan de site XML n'a pas pu être mis à jour."
+msgstr "La page a été supprimée, mais le plan de site XML n'a pas pu être mis à jour."
 
 #: /home/julius/workspace/jcore/lib/sources/settings.class.php:53
 msgid "Settings have been successfully updated but the template.js file couldn't be updated."
@@ -4382,7 +4382,7 @@ msgstr "Gestion du plan de site XML"
 #: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:86
 #, php-format
 msgid "This file (%s) gets updated automatically every time you create / edit / delete a page but you can regenerate or modify it manually below."
-msgstr "Ce fichier (%s) est mis à jour automatiquement chaque fois que vous créez/modifiez/supprimez un nouvel page, mais vous pouvez le regénérer ou le modifier manuellement ci-bas."
+msgstr "Ce fichier (%s) est mis à jour automatiquement chaque fois que vous créez/modifiez/supprimez une nouvelle page, mais vous pouvez le regénérer ou le modifier manuellement ci-bas."
 
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:69
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:635
