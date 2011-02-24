@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-24 15:48-0500\n"
+"PO-Revision-Date: 2011-02-24 15:57-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -2160,7 +2160,7 @@ msgstr "Aucun commentaire actuellement."
 
 #: /home/julius/workspace/jcore/lib/sources/form.class.php:231
 msgid "Enter the code shown in the image"
-msgstr "Entrez le code affiché à droite"
+msgstr "Entrez le code affiché dans l'image"
 
 #: /home/julius/workspace/jcore/lib/sources/form.class.php:253
 msgid "Security Image"
