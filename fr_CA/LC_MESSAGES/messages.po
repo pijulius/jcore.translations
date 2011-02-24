@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-24 12:31+0200\n"
+"PO-Revision-Date: 2011-02-24 13:05+0200\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -4562,7 +4562,7 @@ msgstr "Créer/modifier des articles rapidement"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
 msgid "Posts at Glance"
-msgstr "Articles sur le pouce"
+msgstr "Aperçu des articles"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:33
 msgid "Page"
