@@ -4594,3 +4594,7 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:290
 msgid "Post Keywords"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:Global Settings
+msgid "Instant User Registration"
+msgstr ""
