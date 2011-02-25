@@ -4595,6 +4595,74 @@ msgstr ""
 msgid "Post Keywords"
 msgstr ""
 
-#: /home/julius/workspace/jcore/lib/sources/settings.class.php:Global Settings
+#: Global settings
 msgid "Instant User Registration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:266
+msgid "Manage user groups, set group permissions"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:269
+msgid "User Groups"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:26
+msgid "New Group"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:44
+msgid "Group Name"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:49
+msgid "e.g. Editor"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:70
+msgid "Group has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:84
+msgid "Group has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:97
+msgid "Group has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:112
+msgid "Group"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:255
+msgid "User Groups Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:280
+msgid "Edit Group"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:281
+msgid "New Group"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:320
+msgid "No groups found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:360
+msgid "Group \"%s\" already exists."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:373
+msgid "Group couldn't be created! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:413
+msgid "Group couldn't be updated! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergrouppermissions.class.php:30
+msgid "Group Permissions"
 msgstr ""
