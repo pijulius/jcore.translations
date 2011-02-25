@@ -867,7 +867,7 @@ msgid "Edit Permission"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:519
-msgid "No user permissions found."
+msgid "No permissions found."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:561

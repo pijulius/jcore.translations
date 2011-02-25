@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-24 12:34+0200\n"
+"PO-Revision-Date: 2011-02-25 18:42+0200\n"
 "Last-Translator: Soreen <soreen@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -863,8 +863,8 @@ msgid "Edit Permission"
 msgstr "Editaţi permisiuni"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:519
-msgid "No user permissions found."
-msgstr "Nu sunt definite permisiunile pentru utilizatori."
+msgid "No permissions found."
+msgstr "Nu sunt permisiuni definite."
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:561
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:605
