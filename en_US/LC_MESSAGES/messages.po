@@ -4608,6 +4608,7 @@ msgid "User Groups"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:26
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:281
 msgid "New Group"
 msgstr ""
 

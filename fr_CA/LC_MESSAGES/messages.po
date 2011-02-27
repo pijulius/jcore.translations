@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-24 16:11-0500\n"
+"PO-Revision-Date: 2011-02-26 17:13-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -868,7 +868,7 @@ msgid "Edit Permission"
 msgstr "Modifier la permission"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:519
-msgid "No user permissions found."
+msgid "No permissions found."
 msgstr "Aucune permission accordée."
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:561
@@ -4595,4 +4595,73 @@ msgstr "L'habillage n'a pas pu être activé !"
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:290
 msgid "Post Keywords"
 msgstr "Mots-clés de l'article"
+
+#: Global settings
+msgid "Instant User Registration"
+msgstr "Enregistrement instantané d'un utilisateur"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:266
+msgid "Manage user groups, set group permissions"
+msgstr "Gérez les groupes utilisateurs et définissez les permissions"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:269
+msgid "User Groups"
+msgstr "Groupes utilisateurs"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:26
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:281
+msgid "New Group"
+msgstr "Nouveau groupe"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:44
+msgid "Group Name"
+msgstr "Nom du groupe"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:49
+msgid "e.g. Editor"
+msgstr "ex. : éditeur"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:70
+msgid "Group has been successfully deleted."
+msgstr "Le groupe a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:84
+msgid "Group has been successfully updated."
+msgstr "Le groupe a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:97
+msgid "Group has been successfully created."
+msgstr "Le groupe a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:112
+msgid "Group"
+msgstr "Groupe"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:255
+msgid "User Groups Administration"
+msgstr "Gestion des groupes utilisateurs"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:280
+msgid "Edit Group"
+msgstr "Modifier le groupe"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:320
+msgid "No groups found."
+msgstr "Aucun groupe trouvé"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:360
+msgid "Group \"%s\" already exists."
+msgstr "Le groupe \"%s\" existe déjà."
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:373
+msgid "Group couldn't be created! Error: %s"
+msgstr "Le groupe n'a pas pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:413
+msgid "Group couldn't be updated! Error: %s"
+msgstr "Le groupe n'a pas pu être mis à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/usergrouppermissions.class.php:30
+msgid "Group Permissions"
+msgstr "Permissions du groupe"
 
