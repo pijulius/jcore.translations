@@ -4643,10 +4643,6 @@ msgstr ""
 msgid "Edit Group"
 msgstr ""
 
-#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:281
-msgid "New Group"
-msgstr ""
-
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:320
 msgid "No groups found."
 msgstr ""
