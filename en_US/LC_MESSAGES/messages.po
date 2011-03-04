@@ -4663,3 +4663,11 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/usergrouppermissions.class.php:30
 msgid "Group Permissions"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:157
+msgid "Select Locale"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:293
+msgid "Available Locales"
+msgstr ""
