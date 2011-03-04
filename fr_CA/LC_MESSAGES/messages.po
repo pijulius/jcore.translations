@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-26 17:13-0500\n"
+"PO-Revision-Date: 2011-03-04 17:23-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -4664,4 +4664,12 @@ msgstr "Le groupe n'a pas pu être mis à jour ! Erreur : %s"
 #: /home/julius/workspace/jcore/lib/sources/usergrouppermissions.class.php:30
 msgid "Group Permissions"
 msgstr "Permissions du groupe"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:157
+msgid "Select Locale"
+msgstr "Sélectionner une localisation"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:293
+msgid "Available Locales"
+msgstr "Localisations disponibles"
 
