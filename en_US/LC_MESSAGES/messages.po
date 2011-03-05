@@ -4671,3 +4671,11 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/languages.class.php:293
 msgid "Available Locales"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:106
+msgid "Auto Response Options"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:111
+msgid "Send Auto Response"
+msgstr ""
