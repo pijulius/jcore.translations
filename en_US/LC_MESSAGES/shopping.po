@@ -1853,3 +1853,7 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4353
 msgid "Most Viewed Products"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2476
+msgid "Order originated from"
+msgstr ""
