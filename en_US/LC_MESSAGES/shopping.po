@@ -1857,3 +1857,19 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2476
 msgid "Order originated from"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:111
+msgid "Credit Card Payment (Ogone)"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:112
+msgid "An extra step will be required trough Ogone.com"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1501
+msgid "Ogone"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1510
+msgid "User redirected to ogone, payment is being processed."
+msgstr ""
