@@ -4679,3 +4679,15 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:111
 msgid "Send Auto Response"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:188
+msgid "Locale File"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:198
+msgid "Select File"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:307
+msgid "Available Locale Files"
+msgstr ""
