@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:20+0200\n"
-"PO-Revision-Date: 2011-02-16 13:11-0500\n"
+"PO-Revision-Date: 2011-03-10 21:59-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:14
 msgid "Photo Gallery"
-msgstr "Gallerie photo"
+msgstr "Galerie photo"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:15
 msgid "Share pictures / photos in a directory like structure"
@@ -29,7 +29,7 @@ msgstr "Partager des images/photos selon une structure de dossiers"
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:553
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:582
 msgid "Gallery"
-msgstr "gallerie"
+msgstr "galerie"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:137
 msgid "No picture selected to download!"
@@ -52,11 +52,11 @@ msgstr "Impossible d'obtenir la liste des photos. Erreur : %s"
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:900
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1812
 msgid "New Gallery"
-msgstr "Nouvelle gallerie"
+msgstr "Nouvelle galerie"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:920
 msgid "Sub Gallery of"
-msgstr "Sous-gallerie de"
+msgstr "Sous-galerie de"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:940
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1626
@@ -74,7 +74,7 @@ msgstr "Afficher la prévisualisation"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:962
 msgid "(will show the latest picture as icon)"
-msgstr "(utilisera la dernière photo en icône pour la gallerie)"
+msgstr "(utilisera la dernière photo en icône pour la galerie)"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:967
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1631
@@ -83,7 +83,7 @@ msgstr "Afficher les icônes"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:974
 msgid "(display icons when gallery selected)"
-msgstr "(affiche les icône lorsque la gallerie est sélectionnée)"
+msgstr "(affiche les icône lorsque la galerie est sélectionnée)"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:984
 msgid "Picasa Options"
@@ -239,15 +239,15 @@ msgstr "Afficher aux non-membres"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1285
 msgid "Galleries have been successfully re-ordered."
-msgstr "Les galleries ont été réordonnées."
+msgstr "Les galeries ont été réordonnées."
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1296
 msgid "Gallery has been successfully deleted."
-msgstr "La gallerie a été supprimée."
+msgstr "La galerie a été supprimée."
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1309
 msgid "Gallery cannot be subgallery of itself!"
-msgstr "La gallerie ne peut pas être une sous-gallerie d'elle-même !"
+msgstr "La galerie ne peut pas être une sous-galerie d'elle-même !"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1335
 msgid "Picasa API URL"
@@ -255,16 +255,16 @@ msgstr "URL de l'API Picasa"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1348
 msgid "Gallery has been successfully updated."
-msgstr "La gallerie a été mise à jour."
+msgstr "La galerie a été mise à jour."
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1352
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1372
 msgid "View Gallery"
-msgstr "Voir la gallerie"
+msgstr "Voir la galerie"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1368
 msgid "Gallery has been successfully created."
-msgstr "La gallerie a été créée."
+msgstr "La galerie a été créée."
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1406
 msgid "Icon"
@@ -316,25 +316,25 @@ msgstr "Ordonner les photos Picasa par"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1783
 msgid "Photo Gallery Administration"
-msgstr "Gestion de la gallerie photo"
+msgstr "Gestion de la galerie photo"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1811
 msgid "Edit Gallery"
-msgstr "Modifier la gallerie"
+msgstr "Modifier la galerie"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1861
 msgid "No galleries found."
-msgstr "Aucune gallerie trouvée."
+msgstr "Aucune galerie trouvée."
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1995
 #, php-format
 msgid "Gallery couldn't be created! Error: %s"
-msgstr "La gallerie n'a pas pu être créée ! Erreur : %s"
+msgstr "La galerie n'a pas pu être créée ! Erreur : %s"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2115
 #, php-format
 msgid "Gallery couldn't be updated! Error: %s"
-msgstr "La gallerie n'a pas pu être mise à jour ! Erreur : %s"
+msgstr "La galerie n'a pas pu être mise à jour ! Erreur : %s"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2273
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2286
@@ -347,7 +347,7 @@ msgstr "Cette section est limitée aux membres seulement. Veuillez vous connecte
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2576
 msgid "Pictures / Galleries"
-msgstr "Photos/Galleries"
+msgstr "Photos/Galeries"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2577
 msgid "Pictures"

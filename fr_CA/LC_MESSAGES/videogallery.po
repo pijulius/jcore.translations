@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 21:56+0200\n"
-"PO-Revision-Date: 2011-02-16 13:12-0500\n"
+"PO-Revision-Date: 2011-03-10 22:07-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:14
 msgid "Video Gallery"
-msgstr "Gallerie vidéo"
+msgstr "Galerie vidéo"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:15
 msgid "Share videos in a directory like structure"
@@ -29,7 +29,7 @@ msgstr "Partager des vidéos selon une structure de dossiers"
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:603
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:632
 msgid "Gallery"
-msgstr "gallerie"
+msgstr "galerie"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:126
 msgid "No video selected!"
@@ -63,7 +63,7 @@ msgstr "Paramètres"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:974
 msgid "Sub Gallery of"
-msgstr "Sous-gallerie de"
+msgstr "Sous-galerie de"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:994
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1615
@@ -81,7 +81,7 @@ msgstr "Afficher la prévisualisation"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1015
 msgid "(will show the latest video as icon)"
-msgstr "(utilisera la dernière vidéo en icône pour la gallerie)"
+msgstr "(utilisera la dernière vidéo en icône pour la galerie)"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1019
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1605
@@ -90,7 +90,7 @@ msgstr "Afficher les icônes"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1026
 msgid "(display icons when gallery selected)"
-msgstr "(affiche les icône lorsque la gallerie est sélectionnée)"
+msgstr "(affiche les icône lorsque la galerie est sélectionnée)"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1036
 msgid "YouTube Options"
@@ -293,28 +293,28 @@ msgstr "Afficher aux non-membres"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1337
 msgid "Galleries have been successfully re-ordered."
-msgstr "Les galleries ont été réordonnées."
+msgstr "Les galeries ont été réordonnées."
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1348
 msgid "Gallery has been successfully deleted."
-msgstr "La gallerie a été supprimée."
+msgstr "La galerie a été supprimée."
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1361
 msgid "Gallery cannot be subgallery of itself!"
-msgstr "La gallerie ne peut pas être une sous-gallerie d'elle-même !"
+msgstr "La galerie ne peut pas être une sous-galerie d'elle-même !"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1400
 msgid "Gallery has been successfully updated."
-msgstr "La gallerie a été mise à jour."
+msgstr "La galerie a été mise à jour."
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1404
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1424
 msgid "View Gallery"
-msgstr "Voir la gallerie"
+msgstr "Voir la galerie"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1420
 msgid "Gallery has been successfully created."
-msgstr "La gallerie a été créée."
+msgstr "La galerie a été créée."
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1458
 msgid "Icon"
@@ -354,29 +354,29 @@ msgstr "Ordonner les vidéos YouTube par"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1812
 msgid "Video Gallery Administration"
-msgstr "Gestion de la gallerie vidéo"
+msgstr "Gestion de la galerie vidéo"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1840
 msgid "Edit Gallery"
-msgstr "Modifier la gallerie"
+msgstr "Modifier la galerie"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1841
 msgid "New Gallery"
-msgstr "Nouvelle gallerie"
+msgstr "Nouvelle galerie"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1890
 msgid "No galleries found."
-msgstr "Aucune gallerie trouvée."
+msgstr "Aucune galerie trouvée."
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2016
 #, php-format
 msgid "Gallery couldn't be created! Error: %s"
-msgstr "La gallerie n'a pas pu être créée ! Erreur : %s"
+msgstr "La galerie n'a pas pu être créée ! Erreur : %s"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2126
 #, php-format
 msgid "Gallery couldn't be updated! Error: %s"
-msgstr "La gallerie n'a pas pu être mise à jour ! Erreur : %s"
+msgstr "La galerie n'a pas pu être mise à jour ! Erreur : %s"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2277
 msgid "Directory couldn't be protected!"
@@ -388,5 +388,5 @@ msgstr "Cette section est limitée aux membres seulement. Veuillez vous connecte
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2560
 msgid "Videos / Galleries"
-msgstr "Vidéos/Galleries"
+msgstr "Vidéos/Galeries"
 
