@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-03-11 19:38-0500\n"
+"PO-Revision-Date: 2011-03-12 13:11-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -1040,7 +1040,7 @@ msgstr "Modifier le champ"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:729
 msgid "Preview Dynamic Form"
-msgstr "Prévisualisation du formualire"
+msgstr "Prévisualisation du formulaire"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:752
 msgid "No form fields found."
