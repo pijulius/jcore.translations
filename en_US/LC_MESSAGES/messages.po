@@ -4691,3 +4691,7 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:307
 msgid "Available Locale Files"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:299
+msgid "Display Form(s)"
+msgstr ""
