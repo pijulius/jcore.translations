@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-02-16 13:18-0500\n"
+"PO-Revision-Date: 2011-03-11 19:38-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -270,7 +270,7 @@ msgstr "Une étape supplémentaire sera requise via AlertPay.com"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:97
 msgid "Credit Card Payment (Authorize.net)"
-msgstr "Paiement par "
+msgstr "Paiement par carte de crédit (Authorize.net)"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:98
 msgid "An extra step will be required trough Authorize.net"
@@ -1853,4 +1853,24 @@ msgstr "Meilleurs vendeurs"
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4353
 msgid "Most Viewed Products"
 msgstr "Articles les plus vus"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2476
+msgid "Order originated from"
+msgstr "Commande provenant de"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:111
+msgid "Credit Card Payment (Ogone)"
+msgstr "Paiement par carte de crédit (Ogone)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:112
+msgid "An extra step will be required trough Ogone.com"
+msgstr "Une étape supplémentaire sera requise via Ogone.com"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1501
+msgid "Ogone"
+msgstr "Ogone"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1510
+msgid "User redirected to ogone, payment is being processed."
+msgstr "L'utilisateur a été redirigé vers Ogone, le paiement est en cours de traitement."
 
