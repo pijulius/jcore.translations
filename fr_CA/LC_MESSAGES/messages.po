@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-03-12 13:11-0500\n"
+"PO-Revision-Date: 2011-03-14 14:25-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -57,7 +57,7 @@ msgid "Thumbnail Height"
 msgstr "Hauteur de la miniature"
 
 msgid "Thumbnail Width"
-msgstr "Lageur de la miniature"
+msgstr "Largeur de la miniature"
 
 msgid "Watermark"
 msgstr "Filigrane"
@@ -288,7 +288,7 @@ msgstr "ex. : fr_CA"
 #: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:45
 #: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:240
 msgid "Additional Options"
-msgstr "Options aditionnelles"
+msgstr "Options additionnelles"
 
 #: /home/julius/workspace/jcore/lib/sources/languages.class.php:148
 #: /home/julius/workspace/jcore/lib/sources/languages.class.php:287
