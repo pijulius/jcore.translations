@@ -1873,3 +1873,7 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1510
 msgid "User redirected to ogone, payment is being processed."
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3887
+msgid "Item option \"%s\" is required for \"%s\"!"
+msgstr ""
