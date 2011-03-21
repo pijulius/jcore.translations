@@ -4496,3 +4496,202 @@ msgstr "Geen video geselecteerd!"
 msgid "The selected video cannot be found!"
 msgstr "De geselecteerde video kon niet gevonden worden!"
 
+#: Changes in 0.8
+#: ---------------
+
+#: /home/julius/workspace/jcore/lib/sources/requests.class.php:158
+msgid "Invalid or not enough permission to access this request!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:252
+msgid "All"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:137
+msgid "Select User"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:181
+msgid "User \"%s\" couldn't be found!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:183
+msgid "Please make sure you have entered / selected the right username or if it's a new user please first create the user at Member Management -> Users."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:756
+msgid "Nothing to store! Please define some fields for your form and make sure their Value Types are set."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:64
+msgid "Author"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:70
+msgid "Version"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:716
+msgid "Export current template as an installable template package"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:719
+msgid "Export Template"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:177
+msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:192
+msgid "Template Details"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:198
+msgid "Export"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:124
+msgid "Template has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:76
+msgid "Quickly create / modify posts"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
+msgid "Posts at Glance"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:33
+msgid "Page"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:26
+msgid "Post to Page"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:56
+msgid "No posts selected! Please select at least one post."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:69
+msgid "Posts have been successfully deactivated and are now NOT visible to the public."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:81
+msgid "Posts have been successfully activated and are now visible to the public."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:93
+msgid "Posts have been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1499
+msgid "Template couldn't be activated!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:290
+msgid "Post Keywords"
+msgstr ""
+
+#: Global settings
+msgid "Instant User Registration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:266
+msgid "Manage user groups, set group permissions"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:269
+msgid "User Groups"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:26
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:281
+msgid "New Group"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:44
+msgid "Group Name"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:49
+msgid "e.g. Editor"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:70
+msgid "Group has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:84
+msgid "Group has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:97
+msgid "Group has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:112
+msgid "Group"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:255
+msgid "User Groups Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:280
+msgid "Edit Group"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:320
+msgid "No groups found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:360
+msgid "Group \"%s\" already exists."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:373
+msgid "Group couldn't be created! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:413
+msgid "Group couldn't be updated! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergrouppermissions.class.php:30
+msgid "Group Permissions"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:157
+msgid "Select Locale"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:293
+msgid "Available Locales"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:106
+msgid "Auto Response Options"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:111
+msgid "Send Auto Response"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:188
+msgid "Locale File"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:198
+msgid "Select File"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:307
+msgid "Available Locale Files"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:299
+msgid "Display Form(s)"
+msgstr ""

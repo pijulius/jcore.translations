@@ -1874,3 +1874,6 @@ msgstr "Ogone"
 msgid "User redirected to ogone, payment is being processed."
 msgstr "L'utilisateur a été redirigé vers Ogone, le paiement est en cours de traitement."
 
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3887
+msgid "Item option \"%s\" is required for \"%s\"!"
+msgstr ""
