@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-03-11 19:38-0500\n"
+"PO-Revision-Date: 2011-03-21 15:49-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -1876,4 +1876,5 @@ msgstr "L'utilisateur a été redirigé vers Ogone, le paiement est en cours de 
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3887
 msgid "Item option \"%s\" is required for \"%s\"!"
-msgstr ""
+msgstr "L'option \"%s\" est requise pour l'article \"%s\" !"
+
