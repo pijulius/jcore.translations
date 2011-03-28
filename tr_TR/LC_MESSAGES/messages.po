@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 19:22+0200\n"
-"PO-Revision-Date: 2011-02-25 18:42+0200\n"
+"PO-Revision-Date: 2011-03-25 10:35+0200\n"
 "Last-Translator: Erkan <bravehearterkan@hotmail.com>\n"
 "Language-Team: jCore-Turkish <bravehearterkan@hotmail.com>\n"
 "Language: \n"
@@ -4501,200 +4501,200 @@ msgstr "Seçilen video bulunamadı!"
 
 #: Changes in 0.8
 #: ---------------
-
 #: /home/julius/workspace/jcore/lib/sources/requests.class.php:158
 msgid "Invalid or not enough permission to access this request!"
-msgstr ""
+msgstr "Bu isteğe erişmek için izniniz geçersiz veya yok!"
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:252
 msgid "All"
-msgstr ""
+msgstr "Hepsi"
 
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:137
 msgid "Select User"
-msgstr ""
+msgstr "Kullanıcı Seç"
 
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:181
 msgid "User \"%s\" couldn't be found!"
-msgstr ""
+msgstr "Kullanıcı \"%s\" bulunamadı!"
 
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:183
 msgid "Please make sure you have entered / selected the right username or if it's a new user please first create the user at Member Management -> Users."
-msgstr ""
+msgstr "Lütfen doğru kullanıcı adı seçtiğinize / belirttiğinize emin olunuz eğer yeni bir kullanıcı ise öncelikle Kullanıcı Yönetimi, Kullanıcılar bölümünden kullanıcı oluşturunuz."
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:756
 msgid "Nothing to store! Please define some fields for your form and make sure their Value Types are set."
-msgstr ""
+msgstr "Kaydedilecek birşey yok. Lütfen formunuz için bazı alanları tanımlayınız ve Tür Değerleriniz giriniz."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:64
 msgid "Author"
-msgstr ""
+msgstr "Yazar"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:70
 msgid "Version"
-msgstr ""
+msgstr "Versiyon"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:716
 msgid "Export current template as an installable template package"
-msgstr ""
+msgstr "Mevcut temayı yüklenebilir tema paketi olarak dışarı çıkar"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:719
 msgid "Export Template"
-msgstr ""
+msgstr "Temayı Dışarı Çıkar"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:177
 msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
-msgstr ""
+msgstr "Alttaki formu doldurarak mevcut tüm değişikliklerinizi mevcut \"<b>%s</b>\"  teması olarak yüklenebilir tema paketi halinda çıkarabilir ve farklı sitelere yükleyebilirsiniz. Bu paket görünüm blokları, resimler css, js, yazı tipleri ve özel dizinleri içerir."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:192
 msgid "Template Details"
-msgstr ""
+msgstr "Tema Detayları"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:198
 msgid "Export"
-msgstr ""
+msgstr "Dışarı Çıkar"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:124
 msgid "Template has been successfully created."
-msgstr ""
+msgstr "Tema başarıyla oluşturuldu."
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:76
 msgid "Quickly create / modify posts"
-msgstr ""
+msgstr "Mesajları hızla oluşturmak / değiştirmek"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
 msgid "Posts at Glance"
-msgstr ""
+msgstr "Mesajlara Göz At"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:33
 msgid "Page"
-msgstr ""
+msgstr "Sayfa"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:26
 msgid "Post to Page"
-msgstr ""
+msgstr "Mesajları Sayfa"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:56
 msgid "No posts selected! Please select at least one post."
-msgstr ""
+msgstr "Hiçbir mesaj seçmediniz! En az bir mesaj seçiniz."
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:69
 msgid "Posts have been successfully deactivated and are now NOT visible to the public."
-msgstr ""
+msgstr "Mesajları başarıyla devre dışı artık herkes tarafından görülebilir DEĞİLDİR."
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:81
 msgid "Posts have been successfully activated and are now visible to the public."
-msgstr ""
+msgstr "Mesajları başarıyla aktif edildi şimdi herkes görebilir."
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:93
 msgid "Posts have been successfully deleted."
-msgstr ""
+msgstr "Mesajlar başarıyla silindi."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:1499
 msgid "Template couldn't be activated!"
-msgstr ""
+msgstr "Tema aktifleştirilemedi!"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:290
 msgid "Post Keywords"
-msgstr ""
+msgstr "Mesaj Anahtar Kelimeleri"
 
 #: Global settings
 msgid "Instant User Registration"
-msgstr ""
+msgstr "Anlık Kullanıcı Kaydı"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:266
 msgid "Manage user groups, set group permissions"
-msgstr ""
+msgstr "Kullanıcı gruplarını yönetme ve grup izinlerini ayarlamak"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:269
 msgid "User Groups"
-msgstr ""
+msgstr "Kullanıcı Grupları"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:26
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:281
 msgid "New Group"
-msgstr ""
+msgstr "Yeni Grup"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:44
 msgid "Group Name"
-msgstr ""
+msgstr "Grup Adı"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:49
 msgid "e.g. Editor"
-msgstr ""
+msgstr "örneğin: Editör"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:70
 msgid "Group has been successfully deleted."
-msgstr ""
+msgstr "Grup başarıyla silindi."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:84
 msgid "Group has been successfully updated."
-msgstr ""
+msgstr "Grup başarıyla güncellendi."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:97
 msgid "Group has been successfully created."
-msgstr ""
+msgstr "Grup başarıyla yaratıldı."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:112
 msgid "Group"
-msgstr ""
+msgstr "Grup"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:255
 msgid "User Groups Administration"
-msgstr ""
+msgstr "Kullanıcı Grupları Yönetimi"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:280
 msgid "Edit Group"
-msgstr ""
+msgstr "Grubu Düzenle"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:320
 msgid "No groups found."
-msgstr ""
+msgstr "Grup bulunamadı."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:360
 msgid "Group \"%s\" already exists."
-msgstr ""
+msgstr "Grup \"%s\" zaten var."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:373
 msgid "Group couldn't be created! Error: %s"
-msgstr ""
+msgstr "Grup oluşturulamadı! Hata: %s"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:413
 msgid "Group couldn't be updated! Error: %s"
-msgstr ""
+msgstr "Grup güncellenemedi! Hata: %s"
 
 #: /home/julius/workspace/jcore/lib/sources/usergrouppermissions.class.php:30
 msgid "Group Permissions"
-msgstr ""
+msgstr "Grup İzinleri"
 
 #: /home/julius/workspace/jcore/lib/sources/languages.class.php:157
 msgid "Select Locale"
-msgstr ""
+msgstr "Yerel Seçimi"
 
 #: /home/julius/workspace/jcore/lib/sources/languages.class.php:293
 msgid "Available Locales"
-msgstr ""
+msgstr "Mevcut Yereller"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:106
 msgid "Auto Response Options"
-msgstr ""
+msgstr "Otomatik Yanıt Seçenekleri"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:111
 msgid "Send Auto Response"
-msgstr ""
+msgstr "Otomatik Yanıt Gönder"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:188
 msgid "Locale File"
-msgstr ""
+msgstr "Yerel Dosya"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:198
 msgid "Select File"
-msgstr ""
+msgstr "Dosya Seç"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:307
 msgid "Available Locale Files"
-msgstr ""
+msgstr "Mevcut Yerel Dosyalar"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:299
 msgid "Display Form(s)"
-msgstr ""
+msgstr "Formları Göster"
+
