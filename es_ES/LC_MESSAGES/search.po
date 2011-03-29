@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:22+0200\n"
-"PO-Revision-Date: 2011-03-29 10:25-0500\n"
+"PO-Revision-Date: 2011-03-29 23:11+0200\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -32,8 +32,8 @@ msgid "Title / Description"
 msgstr "Título / Descripción"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:210
-msgid "Blog like content for menu items."
-msgstr "Blog como el contenido de los elementos de menú."
+msgid "Blog like content for pages."
+msgstr "Blog como el contenido de los páginas."
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:254
 msgid "Update"
@@ -44,8 +44,8 @@ msgid "Search Engine Administration"
 msgstr "Administración de Motor de Búsqueda"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:312
-msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the menu under which the search module is will be used."
-msgstr "Compruebe que los módulos deben ser consultada por el Local Search Engine y usted también puede definir los límites de costumbre para ellos. Por defecto, si no comprueba todos los módulos se podrán realizar búsquedas y si no hay límite definido (0) el uno para el menú con el que se va el módulo de búsqueda se utiliza."
+msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the page under which the search module is will be used."
+msgstr "Compruebe que los módulos deben ser consultada por el Local Search Engine y usted también puede definir los límites de costumbre para ellos. Por defecto, si no comprueba todos los módulos se podrán realizar búsquedas y si no hay límite definido (0) el uno para el página con el que se va el módulo de búsqueda se utiliza."
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:349
 msgid "No modules found."

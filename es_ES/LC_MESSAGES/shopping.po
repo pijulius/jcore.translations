@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: jCore 0.7.1\n"
+"Project-Id-Version: jCore 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-03-29 10:25-0500\n"
+"PO-Revision-Date: 2011-03-29 23:11+0200\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -381,7 +381,7 @@ msgid "Order"
 msgstr "Orden"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1576
-msgid "Order item couldn't be added to the db! Please contact us with this error asap."
+msgid "Order item couldn't be added to the db! Please contact us with this error as soon as possible."
 msgstr "Orden tema no podía ser añadido a la base de datos! Póngase en contacto con nosotros con este error lo antes posible."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1616
@@ -584,22 +584,13 @@ msgstr "Pedido ha sido actualizado correctamente."
 msgid "We are sorry for the inconvenience but it seems this order method doesn't have order processing capabilities. Please choose a different order method or contact webmaster."
 msgstr "Pedimos disculpas por las molestias, pero parece que este método para no tener la capacidad de procesamiento de pedidos. Por favor, elija un método diferente orden o contacto con el webmaster."
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2775
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:232
-msgid "Username couldn't be found!"
-msgstr "Nombre de usuario no se ha encontrado!"
-
-#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2776
-msgid "Please make sure you have entered / selected the right username or if you wish to add this order to a new user please first create the user at Member Management -> Users."
-msgstr "Por favor, asegúrese de que ha introducido o seleccionado el nombre de usuario correcto o si desea añadir este fin a un nuevo usuario por favor, primero debe crear el usuario en miembro Administración -> Usuarios."
-
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2815
 msgid "No items added / selected for this order! Please select / add at least one item for the new order to proceed."
 msgstr "No hay elementos añadidos seleccionados para este fin! Por favor, seleccione / agregar al menos un punto para el nuevo orden de proceder."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2892
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2625
-msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number asap."
+msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number as soon as possible."
 msgstr "Hubo algunos errores al procesar su solicitud (algunos elementos no se podrían añadir a su orden). Póngase en contacto con nosotros con este error y su número de pedido lo antes posible."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2902
@@ -666,7 +657,7 @@ msgid "No orders found."
 msgstr "No hay órdenes que se encuentran."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3735
-msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error asap."
+msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error as soon as possible."
 msgstr "Pedimos disculpas por las molestias, pero la orden no se podría agregar a la base de datos. Póngase en contacto con nosotros con este error lo antes posible."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3760
@@ -742,7 +733,7 @@ msgid "IMPORTANT: payment has been cancelled so shipment should be cancelled too
 msgstr "IMPORTANTE: El pago ha sido cancelado para el envío debe ser cancelado también!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4030
-msgid "IMPORTANT: do NOT ship any goods till payment has been confirmed / processed!"
+msgid "IMPORTANT: do NOT ship any goods until payment has been confirmed / processed!"
 msgstr "IMPORTANTE: No enviamos las mercancías hasta el pago ha sido confirmado / procesados!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4078
@@ -754,7 +745,7 @@ msgid "You can access / download your digital goods at:"
 msgstr "Puede acceder y descargar sus mercancías digitales en:"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4284
-msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait till we receive the confirmation for your payment."
+msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait until we receive the confirmation for your payment."
 msgstr "Su pago está pendiente. Para acceder a los productos digitales por favor completar sus pagos por debajo o esperar hasta que recibamos la confirmación de su pago."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4324
@@ -786,7 +777,7 @@ msgid "Awaiting payment deposit!"
 msgstr "En espera de depósito de pago!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4507
-msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes till we receive the confirmation, otherwise please click on the button below."
+msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes until we receive the confirmation, otherwise please click on the button below."
 msgstr "Parece que el pago no ha sido procesado aún o no ha finalizado el pago. Si usted seguro de que el pago ha sido procesado por favor, espere unos minutos más hasta que recibamos la confirmación, de lo contrario haz clic en el botón de abajo."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4531
@@ -1343,10 +1334,6 @@ msgstr "Las prioridades se han fijado con éxito."
 msgid "Discount has been successfully deleted."
 msgstr "Descuento ha sido eliminado correctamente."
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:233
-msgid "Please make sure you have entered / selected the right username or if you wish to add this discount to a new user please first create the user at Member Management -> Users."
-msgstr "Por favor, asegúrese de que ha introducido / seleccionado el nombre de usuario correcto o si desea agregar esta oferta a un nuevo usuario por favor, primero debe crear el usuario en miembro Administración -> Usuarios."
-
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:250
 msgid "Discount has been successfully updated."
 msgstr "Descuento se ha actualizado correctamente."
@@ -1831,4 +1818,62 @@ msgstr "<b>Pedido límite:</b> Usted debe adquirir al menos% s artículo (s) par
 #, php-format
 msgid "<b>Checkout Limit:</b> You must purchase item(s) for at least %s to complete your checkout."
 msgstr "<b>Pedido límite:</b> Usted debe comprar este artículo (s) durante al menos %s para completar su compra."
+
+#: Changes in 0.8
+#: ---------------
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3787
+msgid "Handle pending and processing orders"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3790
+msgid "New Orders"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3806
+msgid "Lookup and update processed orders"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3885
+msgid "Sales"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3899
+msgid "Start / End Date"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4195
+msgid "Products"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4197
+msgid "Bestsellers"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4353
+msgid "Most Viewed Products"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2476
+msgid "Order originated from"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:111
+msgid "Credit Card Payment (Ogone)"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:112
+msgid "An extra step will be required trough Ogone.com"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1501
+msgid "Ogone"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1510
+msgid "User redirected to ogone, payment is being processed."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3887
+msgid "Item option \"%s\" is required for \"%s\"!"
+msgstr ""
 

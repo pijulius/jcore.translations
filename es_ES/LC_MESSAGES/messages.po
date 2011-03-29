@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: jCore 0.7.1\n"
+"Project-Id-Version: jCore 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-03-29 10:20-0500\n"
+"PO-Revision-Date: 2011-03-29 23:11+0200\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -790,8 +790,8 @@ msgstr "(Registros afectados: %s)"
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:49
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:89
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:92
-msgid "e.g. admin/content/menuitems/1/posts"
-msgstr "por ejm. admin/content/menuitems/1/posts"
+msgid "e.g. admin/content/pages/1/posts"
+msgstr "por ejm. admin/content/pages/1/posts"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:57
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:83
@@ -867,8 +867,8 @@ msgid "Edit Permission"
 msgstr "Edición de permisos"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:519
-msgid "No user permissions found."
-msgstr "Sin permisos de usuario que se encuentran."
+msgid "No permissions found."
+msgstr "Sin permisos que se encuentran."
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:561
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:605
@@ -1429,12 +1429,12 @@ msgid "No posts selected! Please select at least one post that you would like to
 msgstr "No hay mensajes seleccionados! Por favor, seleccione al menos un mensaje que le gustaría copiar y / o mover."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:66
-msgid "No menu selected to copy and/or move posts to! Please select a menu to move the posts to at the bottom of the list."
-msgstr "No hay menú seleccionado para copiar los mensajes y / o moverse a! Por favor, seleccione un menú para mover los puestos que en la parte inferior de la lista."
+msgid "No page selected to copy and/or move posts to! Please select a page to move the posts to at the bottom of the list."
+msgstr "No hay página seleccionado para copiar los mensajes y / o moverse a! Por favor, seleccione un página para mover los puestos que en la parte inferior de la lista."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:79
-msgid "The menu you have selected to copy and/or move posts to does not exists. This could be happening because the menu has been deleted meanwhile."
-msgstr "El menú que ha seleccionado para copiar y / o mover los mensajes a no existe. Esto podría estar ocurriendo debido a que el menú se ha eliminado su parte."
+msgid "The page you have selected to copy and/or move posts to does not exists. This could be happening because the page has been deleted meanwhile."
+msgstr "El página que ha seleccionado para copiar y / o mover los mensajes a no existe. Esto podría estar ocurriendo debido a que el página se ha eliminado su parte."
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:94
 #, php-format
@@ -2157,7 +2157,7 @@ msgid "No comments yet."
 msgstr "No hay comentarios todavía."
 
 #: /home/julius/workspace/jcore/lib/sources/form.class.php:231
-msgid "Enter the code shown on the right"
+msgid "Enter the code shown in the image"
 msgstr "Introduzca el código que se muestra a la derecha"
 
 #: /home/julius/workspace/jcore/lib/sources/form.class.php:253
@@ -2625,8 +2625,8 @@ msgid "In Language(s)"
 msgstr "En Idioma(s)"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:191
-msgid "In Menu(s)"
-msgstr "En Menú(s)"
+msgid "On Page(s)"
+msgstr "En la página(s)"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:198
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:530
@@ -2671,8 +2671,8 @@ msgstr "Actualizar ahora"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:312
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:585
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:350
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:607
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:607
 msgid "Limit"
 msgstr "Límite"
 
@@ -2701,12 +2701,12 @@ msgid "Title / Block ID / CSS Class"
 msgstr "Título / Bloque ID / Clase CSS"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:568
-msgid "Display Except in Menu"
-msgstr "Salvo en el menú de pantalla"
+msgid "Display Except on Page"
+msgstr "Salvo en el página de pantalla"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:569
-msgid "Display Only in Menu"
-msgstr "Sólo visualización en el menú"
+msgid "Display Only on Page"
+msgstr "Sólo visualización en el página"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:575
 msgid "Display Except in Language"
@@ -2774,7 +2774,7 @@ msgid "Advertisement"
 msgstr "Publicidad"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1286
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1441
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1441
 msgid "Admins"
 msgstr "Administradores"
 
@@ -3063,8 +3063,8 @@ msgid "Member Management"
 msgstr "Miembro de Gestión"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:65
-msgid "Manage the content (posts) of your site"
-msgstr "Administrar el contenido (mensajes) de su sitio"
+msgid "Manage the content (pages) of your site"
+msgstr "Administrar el contenido (páginas) de su sitio"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:75
 msgid "Upload / Add advertisements"
@@ -3083,11 +3083,11 @@ msgid "Dynamic Forms"
 msgstr "Formularios dinámicos"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:96
-msgid "Copy and/or Move posts from one menu to another"
-msgstr "Copia y / o mover mensajes de un menú a otro"
+msgid "Copy and/or Move posts from one page to another"
+msgstr "Copia y / o mover mensajes de un página a otro"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:99
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:129
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:129
 #, fuzzy
 msgid "Moving Posts"
 msgstr "Traslado de los mensajes"
@@ -3227,138 +3227,134 @@ msgstr "Regresar"
 msgid "Invalid path!"
 msgstr "Ruta no válida!"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:109
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:109
 msgid "Address Not Found"
 msgstr "Dirección no encontrada"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:125
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:125
 msgid "New Page"
 msgstr "Nueva página"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:145
-msgid "Sub Menu of"
-msgstr "Sub Menú de"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:145
+msgid "Sub Page of"
+msgstr "Sub página de"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:153
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:153
 msgid "Menu Block"
 msgstr "Menú del bloque"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:170
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:170
 msgid "Language"
 msgstr "Idioma"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:184
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:657
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:657
 msgid "Modules"
 msgstr "Módulos"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:266
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:630
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:266
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:630
 msgid "SEO Options"
 msgstr "Opciones de SEO"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:271
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:271
 msgid "Page Title"
 msgstr "Título de la página"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:277
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:277
 msgid "Description"
 msgstr "Descripción"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:283
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:283
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:390
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:731
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:2128
 msgid "Keywords"
 msgstr "Palabras clave"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:403
-msgid "Menu items have been successfully re-ordered."
-msgstr "Los elementos de menú han sido exitosamente reordenado."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:403
+msgid "Pages have been successfully re-ordered."
+msgstr "Páginas han sido exitosamente reordenado."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:414
-msgid "Menu item and all its submenus have been successfully deleted."
-msgstr "Elemento de menú y todos sus submenús se han eliminado correctamente."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:414
+msgid "Page and all its subpages have been successfully deleted."
+msgstr "Páginas y todos sus subpáginas se han eliminado correctamente."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:443
-msgid "Menu item cannot be submenu of itself!"
-msgstr "Elemento de menú no puede ser submenú de sí mismo!"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:443
+msgid "Page cannot be subpage of itself!"
+msgstr "Página no puede ser subpágina de sí mismo!"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:460
-msgid "Menu item has been successfully updated."
-msgstr "elemento del menú se ha actualizado correctamente."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:460
+msgid "Page has been successfully updated."
+msgstr "Página se ha actualizado correctamente."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:462
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:483
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:462
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:483
 msgid "View Page"
 msgstr "Ver página"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:481
-msgid "Menu item has been successfully created."
-msgstr "Elemento de menú ha sido creado con éxito."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:481
+msgid "Page has been successfully created."
+msgstr "Página ha sido creado con éxito."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:588
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:816
-msgid "No menu items found."
-msgstr "No hay elementos de menú que se encuentran."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:588
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:816
+msgid "No pages found."
+msgstr "No hay páginas que se encuentran."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:601
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:601
 msgid "Title / Path / Link"
 msgstr "Título / ruta / Enlace"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:613
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:732
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:613
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:732
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:23
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:1015
 msgid "Posts"
 msgstr "Mensajes"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:809
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:809
 msgid "No Language Defined"
 msgstr "No Idioma definido"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:845
-msgid "Menu Items Administration (Pages)"
-msgstr "Elementos de menú Administración (Páginas)"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:845
+msgid "Pages Administration"
+msgstr "Páginas Administración"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:870
-msgid "Edit Menu Item (Page)"
-msgstr "Editar elemento de menú (página)"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:870
+msgid "Edit Page"
+msgstr "Editar página"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:871
-msgid "New Menu Item (Page)"
-msgstr "Nuevo elemento de menú (página)"
-
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:923
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:453
 msgid "No menu blocks found."
 msgstr "No hay bloques de menú que se encuentran."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:924
-msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and creat at least one menu block to put menu items in."
-msgstr "Por favor, vaya a Admin -> Sitio de diseño y funcionalidad -> Menú Bloques y creat por lo menos un bloque de menú para poner los elementos de menú pulgadas"
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:924
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put pages in."
+msgstr "Por favor, vaya a Admin -> Sitio de diseño y funcionalidad -> Menú Bloques y crear por lo menos un bloque de menú para poner los páginas pulgadas"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1053
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1053
 #, php-format
-msgid "Menu Item couldn't be created! Error: %s"
-msgstr "Elemento de menú no puede ser creado! Error: %s"
+msgid "Page couldn't be created! Error: %s"
+msgstr "Página no puede ser creado! Error: %s"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1090
-msgid "Menu item successfully created but xml sitemap file couldn't be updated."
-msgstr "Elemento de menú creado con éxito, pero el archivo XML Sitemap no podía actualizarse."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1090
+msgid "Page successfully created but xml sitemap file couldn't be updated."
+msgstr "Página creado con éxito, pero el archivo XML Sitemap no podía actualizarse."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1187
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1187
 #, php-format
-msgid "Menu item couldn't be updated! Error: %s"
-msgstr "Elemento de menú no se pudo actualizar! Error: %s"
+msgid "Page couldn't be updated! Error: %s"
+msgstr "Página no se pudo actualizar! Error: %s"
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1312
-msgid "Menu item successfully updated but xml sitemap file couldn't be updated."
-msgstr "elemento del menú se ha actualizado correctamente pero el archivo XML Sitemap no podía actualizarse."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1312
+msgid "Page successfully updated but xml sitemap file couldn't be updated."
+msgstr "Página se ha actualizado correctamente pero el archivo XML Sitemap no podía actualizarse."
 
-#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:1366
-msgid "Menu item successfully deleted but xml sitemap file couldn't be updated."
-msgstr "elemento del menú se ha eliminado correctamente pero el archivo XML Sitemap no podía actualizarse."
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1366
+msgid "Page successfully deleted but xml sitemap file couldn't be updated."
+msgstr "Página se ha eliminado correctamente pero el archivo XML Sitemap no podía actualizarse."
 
 #: /home/julius/workspace/jcore/lib/sources/settings.class.php:53
 msgid "Settings have been successfully updated but the template.js file couldn't be updated."
@@ -4384,8 +4380,8 @@ msgstr "Administración de archivos XML del Sitemap "
 
 #: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:86
 #, php-format
-msgid "This file (%s) gets updated automatically every time you create / edit / delete a menu item but you can regenerate or modify it manually below."
-msgstr "Este archivo (%s) se actualiza automáticamente cada vez que crear / editar / eliminar un elemento de menú, pero puede volver a generar o modificar de forma manual a continuación."
+msgid "This file (%s) gets updated automatically every time you create / edit / delete a page but you can regenerate or modify it manually below."
+msgstr "Este archivo (%s) se actualiza automáticamente cada vez que crear / editar / eliminar un página, pero puede volver a generar o modificar de forma manual a continuación."
 
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:69
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:635
@@ -4500,4 +4496,203 @@ msgstr "No tiene video seleccionado!"
 #: /home/julius/workspace/jcore/lib/sources/videos.class.php:1070
 msgid "The selected video cannot be found!"
 msgstr "El video seleccionado no se puede encontrar!"
+
+#: Changes in 0.8
+#: ---------------
+#: /home/julius/workspace/jcore/lib/sources/requests.class.php:158
+msgid "Invalid or not enough permission to access this request!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:252
+msgid "All"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:137
+msgid "Select User"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:181
+msgid "User \"%s\" couldn't be found!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:183
+msgid "Please make sure you have entered / selected the right username or if it's a new user please first create the user at Member Management -> Users."
+msgstr "Por favor, asegúrese de que ha introducido o seleccionado el nombre de usuario correcto o si es un nuevo usuario por favor, primero debe crear el usuario en miembro Administración -> Usuarios."
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:756
+msgid "Nothing to store! Please define some fields for your form and make sure their Value Types are set."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:64
+msgid "Author"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:70
+msgid "Version"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:716
+msgid "Export current template as an installable template package"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:719
+msgid "Export Template"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:177
+msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:192
+msgid "Template Details"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:198
+msgid "Export"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:124
+msgid "Template has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:76
+msgid "Quickly create / modify posts"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
+msgid "Posts at Glance"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:33
+msgid "Page"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:26
+msgid "Post to Page"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:56
+msgid "No posts selected! Please select at least one post."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:69
+msgid "Posts have been successfully deactivated and are now NOT visible to the public."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:81
+msgid "Posts have been successfully activated and are now visible to the public."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:93
+msgid "Posts have been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1499
+msgid "Template couldn't be activated!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:290
+msgid "Post Keywords"
+msgstr ""
+
+#: Global settings
+msgid "Instant User Registration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:266
+msgid "Manage user groups, set group permissions"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:269
+msgid "User Groups"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:26
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:281
+msgid "New Group"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:44
+msgid "Group Name"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:49
+msgid "e.g. Editor"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:70
+msgid "Group has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:84
+msgid "Group has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:97
+msgid "Group has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:112
+msgid "Group"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:255
+msgid "User Groups Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:280
+msgid "Edit Group"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:320
+msgid "No groups found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:360
+msgid "Group \"%s\" already exists."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:373
+msgid "Group couldn't be created! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:413
+msgid "Group couldn't be updated! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/usergrouppermissions.class.php:30
+msgid "Group Permissions"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:157
+msgid "Select Locale"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:293
+msgid "Available Locales"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:106
+msgid "Auto Response Options"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:111
+msgid "Send Auto Response"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:188
+msgid "Locale File"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:198
+msgid "Select File"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:307
+msgid "Available Locale Files"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:299
+msgid "Display Form(s)"
+msgstr ""
 
