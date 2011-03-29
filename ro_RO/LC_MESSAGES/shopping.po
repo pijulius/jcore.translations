@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-02-09 12:39+0200\n"
-"Last-Translator: Soreen <soreen@gmail.com>\n"
+"PO-Revision-Date: 2011-03-26 15:10+0200\n"
+"Last-Translator: Sorin Pricop <soreen@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -1834,59 +1834,59 @@ msgstr "<b>Limită de comandă:</b> Trebuie să cumpăraţi produse de cel puţi
 
 #: Changes in 0.8
 #: ---------------
-
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3787
 msgid "Handle pending and processing orders"
-msgstr ""
+msgstr "ID (Handle) în aşteptarea şi procesarea comenzilor"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3790
 msgid "New Orders"
-msgstr ""
+msgstr "Comenzi noi"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3806
 msgid "Lookup and update processed orders"
-msgstr ""
+msgstr "Căutarea şi actualizarea comenzilor procesate"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3885
 msgid "Sales"
-msgstr ""
+msgstr "Vânzări"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3899
 msgid "Start / End Date"
-msgstr ""
+msgstr "Data de Început/Sfârşit"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4195
 msgid "Products"
-msgstr ""
+msgstr "Produse"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4197
 msgid "Bestsellers"
-msgstr ""
+msgstr "Cele mai bine vândute"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4353
 msgid "Most Viewed Products"
-msgstr ""
+msgstr "Cele mai vizualizate"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2476
 msgid "Order originated from"
-msgstr ""
+msgstr "Comanda provine de la"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:111
 msgid "Credit Card Payment (Ogone)"
-msgstr ""
+msgstr "Plata cu Card de credit (Ogone)"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:112
 msgid "An extra step will be required trough Ogone.com"
-msgstr ""
+msgstr "Un pas suplimentar va fi necesar prin Ogone.com"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1501
 msgid "Ogone"
-msgstr ""
+msgstr "Ogone"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1510
 msgid "User redirected to ogone, payment is being processed."
-msgstr ""
+msgstr "Utilizator redirecţionat către ogone, plata este în curs de procesare."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3887
 msgid "Item option \"%s\" is required for \"%s\"!"
-msgstr ""
+msgstr "Opţiunea \"%s\" pentru acest articol este necesară pentru \"%s\" !"
+

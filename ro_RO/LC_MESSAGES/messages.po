@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-02-25 18:42+0200\n"
-"Last-Translator: Soreen <soreen@gmail.com>\n"
+"PO-Revision-Date: 2011-03-26 14:58+0200\n"
+"Last-Translator: Sorin Pricop <soreen@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -4494,200 +4494,200 @@ msgstr "Videoclip selectat nu poate fi găsit!"
 
 #: Changes in 0.8
 #: ---------------
-
 #: /home/julius/workspace/jcore/lib/sources/requests.class.php:158
 msgid "Invalid or not enough permission to access this request!"
-msgstr ""
+msgstr "Cerere invalidă sau nu aveţi permisiunea de a accesa această funcţie!"
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:252
 msgid "All"
-msgstr ""
+msgstr "Toate"
 
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:137
 msgid "Select User"
-msgstr ""
+msgstr "Selectaţi utilizator"
 
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:181
 msgid "User \"%s\" couldn't be found!"
-msgstr ""
+msgstr "Utilizatorul \"%s\" nu a putut fi găsit!"
 
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:183
 msgid "Please make sure you have entered / selected the right username or if it's a new user please first create the user at Member Management -> Users."
-msgstr ""
+msgstr "Vă rugăm să vă asiguraţi că aţi introdus/selectat corect numele de utilizator sau dacă este un utilizator nou vă rugăm să creaţi utilizatorul în Member Management -> Utilizatori."
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:756
 msgid "Nothing to store! Please define some fields for your form and make sure their Value Types are set."
-msgstr ""
+msgstr "Nimic de stocat! Vă rugăm să definiţi unele câmpuri pentru formular şi asiguraţi-vă că tipurile valorii lor sunt stabilite."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:64
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:70
 msgid "Version"
-msgstr ""
+msgstr "Versiune"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:716
 msgid "Export current template as an installable template package"
-msgstr ""
+msgstr "Exportaţi şablonul curent ca şi pachet instalabil!"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:719
 msgid "Export Template"
-msgstr ""
+msgstr "Exportaţi şablonul"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:177
 msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
-msgstr ""
+msgstr "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:192
 msgid "Template Details"
-msgstr ""
+msgstr "Detalii şablon"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:198
 msgid "Export"
-msgstr ""
+msgstr "Exportă"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:124
 msgid "Template has been successfully created."
-msgstr ""
+msgstr "Şablonul a fost creat!"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:76
 msgid "Quickly create / modify posts"
-msgstr ""
+msgstr "Creaţi / modificaţi rapid mesaje"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
 msgid "Posts at Glance"
-msgstr ""
+msgstr "Mesaj scurt"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:33
 msgid "Page"
-msgstr ""
+msgstr "Pagina"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:26
 msgid "Post to Page"
-msgstr ""
+msgstr "Mesaje pe pagina"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:56
 msgid "No posts selected! Please select at least one post."
-msgstr ""
+msgstr "Nu sunt mesaje selectate! Vă rugăm să selectaţi cel puţin un mesaj."
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:69
 msgid "Posts have been successfully deactivated and are now NOT visible to the public."
-msgstr ""
+msgstr "Mesajele au fost dezactivate si NU sunt vizibile public."
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:81
 msgid "Posts have been successfully activated and are now visible to the public."
-msgstr ""
+msgstr "Mesajele au fost activate cu succes şi sunt acum vizibile pentru public."
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:93
 msgid "Posts have been successfully deleted."
-msgstr ""
+msgstr "Mesajele au fost şterse."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:1499
 msgid "Template couldn't be activated!"
-msgstr ""
+msgstr "Şablonul nu a putut fi activat!"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:290
 msgid "Post Keywords"
-msgstr ""
+msgstr "Cuvinte cheie"
 
 #: Global settings
 msgid "Instant User Registration"
-msgstr ""
+msgstr "Înregistrare utilizator instant"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:266
 msgid "Manage user groups, set group permissions"
-msgstr ""
+msgstr "Gestionaţi grupurile de utilizatori, setaţi permisiunile grupului"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:269
 msgid "User Groups"
-msgstr ""
+msgstr "Grupe de Utilizatori"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:26
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:281
 msgid "New Group"
-msgstr ""
+msgstr "Grup Nou"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:44
 msgid "Group Name"
-msgstr ""
+msgstr "Nume Grup"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:49
 msgid "e.g. Editor"
-msgstr ""
+msgstr "exemplu: Editor"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:70
 msgid "Group has been successfully deleted."
-msgstr ""
+msgstr "Grupul a fost şters!"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:84
 msgid "Group has been successfully updated."
-msgstr ""
+msgstr "Grupul a fost actualizat!"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:97
 msgid "Group has been successfully created."
-msgstr ""
+msgstr "Grupul a fost creat!"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:112
 msgid "Group"
-msgstr ""
+msgstr "Grup"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:255
 msgid "User Groups Administration"
-msgstr ""
+msgstr "Administrarea grupelor de utilizatori"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:280
 msgid "Edit Group"
-msgstr ""
+msgstr "Editare grup"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:320
 msgid "No groups found."
-msgstr ""
+msgstr "Nu sunt grupe!"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:360
 msgid "Group \"%s\" already exists."
-msgstr ""
+msgstr "Grupul \"%s\" există deja."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:373
 msgid "Group couldn't be created! Error: %s"
-msgstr ""
+msgstr "Grupul nu a putut fi creat! Eroare: %s"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:413
 msgid "Group couldn't be updated! Error: %s"
-msgstr ""
+msgstr "Grupul nu a putut fi actualizat! Eroare: %s"
 
 #: /home/julius/workspace/jcore/lib/sources/usergrouppermissions.class.php:30
 msgid "Group Permissions"
-msgstr ""
+msgstr "Permisiunile grupului"
 
 #: /home/julius/workspace/jcore/lib/sources/languages.class.php:157
 msgid "Select Locale"
-msgstr ""
+msgstr "Setări regionale"
 
 #: /home/julius/workspace/jcore/lib/sources/languages.class.php:293
 msgid "Available Locales"
-msgstr ""
+msgstr "Setări regionale disponibile"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:106
 msgid "Auto Response Options"
-msgstr ""
+msgstr "Opţiuni Răspuns Automat"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:111
 msgid "Send Auto Response"
-msgstr ""
+msgstr "Trimite Răspuns Automat"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:188
 msgid "Locale File"
-msgstr ""
+msgstr "Fişier Setări regionale"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:198
 msgid "Select File"
-msgstr ""
+msgstr "Selectaţi Fişier"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:307
 msgid "Available Locale Files"
-msgstr ""
+msgstr "Fişiere pentru setări regionale disponibile"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:299
 msgid "Display Form(s)"
-msgstr ""
+msgstr "Afişare Formular(e)"
+

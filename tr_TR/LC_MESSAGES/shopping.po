@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 19:22+0200\n"
-"PO-Revision-Date: 2011-02-09 12:40+0200\n"
+"PO-Revision-Date: 2011-03-25 10:43+0200\n"
 "Last-Translator: Erkan <bravehearterkan@hotmail.com>\n"
 "Language-Team: jCore-Turkish <bravehearterkan@hotmail.com>\n"
 "Language: \n"
@@ -1837,59 +1837,59 @@ msgstr "<b>Ödeme Limiti:</b> %s Ürün(ler) almalısınız ki ödemeyi tamamlay
 
 #: Changes in 0.8
 #: ---------------
-
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3787
 msgid "Handle pending and processing orders"
-msgstr ""
+msgstr "Bekleyen ve işleyen siparişlerin idaresi"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3790
 msgid "New Orders"
-msgstr ""
+msgstr "Yeni Siparişler"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3806
 msgid "Lookup and update processed orders"
-msgstr ""
+msgstr "İşlenmiş siparişleri ara ve güncelle"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3885
 msgid "Sales"
-msgstr ""
+msgstr "Satış"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3899
 msgid "Start / End Date"
-msgstr ""
+msgstr "Başlangıç / Bitiş Tarihi"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4195
 msgid "Products"
-msgstr ""
+msgstr "Ürünler"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4197
 msgid "Bestsellers"
-msgstr ""
+msgstr "En çok satanlar"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4353
 msgid "Most Viewed Products"
-msgstr ""
+msgstr "En çok İncelenen Ürünler"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2476
 msgid "Order originated from"
-msgstr ""
+msgstr "Sipariş Kaynağı"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:111
 msgid "Credit Card Payment (Ogone)"
-msgstr ""
+msgstr "Kredi Kartı ile Ödeme (Ogone)"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:112
 msgid "An extra step will be required trough Ogone.com"
-msgstr ""
+msgstr "Ogone.com için fazladan bir adım gerekecektir"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1501
 msgid "Ogone"
-msgstr ""
+msgstr "Ogone"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1510
 msgid "User redirected to ogone, payment is being processed."
-msgstr ""
+msgstr "Kullanıcı ogone.com'a yönlendirilecektir, ödeme hazırlanıyor."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3887
 msgid "Item option \"%s\" is required for \"%s\"!"
-msgstr ""
+msgstr "Öğe seçeneği \"%s\", \"%s\" için gerekli!"
+
