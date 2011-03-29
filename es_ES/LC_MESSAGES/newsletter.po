@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:18+0200\n"
+"PO-Revision-Date: 2011-03-29 10:22-0500\n"
+"Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:14
+msgid "Newsletters"
+msgstr "Boletines"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:15
+msgid "Create lists, send out newsletters, let people subscribe and unsubscribe"
+msgstr "Crear listas, enviar boletines de noticias, que la gente suscribirse y darse de baja"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:73
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:394
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2456
+msgid "New List"
+msgstr "Nueva lista"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:77
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1544
+msgid "Subscriptions"
+msgstr "Suscripciones"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:80
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:600
+msgid "Emails"
+msgstr "Correos electrónicos"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:164
+msgid "Lists have been successfully re-ordered."
+msgstr "Las listas han sido exitosamente reordenado."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:175
+msgid "List has been successfully deleted."
+msgstr "Lista se ha eliminado correctamente."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:192
+msgid "List has been successfully updated."
+msgstr "Lista se ha actualizado correctamente."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:205
+msgid "List has been successfully created."
+msgstr "Lista se ha creado con éxito."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:227
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:266
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1577
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1582
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1789
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1879
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1996
+msgid "Members"
+msgstr "Miembros"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:368
+msgid "Newsletter Lists Administration"
+msgstr "Administración de Listas  de Boletín"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:393
+msgid "Edit List"
+msgstr "Editar lista"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:432
+msgid "No lists found."
+msgstr "No hay listas que se encuentran."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:494
+#, php-format
+msgid "List couldn't be added! Error: %s"
+msgstr "Lista de No se pudo agregar! Error: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:527
+#, php-format
+msgid "List couldn't be updated! Error: %s"
+msgstr "Lista no se pudo actualizar! Error: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:596
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1217
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2453
+msgid "New Subscription"
+msgstr "Nueva suscripción"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:603
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1547
+msgid "Lists"
+msgstr "Listas"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:622
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:643
+msgid "Subscribed to"
+msgstr "Suscrito"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:634
+msgid "Email(s)"
+msgstr "Correo electrónico(s)"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:640
+msgid "one email per line"
+msgstr "un correo electrónico por línea"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:649
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1575
+msgid "hold CTRL down to select more"
+msgstr "tecla CTRL para seleccionar más"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:662
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:980
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1092
+msgid "Confirmed"
+msgstr "Confirmó"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:668
+msgid "(if not checked an email will be sent to the email address(es) for confirmation)"
+msgstr "(Si no se comprueba un correo electrónico será enviado a la dirección de correo electrónico (es) para la confirmación)"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:671
+msgid "Subscribed on"
+msgstr "Suscripciones en"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:750
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:802
+msgid "Subscriptions have been successfully confirmed."
+msgstr "Las suscripciones se han confirmado con éxito."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:789
+msgid "No subscriptions selected! Please select at least one subscription."
+msgstr "No hay suscripciones seleccionado! Por favor, seleccione al menos una suscripción."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:813
+msgid "Subscriptions have been successfully deleted."
+msgstr "Las suscripciones se han eliminado correctamente."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:825
+msgid "Subscription has been successfully deleted."
+msgstr "Suscripción ha sido eliminado correctamente."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:844
+msgid "Subscription has been successfully updated and a notification email has been sent for confirmation."
+msgstr "Suscripción ha sido actualizada y una notificación por correo electrónico ha sido enviado para su confirmación."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:856
+msgid "Subscription has been successfully updated."
+msgstr "Suscripción ha sido actualizado correctamente."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:889
+#, php-format
+msgid "Invalid email addresses defined. The following defined emails are not valid email addresses: %s."
+msgstr "Las direcciones de correo electrónico no válido definido. Los correos electrónicos se definen a continuación no son las direcciones de correo electrónico válida: %s."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:900
+msgid "No valid email addresses have been defined!"
+msgstr "Ninguna dirección válida de correo electrónico se han definido!"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:908
+msgid "Sending confirmation requests, please wait..."
+msgstr "El envío de solicitudes de confirmación, por favor espere ..."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:951
+msgid "No subscriptions have been created! Please see detailed error messages above and try again."
+msgstr "No hay suscripciones se han creado! Por favor, ver más arriba detallados mensajes de error y vuelva a intentarlo."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:959
+#, php-format
+msgid "Subscriptions have been successfully created. Emails subscribed: %s"
+msgstr "Las suscripciones se han creado con éxito. Mensajes de correo electrónico suscrito: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:978
+msgid "Email / Subscribed on"
+msgstr "Correo electrónico / suscripciones en"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:982
+msgid "Newsletter List"
+msgstr "La lista del boletín  "
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1062
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1064
+msgid "Confirm All"
+msgstr "Confirmar todo"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1066
+msgid "Delete"
+msgstr "Eliminar"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1068
+msgid "Delete All"
+msgstr "Borrar todo"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1089
+msgid "All"
+msgstr "Todo"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1095
+msgid "Unconfirmed"
+msgstr "Sin confirmar"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1173
+msgid "Newsletter Subscriptions Administration"
+msgstr "Administración Boletín de suscripciones "
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1216
+msgid "Edit Subscription"
+msgstr "Editar suscripción"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1275
+msgid "No subscriptions found."
+msgstr "No hay suscripciones online."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1309
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1360
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2772
+#, php-format
+msgid "Email address \"%s\" is already subscribed to \"%s\" newsletters!"
+msgstr "Enviar dirección \"%s\" ya está suscrito a \"%s\" boletines de noticias!"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1340
+#, php-format
+msgid "Subscription couldn't be added! Error: %s"
+msgstr "Suscripción No se puede agregar! Error: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1391
+#, php-format
+msgid "Subscription couldn't be updated! Error: %s"
+msgstr "Suscripción no se pudo actualizar! Error: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1476
+msgid "Subscription couldn't be found for confirmation!"
+msgstr "Suscripción no se pudo encontrar para la confirmación!"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1540
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2082
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2450
+msgid "New Email"
+msgstr "Nuevo correo electrónico"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1577
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1776
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1868
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1984
+msgid "All List"
+msgstr "Toda lista "
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1602
+msgid "If you do not wish to receive our newsletters in the future, please click the link below to unsubscribe."
+msgstr "Si no desea recibir nuestros boletines de noticias en el futuro, por favor haga clic en el enlace de abajo para darse de baja."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1765
+msgid "No members found to send email to."
+msgstr "No se encontraron miembros para enviar correo electrónico a."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1787
+#, php-format
+msgid "Emails have been successfully sent to: %s. Emails sent: %s"
+msgstr "Los correos electrónicos se han enviado correctamente a: %s. Los correos electrónicos enviados: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1992
+msgid "List deleted!"
+msgstr "Lista eliminado!"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2059
+msgid "Newsletter Emails Administration"
+msgstr "Administración de boletín de correos electrónicos "
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2140
+#, php-format
+msgid "Send next %s Emails"
+msgstr "Enviar siguiente mensajes de %s correo electrónico "
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2146
+msgid "View Newsletters"
+msgstr "Ver los Boletines"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2189
+msgid "No newsletters sent out yet."
+msgstr "No hay boletines enviados todavía."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2262
+#, php-format
+msgid "Newsletter Email couldn't be created! Error: %s"
+msgstr "Boletín de noticias electrónico no pudo ser creado! Error: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2463
+msgid "Newsletter Administration"
+msgstr "Boletín de la Administración"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2493
+msgid "Send and View sent out Newsletters"
+msgstr "Enviar y Ver enviado Boletines"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2496
+msgid "Send Newsletters"
+msgstr "Enviar Boletines"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2512
+msgid "Import, Edit and Delete newsletter Subscriptions"
+msgstr "Importar, editar y eliminar suscripciones al boletín"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2515
+msgid "Newsletter Subscriptions"
+msgstr "Boletín de suscripción"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2531
+msgid "Create, Modify and Delete newsletter Lists"
+msgstr "Crear, modificar y eliminar listas de boletín"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2534
+msgid "Newsletter Lists"
+msgstr "Boletín de Listas"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2623
+msgid "The defined subscription cannot be found! Your newsletter subscription may have been already cancelled or deleted."
+msgstr "La suscripción se define no se puede encontrar! Su suscripción al boletín pueden haber sido ya cancelados o eliminados."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2646
+#, php-format
+msgid "<b>Your newsletter subscription has been cancelled.</b><br /> You have successfully cancelled your subscription for \"%s\" to \"%s\" newsletters."
+msgstr "<b>Su suscripción al boletín ha sido cancelada.</b> <br /> Ha cancelado su suscripción para \"%s\" a \"%s\" boletines de noticias."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2671
+#, php-format
+msgid "<b>Thank you for subscribing to our newsletters.</b><br /> You have successfully confirmed your subscription for \"%s\" to \"%s\" newsletters."
+msgstr "<b>Gracias por suscribirse a nuestros boletines.</b> <br /> Ha confirmado su suscripción para \"%s\" a \"%s\" boletines de noticias."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2693
+msgid "No newsletter list selected!"
+msgstr "No hay lista de boletín seleccionado!"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2708
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2756
+msgid "The selected newsletter list cannot be found! Please try again by selecting a different list or contact site administrator."
+msgstr "La lista boletín seleccionado no puede ser encontrado! Por favor, inténtelo de nuevo mediante la selección de una lista diferente o administrador del sitio de contacto."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2716
+#, php-format
+msgid "Email address \"%s\" is not subscribed to \"%s\" newsletters!"
+msgstr "Dirección de correo electrónico \"%s\" no está suscrito a \"%s\" boletines de noticias!"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2730
+msgid "<b>Unsubscription request has been successfully submitted.</b><br /> An email has been sent to you which contains the confirmation url to unsubscribe. Once confirmed your email will be removed from the list and you will stop receiving our newsletters."
+msgstr "<b>solicitud de retirada ha sido enviado correctamente.</b> <br /> Un correo electrónico ha sido enviado a ti, que contiene la url de confirmación para cancelar la suscripción. Una vez confirmado su correo electrónico se eliminará de la lista y usted dejará de recibir nuestros boletines de noticias."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2793
+msgid "<b>Your subscription request has been successfully submitted.</b><br /> An email has been sent to you which contains the confirmation url for the lists you subscribed to. Once confirmed you will start receiving our newsletters."
+msgstr "<b>Su solicitud de suscripción ha sido enviado correctamente.</b><br /> Un correo electrónico ha sido enviado a ti, que contiene la URL de confirmación de las listas que está suscrito. Una vez confirmado que comenzará a recibir nuestros boletines de noticias."
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2811
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2823
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2836
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2846
+msgid "Select List(s)"
+msgstr "Seleccione Lista(s)"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2867
+#, php-format
+msgid "Subscribe to %s Newsletters or Unsubscribe"
+msgstr "Suscribirse a los %s boletines o Darse de baja"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2869
+msgid "Subscribe to our Newsletters or Unsubscribe"
+msgstr "Suscríbete a nuestro boletín de noticias o Darse de baja"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2876
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2881
+msgid "Unsubscribe"
+msgstr "Darse de baja"
+
