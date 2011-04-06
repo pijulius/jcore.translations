@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:22+0200\n"
+"PO-Revision-Date: 2011-03-29 23:11+0200\n"
+"Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:14
+msgid "Search Engine"
+msgstr "Motor de Búsqueda"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:15
+msgid "Have your own search engine"
+msgstr "Haga que su propio motor de búsqueda"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:170
+msgid "Items have been successfully updated."
+msgstr "Los artículos se han actualizado correctamente."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:202
+msgid "Title / Description"
+msgstr "Título / Descripción"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:210
+msgid "Blog like content for pages."
+msgstr "Blog como el contenido de los páginas."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:254
+msgid "Update"
+msgstr "Actualizar"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:305
+msgid "Search Engine Administration"
+msgstr "Administración de Motor de Búsqueda"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:312
+msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the page under which the search module is will be used."
+msgstr "Compruebe que los módulos deben ser consultada por el Local Search Engine y usted también puede definir los límites de costumbre para ellos. Por defecto, si no comprueba todos los módulos se podrán realizar búsquedas y si no hay límite definido (0) el uno para el página con el que se va el módulo de búsqueda se utiliza."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:349
+msgid "No modules found."
+msgstr "No hay módulos que se encuentran."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:492
+msgid "Search for"
+msgstr "Buscar por"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:499
+msgid "search..."
+msgstr "búsqueda ..."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:505
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:516
+msgid "in"
+msgstr "en"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:699
+msgid "Invalid target selected for your search! Please select a new target (search in) or don't select any if you want to search for posts."
+msgstr "No válida de destino seleccionado para su búsqueda! Por favor, seleccione un nuevo objetivo (búsqueda en) o no seleccionar si desea buscar blogs."
+
