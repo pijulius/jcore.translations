@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:21+0200\n"
-"PO-Revision-Date: 2011-03-29 10:22-0500\n"
+"PO-Revision-Date: 2011-04-07 00:17-0500\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -13,6 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: PERU\n"
 "X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
 
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:14
@@ -21,7 +22,7 @@ msgstr "Encuestas"
 
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:15
 msgid "Quickly gather information on different subjects"
-msgstr "Rápidamente recopilar información sobre diferentes temas"
+msgstr "Recopilar rápidamente información sobre diferentes temas"
 
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:34
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:57
@@ -91,7 +92,7 @@ msgstr "minutos (si se pone a 0 un solo voto se permitirá por IP o usuario)"
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:876
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:1200
 msgid "Members Only"
-msgstr "Sólo los miembros"
+msgstr "Sólo miembros"
 
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:884
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:1205
@@ -138,7 +139,7 @@ msgstr "Editar una encuesta"
 
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:1383
 msgid "No polls found."
-msgstr "No hay encuestas online."
+msgstr "No hay encuestas."
 
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:1567
 #, php-format

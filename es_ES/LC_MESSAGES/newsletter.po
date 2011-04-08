@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:18+0200\n"
-"PO-Revision-Date: 2011-03-29 10:22-0500\n"
+"PO-Revision-Date: 2011-04-07 00:17-0500\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -13,6 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: PERU\n"
 "X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
 
 #: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:14
@@ -75,12 +76,12 @@ msgstr "Editar lista"
 
 #: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:432
 msgid "No lists found."
-msgstr "No hay listas que se encuentran."
+msgstr "Listas no encuentrada."
 
 #: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:494
 #, php-format
 msgid "List couldn't be added! Error: %s"
-msgstr "Lista de No se pudo agregar! Error: %s"
+msgstr "Lista no se pudo agregar! Error: %s"
 
 #: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:527
 #, php-format
@@ -120,7 +121,7 @@ msgstr "tecla CTRL para seleccionar más"
 #: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:980
 #: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1092
 msgid "Confirmed"
-msgstr "Confirmó"
+msgstr "Confirmado"
 
 #: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:668
 msgid "(if not checked an email will be sent to the email address(es) for confirmation)"

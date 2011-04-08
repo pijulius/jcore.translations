@@ -3,16 +3,17 @@ msgstr ""
 "Project-Id-Version: jCore 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-03-29 23:11+0200\n"
+"PO-Revision-Date: 2011-04-07 00:17-0500\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.0\n"
+"MIME-Version: 1.1\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: PERU\n"
 "X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/sources\n"
 
 #: Global settings
@@ -471,7 +472,7 @@ msgstr "Nuevo valor del campo"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:345
 msgid "No field values found."
-msgstr "No hay valores de campo que se encuentran."
+msgstr "No hay valores de campo."
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:408
 #, php-format
@@ -4501,19 +4502,19 @@ msgstr "El video seleccionado no se puede encontrar!"
 #: ---------------
 #: /home/julius/workspace/jcore/lib/sources/requests.class.php:158
 msgid "Invalid or not enough permission to access this request!"
-msgstr ""
+msgstr "No válido o no permisos suficientes para acceder a esta petición!"
 
 #: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:252
 msgid "All"
-msgstr ""
+msgstr "Todos los"
 
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:137
 msgid "Select User"
-msgstr ""
+msgstr "Seleccionar usuario"
 
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:181
 msgid "User \"%s\" couldn't be found!"
-msgstr ""
+msgstr "El usuario \"%s\" no se pudo encontrar!"
 
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:183
 msgid "Please make sure you have entered / selected the right username or if it's a new user please first create the user at Member Management -> Users."
@@ -4522,177 +4523,188 @@ msgstr "Por favor, asegúrese de que ha introducido o seleccionado el nombre de 
 #: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:756
 msgid "Nothing to store! Please define some fields for your form and make sure their Value Types are set."
 msgstr ""
+"No hay nada que tienda! Por favor, definir algunos campos del formulario y "
+"asegurarse de que sus tipos de valor se establecen."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:64
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:70
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:716
 msgid "Export current template as an installable template package"
-msgstr ""
+msgstr "Exportar actual plantilla como una paquete de plantilla instalable"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:719
 msgid "Export Template"
-msgstr ""
+msgstr "Exportar plantilla"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:177
 msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
 msgstr ""
+"Al completar el siguiente formulario puede exportar todas las modificaciones "
+"a la actual \"<b>%s</b>\" plantilla como una plantilla de paquete instalable "
+"y fácilmente en el puerto a otros sitios web. El paquete incluye bloques de "
+"diseño, imágenes, CSS, JS, fuentes y todos los directorios a medida que se "
+"encuentran."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:192
 msgid "Template Details"
-msgstr ""
+msgstr "Detalles de la plantilla"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:198
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:124
 msgid "Template has been successfully created."
-msgstr ""
+msgstr "Plantilla se ha creado con éxito."
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:76
 msgid "Quickly create / modify posts"
-msgstr ""
+msgstr "Rápidamente crear / modificar los mensajes"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
 msgid "Posts at Glance"
-msgstr ""
+msgstr "Postes a Vistazo"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:33
 msgid "Page"
-msgstr ""
+msgstr "Pagina"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:26
 msgid "Post to Page"
-msgstr ""
+msgstr "Publicar en la página"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:56
 msgid "No posts selected! Please select at least one post."
 msgstr ""
+"No hay mensajes seleccionados! Por favor, seleccione al menos un puesto."
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:69
 msgid "Posts have been successfully deactivated and are now NOT visible to the public."
 msgstr ""
+"Puestos se han desactivado correctamente y ahora NO es visible para el "
+"público."
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:81
 msgid "Posts have been successfully activated and are now visible to the public."
 msgstr ""
+"Puestos se han activado con éxito y ahora están visibles para el público."
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:93
 msgid "Posts have been successfully deleted."
-msgstr ""
+msgstr "Puestos se han eliminado correctamente."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:1499
 msgid "Template couldn't be activated!"
-msgstr ""
+msgstr "Plantilla no pudo ser activado!"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:290
 msgid "Post Keywords"
-msgstr ""
+msgstr "Mensaje Palabras clave"
 
 #: Global settings
 msgid "Instant User Registration"
-msgstr ""
+msgstr "Registro de usuario instantánea"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:266
 msgid "Manage user groups, set group permissions"
-msgstr ""
+msgstr "Administrar los grupos de usuarios, establecer permisos de grupo"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:269
 msgid "User Groups"
-msgstr ""
+msgstr "Grupos de usuarios"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:26
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:281
 msgid "New Group"
-msgstr ""
+msgstr "Nuevo grupo"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:44
 msgid "Group Name"
-msgstr ""
+msgstr "Nombre del grupo"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:49
 msgid "e.g. Editor"
-msgstr ""
+msgstr "por ejm. Editor"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:70
 msgid "Group has been successfully deleted."
-msgstr ""
+msgstr "Grupo se ha eliminado correctamente."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:84
 msgid "Group has been successfully updated."
-msgstr ""
+msgstr "Grupo ha sido actualizado correctamente."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:97
 msgid "Group has been successfully created."
-msgstr ""
+msgstr "Grupo ha sido creado con éxito."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:112
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:255
 msgid "User Groups Administration"
-msgstr ""
+msgstr "Administración de Grupos de usuarios "
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:280
 msgid "Edit Group"
-msgstr ""
+msgstr "Editar grupo"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:320
 msgid "No groups found."
-msgstr ""
+msgstr "No se han encontrado."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:360
 msgid "Group \"%s\" already exists."
-msgstr ""
+msgstr "Grupo \"%s\" ya existe."
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:373
 msgid "Group couldn't be created! Error: %s"
-msgstr ""
+msgstr "Grupo no pudo ser creado! Error: %s"
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:413
 msgid "Group couldn't be updated! Error: %s"
-msgstr ""
+msgstr "Grupo no pudo ser actualizado! Error: %s"
 
 #: /home/julius/workspace/jcore/lib/sources/usergrouppermissions.class.php:30
 msgid "Group Permissions"
-msgstr ""
+msgstr "Grupo de permisos"
 
 #: /home/julius/workspace/jcore/lib/sources/languages.class.php:157
 msgid "Select Locale"
-msgstr ""
+msgstr "Seleccione Configuración regional"
 
 #: /home/julius/workspace/jcore/lib/sources/languages.class.php:293
 msgid "Available Locales"
-msgstr ""
+msgstr "Los locales disponibles"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:106
 msgid "Auto Response Options"
-msgstr ""
+msgstr "Auto opciones de respuesta"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:111
 msgid "Send Auto Response"
-msgstr ""
+msgstr "Enviar respuesta automática"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:188
 msgid "Locale File"
-msgstr ""
+msgstr "Archivo de configuración regional"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:198
 msgid "Select File"
-msgstr ""
+msgstr "Seleccione Archivo"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:307
 msgid "Available Locale Files"
-msgstr ""
+msgstr "Archivos disponibles Locale"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:299
 msgid "Display Form(s)"
-msgstr ""
+msgstr "Visualizar Formulario(s)"
 

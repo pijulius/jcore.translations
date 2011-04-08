@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 19:45+0200\n"
-"PO-Revision-Date: 2011-03-29 10:19-0500\n"
+"PO-Revision-Date: 2011-04-07 00:17-0500\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -13,6 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: PERU\n"
 "X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
 
 #: Member Dynamic Forms
@@ -93,7 +94,7 @@ msgstr "Formulario de administración de Miembros"
 
 #: /home/julius/workspace/jcore/lib/modules/members.class.php:363
 msgid "No member forms found."
-msgstr "No hay formas que se encuentran miembros."
+msgstr "Formulario de miembros no encuentrado ."
 
 #: /home/julius/workspace/jcore/lib/modules/members.class.php:378
 msgid "Member Registration Form"
@@ -101,7 +102,7 @@ msgstr "Formulario de Inscripción de Miembros"
 
 #: /home/julius/workspace/jcore/lib/modules/members.class.php:383
 msgid "Member Login / Account Form"
-msgstr "Ingresar Miembro  / Formulario de cuenta"
+msgstr "Ingresar Miembro / Formulario de cuenta"
 
 #: /home/julius/workspace/jcore/lib/modules/members.class.php:389
 msgid "New account registration has been temporarily suspended. Please try again later."
