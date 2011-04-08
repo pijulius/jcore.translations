@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 19:22+0200\n"
-"PO-Revision-Date: 2011-03-29 10:18-0500\n"
+"PO-Revision-Date: 2011-04-07 00:17-0500\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -43,11 +43,11 @@ msgstr "Contactos"
 
 #: /home/julius/workspace/jcore/lib/modules/contact.class.php:101
 msgid "Form Settings"
-msgstr "Formulario de configuración"
+msgstr "configuración de Formulario"
 
 #: /home/julius/workspace/jcore/lib/modules/contact.class.php:194
 msgid "Contact Form Administration"
-msgstr "Formulario de Administración de Contactos"
+msgstr "Administración de Formulario de Contacto "
 
 #: /home/julius/workspace/jcore/lib/modules/contact.class.php:220
 msgid "No contact form found."

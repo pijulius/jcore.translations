@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-03-29 23:11+0200\n"
+"PO-Revision-Date: 2011-04-07 00:17-0500\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -13,6 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: PERU\n"
 "X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
 
 #: Dynamic Forms
@@ -23,7 +24,7 @@ msgid "Description"
 msgstr "Descripción"
 
 msgid "Custom Options Placeholder"
-msgstr "Opciones personalizadas de marcador de posición"
+msgstr "Personalizar opciones de marcador"
 
 msgid "Blogging Options"
 msgstr "Opciones Blogging "
@@ -44,7 +45,7 @@ msgid "Enable Rating"
 msgstr "Habilitar Clasificación"
 
 msgid "Enable Guest Rating"
-msgstr "Activar Evaluación de los clientes"
+msgstr "Habilitar Clasificación de Invitados"
 
 msgid "Comments Options"
 msgstr "Opciones Comentarios"
@@ -77,7 +78,9 @@ msgid "Phone number"
 msgstr "Número de teléfono"
 
 msgid "<b>Shipping address</b><br />* Leave blank If same as Billing Information"
-msgstr "<b>Dirección de envío</b> <br /> * Dejar en blanco si es la misma información de facturación"
+msgstr ""
+"<b>Dirección de envío</b><br />* Dejar en blanco si es la misma información "
+"de facturación"
 
 msgid "Company / Organization"
 msgstr "Empresa / Organización"
@@ -92,7 +95,7 @@ msgid "State"
 msgstr "Estado"
 
 msgid "Zip/Postal code"
-msgstr "Zip / Código postal"
+msgstr "Zip/Código postal"
 
 msgid "Country"
 msgstr "País"
@@ -114,7 +117,7 @@ msgstr "Por favor ingrese su mensaje de regalo aquí"
 
 #: Cart Settings
 msgid "Automatic Continue Shopping"
-msgstr "Automática Continuar Compras"
+msgstr "Continuar Compra Automática"
 
 msgid "Currency Position"
 msgstr "Posición de divisas"
@@ -1823,57 +1826,57 @@ msgstr "<b>Pedido límite:</b> Usted debe comprar este artículo (s) durante al 
 #: ---------------
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3787
 msgid "Handle pending and processing orders"
-msgstr ""
+msgstr "Manejo de espera y procesamiento de pedidos"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3790
 msgid "New Orders"
-msgstr ""
+msgstr "Nuevos Pedidos"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3806
 msgid "Lookup and update processed orders"
-msgstr ""
+msgstr "Operaciones de búsqueda y actualización de pedidos procesados"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3885
 msgid "Sales"
-msgstr ""
+msgstr "Ventas"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3899
 msgid "Start / End Date"
-msgstr ""
+msgstr "Inicio / Fecha de finalización"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4195
 msgid "Products"
-msgstr ""
+msgstr "Productos"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4197
 msgid "Bestsellers"
-msgstr ""
+msgstr "Los más vendidos"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4353
 msgid "Most Viewed Products"
-msgstr ""
+msgstr "Productos más vistos "
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2476
 msgid "Order originated from"
-msgstr ""
+msgstr "Ordenar su origen en"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:111
 msgid "Credit Card Payment (Ogone)"
-msgstr ""
+msgstr "Pagos con Tarjeta de Crédito (Ogone)"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:112
 msgid "An extra step will be required trough Ogone.com"
-msgstr ""
+msgstr "Un paso adicional se requiere a través de Ogone.com"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1501
 msgid "Ogone"
-msgstr ""
+msgstr "Ogone"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1510
 msgid "User redirected to ogone, payment is being processed."
-msgstr ""
+msgstr "Usuario redirigido a Ogone, el pago está en proceso."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3887
 msgid "Item option \"%s\" is required for \"%s\"!"
-msgstr ""
+msgstr "Elemento de opción \"%s\" es necesario para \"%s\"!"
 

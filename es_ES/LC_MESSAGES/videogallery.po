@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 21:56+0200\n"
-"PO-Revision-Date: 2011-03-29 10:26-0500\n"
+"PO-Revision-Date: 2011-04-07 00:17-0500\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -13,6 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: PERU\n"
 "X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:14
@@ -325,19 +326,19 @@ msgstr "Iconos"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1624
 msgid "YouTube Channel URL"
-msgstr "YouTube URL del canal"
+msgstr "URL del canal YouTube"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1629
 msgid "YouTube Video Tags"
-msgstr "YouTube Tags Video"
+msgstr "Etiqueta Video YouTube"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1634
 msgid "YouTube Search"
-msgstr "YouTube Buscar"
+msgstr "Buscar en YouTube"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1639
 msgid "YouTube Video Category"
-msgstr "YouTube Video Categoría"
+msgstr "Categoría de Video YouTube"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1644
 msgid "YouTube Videos"
@@ -345,11 +346,11 @@ msgstr "Vídeos de YouTube"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1649
 msgid "YouTube Video Time"
-msgstr "YouTube Video Tiempo"
+msgstr "Tiempo de Video YouTube"
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1654
 msgid "YouTube Order By"
-msgstr "Ordenar por YouTube"
+msgstr "Ordenar YouTube por "
 
 #: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1812
 msgid "Video Gallery Administration"

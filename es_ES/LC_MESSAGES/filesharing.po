@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 19:42+0200\n"
-"PO-Revision-Date: 2011-03-29 10:19-0500\n"
+"PO-Revision-Date: 2011-04-07 00:17-0500\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -13,6 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: PERU\n"
 "X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
 
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:14
@@ -67,12 +68,12 @@ msgstr "por ejm. http://domain.com"
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:659
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1003
 msgid "Members Only"
-msgstr "Sólo los miembros"
+msgstr "Sólo Miembros"
 
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:667
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1008
 msgid "Show to Guests"
-msgstr "Mostrar para personas de movilidad"
+msgstr "Mostrar a los huéspedes"
 
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:735
 msgid "Folders have been successfully re-ordered."
@@ -116,7 +117,7 @@ msgstr "Iconos"
 
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1134
 msgid "File Sharing Administration"
-msgstr "Administración de archivos Compartir"
+msgstr "Administración de Archivos Compartidos"
 
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1162
 msgid "Edit Folder"
@@ -142,7 +143,7 @@ msgstr "Directorio no puede estar protegido!"
 
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1640
 msgid "This area is limited to members only. Please login below."
-msgstr "Esta zona se limita sólo a los socios. Por favor ingresa abajo."
+msgstr "Esta zona se limita sólo a los Miembros. Por favor ingresa abajo."
 
 #: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1800
 msgid "Files / Folders"

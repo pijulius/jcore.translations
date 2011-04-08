@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:20+0200\n"
-"PO-Revision-Date: 2011-03-29 10:22-0500\n"
+"PO-Revision-Date: 2011-04-07 00:17-0500\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -13,6 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: PERU\n"
 "X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:14
@@ -116,7 +117,7 @@ msgstr "Fotos"
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1017
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1574
 msgid "My Photos"
-msgstr "Mis fotos"
+msgstr "Mis Fotos"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1019
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1576
@@ -139,7 +140,7 @@ msgstr "Caras"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1035
 msgid "No faces"
-msgstr "No se enfrenta a"
+msgstr "No hay caras"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1038
 msgid "Aspect Ratio"
