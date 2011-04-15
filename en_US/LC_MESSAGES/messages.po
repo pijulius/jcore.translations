@@ -1,13 +1,13 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: jCore 0.8\n"
+"Project-Id-Version: jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
 "PO-Revision-Date: 2011-01-05 18:47+0200\n"
 "Last-Translator: Istvan Petres <me@pijulius.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.1\n"
+"MIME-Version: 1.2\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __\n"
@@ -4512,6 +4512,7 @@ msgid "Select User"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/notes.class.php:181
+#, php-format
 msgid "User \"%s\" couldn't be found!"
 msgstr ""
 
@@ -4540,6 +4541,7 @@ msgid "Export Template"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:177
+#, php-format
 msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
 msgstr ""
 
@@ -4649,14 +4651,17 @@ msgid "No groups found."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:360
+#, php-format
 msgid "Group \"%s\" already exists."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:373
+#, php-format
 msgid "Group couldn't be created! Error: %s"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:413
+#, php-format
 msgid "Group couldn't be updated! Error: %s"
 msgstr ""
 
@@ -4695,3 +4700,108 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:299
 msgid "Display Form(s)"
 msgstr ""
+
+#: Changes in 0.9
+#: ---------------
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:105
+msgid "Include New Pages"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:113
+msgid "(automatically add new pages)"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:249
+msgid "New Pages"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:260
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:629
+msgid "Menu Items"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
+msgid "Accessible by"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:344
+msgid "(automatically show posts with these keywords)"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:575
+#, php-format
+msgid "A page with the path \"%s\" already exists!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:2146
+msgid "You do not have permission to access this page!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:87
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:680
+msgid "New Menu Item"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:103
+msgid "Select Page(s) to Add"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:121
+msgid "Custom Menu Item Options"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:134
+msgid "Sub Menu Item of"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:273
+msgid "Menu items have been successfully re-ordered."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:284
+msgid "Menu item and all its subitems have been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:295
+msgid "No page selected to be added or no custom menu item title defined!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:329
+msgid "Pages have been successfully added."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:356
+msgid "Menu item cannot be subitem of itself!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:369
+msgid "Menu item has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:382
+msgid "Menu item has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:606
+msgid "No menu items found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:637
+msgid "New pages will be automatically added to this menu."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:679
+msgid "Edit Menu Item"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:834
+#, php-format
+msgid "Menu item couldn't be created! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:890
+#, php-format
+msgid "Menu item couldn't be updated! Error: %s"
+msgstr ""
+
