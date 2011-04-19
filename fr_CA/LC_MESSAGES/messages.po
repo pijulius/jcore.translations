@@ -3,11 +3,11 @@ msgstr ""
 "Project-Id-Version: jCore 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-03-14 14:25-0500\n"
+"PO-Revision-Date: 2011-04-19 19:35-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.1\n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __\n"
@@ -4696,4 +4696,107 @@ msgstr "Fichiers de localisation disponibles"
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:299
 msgid "Display Form(s)"
 msgstr "Afficher le/les formulaire(s)"
+
+#: Changes in 0.9
+#: ---------------
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:105
+msgid "Include New Pages"
+msgstr "Ajouter les nouvelles pages"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:113
+msgid "(automatically add new pages)"
+msgstr "(ajoute automatiquement toutes les nouvelles pages au menu)"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:249
+msgid "New Pages"
+msgstr "Nouvelles pages"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:260
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:629
+msgid "Menu Items"
+msgstr "Lien de menu"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
+msgid "Accessible by"
+msgstr "Accessible par"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:344
+msgid "(automatically show posts with these keywords)"
+msgstr "(affiche automatiquement tous les articles liés au mot-clé)"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:575
+#, php-format
+msgid "A page with the path \"%s\" already exists!"
+msgstr "Une page contenant le chemin \"%s\" existe déjà !"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:2146
+msgid "You do not have permission to access this page!"
+msgstr "Vous n'avez pas l'autorisation d'accéder à cette page !"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:87
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:680
+msgid "New Menu Item"
+msgstr "Nouveau lien"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:103
+msgid "Select Page(s) to Add"
+msgstr "Sélectionnez les pages à ajouter"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:121
+msgid "Custom Menu Item Options"
+msgstr "Options personnalisées du lien de menu"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:134
+msgid "Sub Menu Item of"
+msgstr "Sous-lien du lien suivant"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:273
+msgid "Menu items have been successfully re-ordered."
+msgstr "Les liens ont été réordonnés."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:284
+msgid "Menu item and all its subitems have been successfully deleted."
+msgstr "Le lien et tous ses sous-liens ont été supprimés."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:295
+msgid "No page selected to be added or no custom menu item title defined!"
+msgstr "Aucune page sélectionnée pour l'ajout ou aucun titre personnalisé défini !"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:329
+msgid "Pages have been successfully added."
+msgstr "Les pages ont été ajoutées."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:356
+msgid "Menu item cannot be subitem of itself!"
+msgstr "Le lien ne peut pas être un sous-lien de lui-même."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:369
+msgid "Menu item has been successfully updated."
+msgstr "Le lien a été mis à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:382
+msgid "Menu item has been successfully created."
+msgstr "Le lien a été créé."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:606
+msgid "No menu items found."
+msgstr "Aucun lien trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:637
+msgid "New pages will be automatically added to this menu."
+msgstr "Toutes les nouvelles pages seront ajoutées automatiquement à ce menu."
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:679
+msgid "Edit Menu Item"
+msgstr "Modifier le lien"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:834
+#, php-format
+msgid "Menu item couldn't be created! Error: %s"
+msgstr "Le lien n'a pas pu être créé ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:890
+#, php-format
+msgid "Menu item couldn't be updated! Error: %s"
+msgstr "Le lien n'a pas pu être mis à jour ! Erreur : %s"
 
