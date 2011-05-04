@@ -4805,3 +4805,182 @@ msgstr ""
 msgid "Menu item couldn't be updated! Error: %s"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:44
+msgid "Update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:48
+msgid "Download proccess couldn't be completed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:49
+msgid "Please make sure you have an active internet connection and it is accessible by me or contact webmaster."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:72
+msgid "SQL"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:122
+msgid "Test has been successfully completed."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:131
+msgid "Update has been successfully installed."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:153
+#, php-format
+msgid "File \"%s\" couldn't be found!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:161
+#, php-format
+msgid "Opening %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:168
+msgid "Empty or invalid update!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:174
+msgid "Ok"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:177
+msgid "Running SQL queries"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:282
+#, php-format
+msgid "Uncompressing %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:289
+msgid "Out of Memory!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:317
+msgid "Creating directories"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:334
+msgid "not writable"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:366
+msgid "Writing files"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:387
+msgid "Skipped"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:389
+msgid "for maintaining your template"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:402
+msgid "for maintaining your changes"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:498
+msgid "Fixing errors"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:500
+msgid "Run the following command to fix the above errors."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:510
+msgid "Run the following command to revert permissions after done."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:555
+msgid "Check for Updates"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:566
+msgid "Updates"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:574
+#, php-format
+msgid "Update ver. %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:589
+msgid "Test run the update for problems"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:590
+msgid "Test Update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:657
+msgid "Updates Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:664
+msgid "Please note, while your site is being updated, it will enter maintenance mode but as soon as the update process is complete, it will return to normal mode. By testing an update no changes will be made to your system!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:674
+#, php-format
+msgid "Last checked on %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:692
+#, php-format
+msgid "ver. %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:699
+msgid "No updates found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:726
+msgid "Couldn't check jCore server's version number!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:727
+#, php-format
+msgid "Please make sure \"%s\" is readable by me or contact webmaster."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:746
+msgid "Couldn't check for updates!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:805
+msgid "connection timed out"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:826
+#, php-format
+msgid "Downloading %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:828
+msgid "connecting"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:855
+msgid "sending request"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:918
+msgid "cached"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:945
+msgid "Local file couldn't be created!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:1015
+msgid "Invalid response returned by jCore.net!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:1107
+msgid "Install Update"
+msgstr ""
