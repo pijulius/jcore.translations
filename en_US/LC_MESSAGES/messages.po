@@ -1109,7 +1109,7 @@ msgid "Activating Module"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/modules.class.php:134
-msgid "Module has been successfully installed."
+msgid "Module has been successfully activated."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/modules.class.php:136
@@ -1133,15 +1133,15 @@ msgid "Error"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/modules.class.php:180
-msgid "This module needs to be installed before it can be used."
+msgid "This module needs to be activated before it can be used."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/modules.class.php:187
-msgid "Install Module"
+msgid "Activate Module"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/modules.class.php:193
-msgid "Module Installation"
+msgid "Module Activation"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:28
