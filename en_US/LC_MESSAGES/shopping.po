@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: jCore 0.8\n"
+"Project-Id-Version: jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
 "PO-Revision-Date: 2011-01-05 20:23+0200\n"
@@ -1876,4 +1876,11 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3887
 msgid "Item option \"%s\" is required for \"%s\"!"
+msgstr ""
+
+#: Changes in 0.9
+#: ---------------
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4610
+msgid "Views"
 msgstr ""
