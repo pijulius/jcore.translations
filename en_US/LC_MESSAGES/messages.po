@@ -4988,3 +4988,8 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/settings.class.php
 msgid "Manual Gettext"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:414
+#, php-format
+msgid "query took: %s seconds"
+msgstr ""
