@@ -783,7 +783,7 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/sql.class.php:392
 #, php-format
-msgid "(affected rows: %s)"
+msgid "affected rows: %s"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:46
