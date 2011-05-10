@@ -4984,3 +4984,7 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:1107
 msgid "Install Update"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php
+msgid "Manual Gettext"
+msgstr ""
