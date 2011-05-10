@@ -4993,3 +4993,8 @@ msgstr ""
 #, php-format
 msgid "query took: %s seconds"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:492
+#, php-format
+msgid "Deleting file %s"
+msgstr ""
