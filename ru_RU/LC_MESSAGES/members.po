@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Перевод на русский язык jCore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:45+0200\n"
+"PO-Revision-Date: 2011-05-06 14:57+0300\n"
+"Last-Translator: jcore.ru <info@jcore.ru>\n"
+"Language-Team: jcore.ru <translate@jcore.ru>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: Member Dynamic Forms
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Verification code"
+msgstr "Код подтверждения"
+
+msgid "Please note that you will need to enter a valid e-mail address before your account is activated. You will receive an e-mail at the address you provided that contains an account activation link."
+msgstr "Обратите внимание, что вам необходимо указать действующий адрес электронной почты. Вы получите письмо по электронной почте на указанный вами адрес, которое будет содержать ссылку для активации Вашей учетной записи."
+
+msgid "Username"
+msgstr "Пользователь"
+
+msgid "Email address"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Адрес сайта"
+
+msgid "Show Avatar"
+msgstr "Показывать аватар"
+
+msgid "Stay Logged In"
+msgstr "Запомнить меня"
+
+msgid "Disable Notification Emails"
+msgstr "Отключить электронные уведомления"
+
+msgid "Change password"
+msgstr "Сменить пароль"
+
+msgid "New password"
+msgstr "Новый пароль"
+
+msgid "Retype password"
+msgstr "Введите пароль еще раз"
+
+msgid "(<a href='http://gravatar.com' target='_blank'>Change Avatar</a>)"
+msgstr "(<a href='http://gravatar.com' target='_blank'>Сменить аватар</a>)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:14
+msgid "Site Members"
+msgstr "Пользователи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:15
+msgid "Forms for My Account, Register and Login pages"
+msgstr "Формы учетной записи для регистрации и доступа в систему"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:22
+msgid "Member Account"
+msgstr "Учетная запись"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:52
+msgid "Your account has been successfully updated."
+msgstr "Учетная запись обновлена"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:64
+msgid "Member Registration"
+msgstr "Регистрация"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:88
+msgid "<b>Thank you for your registration.</b><br /> Your account has been created. However we require account activation, an activation key has been sent to the e-mail address you provided. Please check your e-mail for further information."
+msgstr "<b>Благодарим вас за регистрацию.</b><br>Ваша учетная запись была создана. Однако вам необходимо активировать вашу учетную запись, ключ активации был отправлен на адрес электронной почты, который вы указали. Пожалуйста, проверьте свой адрес электронной почты для получения дополнительной информации."
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:96
+msgid "<b>Thank you for your registration.</b><br /> An email has been sent to you with the necessary information to login to your account."
+msgstr "<b>Благодарим вас за регистрацию.</b><br>На ваш адрес электронной почты было отправлено письмо с необходимой информацией для управления вашей учетной записью."
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:243
+msgid "Form Settings"
+msgstr "Настройки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:337
+msgid "Member Forms Administration"
+msgstr "Управление регистрационной формой"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:363
+msgid "No member forms found."
+msgstr "Формы не найдены"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:378
+msgid "Member Registration Form"
+msgstr "Регистрационная форма"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:383
+msgid "Member Login / Account Form"
+msgstr "Вход"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/members.class.php:389
+msgid "New account registration has been temporarily suspended. Please try again later."
+msgstr "Регистрация новых учетных записей временно приостановлена. Пожалуйста, повторите попытку позже."
+

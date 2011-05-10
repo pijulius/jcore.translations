@@ -1,0 +1,4705 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Перевод на русский язык jCore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 18:39+0200\n"
+"PO-Revision-Date: 2011-05-06 17:29+0300\n"
+"Last-Translator: jcore.ru <info@jcore.ru>\n"
+"Language-Team: jcore.ru <translate@jcore.ru>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: Global settings
+msgid "Page Settings"
+msgstr "Основные"
+
+msgid "Meta Keywords"
+msgstr "Ключевые слова"
+
+msgid "Meta Description"
+msgstr "Описание"
+
+msgid "Webmaster Email"
+msgstr "Email вэбмастера"
+
+msgid "Webmaster BCC Email"
+msgstr "Скрытый(BCC) Email:"
+
+msgid "TimeZone"
+msgstr "Временная зона"
+
+msgid "Charset"
+msgstr "Кодировка"
+
+msgid "404 Error Text"
+msgstr "Страница ошибки 404"
+
+msgid "Date Format"
+msgstr "Формат даты"
+
+msgid "Time Format"
+msgstr "Формат времени"
+
+msgid "First Weekday"
+msgstr "Первый день недели"
+
+msgid "Picture Settings"
+msgstr "Изображения"
+
+msgid "Thumbnail Height"
+msgstr "Высота"
+
+msgid "Thumbnail Width"
+msgstr "Ширина"
+
+msgid "Watermark"
+msgstr "Водяной знак"
+
+msgid "Watermark Text"
+msgstr "Текст водяного знака"
+
+msgid "Watermark Text Font"
+msgstr "Шрифт текста водяного знака"
+
+msgid "Watermark Logo"
+msgstr "Картинка водяного знака"
+
+msgid "Watermark Position"
+msgstr "Позиция водяного знака"
+
+msgid "Maximum Failure Attempts"
+msgstr "Макс. кол-во попыток"
+
+msgid "Time Minutes"
+msgstr "Время (минуты)"
+
+msgid "Maximum Failure Attempts Before TwoWeeks Ban"
+msgstr "Макс. кол-во попыток перед блокировкой на неделю"
+
+msgid "Email Notification"
+msgstr "Уведомление по Email"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Maximum Simultaneous Logins"
+msgstr "Макс. одновременные сеансы"
+
+msgid "Maintenance Settings"
+msgstr "Блокировка"
+
+msgid "Website Suspended"
+msgstr "Блокировка сайта"
+
+msgid "Suspend Text"
+msgstr "Текст для посетителей<br>при блокировке сайта"
+
+msgid "Notification Text"
+msgstr "Текст уведомления"
+
+msgid "Registrations Suspended"
+msgstr "Блокировка регистрации"
+
+msgid "Logins Suspended"
+msgstr "Блокировка авторизации"
+
+msgid "Functionality Settings"
+msgstr "Функциональность"
+
+msgid "Ajax Paging"
+msgstr "Ajax Пейджинг"
+
+msgid "Blog Ping On New Posts"
+msgstr "Включить пинг статей"
+
+msgid "Blog Ping Servers"
+msgstr "Пинг сервер"
+
+msgid "Default Locale"
+msgstr "Язык по умолчанию"
+
+msgid "Minimum Password Length"
+msgstr "Минимальная длина пароля"
+
+msgid "Username Changes Disabled"
+msgstr "Выкл. изменение имени пользователя"
+
+msgid "Avatars Disabled"
+msgstr "Отключить аватар"
+
+msgid "Avatars Size"
+msgstr "Размер аватара"
+
+msgid "Default Avatar URL"
+msgstr "URL адреса аватара по умолчанию"
+
+msgid "Email Settings"
+msgstr "Почта"
+
+msgid "Use SMTP"
+msgstr "Использовать SMTP"
+
+msgid "Use SSL SMTP"
+msgstr "Использовать SSL SMTP"
+
+msgid "SMTP Host"
+msgstr "SMTP хост"
+
+msgid "SMTP Port"
+msgstr "SMTP порт"
+
+msgid "SMTP Username"
+msgstr "SMTP пользователь"
+
+msgid "SMTP Password"
+msgstr "SMTP пароль"
+
+msgid "PGP Encrypt"
+msgstr "PGP Шифрование"
+
+msgid "PGP Public Keys Directory"
+msgstr "Каталог PGP ключей"
+
+msgid "PGP Binary"
+msgstr "Каталог двоичных PGP ключей"
+
+msgid "Comments Settings"
+msgstr "Комментарии"
+
+msgid "Moderated Comments"
+msgstr "Модерировать"
+
+msgid "Moderated Comments By Approval"
+msgstr "До утверждения"
+
+msgid "Moderated Comments Pending Minutes"
+msgstr "Через определенное время"
+
+msgid "jQuery Settings"
+msgstr "jQuery"
+
+msgid "Load Plugins"
+msgstr "Плагины"
+
+msgid "Load Admin Plugins"
+msgstr "Плагины администрирования"
+
+msgid "Disabled"
+msgstr "Выключено"
+
+msgid "Security Image Settings"
+msgstr "Защитная картинка"
+
+msgid "Code Length"
+msgstr "Длина кода"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+msgid "Random Lines"
+msgstr "Случайные линии"
+
+msgid "Foreground Color"
+msgstr "Основной цвет"
+
+msgid "Background Color"
+msgstr "Цвет фона"
+
+msgid "Random Words"
+msgstr "Случайные слова"
+
+msgid "Random Fonts"
+msgstr "Случайные шрифты"
+
+msgid "Admin Settings"
+msgstr "Административные"
+
+# Отображает количество записей на значке пункта меню
+msgid "Items Counter Enabled"
+msgstr "Отображать количество записей на картинке пункта меню"
+
+# Выпадающий список, в правом верхнем углу
+msgid "Favorite Links Enabled"
+msgstr "Отображать избранные ссылки"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Get Help"
+msgstr "Помощь"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:98
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:453
+msgid "New Language"
+msgstr "Новый язык"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:102
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:37
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:91
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:156
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:31
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:35
+msgid "Pages / Posts"
+msgstr "Страницы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:105
+msgid "Blocks"
+msgstr "Блоки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:111
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:45
+msgid "Title"
+msgstr "Заголовок"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:116
+msgid "e.g. English"
+msgstr "например, English"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:119
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:34
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:39
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:74
+msgid "Path"
+msgstr "Путь"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:126
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:128
+msgid "e.g. en"
+msgstr "нпример, en"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:131
+msgid "Locale Directory"
+msgstr "Каталог"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:138
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:140
+msgid "e.g. en_UK"
+msgstr "например, en_UK"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:143
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:45
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:240
+msgid "Additional Options"
+msgstr "Дополнительные настройки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:148
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:287
+msgid "Default"
+msgstr "По умолчанию"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:156
+msgid "Deactivated"
+msgstr "Выкл."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:165
+msgid "(marked with strike through)"
+msgstr "(не будет отображаться на сайте, а название будет помечено зачеркнутой линией)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:170
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:281
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:56
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:147
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:281
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:404
+msgid "Order"
+msgstr "№"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:217
+msgid "Languages have been successfully re-ordered."
+msgstr "Языки были успешно переупорядочены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:228
+msgid "Language has been successfully deleted."
+msgstr "Язык был успешно удален."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:245
+msgid "Language has been successfully updated."
+msgstr "Язык был успешно обновлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:247
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:264
+msgid "View Pages"
+msgstr "Просмотр страниц"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:251
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:269
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:298
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:342
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:162
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:196
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:166
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:316
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:377
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:379
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:393
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:421
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:490
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:159
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:173
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:250
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:384
+msgid "Edit"
+msgstr "Редактировать"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:262
+msgid "Language has been successfully created."
+msgstr "Язык был успешно создан."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:285
+msgid "Title / Path"
+msgstr "Название / Путь"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:289
+msgid "Locale"
+msgstr "Язык"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:300
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:349
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:164
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:203
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:411
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:534
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:318
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:384
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:423
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:507
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:252
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:391
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:448
+msgid "Delete"
+msgstr "Удалить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:325
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:548
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:553
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:558
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:339
+msgid "Yes"
+msgstr "Да"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:359
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:213
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:576
+msgid "Reorder"
+msgstr "Сортировать"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:361
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:215
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:578
+msgid "Reset"
+msgstr "Сброс"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:427
+msgid "Languages Administration"
+msgstr "Управление языками"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:452
+msgid "Edit Language"
+msgstr "Редактирование языка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:463
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:317
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:491
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:708
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:633
+msgid "Cancel"
+msgstr "Отменить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:495
+msgid "No languages found. Default en_US will be used for translations (can be changed in Global Settings)."
+msgstr "Языки не найдены. По умолчанию будет использован en_US (может быть изменено в \"Настройках\" системы)."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:575
+#, php-format
+msgid "Language couldn't be created! Error: %s"
+msgstr "Язык не может быть создан! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:623
+#, php-format
+msgid "Language couldn't be updated! Error: %s"
+msgstr "Язык не может быть обновлен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:30
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:149
+msgid "Value"
+msgstr "Значение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:37
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:153
+msgid "Selected"
+msgstr "Выбранный"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:50
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:151
+msgid "Alternative Title"
+msgstr "Альтернативное название"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:102
+msgid "Field values have been successfully re-ordered."
+msgstr "Поле значения успешно переоформлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:113
+msgid "Field value has been successfully deleted."
+msgstr "Поле значения были успешно удалено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:127
+msgid "Field value has been successfully updated."
+msgstr "Поле значения были успешно обновлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:137
+msgid "Field value has been successfully created."
+msgstr "Поле значения были успешно создано."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:277
+msgid "Field Values"
+msgstr "Значения поля"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:306
+msgid "Edit Field Value"
+msgstr "Редактирование значения поля"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:307
+msgid "New Field Value"
+msgstr "Новое значение поля"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:345
+msgid "No field values found."
+msgstr "Поле значения не найдено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:408
+#, php-format
+msgid "Field value couldn't be added! Error: %s"
+msgstr "Поле значения не добавлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfieldvalues.class.php:441
+#, php-format
+msgid "Field value couldn't be updated! Error: %s"
+msgstr "Поле значения не обновлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:31
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:88
+msgid "Template Files"
+msgstr "Файлы шаблонов"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:34
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:105
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:153
+msgid "JS Editor"
+msgstr "Редактор JS"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:43
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:97
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:165
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:401
+msgid "Template"
+msgstr "Шаблоны"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:51
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:85
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:150
+msgid "CSS Editor"
+msgstr "Редактор CSS"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:61
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:115
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:183
+msgid "Write access is required to access this area!"
+msgstr "К этой области необходимы права на запись!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:142
+msgid "New File"
+msgstr "Новый файл"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:159
+msgid "Content Files"
+msgstr "Содержание файла"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:173
+msgid "Images"
+msgstr "Изображения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:222
+msgid "Upload Template"
+msgstr "Загрузка шаблона"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:226
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:303
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:317
+msgid "View Website"
+msgstr "Сайт"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:232
+msgid "Template File"
+msgstr "Файл шаблона"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:238
+msgid "e.g. template-name.tar.gz"
+msgstr "пример, template-name.tar.gz"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:252
+msgid "Upload another template"
+msgstr "Загрузить другой шаблон"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:290
+msgid "Template has been successfully deleted."
+msgstr "Шаблон был успешно удален."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:301
+msgid "Template has been successfully activated."
+msgstr "Шаблон был успешно активирован."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:315
+msgid "Default template has been successfully reset for your website."
+msgstr "Шаблон по умолчанию обновлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:329
+msgid "Template has been successfully set for Admin section."
+msgstr "Шаблон был успешно установлен в качестве шаблона Панели управления."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:331
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:345
+msgid "Refresh"
+msgstr "Обновить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:343
+msgid "Default template has been successfully reset for Admin section."
+msgstr "Шаблон установленный в Панеле управления по умолчанию обновлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:357
+msgid "No template selected to be uploaded! Please select at least one template to upload."
+msgstr "Не выбран шаблон для загрузки! Пожалуйста, выберите по крайней мере один шаблон для загрузки."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:379
+#, php-format
+msgid "There were problems uploading some of the templates you selected. The following templates couldn't be uploaded: %s."
+msgstr "При загрузке шаблонов возникли проблемы. Следующие шаблоны не могут быть загружены: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:389
+#, php-format
+msgid "Templates have been successfully uploaded. The following templates have been uploaded: %s."
+msgstr "Успешно загружены. Следующие шаблоны были загружены: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:452
+#, php-format
+msgid "by %s"
+msgstr "Автор: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:465
+msgid "Tags"
+msgstr "Тэги"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:470
+msgid "Location"
+msgstr "Расположение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:485
+msgid "Restore default template for your website"
+msgstr "Восстановление шаблона по умолчанию для вашего сайта"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:487
+msgid "Deactivate"
+msgstr "Отключить"
+
+# Всплывающая подсказка кнопки устанвки шаблона Панели управления по умолчанию. При установленном шаблоне.
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:497
+msgid "Restore default template for Admin section"
+msgstr "Восстановление шаблона по умолчанию для Панели управления"
+
+# Текст кнопки устанвки шаблона Панели управления по умолчанию. При установленном шаблоне.
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:499
+msgid "Unset Admin"
+msgstr "Панель управления"
+
+# Всплывающая подсказка кнопки устанвки шаблона Панели управления по умолчанию.
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:506
+msgid "Set template as default for Admin section"
+msgstr "Установить шаблон по умолчанию для Панели управления"
+
+# Текст кнопки устанвки шаблона Панели управления по умолчанию.
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:508
+msgid "Set Admin"
+msgstr "Панель управления"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:519
+msgid "Activate and set it as the current template for your website"
+msgstr "Активировать и установить его в качестве текущего шаблона для вашего сайта"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:521
+msgid "Activate"
+msgstr "Активировать"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:617
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:623
+msgid "Template Administration"
+msgstr "Управление шаблонами"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:629
+msgid "Below are the available templates found in the \"<b>template/</b>\" folder. To install a new template just extract it to the \"<b>template/</b>\" folder, or using the form below select the template package file (e.g. template-name.tar.gz)."
+msgstr "Ниже перечислены доступные шаблоны найденные в \"<b>template/</b>\"  папке. Для установки нового шаблона просто распакуйте его в \"<b>template/</b>\" папку, или с помощью формы ниже выберите архив с файлами шаблона (например, template-name.tar.gz)."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:641
+msgid "Edit the CSS template file"
+msgstr "Изменить CSS файл шаблона"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:644
+msgid "Edit CSS File"
+msgstr "Именить CSS файл"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:651
+msgid "Edit the JavaScript template file"
+msgstr "Именить JavaScript файл шаблона"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:654
+msgid "Edit JS File"
+msgstr "Именить JavaScript файл"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:661
+msgid "Browse template Images"
+msgstr "Обзор изображения шаблона"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:664
+msgid "Template Images"
+msgstr "Изображение шаблона"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:673
+msgid "Browse and download more templates"
+msgstr "Обзор и загрузки дополнительных шаблонов"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:676
+msgid "Get Templates"
+msgstr "Получить шаблоны"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:701
+msgid "Modify Activated Template"
+msgstr "Изменить активный шаблон"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:721
+msgid "Upload New Template"
+msgstr "Загрузить новый шаблон"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:767
+msgid "No installed templates found."
+msgstr "Установленные шаблоны не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:795
+#, php-format
+msgid "Template couldn't be added! Error: %s"
+msgstr "Шаблон не добавлен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:819
+#, php-format
+msgid "Template couldn't be updated! Error: %s"
+msgstr "Шаблон не обновлен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:857
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:948
+msgid "Invalid or template installer script cannot be found."
+msgstr "Скрипт сценария установки шаблона не найден или имеет неправильный формат."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:894
+#, php-format
+msgid "Template couldn't be deleted but it is now safe to be deleted manually by just simply removing the \"%s\" folder."
+msgstr "Шаблон не может быть удален, но вы можете удалить его вручную, просто удалив \"%s\" папку."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:915
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:997
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1023
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1045
+msgid "The template you selected cannot be found!"
+msgstr "Выбранный шаблон не найден!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1063
+msgid "Couldn't extract template as it is to big to be processed with the current memory limit set. Please try to extract it manually or increment the PHP memory limit."
+msgstr "Невозможно получить шаблон, т.к. большой размер файла."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1077
+msgid "Template couldn't be extracted! Error: Invalid template! Please make sure to upload a valid tar.gz template file."
+msgstr "Шаблон не установлен! Ошибка: неподдерживаемый формат архива! Пожалуйста, убедитесь, что файл архива шаблона имеет расширение tar.gz."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1090
+msgid "Template couldn't be extracted! Error: Empty template! The template you selected seems to be an empty tar.gz file."
+msgstr "Шаблон не установлен! Ошибка: Пустой архив шаблона! Выбран, пустой файл tar.gz."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1106
+#, php-format
+msgid "Template couldn't be extracted! Error: \"%s\" directory couldn't be created."
+msgstr "Шаблон не установлен! Ошибка: не возможно создать \"%s\" каталог."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1126
+#, php-format
+msgid "Template couldn't be extracted! Error: \"%s\" file couldn't be created."
+msgstr "Шаблон не установлен! Ошибка: не возможно создать \"%s\" файл."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1303
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:708
+msgid "Request can only be accessed by administrators!"
+msgstr "Только для администраторов!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1335
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1362
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1389
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:727
+msgid "You do not have permission to access this path!"
+msgstr "У вас нет разрешения на доступ к этой директории!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:207
+#, php-format
+msgid "Query took %s seconds"
+msgstr "Запрос занял %s секунд"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:208
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:363
+msgid "SQL Error:"
+msgstr "SQL ошибка:"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:309
+msgid "Could not establish a connection to the database."
+msgstr "Не удалось установить соединение с базой данных."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:312
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:320
+msgid "Site Temporary Unavailable"
+msgstr "Сайт временно не доступен"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:326
+#, php-format
+msgid "We are sorry for the inconvenience and appreciate your patience during this time. Please wait for a few minutes and <a href='%s'>try again</a>."
+msgstr "Приносим извинения за причиненные неудобства. Пожалуйста, подождите несколько минут и <a href='%s'> попробуйте еще раз.</a>"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:370
+msgid "Backtrace"
+msgstr "Отладчик"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:377
+msgid "SQL Error! Please contact site administrator or login to learn more about this error."
+msgstr "SQL ошибка! Пожалуйста, свяжитесь с администратором сайта или Войдите в систему, чтобы узнать больше об этой ошибке."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:379
+msgid "SQL Error! Please contact site administrator."
+msgstr "SQL ошибка! Пожалуйста, свяжитесь с администратором сайта."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sql.class.php:392
+#, php-format
+msgid "(affected rows: %s)"
+msgstr "(затронутые строки: %s)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:46
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:49
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:89
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:92
+msgid "e.g. admin/content/pages/1/posts"
+msgstr "пример, admin/content/pages/1/posts"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:57
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:83
+msgid "Select path"
+msgstr "Выбрать путь"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:66
+msgid "Add another path"
+msgstr "Добавить еще один путь"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:96
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:307
+msgid "Permission"
+msgstr "Права"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:111
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:480
+msgid "New Permission"
+msgstr "Новые права"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:115
+msgid "Users"
+msgstr "Пользователи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:138
+msgid "Permission has been successfully deleted."
+msgstr "Разрешение было успешно удалено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:149
+msgid "No paths have been defined! Please define at least one path to set permission to."
+msgstr "Пути не были определены! Пожалуйста, определите по крайней мере один путь для установки разрешения."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:164
+msgid "Permission has been successfully updated."
+msgstr "Разрешение было успешно обновлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:191
+#, php-format
+msgid "There were problems adding some of the permissions you defined. The following permissions couldn't be added: %s."
+msgstr "Ошибка: следующие права не могут быть включены: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:201
+#, php-format
+msgid "Permission(s) have been successfully added. The following permissions have been added: %s."
+msgstr "Права добавлены. Следующие права были добавлены: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:213
+msgid "Available Sections"
+msgstr "Доступные разделы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:305
+msgid "Section / Path"
+msgstr "Раздел / Путь"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:359
+msgid "Unknown Section"
+msgstr "Неизвестный раздел"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:436
+msgid "User Permissions"
+msgstr "Права пользователя"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:442
+msgid "User will have full access to all paths (if marked as Admin) unless you define some paths below."
+msgstr "Пользователь будет иметь доступ в Панель управления только в том случае, если у него в настройках активирован пункт \"Доступ в ПУ\"."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:453
+msgid "You are not allowed to modify your own permissions!"
+msgstr "Вы не можете изменить ваши собственные права!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:479
+msgid "Edit Permission"
+msgstr "Редактирование разрешения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:519
+msgid "No permissions found."
+msgstr "Права  не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:561
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:605
+#, php-format
+msgid "Permission to path \"%s\" already exists."
+msgstr "Разрешение на путь \"%s\" уже существует."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:578
+#, php-format
+msgid "Permission couldn't be set! Error: %s"
+msgstr "Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:621
+#, php-format
+msgid "Permission couldn't be updated! Error: %s"
+msgstr "Разрешение не обновлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:648
+msgid "Read"
+msgstr "Чтение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:650
+msgid "Write"
+msgstr "Запись"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/userpermissions.class.php:652
+msgid "Undefined!"
+msgstr "Неопределено!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:24
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:698
+msgid "New Field"
+msgstr "Новое поле"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:28
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:32
+msgid "Forms"
+msgstr "Формы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:52
+msgid "Type"
+msgstr "Тип"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:120
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:408
+msgid "Value Type"
+msgstr "Тип значения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:152
+msgid "Value Options"
+msgstr "Значение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:157
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:517
+msgid "Field Name"
+msgstr "Имя поля"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:164
+msgid "Value(s)"
+msgstr "Значения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:172
+msgid "Enter one value per line. Values can also have two arguments if required (title and value), for e.g. \"Tech Department = tech@domain.com\". To have a value preselected as the default mark it with an asterisk (*), for e.g. \"*Tech Deparment\""
+msgstr "Введите одно значение в каждой строке. Значения также могут иметь два аргумента, если требуется (заголовок и значение), например, для \"Технология Департамента = tech@domain.com\". Чтобы иметь значение заданное по умолчанию отметьте его со звездочкой (*), пример, для \"* Технология Кафедра\""
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:186
+msgid "Display Options"
+msgstr "Отображение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:191
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:537
+msgid "Style"
+msgstr "Стиль"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:198
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:532
+msgid "Additional Text"
+msgstr "Текст справа от поля"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:205
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:522
+msgid "Placeholder Text"
+msgstr "Текст в поле ввода"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:211
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:527
+msgid "Tooltip Text"
+msgstr "Всплывающая подсказка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:219
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:542
+msgid "Viewable by"
+msgstr "Видимость"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:245
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:547
+msgid "Required"
+msgstr "Обязательно"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:254
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:552
+msgid "Searchable"
+msgstr "Поиск"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:262
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:557
+msgid "Data Preview"
+msgstr "Просмотр"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:270
+msgid "(field will be used as preview when browsing saved data)"
+msgstr "(поле будет использоваться в качестве предварительного просмотра при просмотре сохраненных данных)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:275
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:562
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:322
+msgid "You are NOT allowed to delete a protected field!"
+msgstr "Вы не можете удалять защищенное поле!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:341
+msgid "Fields have been successfully re-ordered."
+msgstr "Поля были успешно переоформлены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:352
+msgid "Field has been successfully deleted."
+msgstr "Поле было успешно удалено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:377
+msgid "Field has been successfully updated."
+msgstr "Поле было успешно обновлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:390
+msgid "Field has been successfully created."
+msgstr "Поле было успешно создано."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:406
+msgid "Title / Type"
+msgstr "Название / Тип"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:415
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:465
+msgid "Values"
+msgstr "Значения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:498
+msgid "Protected Field"
+msgstr "Защищенное поле"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:500
+msgid "Protected"
+msgstr "Защищенное"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:658
+msgid "Form Fields"
+msgstr "Поля формы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:688
+msgid "Form couldn't be found!"
+msgstr "Форма не найдена!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:697
+msgid "Edit Field"
+msgstr "Редактирование поля"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:729
+msgid "Preview Dynamic Form"
+msgstr "Предварительный просмотр"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:752
+msgid "No form fields found."
+msgstr "Поля формы не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:794
+msgid "Field for the storage table couldn't be added. Please see the SQL error above and report it to webmaster."
+msgstr "Поле для хранения таблицы не добавлено. Пожалуйста, сообщите об ошибке SQL(указана выше) вебмастеру."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:873
+#, php-format
+msgid "Field couldn't be created! Error: %s"
+msgstr "Поле не создано! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:898
+msgid "Field for the storage table couldn't be edited. Please see the SQL error above and report it to webmaster."
+msgstr "Поле для хранения таблицы не отредактировано. Пожалуйста, сообщите об ошибке SQL(указана выше) вебмастеру."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:964
+#, php-format
+msgid "Field couldn't be updated! Error: %s"
+msgstr "Поле не обновлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:1077
+msgid "Field selected to be edited doesn't exist!"
+msgstr "Выбранного поля для редактирования не существует!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:1225
+msgid "Admins Only"
+msgstr "Администраторы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:1227
+msgid "Guests"
+msgstr "Посетители"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:1229
+msgid "Members"
+msgstr "Пользователи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformfields.class.php:1231
+msgid "Everyone"
+msgstr "Все"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:53
+msgid "Installing files"
+msgstr "Создание необходимых файлов"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:69
+msgid "Running SQL Queries"
+msgstr "Создание таблиц в базе данных"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:83
+msgid "Couldn't update template.css file."
+msgstr "Не удалось обновить файл template.css"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:84
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:91
+#, php-format
+msgid "Please make sure \"%s\" is writable by me or contact webmaster."
+msgstr "Пожалуйста, убедитесь, что у \"%s\" установлены права или свяжитесь с веб-мастером."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:90
+msgid "Couldn't update template.js file."
+msgstr "Не удалось обновить файл template.js"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:126
+msgid "Activating Module"
+msgstr "Активация модуля"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:134
+msgid "Module has been successfully installed."
+msgstr "Модуль был успешно установлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:136
+msgid "View Module"
+msgstr "Просмотреть модуль"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:144
+msgid "No SQL queries to run."
+msgstr "Нет SQL запросов для запуска."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:150
+msgid "No files to install."
+msgstr "Нет файлов для установки."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:169
+msgid "Success"
+msgstr "Успешно"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:170
+msgid "Error"
+msgstr "Ошибка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:180
+msgid "This module needs to be installed before it can be used."
+msgstr "Этот модуль не установлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:187
+msgid "Install Module"
+msgstr "Установить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/modules.class.php:193
+msgid "Module Installation"
+msgstr "Установка модуля"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:28
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:619
+msgid "New Data"
+msgstr "Новые данные"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:102
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:113
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:124
+msgid "Data has been successfully deleted."
+msgstr "Данные были успешно удалены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:157
+msgid "Data has been successfully updated."
+msgstr "Данные были успешно обновлены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:170
+msgid "Data has been successfully added."
+msgstr "Данные были успешно добавлены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:191
+msgid "ID"
+msgstr "ID"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:340
+msgid "No"
+msgstr "Нет"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:440
+msgid "search..."
+msgstr "поиск..."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:442
+msgid "Search"
+msgstr "Поиск"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:451
+msgid "Delete All"
+msgstr "Удалить все"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:534
+msgid "Data"
+msgstr "Данные"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:579
+msgid "You are NOT allowed to access form data!"
+msgstr "Отсутствует доступ к данным!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:588
+msgid "You should be automatically redirected to browse form data, if for some reason you aren't please click the \"Browse Data\" button below."
+msgstr "Вы будете автоматически перенаправлены, чтобы просмотреть данные. Если этого не произошло, то пожалуйста, нажмите \"Просмотр данных\", расположенную ниже."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:595
+msgid "Browse Data"
+msgstr "Просмотр  данных"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:609
+msgid "No SQL Table defined for this form."
+msgstr "SQL таблицы для этой формы не определены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:618
+msgid "Edit Data"
+msgstr "Редактирование данных"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:674
+msgid "No data found."
+msgstr "Данные не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:755
+#, php-format
+msgid "Could not save data to the DB! Error: %s"
+msgstr "Сохранение не удалось! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:818
+#, php-format
+msgid "Could not update DB data! Error: %s"
+msgstr "Обновить не удалось! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/email.class.php:213
+#, php-format
+msgid "Email couldn't be sent. Please try again or send your email <a href='mailto:%s'>manually</a>."
+msgstr "Сообщение не отправлено. Пожалуйста, попробуйте еще раз или отправьте сообщение <a href='mailto:%s'>в ручную</a>."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/email.class.php:247
+msgid "Couldn't send email using SMTP as SMTP Host and/or SMTP Port are not defined! Please go to your administration panel and in the Global Settings define both required values."
+msgstr "Не удалось отправить сообщение с помощью SMTP. SMTP хост и/или порт не определены! Пожалуйста, перейдите в панель администрирования и в глобальных настройках укажите все необходимые значения."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/email.class.php:277
+#, php-format
+msgid "SMTP connection couldn't be established. %s"
+msgstr "SMTP-соединение не установлено. %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/email.class.php:347
+msgid "Connection broken up. Please make sure to define the right SMTP port, 465 for SSL and 25 for normal connections."
+msgstr "Подключение через SMTP разорвано. Пожалуйста, убедитесь, что определены правельные порты - 465 для SSL и 25 для обычного соединения."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/email.class.php:351
+#, php-format
+msgid "SMTP error: %s"
+msgstr "SMTP ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/email.class.php:367
+msgid "Couldn't encrypt email as PGP Public Keys directory and/or PGP Binary file are not defined! Please go to your administration panel and in the Global Settings define both required values."
+msgstr "Не удалось шифрования электронной почты, т.к. каталог PGP открытых ключей и/или двоичных файлов не определены! Пожалуйста, перейдите в панель управления и в основных настройках укажите необходимые значения."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/email.class.php:389
+#, php-format
+msgid "Email couldn't be encrypted! Please make sure you have the right paths set for the PGP binary and public key files. %s"
+msgstr "Электронная почта не может быть зашифрована! Пожалуйста, убедитесь, что вы указали правильные пути для файлов PGP бинарных и открытых ключей. %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/url.class.php:479
+msgid "Searching for"
+msgstr "Поиск для"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/url.class.php:517
+msgid "clear"
+msgstr "очистить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/url.class.php:526
+msgid "Your search returned no results. Please make sure all words are spelled correctly or try fewer keywords by clicking on them to remove."
+msgstr "Поиск не дал результатов. Пожалуйста, убедитесь, что все слова написаны правильно или попробуйте использовать меньше ключевых слов."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/starrating.class.php:39
+msgid "Only registered users can rate."
+msgstr "Оценки могут выставлять только зарегистрированные пользователи."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/starrating.class.php:55
+#, php-format
+msgid "You already rated this %s."
+msgstr "Вы уже оценивали эту %s."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/starrating.class.php:75
+#, php-format
+msgid "Rating couldn't be stored! Error: %s"
+msgstr "Рейтинг не  сохранен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/starrating.class.php:97
+msgid "Thank you for your vote."
+msgstr "Спасибо за ваш голос."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/starrating.class.php:135
+#, php-format
+msgid "Your vote: %s (votes: %s, average: %s out of %s)"
+msgstr "Ваш голос: %s (голосов: %s, средний: %s из %s)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:46
+msgid "More Settings"
+msgstr "Другие настройки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:75
+msgid "Brute Force Protection has been turned ON."
+msgstr "Brute Force вкл."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:81
+msgid "Brute Force Protection has been turned OFF."
+msgstr "Brute Force выкл."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:92
+msgid "Password Trading Protection has been turned ON."
+msgstr "Защита включена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:98
+msgid "Password Trading Protection has been turned OFF."
+msgstr "Защита отключена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:109
+#, php-format
+msgid "IP \"%s\" has been successfully removed from the list."
+msgstr "IP \"%s\" был успешно удален из списка."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:122
+#, php-format
+msgid "User \"%s\" has been successfully removed from the list."
+msgstr "Пользователь \"%s\" был успешно удален из списка."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:133
+msgid "IP"
+msgstr "IP"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:135
+msgid "Usernames used"
+msgstr "Имя пользователя уже используется"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:137
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:277
+msgid "Expires on"
+msgstr "Истекает"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:183
+msgid "For additional brute force protection settings please see"
+msgstr "Дополнительные настройки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:186
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:331
+msgid "Global Settings"
+msgstr "Система"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:234
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:379
+msgid "Turn Protection On/Off"
+msgstr "Включение защиты Вкл. / Выклю"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:242
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:387
+msgid "Turn OFF"
+msgstr "Выкл."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:243
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:388
+msgid "Turn ON"
+msgstr "Вкл."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:251
+msgid "Brute Force Protection"
+msgstr "Защита системы от подбора пароля (Brute Force)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:254
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:399
+msgid "ON"
+msgstr "Вкл."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:255
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:400
+msgid "OFF"
+msgstr "Выкл."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:263
+msgid "The logged IP adresses in the list below have been banned (because trying to login with different users in a short time) and won't be able to login until expiration date / time. To unban an IP just delete it from the list."
+msgstr "IP адреса в списоке ниже, запрещены (поскольку с них были произведены попытки Входа в систему с разными пользователями в короткое время). Для снятия запрета с IP адреса просто удалите его из списка."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:273
+msgid "User"
+msgstr "Пользователь"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:275
+msgid "IPs used"
+msgstr "IP адрес уже используется"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:328
+msgid "For additional password trading protection settings please see"
+msgstr "Для дополнительных настроек см."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:396
+msgid "Password Trading Protection"
+msgstr "Password Trading Protection"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:408
+msgid "The logged Users in the list below have been suspended (because of simultaneously logins from different IPs) and won't be able to login until expiration date / time. To unsuspend a user just delete it from the list."
+msgstr "Пользователи из списка ниже, были заблокированы (из-за попыток одновременного Входа в систему с разных IP-адресов). Чтобы разблокировать пользователя просто удалите его из списка."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:417
+msgid "Security Alerts Administration"
+msgstr "Управление сообщениями безопасности"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:466
+msgid "No brute force attempts have been logged."
+msgstr "Попыток подбора пароля, не происходило."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/security.class.php:496
+msgid "No password trading attempts have been logged."
+msgstr "Попыток одновременного ввода пользователя с разных IP не осуществлялось."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/gdata.class.php:28
+#, php-format
+msgid "Couldn't connect to %s!"
+msgstr "Не удается подключиться к %s!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/gdata.class.php:64
+#, php-format
+msgid "GData auth token couldn't be exchanged! Result: %s"
+msgstr "Номер аутентификации GData не может быть изменен! Результат: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/gdata.class.php:88
+#, php-format
+msgid "GData auth token has been successfully retrieved. <br /><b>Your new GData auth token is: %s</b>"
+msgstr "Успешно. <b>Ваш новый номер аутентификации GData: %s</b>"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:46
+msgid "Post has been successfully deleted."
+msgstr "Статья успешно удалена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:57
+msgid "No posts selected! Please select at least one post that you would like to copy and/or move."
+msgstr "Статья не выбрана! Пожалуйста, выберите хотя бы одну статью."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:66
+msgid "No page selected to copy and/or move posts to! Please select a page to move the posts to at the bottom of the list."
+msgstr "Не выбраны страницы для копирования и/или перемещения статей! Пожалуйста, выберите страницы для перемещения статей из списка."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:79
+msgid "The page you have selected to copy and/or move posts to does not exists. This could be happening because the page has been deleted meanwhile."
+msgstr "Страница, которую вы выбрали для копирования и/или перемещения статьи  не существует. Возможно, что страница была удалена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:94
+#, php-format
+msgid "Posts have been successfully moved over to \"%s\"."
+msgstr "Статья успешно перемещена в \"%s\"."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:107
+#, php-format
+msgid "Posts have been successfully copied over to \"%s\"."
+msgstr "Статья успешно скопирована в \"%s\"."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:121
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:76
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:118
+msgid "Settings"
+msgstr "Настройки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:143
+msgid "Display On All Pages"
+msgstr "Отображать на всех страницах"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:144
+msgid "On All Pages"
+msgstr "На всех страницах"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:145
+msgid "Display On Main Page"
+msgstr "Отображать на главной странице"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:146
+msgid "On Main Page"
+msgstr "На главной странице"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:196
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:662
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1737
+#, php-format
+msgid "%s views"
+msgstr "%s просмотров"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:256
+msgid "Copy / Move selected posts to:"
+msgstr "Копировать/Переместить выбранные статьи:"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:295
+msgid "Copy"
+msgstr "Копировать"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:297
+msgid "Move"
+msgstr "Переместить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:411
+msgid "Handling Posts"
+msgstr "Управление статьями"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:464
+msgid "No posts found."
+msgstr "Статьи не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:493
+#, php-format
+msgid "Post couldn't be copied! Error: %s"
+msgstr "Статью копировать не удалось! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:592
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:612
+#, php-format
+msgid "Post couldn't be moved! Error: %s"
+msgstr "Статью переместить не удалось! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:34
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:318
+msgid "New Link"
+msgstr "Новая ссылка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:48
+msgid "Link"
+msgstr "Ссылка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:118
+msgid "Links have been successfully re-ordered."
+msgstr "Ссылки были успешно сортированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:129
+msgid "Link has been successfully deleted."
+msgstr "Ссылка была успешно удалена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:143
+msgid "Link has been successfully updated."
+msgstr "Ссылка была успешно обновлена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:156
+msgid "Link has been successfully created."
+msgstr "Ссылка была успешно создана."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:172
+msgid "Title / Link"
+msgstr "Название / Ссылка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:292
+msgid "Favorite Links Administration"
+msgstr "Управление избранным"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:317
+msgid "Edit Link"
+msgstr "Редактирование ссылки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:356
+msgid "No links found."
+msgstr "Ссылки не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:418
+#, php-format
+msgid "Link couldn't be added! Error: %s"
+msgstr "Ссылка не добавлена! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/favoritelinks.class.php:451
+#, php-format
+msgid "Link couldn't be updated! Error: %s"
+msgstr "Ссылка не обновлена! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:43
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:587
+msgid "Folder couldn't be created."
+msgstr "Папка не может быть создана."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:52
+msgid "Folder has been successfully created."
+msgstr "Папка успешно создана."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:74
+msgid "File / Folder couldn't be deleted."
+msgstr "Не удалено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:83
+msgid "File / Folder has been successfully deleted."
+msgstr "Удалено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:94
+msgid "No file selected to be uploaded! Please select at least one file to upload."
+msgstr "Не выбран файл для загрузки! Пожалуйста, выберите по крайней мере один файл для загрузки."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:109
+msgid "File / Folder couldn't be renamed."
+msgstr "Не переименовано."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:118
+msgid "File / Folder has been successfully renamed."
+msgstr "Переименовано успешно."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:141
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:556
+#, php-format
+msgid "There were problems uploading some of the files you selected. The following files couldn't be uploaded: %s."
+msgstr "Обнаружены проблемы при загрузке файлов, которые вы выбрали. Следующие файлы не могут быть загружены: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:151
+#, php-format
+msgid "Files have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "Файлы были успешно загружены. Следующие файлы были загружены: %s."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:179
+msgid "No file selected to download!"
+msgstr "Не выбран файл для загрузки!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:219
+msgid "Folder name"
+msgstr "Название папки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:234
+msgid "File / Folder name"
+msgstr "Название файла / папки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:243
+msgid "File to upload"
+msgstr "Файл для загрузки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:261
+msgid "Upload another file"
+msgstr "Загрузить другой файл"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:282
+msgid "Size"
+msgstr "Размер"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:301
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:343
+#, php-format
+msgid "Change directory to %s"
+msgstr "Перейдите в каталог %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:319
+#, php-format
+msgid "Preview %s"
+msgstr "Просмотр %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:328
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:365
+#, php-format
+msgid "Download %s"
+msgstr "Загрузка %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:354
+#, php-format
+msgid "Link to %s"
+msgstr "Ссылка на %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:503
+msgid "Root Path not defined!"
+msgstr "Корневой путь не определен!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:517
+msgid "New Folder"
+msgstr "Новая папка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:533
+msgid "Edit File / Folder"
+msgstr "Редактирование файла / папки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/filemanager.class.php:635
+msgid "No files / directories found."
+msgstr "Файлы / папки не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:72
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:822
+msgid "New Picture"
+msgstr "Новое изображение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:91
+msgid "Upload a new picture"
+msgstr "Загрузить новое изображение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:96
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:134
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:152
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:580
+msgid "Picture"
+msgstr "Изображение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:103
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:105
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:140
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:142
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:241
+msgid "e.g. image.jpg, image.gif"
+msgstr "пример, image.jpg, image.gif"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:119
+msgid "Upload another picture"
+msgstr "Загрузить другое изображение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:147
+msgid "Already uploaded picture"
+msgstr "Уже загруженное изображение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:163
+msgid "Existing Picture (URL)"
+msgstr "На другом сервере (URL)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:167
+msgid "e.g. http://domain.com/image.jpg"
+msgstr "пример, http://domain.com/image.jpg"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:177
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:201
+msgid "No Thumbnail"
+msgstr "Нет миниатюры"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:185
+msgid "Thumbnail Options"
+msgstr "Настройки миниатюры"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:191
+msgid "Regenerate"
+msgstr "Сгенерировать"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:197
+msgid "(create a new thumbnail)"
+msgstr "(создать новую миниатюру)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:207
+msgid "(do not generate thumbnail)"
+msgstr "(не генерировать миниатюры)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:210
+msgid "No Sharpen"
+msgstr "Не изменять"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:216
+msgid "(do not apply sharpen effect to thumbnail)"
+msgstr "(не изменять миниатюру)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:219
+msgid "Width"
+msgstr "Ширина"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:228
+msgid "Height"
+msgstr "Высота"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:237
+msgid "Custom"
+msgstr "Пользавтельские"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:251
+msgid "Watermark Options"
+msgstr "Настройки водяного знака"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:256
+msgid "No Watermark"
+msgstr "Водяного знака нет"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:262
+msgid "(do not add watermark)"
+msgstr "(не добавлять водяные знаки)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:265
+msgid "Position"
+msgstr "Позиция"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:271
+msgid "e.g. 100% 100% (right-bottom), 0% 0% (left-top)"
+msgstr "пример, 100% 100% (right-bottom), 0% 0% (left-top)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:285
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:674
+msgid "Link to URL"
+msgstr "URL адрес"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:292
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:294
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:299
+msgid "e.g. http://domain.com"
+msgstr "пример, http://domain.com"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:297
+msgid "Uploaded on"
+msgstr "Загружено"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:351
+msgid "Pictures have been successfully re-ordered."
+msgstr "Фотографии были успешно сортированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:362
+msgid "Picture has been successfully deleted."
+msgstr "Фотография была успешно удалена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:376
+msgid "No file selected to be uploaded as a new picture! Please select a file / picture to upload or define an already uploaded picture."
+msgstr "Не выбран файл для загрузки, как новое изображение! Пожалуйста, выберите файл / изображение для загрузки или укажите уже загруженое изображение."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:441
+msgid "Thumbnail couldn't be updated as the selected picture cannot be found!"
+msgstr "Миниатюра не может быть обновлена, так как выбранное изображение не найдено!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:467
+msgid "Picture has been successfully updated."
+msgstr "Изображение успешно обнолено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:494
+msgid "Picture has been successfully added."
+msgstr "Изображение успешно добавлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:566
+#, php-format
+msgid "Picture(s) have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "Изображение(-я) успешно загружено(-ы). Загруженные изображения: %s."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:582
+msgid "Details"
+msgstr "Подробная информация"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:667
+msgid "Dimension"
+msgstr "Размер"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:670
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:785
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1809
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:604
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1671
+msgid "Storage table not defined."
+msgstr "Хранение таблицы не определено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:821
+msgid "Edit Picture"
+msgstr "Редактирование изображения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:869
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:706
+#, php-format
+msgid "No %s found for this %s."
+msgstr "%s не найдены к %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:996
+#, php-format
+msgid "Picture couldn't be created! Error: %s"
+msgstr "Изображение не добавлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1053
+#, php-format
+msgid "Picture couldn't be updated! Error: %s"
+msgstr "Изображение не обновлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1269
+msgid "Thumbnail couldn't be created!"
+msgstr "Миниатюра не добавлена!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1300
+msgid "Couldn't create thumbnail as the defined picture is to big to be processed with the current memory limit set. Please try to upload a smaller image instead."
+msgstr "Не удалось создать миниатюру из-за большого размера изображения. Пожалуйста, попробуйте загрузить изображение меньшего размера."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1395
+msgid "Thumbnail couldn't be regenerated as the selected picture cannot be found!"
+msgstr "Миниатюра не создана, т.к. не найдено выбранное изображение!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1424
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file cannot be found!"
+msgstr "Водяной знак не добавлен, т.к. изображение \"%s\" не найдено!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1435
+msgid "Couldn't add watermark to picture as the picture is to big to be processed with the current memory limit set. Please try to upload a smaller image instead."
+msgstr "Водяной знак не добавлен из-за большого размера изображения. Пожалуйста, попробуйте загрузить изображение меньшего размера."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1455
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file is not a compatible image file! Please try again by uploading a JPEG file instead."
+msgstr "Водяной знак не добавлен, т.к. изображение \"%s\" имеет неправильный формат! Пожалуйста, загрузите файл в формате JPEG."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1494
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file is not a compatible image file! Please try again by defining a JPEG or PNG watermark file."
+msgstr "Водяной знак не добавлен, т.к. файл изображения водяного знака \"%s\" имеет не совместимый формат! Файл изображения водяного знака должен быть формата JPEG или PNG."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1640
+msgid "No picture selected to download!"
+msgstr "Не выбраны изображения для загрузки!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1652
+msgid "The selected picture cannot be found!"
+msgstr "Выбранное изображение не найдено!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pictures.class.php:1664
+#, php-format
+msgid "Picture \"%s\" cannot be found!"
+msgstr "Изображение \"%s\" не найдено!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/paging.class.php:79
+msgid "Last page"
+msgstr "Последняя страница"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/paging.class.php:86
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/paging.class.php:102
+#, php-format
+msgid "Page (%s)"
+msgstr "Страница (%s)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/paging.class.php:118
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/paging.class.php:125
+msgid "First page"
+msgstr "Первая страница"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/paging.class.php:131
+msgid "Pages"
+msgstr "Страницы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:114
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:654
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1695
+msgid "New Comment"
+msgstr "Новый комментарий"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:124
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1304
+msgid "Nickname"
+msgstr "Имя"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:133
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1313
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:683
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:221
+msgid "Email"
+msgstr "Email"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:140
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:360
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1327
+msgid "Comment"
+msgstr "Комментарий"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:147
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1355
+msgid "In Reply To"
+msgstr "В ответ на"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:227
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:274
+msgid "Comments have been successfully deleted."
+msgstr "Комментарии были успешно удалены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:237
+msgid "No comment selected! Please select at least one comment."
+msgstr "Не выбраны комментарии! Пожалуйста, выберите по крайней мере один комментарий."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:250
+msgid "Comments have been successfully declined and are now NOT visible to the public."
+msgstr "Комментарии успешно отклонены и теперь не видны общественности."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:262
+msgid "Comments have been successfully approved and are now visible to the public."
+msgstr "Комментарии успешно одобрены и в настоящее время видны общественности."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:286
+msgid "Comment has been successfully declined and is now NOT visible to the public."
+msgstr "Комментарий был успешно отклонен и теперь не виден общественности."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:298
+msgid "Comment has been successfully approved and is now visible to the public."
+msgstr "Комментарий успешно одобрен и в настоящее время виден общественности."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:310
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1162
+msgid "Comment has been successfully deleted."
+msgstr "Комментарий успешно удален."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:324
+msgid "Comment has been successfully updated."
+msgstr "Комментарий успешно обновлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:337
+msgid "Comment has been successfully created."
+msgstr "Комментарий успешно добавлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:358
+msgid "Posted By"
+msgstr "Автор"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:372
+msgid "Approved"
+msgstr "Одобрено"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:466
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:520
+msgid "Approve"
+msgstr "Одобрить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:475
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:522
+msgid "Decline"
+msgstr "Отклонить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:653
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1398
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1404
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1417
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1709
+msgid "Edit Comment"
+msgstr "Редактирование комментария"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:774
+msgid "Comment already posted!"
+msgstr "Комментарий уже размещен!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:810
+#, php-format
+msgid "Comment couldn't be added! Error: %s"
+msgstr "Комментарий не добавлен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:915
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1012
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1033
+#, php-format
+msgid "Comment couldn't be updated! Error: %s"
+msgstr "Комментарий не обновлен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1058
+msgid "Comment does not exist!"
+msgstr "Комментария не существует!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1068
+msgid "You cannot rate your own comments!"
+msgstr "Вы не можете оценивать свои собственные комментарии!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1084
+msgid "You already rated this comment."
+msgstr "Вы уже давали свою оценку этому комментарию."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1131
+msgid "Thank you for rating this comment."
+msgstr "Спасибо за оценку этого комментария."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1152
+msgid "Only administrators can delete comments."
+msgstr "Только администраторы могут удалять комментарии."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1185
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1383
+msgid "Selected comment cannot be found!"
+msgstr "Выбранный комментарий не может быть найден!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1195
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1393
+msgid "You can only edit your own comments."
+msgstr "Вы можете редактировать только ваши собственные комментарии."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1204
+msgid "Your comment has been successfully updated."
+msgstr "Ваш комментарий был успешно обновлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1217
+msgid "Thank you for your comment."
+msgstr "Спасибо за ваш комментарий."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1318
+msgid "(optional, used only for receiving Notification on replies and for the <a href='http://gravatar.com' target='_blank' rel='nofollow'>Avatar</a>)"
+msgstr "(опционально, используется только для получения уведомления об ответах и для <a href='http://gravatar.com' target='_blank' rel='nofollow'>Аватар</a>)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1335
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:723
+msgid "Verification code"
+msgstr "Защитный код"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1344
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1479
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1775
+msgid "Only registered users can comment."
+msgstr "Оставлять комментарии разрешено только зарегистрированным пользователям."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1349
+msgid "Quick Reply"
+msgstr "Быстрый ответ"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1364
+msgid "Submit Reply"
+msgstr "Отправить ответ"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1436
+msgid "Delete comment and all it's subcomments"
+msgstr "Удалить комментарий и все вложенные комментарии"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1454
+msgid "Edit this comment"
+msgstr "Редактировать этот комментарий"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1469
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1480
+msgid "Reply to this comment"
+msgstr "Ответить на этот комментарий"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1471
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1482
+msgid "Reply"
+msgstr "Ответить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1502
+msgid "Vote Up"
+msgstr "Поднять"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1510
+msgid "Vote Down"
+msgstr "Снизить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1532
+msgid "Will be visible to the public once approved."
+msgstr "Будет виден общественности после его утверждения."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1534
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1549
+msgid "Pending"
+msgstr "В ожидании"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1546
+#, php-format
+msgid "Will be visible to the public in %s minutes."
+msgstr "Будет виден общественности через %s минут."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1692
+#, php-format
+msgid "Reply To comment #%s"
+msgstr "Ответить на комментарий №%s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1694
+#, php-format
+msgid "Edit comment #%s"
+msgstr "Редактировать комментарий №%s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1700
+msgid "Reply To"
+msgstr "Ответ Для"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1717
+msgid "You can use some HTML tags, such as &lt;b&gt;, &lt;i&gt;, &lt;a&gt;, &lt;em&gt;, &lt;blockquote&gt;, &lt;code&gt;"
+msgstr "Вы можете использовать следующие теги HTML: &lt;b&gt;, &lt;i&gt;, &lt;a&gt;, &lt;em&gt;, &lt;blockquote&gt;, &lt;code&gt;"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1727
+msgid "Cancel Reply"
+msgstr "Отменить ответ"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1736
+msgid "Cancel Edit"
+msgstr "Отменить изменения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1750
+msgid "Comments"
+msgstr "Комментарии"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/comments.class.php:1756
+msgid "No comments yet."
+msgstr "Комментариев пока нет."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:231
+msgid "Enter the code shown in the image"
+msgstr "Введите защитный код в поле ниже"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:253
+msgid "Security Image"
+msgstr "Защитное  изображение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:258
+msgid "Reload"
+msgstr "Перезагрузить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:284
+msgid "e.g. user@domain.com"
+msgstr "пример, user@domain.com"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:287
+msgid "e.g. 2010-07-21 21:00:00"
+msgstr "пример, 2010-07-21 21:00:00"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:290
+msgid "e.g. 2010-07-21"
+msgstr "пример, 2010-07-21"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:293
+msgid "e.g. 21:00:00"
+msgstr "пример, 21:00:00"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:296
+msgid "e.g. #ff9933"
+msgstr "пример, #ff9933"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:302
+msgid "e.g. +1 (202) 555-1234"
+msgstr "пример, +1 (202) 555-1234"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:681
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:773
+msgid "Text"
+msgstr "Text"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:685
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:687
+msgid "Radio"
+msgstr "Radio"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:689
+msgid "Select"
+msgstr "Select"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:691
+msgid "Multi Select"
+msgstr "Multi Select"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:693
+msgid "Recipient Select"
+msgstr "Recipient Select"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:695
+msgid "Textarea"
+msgstr "Textarea"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:697
+msgid "Text Editor"
+msgstr "Text Editor"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:699
+msgid "Code Editor"
+msgstr "Code Editor"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:701
+msgid "Hidden"
+msgstr "Скрыто"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:703
+msgid "Review"
+msgstr "Review"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:705
+msgid "Password"
+msgstr "Пароль"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:707
+msgid "Confirm Previous Field"
+msgstr "Confirm Previous Field"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:709
+msgid "Date Time"
+msgstr "Date Time"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:711
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:765
+msgid "Date"
+msgstr "Date"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:713
+msgid "Time"
+msgstr "Time"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:715
+msgid "Static Text"
+msgstr "Static Text"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:717
+msgid "Button Submit"
+msgstr "Button Submit"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:719
+msgid "Button Reset"
+msgstr "Button Reset"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:721
+msgid "Button"
+msgstr "Button"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:725
+msgid "File"
+msgstr "File"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:727
+msgid "Open Form Area"
+msgstr "Open Form Area"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:729
+msgid "Close Form Area"
+msgstr "Close Form Area"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:731
+msgid "Color"
+msgstr "Color"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:735
+msgid "Telephone"
+msgstr "Telephone"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:737
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:769
+msgid "URL"
+msgstr "URL"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:739
+msgid "Range"
+msgstr "Сортировка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:741
+msgid "Number"
+msgstr "Номер"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:743
+msgid "Page Break"
+msgstr "Разрыв страницы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:755
+msgid "String"
+msgstr "String"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:757
+msgid "Int"
+msgstr "Int"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:759
+msgid "Float"
+msgstr "Float"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:761
+msgid "Array"
+msgstr "Array"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:763
+msgid "TimeStamp"
+msgstr "TimeStamp"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:767
+msgid "HTML"
+msgstr "HTML"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:771
+msgid "LimitedString"
+msgstr "LimitedString"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:775
+msgid "Boolean"
+msgstr "Boolean"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:801
+msgid "Submit"
+msgstr "Отправить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1065
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1992
+msgid "Fields marked with an asterisk (*) are required."
+msgstr "Поля, помеченные звездочкой (*) обязательны для заполнения."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1066
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:2005
+msgid "Field(s) marked with an asterisk (*) is/are required."
+msgstr "Поля, помеченные звездочкой (*) обязательны для заполнения."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1071
+msgid "No file selected for upload."
+msgstr "Не выбран файл для загрузки."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1075
+msgid "Some fields do not match. Please make sure to enter the same value when asked to confirm a previous field."
+msgstr "Данные не совпадают. Пожалуйста, укажите то же значение при подтверждении."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1080
+msgid "Incorrect verification code. Please enter the code shown on the image."
+msgstr "Неправильный код подтверждения. Пожалуйста, введите код, указанный на изображении."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1085
+msgid "Invalid email address. Please make sure you enter a valid email address."
+msgstr "Неправильный адрес электронной почты. Пожалуйста, убедитесь, что вы вводите правильный адрес электронной почты."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1090
+#, php-format
+msgid "The password you entered is too short. Your password must be at least %s characters long."
+msgstr "Вы указали слишком короткий пароль. Пароль должен состоять из не менее %s символов."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1096
+msgid "Please review / correct the marked fields in the form below and try again."
+msgstr "Пожалуйста, проверьте отмеченные поля, и попробуйте еще раз."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1325
+msgid "Next"
+msgstr "Вперед"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1354
+msgid "Back"
+msgstr "Назад"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1496
+#, php-format
+msgid "max %s"
+msgstr "максимально %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1960
+#, php-format
+msgid "(Step %s of %s)"
+msgstr "(Шаг %s из %s)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/form.class.php:1995
+msgid "Field marked with an asterisk (*) is required."
+msgstr "Поля, помеченные звездочкой (*) обязательны для заполнения."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:49
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:468
+msgid "New Form"
+msgstr "Новая форма"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:69
+msgid "Form ID"
+msgstr "ID формы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:76
+msgid "Notification Options"
+msgstr "Уведомление"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:81
+msgid "Send Email"
+msgstr "Отправить сообщение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:90
+msgid "Send To"
+msgstr "Получатель"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:102
+msgid "Storage Options"
+msgstr "Параметры хранения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:107
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:359
+msgid "SQL Table"
+msgstr "SQL таблица"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:124
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:363
+msgid "Method"
+msgstr "Метод"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:133
+msgid "Success Message"
+msgstr "Сообщение об успешном получении"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:166
+msgid "You are NOT allowed to delete a protected form!"
+msgstr "Вы не можете удалить защищенную форму!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:178
+msgid "Form has been successfully deleted."
+msgstr "Форма удалена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:192
+msgid "Form has been successfully updated."
+msgstr "Форма обновлена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:205
+msgid "Form has been successfully created."
+msgstr "Форма добавлена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:219
+msgid "Title / Form ID"
+msgstr "Название / ID формы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:229
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:302
+msgid "Fields"
+msgstr "Поля"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:334
+msgid "Protected Form"
+msgstr "Защищенная форма"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:354
+msgid "Send Email To"
+msgstr "Отправить сообщение "
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:437
+msgid "Dynamic Forms Administration"
+msgstr "Управление формами"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:443
+msgid "To implement a form in your post just add the following code <code>{forms}formid{/forms}</code> to your content where <i>formid</i> is your form's id, for e.g. contact."
+msgstr "Для вставки формы в статью добавьте следующий код <code>{forms}formid{/forms}</code>, где <i>formid</i> это ID вашей формы.(например, contact)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:467
+msgid "Edit Form"
+msgstr "Редактирование формы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:506
+msgid "No dynamic forms found."
+msgstr "Форма не найдена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:552
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:633
+msgid "A form with this ID already exists! Please choose a different id for your form."
+msgstr "Форму с этим ID уже существует! Пожалуйста, выберите другой идентификатор для формы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:569
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:654
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:714
+#, php-format
+msgid "SQL Table \"%s\" already exists! Please choose a different table for your form."
+msgstr "SQL таблица \"%s\" уже существует! Пожалуйста, выберите другую таблицу для формы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:609
+#, php-format
+msgid "Form couldn't be created! Error: %s"
+msgstr "Форма не создана! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:700
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:733
+msgid "Protected SQL Tables cannot be renamed / deleted!"
+msgstr "Защищенные SQL таблицы не могут быть переименованы или удалены!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:772
+#, php-format
+msgid "Form couldn't be updated! Error: %s"
+msgstr "Форма не обновлена! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:25
+msgid "Email ID"
+msgstr "Email ID"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:31
+msgid "e.g. WebmasterWarning (without spaces)"
+msgstr "пример, WebmasterWarning (without spaces)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:34
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:180
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:93
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:582
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:683
+msgid "Subject"
+msgstr "Тема"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:40
+msgid "Body"
+msgstr "Текст сообщения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:74
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:85
+msgid "Emails have been successfully reset."
+msgstr "Письма были сброшены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:99
+msgid "Email has been successfully updated."
+msgstr "Электронная почта была успешно обновлена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:122
+msgid "Email ID / Subject"
+msgstr "ID Email / Тема"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:195
+msgid "Reset All"
+msgstr "Сбросить все"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:279
+msgid "Notification Emails Administration"
+msgstr "Управление уведомлениями"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:305
+msgid "Edit Email"
+msgstr "Редактирование уведомления"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:306
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:28
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:762
+msgid "New Email"
+msgstr "Новая рассылка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:350
+msgid "No emails found."
+msgstr "Сообщений не найдено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:388
+msgid "An email with this id already exists!"
+msgstr "Адрес электронной почты с этим ID уже существует!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:405
+#, php-format
+msgid "Email couldn't be added! Error: %s"
+msgstr "Адрес электронной почты не добавлен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:435
+#, php-format
+msgid "Email couldn't be updated! Error: %s"
+msgstr "Адрес электронной почты не обновлен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notificationemails.class.php:463
+msgid "The specified email cannot be found!"
+msgstr "Указанный адрес электронной почты не найден!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:88
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:757
+msgid "New Block"
+msgstr "Новый блок"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:125
+msgid "Sub Block of"
+msgstr "Уровень"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:133
+msgid "Content Options"
+msgstr "Содержание"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:138
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:1273
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:81
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:365
+msgid "Content"
+msgstr "Текст"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:155
+msgid "Block ID"
+msgstr "ID блока"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:162
+msgid "CSS Class"
+msgstr "CSS класс"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:171
+msgid "In Language(s)"
+msgstr "Язык(-и)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:191
+msgid "On Page(s)"
+msgstr "Разместить на странице(-ах)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:198
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:530
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:341
+msgid "Administration Section"
+msgstr "Панель управления"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:241
+msgid "Caching Options"
+msgstr "Кэширование"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:246
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:590
+msgid "Enable Caching"
+msgstr "Включить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:254
+msgid "(cache the content of this block including all sub blocks)"
+msgstr "(кэш содержания этого блока)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:257
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:593
+msgid "Only for Guests"
+msgstr "Для гостей"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:265
+msgid "(don't use caching for logged in users)"
+msgstr "(только для гостей)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:268
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:597
+msgid "Refresh Time"
+msgstr "Обновление"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:277
+msgid "(cache refresh time interval in minutes)"
+msgstr "(интервал времени обновления кэша в минутах)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:280
+msgid "Refresh Now"
+msgstr "Обновить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:312
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:585
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:350
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:607
+msgid "Limit"
+msgstr "Лимит"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:365
+msgid "Blocks have been successfully re-ordered."
+msgstr "Блоки успешно сортированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:376
+msgid "Block has been successfully deleted."
+msgstr "Блок успешно удален."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:389
+msgid "Block cannot be subblock of itself!"
+msgstr "Блок не может располагаться в самом себе!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:409
+msgid "Block has been successfully updated."
+msgstr "Блок успешно обновлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:426
+msgid "Block has been successfully created."
+msgstr "Блок успешно создан."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:446
+msgid "Title / Block ID / CSS Class"
+msgstr "Название / ID / CSS класс"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:568
+msgid "Display Except on Page"
+msgstr "Кроме страниц"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:569
+msgid "Display Only on Page"
+msgstr "Только на странице"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:575
+msgid "Display Except in Language"
+msgstr "Кроме языка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:576
+msgid "Display Only in Language"
+msgstr "Только язык"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:598
+#, php-format
+msgid "%s minutes"
+msgstr "%s минут"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:732
+msgid "Blocks Administration"
+msgstr "Управление блоками"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:756
+msgid "Edit Block"
+msgstr "Редактирование блока"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:802
+msgid "No blocks found."
+msgstr "Блоки не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:838
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:860
+msgid "Only"
+msgstr "Только"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:847
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:869
+msgid "Except"
+msgstr "Кроме"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:982
+#, php-format
+msgid "Block couldn't be created! Error: %s"
+msgstr "Блок не создан! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:1026
+msgid "Block type cannot be changed as it is a \"Main Content\" block! Please first create another \"Main Content\" block and then try to edit this block again."
+msgstr "Тип блока не может быть изменен, т.к. это  блок \"Главное содержание\"! Пожалуйста, сначала создайте другой  блок \"Главное содержание\", а затем попытайтесь изменить этот блок еще раз."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:1103
+#, php-format
+msgid "Block couldn't be updated! Error: %s"
+msgstr "Блок не обновлен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:1189
+msgid "Block cannot be deleted as it is or contains a \"Main Content\" block! Please first create another \"Main Content\" block that wont be affected by this operation."
+msgstr "Блок не может быть удален, так как является или содержит блок \"Главное содержание\"! Пожалуйста, сначала создайте другой блок \"Главное содержание\"."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:1271
+msgid "Main Content"
+msgstr "Главный блок"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:1275
+msgid "Menu"
+msgstr "Меню"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:1277
+msgid "Advertisement"
+msgstr "Анонс/Объявление"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/blocks.class.php:1286
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:1441
+msgid "Admins"
+msgstr "Администраторы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/files.class.php:281
+#, php-format
+msgid "The file you are trying to upload \"%s\" already exists on our site. Please rename and reselect the file you would like to upload."
+msgstr "Файл с таким же именем, как и тот, который вы пытаетесь загрузить \"%s\" уже существует на нашем сервере. Пожалуйста, переименуйте и снова попробуйте загрузить."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/files.class.php:291
+#, php-format
+msgid "Unsupported file format! Supported formats are: %s."
+msgstr "Формат файла не поддерживается! Поддерживаемые форматы: %s."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/files.class.php:300
+#: D:/WebServers/home/jcore.ru/server/lib/sources/fileeditor.class.php:35
+msgid "File couldn't be saved!"
+msgstr "Файл не сохранен!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/files.class.php:316
+#, php-format
+msgid "File couldn't be saved! This usually means that your file is larger than the allowed upload limit (%s) or something went wrong while saving the file to it's permanent place. Please try again or contact webmaster."
+msgstr "Файл не может быть сохранен! Это обычно означает, что ваш файл больше, чем допустимый предел(%s) или что-то пошло не так при сохранении файла. Пожалуйста, попробуйте еще раз или свяжитесь с веб-мастером."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/files.class.php:430
+msgid "unknown/file"
+msgstr "Неизвестный файл"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/files.class.php:442
+msgid "Unknown File Type"
+msgstr "Неизвестный тип файла"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/files.class.php:540
+#, php-format
+msgid "Writing file %s"
+msgstr "Создать файл %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:57
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:595
+msgid "New Attachment"
+msgstr "Новое вложение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:73
+msgid "Upload a new attachment"
+msgstr "Загрузить новое вложение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:78
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:116
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:134
+msgid "Attachment"
+msgstr "Вложение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:85
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:87
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:122
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:124
+msgid "e.g. document.doc, document.pdf"
+msgstr "пример, document.doc, document.pdf"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:129
+msgid "Already uploaded attachment"
+msgstr "Уже загружены вложения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:145
+msgid "Existing File (URL)"
+msgstr "Удаленный файл (URL)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:149
+msgid "e.g. http://domain.com/document.pdf"
+msgstr "пример, http://domain.com/document.pdf"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:217
+msgid "Attachments have been successfully re-ordered."
+msgstr "Вложения сортированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:228
+msgid "Attachment has been successfully deleted."
+msgstr "Вложение удалено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:242
+msgid "No file selected to be uploaded as a new attachment! Please select a file to upload or define an already uploaded attachment."
+msgstr "Не выбран файл для загрузки в качестве нового вложения! Пожалуйста, выберите файл для загрузки или укажите уже загруженное вложение."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:292
+msgid "Attachment has been successfully updated."
+msgstr "Вложение одновлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:315
+msgid "Attachment has been successfully added."
+msgstr "Вложение добавлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:384
+#, php-format
+msgid "Attachment(s) have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "Приложение(-ия) успешно загружено. Следующие файлы были загружены: %s."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:398
+msgid "Icon"
+msgstr "Значек"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:400
+msgid "Title / Uploaded on / File"
+msgstr "Название / Добавлен / Файл"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:402
+msgid "Downloads"
+msgstr "Закачки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:404
+msgid "Filesize"
+msgstr "Размер файла"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:435
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:959
+#, php-format
+msgid "uploaded on %s"
+msgstr "Загружено %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:594
+msgid "Edit Attachment"
+msgstr "Редактирование вложения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:748
+#, php-format
+msgid "Attachment couldn't be created! Error: %s"
+msgstr "Вложение не добавлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:815
+#, php-format
+msgid "Attachment couldn't be updated! Error: %s"
+msgstr "Вложение не обновлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:866
+msgid "No attachment selected to download!"
+msgstr "Не выбрано вложение для загрузки!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:878
+msgid "The selected attachment cannot be found!"
+msgstr "Выбранное вложение не найдено!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:887
+#, php-format
+msgid "File \"%s\" cannot be found!"
+msgstr "Файл \"%s\" не найден!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:923
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:934
+msgid "Download"
+msgstr "Загрузить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:952
+#, php-format
+msgid "%s downloads"
+msgstr "%s закачек"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/attachments.class.php:1054
+msgid "click to download"
+msgstr "нажмите, чтобы загрузить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:27
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:41
+msgid "Note"
+msgstr "Примечание"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:61
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:407
+msgid "New Note"
+msgstr "Новая заметка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:93
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:293
+msgid "Status"
+msgstr "Состояние"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:101
+msgid "(closed ones are marked with strike through)"
+msgstr "(закрытые отмечены зачеркнуто)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:113
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:377
+msgid "Created on"
+msgstr "Добавлено"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:120
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:298
+msgid "Due Date"
+msgstr "Истекает"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:151
+msgid "Note has been successfully deleted."
+msgstr "Заметка успешно удалена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:165
+msgid "Note has been successfully updated."
+msgstr "Заметка успешно обновлена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:178
+msgid "Note has been successfully created."
+msgstr "Заметка успешно создана."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:192
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:802
+#: D:/WebServers/home/jcore.ru/server/lib/sources/shoppingorders.class.php:4446
+#: D:/WebServers/home/jcore.ru/server/lib/sources/shoppingorders.class.php:4616
+msgid "Title / Created on"
+msgstr "Название / Дата создания"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:200
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:250
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:810
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:874
+msgid "Attachments"
+msgstr "Вложения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:289
+msgid "Owner"
+msgstr "Автор"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:381
+msgid "Notes Administration"
+msgstr "Управление заметками"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:406
+msgid "Edit Note"
+msgstr "Редактирование заметки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:447
+msgid "No notes found."
+msgstr "Заметки не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:503
+#, php-format
+msgid "Note couldn't be created! Error: %s"
+msgstr "Примечание  не создана! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:525
+msgid "You are not allowed to edit someone else's note! If you would like to add something to the note please do so in the comments."
+msgstr "Вы не можете редактировать чужие заметки! Если вы хотите что-то добавить к примечанию пожалуйста, сделайте это в комментариях."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:555
+#, php-format
+msgid "Note couldn't be updated! Error: %s"
+msgstr "Примечание не обновлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:574
+msgid "You are not allowed to delete someone else's note! If you would like to add something to the note please do so in the comments."
+msgstr "Вы не можете удалить чужое примечание! Если вы хотите что-то добавить, пожалуйста, сделайте это в комментариях."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:618
+msgid "Open"
+msgstr "Актуальная"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:620
+msgid "Closed"
+msgstr "Устаревшая"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/fileeditor.class.php:25
+msgid "No file defined to be saved!"
+msgstr "Укажите файл для сохранения!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/fileeditor.class.php:44
+msgid "File has been successfully saved."
+msgstr "Файл успешно сохранен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/fileeditor.class.php:61
+#: D:/WebServers/home/jcore.ru/server/lib/sources/fileeditor.class.php:79
+msgid "File Editor"
+msgstr "Редактирование файла карты сайта"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/fileeditor.class.php:77
+msgid "No File defined!"
+msgstr "Файл не указн!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:33
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:68
+msgid "Content Management"
+msgstr "Страницы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:36
+msgid "Module Management"
+msgstr "Модули"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:39
+msgid "Site Layout and Functionality"
+msgstr "Настройки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:42
+msgid "Member Management"
+msgstr "Управление пользователями"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:65
+msgid "Manage the content (pages) of your site"
+msgstr "Управление страницами сайта"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:75
+msgid "Upload / Add advertisements"
+msgstr "Управление рекламой"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:78
+msgid "Ads & Banners"
+msgstr "Реклама"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:85
+msgid "Create / Modify custom submit forms"
+msgstr "Управление формами"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:88
+msgid "Dynamic Forms"
+msgstr "Формы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:96
+msgid "Copy and/or Move posts from one page to another"
+msgstr "Копирование и перемещение статей с одной страницы на другую."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:99
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:129
+msgid "Moving Posts"
+msgstr "Управление статьями"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:106
+msgid "Manage / Upload files separately"
+msgstr "Управление файлами"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:109
+msgid "File Manager"
+msgstr "Файлы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:117
+msgid "Change settings like Webmaster Email, Site title and so on"
+msgstr "Основные настройки: адрес электронной почты, название сайта и т.д."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:128
+msgid "Set up your site's layout / look"
+msgstr "Управление структурой сайта"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:131
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:69
+msgid "Layout Blocks"
+msgstr "Структура сайта"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:138
+msgid "Create multiple menu areas"
+msgstr "Управление меню"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:141
+msgid "Menu Blocks"
+msgstr "Меню"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:149
+msgid "Change the look of your website"
+msgstr "Управление шаблонами веб-сайта"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:152
+msgid "Template Manager"
+msgstr "Шаблоны"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:159
+msgid "Edit template CSS / JS files and upload images"
+msgstr "Редактирование шаблона CSS / JS файлов и загрузка изображения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:162
+msgid "Template Editor"
+msgstr "Редактор шаблонов"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:169
+msgid "Share your site's content in a standardized format"
+msgstr "Приведение содержания сайта к стандартному формату."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:172
+msgid "RSS Feeds"
+msgstr "RSS"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:180
+msgid "Store notes and/or todos"
+msgstr "Управление заметками"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:183
+msgid "Admin Notes"
+msgstr "Заметки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:191
+msgid "Links to quickly access your favorite places"
+msgstr "Ссылки для быстрого доступа к вашим любимым местам"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:194
+msgid "Favorite Links"
+msgstr "Избранное"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:201
+msgid "Modify emails that are sent out by the system"
+msgstr "Управление системными сообщениями"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:204
+msgid "Notification Emails"
+msgstr "Email уведомления"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:212
+msgid "Define additional languages"
+msgstr "Управление языками"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:215
+msgid "Site Languages"
+msgstr "Языки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:223
+msgid "Manage Brute Force and Password Trading protection"
+msgstr "Управление безопасностью сайта"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:226
+msgid "Security Alerts"
+msgstr "Сообщения системы безопасности"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:233
+msgid "Regenerate and/or edit XML Sitemap file"
+msgstr "Генерация и/или Редактирование XML-файла карты сайта"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:236
+msgid "XML Sitemap"
+msgstr "Карта сайта XML"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:244
+msgid "Manage users, set permissions"
+msgstr "Управление пользователями и правами"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:254
+msgid "Contact site members all at once"
+msgstr "Управление рассылками"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:257
+msgid "Mass Email"
+msgstr "Рассылки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:264
+msgid "Logout and close this session"
+msgstr "Выход из панели управления и закрытие сессии"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:267
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:449
+msgid "Logout"
+msgstr "Выход"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:447
+msgid "You do not have enough permission to access this area!"
+msgstr "У вас нет прав для доступа в эту область!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:468
+msgid "Go Back"
+msgstr "Назад"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:494
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:510
+msgid "Invalid path!"
+msgstr "Неправильный путь"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:109
+msgid "Address Not Found"
+msgstr "Адрес не найден"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:125
+msgid "New Page"
+msgstr "Новая страница"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:145
+msgid "Sub Page of"
+msgstr "Уровень"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:153
+msgid "Menu Block"
+msgstr "Расположение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:170
+msgid "Language"
+msgstr "Язык"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:184
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:657
+msgid "Modules"
+msgstr "Модули"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:266
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:630
+msgid "SEO Options"
+msgstr "SEO"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:271
+msgid "Page Title"
+msgstr "Заголовок"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:277
+msgid "Description"
+msgstr "Описание"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:283
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:390
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:731
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:2128
+msgid "Keywords"
+msgstr "Ключевые слова"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:403
+msgid "Pages have been successfully re-ordered."
+msgstr "Страницы сортированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:414
+msgid "Page and all its subpages have been successfully deleted."
+msgstr "Страница и все субстраницы успешно удалены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:443
+msgid "Page cannot be subpage of itself!"
+msgstr "Страница не может быть вложенной в саму себя!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:460
+msgid "Page has been successfully updated."
+msgstr "Страница была успешно обновлена​​."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:462
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:483
+msgid "View Page"
+msgstr "Просмотр страницы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:481
+msgid "Page has been successfully created."
+msgstr "Страница была успешно создана."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:588
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:816
+msgid "No pages found."
+msgstr "Страницы не надены"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:601
+msgid "Title / Path / Link"
+msgstr "Название / Путь / Ссылка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:613
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:732
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:23
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1015
+msgid "Posts"
+msgstr "Статьи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:809
+msgid "No Language Defined"
+msgstr "Язык не определен"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:845
+msgid "Pages Administration"
+msgstr "Управление страницами"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:870
+msgid "Edit Page"
+msgstr "Редактирование страницы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:923
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:453
+msgid "No menu blocks found."
+msgstr "Меню не найдено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:924
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put pages in."
+msgstr "Пожалуйста, перейдите в Панель управления -> Настройки -> Меню и создайте хотя бы одно меню."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:1053
+#, php-format
+msgid "Page couldn't be created! Error: %s"
+msgstr "Страница не создана! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:1090
+msgid "Page successfully created but xml sitemap file couldn't be updated."
+msgstr "Страница успешно создана. Обновите XML-файл карты сайта."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:1187
+#, php-format
+msgid "Page couldn't be updated! Error: %s"
+msgstr "Страница не обновлена! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:1312
+msgid "Page successfully updated but xml sitemap file couldn't be updated."
+msgstr "Страница успешно обновлена. Обновите XML-файл карты сайта."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:1366
+msgid "Page successfully deleted but xml sitemap file couldn't be updated."
+msgstr "Страница успешно удалена. Обновите XML-файл карты сайта."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/settings.class.php:53
+msgid "Settings have been successfully updated but the template.js file couldn't be updated."
+msgstr "Настройки успешно обновлены. Обновите template.js."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/settings.class.php:65
+msgid "Settings have been successfully updated."
+msgstr "Настройки успешно сохранены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/settings.class.php:94
+msgid "Settings Administration"
+msgstr "Настройки системы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/settings.class.php:123
+msgid "Change Settings"
+msgstr "Параметры системы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:38
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:774
+msgid "Preview"
+msgstr "Просмотр"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:45
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:574
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:667
+msgid "From"
+msgstr "Отправитель"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:54
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:578
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:675
+msgid "To"
+msgstr "Получатель(-и)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:65
+msgid "Active Users"
+msgstr "Активные пользователи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:70
+msgid "All Users"
+msgstr "Все пользователи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:75
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:76
+msgid "Add User(s)"
+msgstr "Добавить пользователя(-ей)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:100
+msgid "Message"
+msgstr "Сообщение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:107
+msgid "Partial sending (split your emails into chunks)"
+msgstr "Отправка частями (разобъет вашу рассылку)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:112
+msgid "Number of Emails"
+msgstr "Количество адресов"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:117
+msgid "e.g. 500"
+msgstr "пример, 500"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:120
+msgid "Starting from"
+msgstr "Начиная с"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:125
+msgid "e.g. 100"
+msgstr "пример, 100"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:153
+msgid "Email has been successfully deleted."
+msgstr "Email был успешно удален."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:170
+msgid "From email address is not a valid email address!"
+msgstr "Адрес электронной почты имеет неправильный формат!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:208
+#, php-format
+msgid "Invalid email addresses defined. The following addresses are not valid email addresses: %s."
+msgstr "Ошибка: следующие адреса электронной почты имеет неправильный формат: %s."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:248
+#, php-format
+msgid "Sending %s emails starting from %s, please wait..."
+msgstr "Отправка %s сообщений, начиная с %s, пожалуйста, подождите..."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:252
+#, php-format
+msgid "Sending %s emails, please wait..."
+msgstr "Отправка сообщения %s, пожалуйста, подождите..."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:255
+#, php-format
+msgid "Sending emails starting from %s, please wait..."
+msgstr "Отправка сообщений, начиная с %s, пожалуйста, подождите..."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:257
+msgid "Sending emails, please wait..."
+msgstr "Отправка сообщения электронной почты, пожалуйста, подождите..."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:350
+msgid "All emails have been successfully sent. No more emails left to be sent."
+msgstr "Все сообщения успешно отправлены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:361
+msgid "No emails have been sent out!"
+msgstr "Сообщения не найдены!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:363
+msgid "No users found to send email to."
+msgstr "Не найдено пользователей для отправки сообщения."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:364
+msgid "Please see detailed error messages above and try again."
+msgstr "Пожалуйста, ознакомтесь с сообщением об ошибках и попробуйте еще раз."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:373
+#, php-format
+msgid "Emails have been successfully sent to: %s. Emails sent: %s"
+msgstr "Сообщение отправлено: %s. Отправлено сообщений: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:418
+msgid "Add"
+msgstr "Добавить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:421
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:424
+msgid "Admin"
+msgstr "Доступ в ПУ"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:430
+msgid "Registered on"
+msgstr "Зарегистрирован"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:512
+msgid "Subject / Sent out"
+msgstr "Тема/Отправлено"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:514
+msgid "Emails Sent"
+msgstr "Отправлено писем"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:523
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:552
+msgid "Resend"
+msgstr "Повторить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:570
+msgid "Sent out by"
+msgstr "Разосланного"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:657
+msgid "Email Sent"
+msgstr "Отправка сообщения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:658
+msgid "Preview Email"
+msgstr "Анонс"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:695
+msgid "Partial sending"
+msgstr "Частично отправленные"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:701
+#, php-format
+msgid "%s emails starting from %s"
+msgstr "%s сообщений, начиная с %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:706
+#, php-format
+msgid "%s emails"
+msgstr "%s сообщений"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:710
+#, php-format
+msgid "starting from %s"
+msgstr "начиная с %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:739
+msgid "Mass Email Administration"
+msgstr "Управление рассылками"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:819
+#, php-format
+msgid "Send next %s Emails"
+msgstr "Отправить для %s сообщение."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:825
+msgid "View Emails"
+msgstr "Просмотр сообщений"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:829
+msgid "Admin Home"
+msgstr "Панель управления"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:868
+msgid "No emails sent out yet."
+msgstr "Отправленных сообщений не найдено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/massemail.class.php:941
+#, php-format
+msgid "Mass Email couldn't be created! Error: %s"
+msgstr "Массовая рассылка сообщений не создана! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:65
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:411
+msgid "New Menu"
+msgstr "Новое меню"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:85
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:241
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:455
+msgid "In Block"
+msgstr "Блок"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:115
+msgid "Name"
+msgstr "Уникальное имя"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:170
+msgid "Menus have been successfully re-ordered."
+msgstr "Список меню успешно сортирован."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:181
+msgid "Menu has been successfully deleted."
+msgstr "Меню успешно удалено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:198
+msgid "Menu has been successfully updated."
+msgstr "Меню успешно обновлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:216
+msgid "Menu has been successfully created."
+msgstr "Меню успешно создано."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:239
+msgid "Title / Name"
+msgstr "Заголовок / Название"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:385
+msgid "Menus Administration"
+msgstr "Управление меню"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:410
+msgid "Edit Menu"
+msgstr "Редактирование меню"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:516
+#, php-format
+msgid "Menu couldn't be created! Error: %s"
+msgstr "Меню не создано! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/menus.class.php:548
+#, php-format
+msgid "Menu couldn't be updated! Error: %s"
+msgstr "Меню не обновлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:98
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:112
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:131
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:145
+msgid "Post"
+msgstr "Статья"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:276
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1058
+msgid "New Post"
+msgstr "Новая статья"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:331
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:446
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:754
+msgid "Display on All pages"
+msgstr "На всех страницах"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:332
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:447
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:755
+msgid "Display on Main page"
+msgstr "На главной"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:337
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:576
+msgid "Insert as New"
+msgstr "Создать копию"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:349
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:585
+msgid "(will create a new post)"
+msgstr "(будет создана копия этой статьи)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:372
+msgid "Blogging Options"
+msgstr "Настройки публикации"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:396
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:398
+msgid "e.g. oranges, lemons, limes"
+msgstr "пример, апельсины, лимоны, даймы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:416
+msgid "Announcement Options"
+msgstr "Срок размещения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:421
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:743
+msgid "Start Date"
+msgstr "Дата публикации"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:428
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:748
+msgid "End Date"
+msgstr "Дата снятия"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:480
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:760
+msgid "Partial Content"
+msgstr "Анонс"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:489
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:765
+msgid "Display Related Posts"
+msgstr "Похожие статьи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:504
+msgid "Rating Options"
+msgstr "Рэйтинг"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:509
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:770
+msgid "Enable Rating"
+msgstr "Включить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:517
+msgid "Enable Guest Rating"
+msgstr "Гости"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:531
+msgid "Comments Options"
+msgstr "Комментарии"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:536
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:778
+msgid "Enable Comments"
+msgstr "Включить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:544
+msgid "Enable Guest Comments"
+msgstr "Гости"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:637
+msgid "Posts have been successfully re-ordered."
+msgstr "Статьи сортированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:669
+msgid "Post has been successfully updated."
+msgstr "Статья успешно обновлена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:671
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:692
+msgid "View Post"
+msgstr "Просмотр статьи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:690
+msgid "Post has been successfully created."
+msgstr "Статья успешно создана."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:726
+msgid "Display in Block"
+msgstr "Отображать в блоке"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:773
+msgid "(Guests can rate too!)"
+msgstr "(Гости тоже могут оценивать!)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:781
+msgid "(Guests can comment too!)"
+msgstr "(Гости тоже могут комментировать!)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:812
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:891
+msgid "Pictures"
+msgstr "Изображения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1057
+msgid "Edit Post"
+msgstr "Редактирование статьи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1225
+#, php-format
+msgid "Post couldn't be created! Error: %s"
+msgstr "Статья не создана! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1264
+msgid "Post successfully created but xml sitemap file couldn't be updated."
+msgstr "Статья успешно создана. Обновите XML-файл карты сайта."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1273
+msgid "Post successfully created but rss feed couldn't be updated."
+msgstr "Статья успешно создана. Обновите новостную ленту(RSS)."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1281
+msgid "Post successfully created but couldn't ping blog servers. Please define at least one blog ping server or multiple servers separated by commas in Global Settings."
+msgstr "Статья успешно создана, но не указаны блог пинг сервера. Пожалуйста, определить по крайней мере один блог пинг сервер или несколько через запятую в Настройках системы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1364
+#, php-format
+msgid "Post couldn't be updated! Error: %s"
+msgstr "Статья не обновлена! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1398
+msgid "Post successfully updated but xml sitemap file couldn't be updated."
+msgstr "Статья успешно обновлена. Обновите XML-файл карты сайта."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1407
+msgid "Post successfully updated but rss feed couldn't be updated."
+msgstr "Статья успешно обновлена. Обновите новостную ленту(RSS)."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1485
+msgid "Post successfully deleted but rss feed couldn't be updated."
+msgstr "Статья успешно удалена. Обновите новостную ленту(RSS)."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1883
+#, php-format
+msgid "Starting <b>%s</b> until <b>%s</b>"
+msgstr "Начиная с <b>%s</b> до <b>%s</b>"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1891
+#, php-format
+msgid "Starting <b>%s</b>"
+msgstr "Начиная с <b>%s</b>"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:1898
+#, php-format
+msgid "Until <b>%s</b>"
+msgstr "До <b>%s</b>"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:2149
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:2164
+msgid "Read more"
+msgstr "Подробнее"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:2197
+msgid "Related Posts"
+msgstr "Похожие статьи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:2542
+msgid "This area is limited to members only. Please login below."
+msgstr "Эта область доступна только зарегистрированным пользователям."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:2668
+msgid "This page has been deactivated."
+msgstr "Эта страница отключена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/posts.class.php:2699
+msgid "to search results."
+msgstr "в результатах поиска."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ckeditor.class.php:270
+msgid "No file selected!"
+msgstr "Файл не выбран!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/contentforms.class.php:34
+msgid "Form has been successfully submitted and a notification email has been sent to the webmaster."
+msgstr "Форма отправлена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/contentforms.class.php:41
+msgid "Form has been successfully submitted."
+msgstr "Форма отправлена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:115
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:769
+msgid "New User"
+msgstr "Новый пользователь"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:160
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:279
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:606
+msgid "Suspended"
+msgstr "Заблокирован"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:168
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:287
+msgid "Administrator"
+msgstr "Доступ в ПУ"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:177
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:296
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:611
+msgid "Skip IP Check"
+msgstr "Не проверять IP"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:184
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:303
+msgid "(don't bind user to IP)"
+msgstr "(не является обязательным)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:210
+msgid "Change Password"
+msgstr "Сменить пароль"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:223
+msgid "Confirm password"
+msgstr "Подтвердить пароль"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:232
+msgid "Please note that you will need to enter a valid e-mail address before your account is activated. You will receive an e-mail at the address you provided that contains an account activation link."
+msgstr "Обратите внимание, что вам необходимо указать действующий адрес электронной почты для активации учетной записи. Вы получите сообщение на указанный вами адрес, которое будет содержать ссылку для активации учетной записи."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:252
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:577
+msgid "Website"
+msgstr "Вэбсайт"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:259
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:585
+msgid "Show Avatar"
+msgstr "Показать аватар"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:267
+msgid "Change Avatar"
+msgstr "Сменить аватар"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:271
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:590
+msgid "Stay Logged In"
+msgstr "Запомнить меня"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:313
+#, php-format
+msgid "minimum %s characters"
+msgstr "минимум %s знаков"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:349
+msgid "No user selected! Please select at least one user."
+msgstr "Пользователь не выбран! Пожалуйста укажите хотя бы одного пользователя."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:362
+msgid "Users have been successfully activated and are now able to login."
+msgstr "Пользователи активированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:374
+msgid "Users have been successfully suspended."
+msgstr "Пользователи заблокированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:385
+msgid "Users have been successfully deleted."
+msgstr "Пользователи удалены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:397
+msgid "User has been successfully deleted."
+msgstr "Пользователь удален."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:413
+msgid "User has been successfully updated."
+msgstr "Пользователь обновлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:426
+msgid "User has been successfully created and a notification email with the login information has been sent to the email address specified."
+msgstr "Пользователь был успешно создан. На указанный адрес электронной почты была отправлена соответствующая информация."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:449
+msgid "Username / Registered on"
+msgstr "Имя пользователя / Дата регистрации"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:459
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:520
+msgid "Permissions"
+msgstr "Права"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:596
+msgid "Last visit"
+msgstr "Последний визит"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:601
+msgid "From IP"
+msgstr "С IP"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:616
+msgid "Account Pending"
+msgstr "В ожидании"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:641
+msgid "Suspend"
+msgstr "Заблокировать"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:727
+msgid "Users Administration"
+msgstr "Управление пользователями"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:768
+msgid "Edit User"
+msgstr "Редактирование пользователя"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:818
+msgid "No users found."
+msgstr "Пользователи не найдены"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:852
+msgid "New account registration has been temporarily suspended. Please try again later."
+msgstr "Регистрация новых учетных записей было временно приостановлено. Пожалуйста, повторите попытку позже."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:861
+msgid "No username specified!"
+msgstr "Не задано имя пользователя!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:869
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:988
+msgid "Username and Email are required!"
+msgstr "Необходимо указать имя пользователя и адрес электронной почты!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:935
+#, php-format
+msgid "User couldn't be registered! Error: %s"
+msgstr "Пользователь не зарегистрирован! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:980
+msgid "No data defined to update user to!"
+msgstr "Нет данных для обновления!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1005
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1354
+msgid "Incorrect username. Usernames may consist of a-z, 0-9 and underscores only."
+msgstr "Неправильный формат имени пользователя. Имя пользователя должно состоять из a-z, 0-9 и нижнего подчеркивания (_)."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1061
+#, php-format
+msgid "User couldn't be updated! Error: %s"
+msgstr "Пользователь не обновлен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1371
+msgid "Username is already taken. Please choose a different username or login."
+msgstr "Имя пользователя уже занято. Пожалуйста, выберите другое имя пользователя."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1395
+msgid "Email address is already in use."
+msgstr "Указанный вами адрес электронной почты уже используется."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1397
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2038
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2067
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2147
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2167
+msgid "Forgot your password?"
+msgstr "Восстановить пароль?"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1410
+msgid "No request values specified!"
+msgstr "Не указано значение!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1418
+msgid "No owner defined for the request!"
+msgstr "Не указан владелец!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1432
+#, php-format
+msgid "You have reached the maximum number of %s requests! If you are still having problems completing your request please contact us or wait a few hours and try again."
+msgstr "Вы достигли максимального числа запросов %s! Если у вас все еще возникают проблемы при заполнении вашего запроса, то пожалуйста, свяжитесь с нами или подождите несколько часов, и попробуйте еще раз."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1459
+#, php-format
+msgid "Request couldn't be stored! Error: %s"
+msgstr "Запрос не сохранен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1524
+#, php-format
+msgid "User couldn't be activated! Error: %s"
+msgstr "Пользователь не активирован! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1554
+#, php-format
+msgid "User couldn't be suspended! Error: %s"
+msgstr "Пользователь не блокирован! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1599
+msgid "No email address specified! Please enter the email address provided at registration."
+msgstr "Не указан адрес электронной почты! Пожалуйста, введите адрес электронной почты, указанный при регистрации."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1624
+msgid "Your email address is not in our database. Please be sure to use the one provided at registration."
+msgstr "Данный адрес электронной почты не найден в базе данных. Пожалуйста, не забудьте использовать тот, который вы указали при регистрации."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1679
+msgid "<b>Request Successful</b><br /> A notification email has been sent to your email address with the neccessary information to login to your account."
+msgstr "<b>Успешно!</b><br />Уведомление было отправлено на ваш адрес электронной почты с необходимой информацией."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1687
+msgid "<b>Request Successful</b><br /> A notification email has been sent to your email address with the neccessary information to request a new password."
+msgstr "<b>Успешно!</b><br />Уведомление было отправлено на ваш адрес электронной почты с необходимой информацией для нового пароля."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1695
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1819
+msgid "<b>IMPORTANT:</b> Some email providers put messages received from addresses, which are not in your contact list, in the \"Bulk / Junk E-Mail\" folders. Please check those folders too."
+msgstr "<b>ВНИМАНИЕ:</b> Некоторые поставщики услуг электронной почты отправляют полученные сообщения с адресов, которые не находятся в вашем списке контактов в папку спама. Пожалуйста, проверьте данную папку."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1718
+msgid "Request not found! Please make sure the request was made in the last 3 hours as older requests are automatically deleted."
+msgstr "Запрос не найден! Все запросы отправленные старше 3 часов автоматически удаляются!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1729
+msgid "Request owner couldn't be found!"
+msgstr "Владелец не найден!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1745
+#, php-format
+msgid "Your account couldn't be activated! Error: %s"
+msgstr "Ваша учетная запись не активирована! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1753
+msgid "<b>Your Account has been Activated</b><br /> Thank you for registering."
+msgstr "<b>Ваша учетная запись активирована</b><br />Благодарим вас за регистрацию."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1768
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1794
+#, php-format
+msgid "Your new password couldn't be activated! Error: %s"
+msgstr "Ваш новый пароль не активирован! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1776
+msgid "<b>Your New Password has been Activated</b><br /> Please copy and paste your new password from the email you received to prevent any misspelling issues."
+msgstr "<b>Ваш новый пароль активирован</b>"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1813
+msgid "<b>Your New Password has been Sent</b><br /> A notification email has been sent to your email address with the new login information."
+msgstr "<b>Ваш новый пароль отправлен на ваш адрес электронной почты</b>"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1893
+#, php-format
+msgid "Welcome back %s"
+msgstr "Добро пожаловать %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1934
+msgid "Remember me (stay logged in)"
+msgstr "Запомнить меня"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1942
+msgid "Please enter the email address you have provided at registration / join."
+msgstr "Пожалуйста, введите адрес электронной почты, который Вы указали при регистрации."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1947
+msgid "Email address"
+msgstr "Email адрес"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1987
+msgid "Avatar"
+msgstr "Аватар"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:1999
+msgid "Quick Account"
+msgstr "Быстрая учетная запись"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2025
+msgid "Quick Login"
+msgstr "Быстрый вход"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2032
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2060
+msgid "Login"
+msgstr "Вход"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2053
+msgid "Member Login"
+msgstr "Введите имя пользователя и пароль"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2088
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2093
+msgid "Request a New Password"
+msgstr "Запросить новый пароль"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2137
+msgid "This account has been suspended!"
+msgstr "Эта учетная запись была заблокирована!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2142
+msgid "You have entered an invalid username or password. Please enter the correct details (use copy and paste) or use your email address as your username and try again. Don't forget that the password is case sensitive."
+msgstr "Вы указали несуществующие имя пользователя или пароль. Пожалуйста, проверьте данные, или используйте ваш адрес электронной почты в качестве имени пользователя и попробуйте еще раз. Не забывайте, что пароль чуствителен к регистру."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2150
+#, php-format
+msgid "You have used %s out of %s login attempts. After all %s have been used, you will be unable to login for %s minutes."
+msgstr "Вы использовали %s из %s попыток. Если количество попыток достигнет %s, то сработает блокировка на %s минут(-ы)."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2162
+#, php-format
+msgid "Wrong username or password. <b>You have used up your failed login quota! Please wait %s minutes before trying again.</b> Don't forget that the password is case sensitive."
+msgstr "Неверное имя пользователя или пароль. <b>Пожалуйста, подождите %s минут(-ы) и повторите попытку</b>. Не забывайте, что пароль чувствителен к регистру."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2172
+#, php-format
+msgid "Account suspended! <b>This account has been suspended for %s minutes because of to many logins from different IP addresses.</b> Please ensure that you have a secure password and/or your are logged out from your other PCs before trying again."
+msgstr "Заблокировано! <b>Эта учетная запись была заблокирована системой безопасности на %s минут(-ы) за одновременные авторизации с разных IP адресов</b>."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2182
+msgid "Your session couldn't be stored! Please contact the webmaster with this error and your login information."
+msgstr "Сессия не сохранена! Пожалуйста, сообщите веб-мастеру об этой ошибке и укажите ваши регистрационные данные."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2189
+msgid "Login has been temporarily suspended. Please try again later."
+msgstr "Авторизация временно приостановлена. Пожалуйста, повторите попытку позже."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/users.class.php:2195
+msgid "The specified username is currently inactive. If you have problems activating your account, please contact us or request a new password to activate your account."
+msgstr "Укаанное вами имя пользователя в настоящее время неактивно. Если у вас возникли проблемы активацией учетной записи, пожалуйста, свяжитесь с нами."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:44
+msgid "New Feed"
+msgstr "Новый канал"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:48
+msgid "Available Feeds"
+msgstr "Доступные каналы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:64
+msgid "Feed URL"
+msgstr "URL адрес"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:72
+msgid "Select Feed"
+msgstr "Выбрать канал"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:71
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:77
+msgid "e.g. http://jcore.net/rss/posts.xml"
+msgstr "пример, http://jcore.net/rss/posts.xml"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:144
+msgid "RSS feeds have been successfully re-ordered."
+msgstr "RSS каналы успешно сортированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:155
+msgid "RSS feed has been successfully deleted."
+msgstr "RSS канал успешно удален."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:169
+msgid "RSS feed has been successfully updated."
+msgstr "RSS канал успешно обновлен."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:171
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:188
+msgid "View RSS"
+msgstr "Просмотр"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:186
+msgid "RSS feed has been successfully created."
+msgstr "RSS канал успешно создан."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:206
+msgid "Title / Feed URL"
+msgstr "Название / URL"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:331
+msgid "RSS Feeds Administration"
+msgstr "Управление новостными каналами RSS"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:356
+msgid "Edit RSS Feed"
+msgstr "Редактирование новостного канала RSS"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:357
+msgid "New RSS Feed"
+msgstr "Новый новостной канал"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:394
+msgid "No RSS feeds found."
+msgstr "RSS не найдены"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:455
+#, php-format
+msgid "Feed couldn't be created! Error: %s"
+msgstr "Новостной канал не создан! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/rss.class.php:488
+#, php-format
+msgid "Feed couldn't be updated! Error: %s"
+msgstr "Новостной канал не обновлен! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:52
+msgid "New Ad"
+msgstr "Новое объявление"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:65
+msgid "Promo text"
+msgstr "Рекламный текст"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:96
+msgid "Upload a banner"
+msgstr "Загрузить баннер"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:102
+msgid "Banner"
+msgstr "Баннер"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:108
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:110
+msgid "e.g. image.jpg, flash.swf"
+msgstr "пример, image.jpg, flash.swf"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:126
+msgid "Use Google or other Ad Code"
+msgstr "Использование Google или другого рекламного кода"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:131
+msgid "Ad Code (leave it empty to automatically generate code for flash ads)"
+msgstr "Добавление кода (оставить пустым для автоматической генерации кода флэш-рекламы)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:138
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:140
+msgid "e.g. Google Ad Code"
+msgstr "пример, Google Ad Code"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:148
+msgid "Show Ad only within a defined time interval"
+msgstr "Временной интервал показа"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:167
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:434
+msgid "Show on"
+msgstr "Показывать по"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:241
+msgid "Ads have been successfully re-ordered."
+msgstr "Объявления успешно сортированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:252
+msgid "Ad has been successfully deleted."
+msgstr "Объявление успешно удалено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:277
+msgid "Ad has been successfully updated."
+msgstr "Объявление успешно обновлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:290
+msgid "Ad has been successfully created."
+msgstr "Объявление успешно создано."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:346
+msgid "No Place Defined"
+msgstr "Не определено"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:349
+msgid "Total"
+msgstr "Всего"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:373
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:420
+msgid "Expired"
+msgstr "Истек"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:430
+msgid "Every day"
+msgstr "Каждый день"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:438
+msgid "Stats"
+msgstr "Статистика"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:439
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:478
+msgid "Displays"
+msgstr "Отображает"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:441
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:480
+msgid "Clicks"
+msgstr "Кликов"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:443
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:482
+msgid "Ratio"
+msgstr "Соотношение"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:613
+msgid "Ads Administration"
+msgstr "Управление рекламой"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:638
+msgid "Edit Ad / Banner"
+msgstr "Редактирование объявления / баннера"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:639
+msgid "New Ad / Banner"
+msgstr "Добавить объявление/баннер"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:678
+msgid "No ads found."
+msgstr "Ничего не найдено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:783
+#, php-format
+msgid "Ad couldn't be created! Error: %s"
+msgstr "Объявление не создано! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:862
+#, php-format
+msgid "Ad couldn't be updated! Error: %s"
+msgstr "Объявление не обновлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/ads.class.php:907
+msgid "Ad not found!"
+msgstr "Объявление не найдено!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sitemap.class.php:42
+msgid "Languages"
+msgstr "Языки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sitemap.class.php:59
+msgid "Couldn't regenerate sitemap XML file."
+msgstr "Не удается сгенерировать XML-файл."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sitemap.class.php:69
+msgid "Sitemap XML file has been successfully regenerated."
+msgstr "XML-файл был успешно сгенерирован."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sitemap.class.php:79
+msgid "Sitemap XML File Administration"
+msgstr "Управление XML картой сайта"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/sitemap.class.php:86
+#, php-format
+msgid "This file (%s) gets updated automatically every time you create / edit / delete a page but you can regenerate or modify it manually below."
+msgstr "Этот файл (%s) обновляется автоматически каждый раз при создании / редактировании / удалении страницы, но вы можете восстановить или изменить его вручную ниже."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:69
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:635
+msgid "New Video"
+msgstr "Новое видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:91
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:151
+msgid "Video Cap"
+msgstr "Видео Cap"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:98
+msgid "Add an already uploaded video (for e.g. youtube, vimeo url)"
+msgstr "Добавить уже загружено видео (например, YouTube, Vimeo URL)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:103
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:170
+msgid "Video (URL)"
+msgstr "Видео (URL)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:108
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:174
+msgid "e.g. http://www.youtube.com/watch?v=0_fPV13lKm4"
+msgstr "пример, http://www.youtube.com/watch?v=0_fPV13lKm4"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:121
+msgid "Add another url"
+msgstr "Добавить другой адрес"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:128
+msgid "Local Video"
+msgstr "Локальное видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:139
+msgid "Upload a new video"
+msgstr "Добавлено новое видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:144
+msgid "Video File"
+msgstr "Файл видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:148
+msgid "e.g. video.mp4, video.flv"
+msgstr "пример, video.mp4, video.flv"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:237
+msgid "Videos have been successfully re-ordered."
+msgstr "Видео сортированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:248
+msgid "Video has been successfully deleted."
+msgstr "Видео успешно удалено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:261
+msgid "No file selected to be uploaded as a new video! Please select a file / video to upload or define an already uploaded video."
+msgstr "Не выбран файл для загрузки в качестве нового видео! Пожалуйста, выберите файл видео для загрузки или укажите уже загруженное видео."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:303
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:383
+#, php-format
+msgid "Video \"%s\" is not embeddable, \"%s\"."
+msgstr "Видео \"%s\" is not embeddable, \"%s\"."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:313
+msgid "Video has been successfully updated."
+msgstr "Видео успешно обновлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:327
+msgid "Video has been successfully uploaded."
+msgstr "Видео успешно загружено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:351
+msgid "Video has been successfully added."
+msgstr "Видео успешно добавлено."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:413
+#, php-format
+msgid "There were problems adding some of the video urls you defined. The following videos couldn't be added: %s."
+msgstr "Возникли проблемы добавления некоторых видео из указанных вами URL-адресов. Следующие видео не может быть добавлено: %s."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:423
+#, php-format
+msgid "Video(s) have been successfully added. The following videos have been added: %s."
+msgstr "Видео успешно добавлены. Следующие видео добавлено: %s."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:437
+msgid "Video"
+msgstr "Видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:439
+msgid "Title / Added on"
+msgstr "Название / Дата добавления"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:634
+msgid "Edit Video"
+msgstr "Редактирование видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:793
+#, php-format
+msgid "Video couldn't be created! Error: %s"
+msgstr "Видео не создано! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:849
+#, php-format
+msgid "Video couldn't be updated! Error: %s"
+msgstr "Видео не обновлено! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:1058
+msgid "No video selected!"
+msgstr "Видео не выбрано!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/videos.class.php:1070
+msgid "The selected video cannot be found!"
+msgstr "Выбранное видео не найдено!"
+
+#: Changes in 0.8
+#: ---------------
+#: D:/WebServers/home/jcore.ru/server/lib/sources/requests.class.php:158
+msgid "Invalid or not enough permission to access this request!"
+msgstr "Неверный запрос или у вас не достаточно прав доступа!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postshandling.class.php:252
+msgid "All"
+msgstr "Все"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:137
+msgid "Select User"
+msgstr "Выберите пользователя"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:181
+msgid "User \"%s\" couldn't be found!"
+msgstr "Пользователь \"%s\" не найден!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/notes.class.php:183
+msgid "Please make sure you have entered / selected the right username or if it's a new user please first create the user at Member Management -> Users."
+msgstr "Пожалуйста, убедитесь, что вы указали/выбрали существующее Имя пользователя. Для создания новой учетной записи, пожалуйста сначала создайте пользователя в Панель управления ->Пользователи."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicformdata.class.php:756
+msgid "Nothing to store! Please define some fields for your form and make sure their Value Types are set."
+msgstr "Ничего! Пожалуйста, определите поля для формы и убедитесь, что типы значений установлены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:64
+msgid "Author"
+msgstr "Автор"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:70
+msgid "Version"
+msgstr "Версия"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:716
+msgid "Export current template as an installable template package"
+msgstr "Экспорт текущего шаблона и сохранение в устанавливаемый архив шаблона."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:719
+msgid "Export Template"
+msgstr "Экспорт"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:177
+msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
+msgstr "Заполнив форму ниже, Вы можете экспортировать все ваши изменения в текущий \"<b>%s</b>\" шаблон и  сохранить в архиве. Архив будет включать в себя блоки, изображения, CSS, JS, шрифты и все пользовательские каталоги."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:192
+msgid "Template Details"
+msgstr "Информация"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:198
+msgid "Export"
+msgstr "Экспорт"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:124
+msgid "Template has been successfully created."
+msgstr "Шаблон успешно создан."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:76
+msgid "Quickly create / modify posts"
+msgstr "Быстрое создание/редактирование статей"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:79
+msgid "Posts at Glance"
+msgstr "Статьи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postsatglance.class.php:33
+msgid "Page"
+msgstr "Страница"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postsatglance.class.php:26
+msgid "Post to Page"
+msgstr "Страница"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postsatglance.class.php:56
+msgid "No posts selected! Please select at least one post."
+msgstr "Статьи не выбраны! Пожалуйста, выберите по крайней мере одну статью."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postsatglance.class.php:69
+msgid "Posts have been successfully deactivated and are now NOT visible to the public."
+msgstr "Статьи успешно отключены и в настоящее время не видны общественности."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postsatglance.class.php:81
+msgid "Posts have been successfully activated and are now visible to the public."
+msgstr "Статьи успешно включены и в настоящее время не видны общественности."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/postsatglance.class.php:93
+msgid "Posts have been successfully deleted."
+msgstr "Статьи успешно удалены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/template.class.php:1499
+msgid "Template couldn't be activated!"
+msgstr "Шаблон не активирован!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:290
+msgid "Post Keywords"
+msgstr "Ключевые слова"
+
+#: Global settings
+msgid "Instant User Registration"
+msgstr "Быстрая регистрация пользователей"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:266
+msgid "Manage user groups, set group permissions"
+msgstr "Управление группами пользователей, установка прав доступа для групп."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/admin.class.php:269
+msgid "User Groups"
+msgstr "Группы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:26
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:281
+msgid "New Group"
+msgstr "Новая группа"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:44
+msgid "Group Name"
+msgstr "Название группы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:49
+msgid "e.g. Editor"
+msgstr "пример, Редактор"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:70
+msgid "Group has been successfully deleted."
+msgstr "Группа успешно удалена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:84
+msgid "Group has been successfully updated."
+msgstr "Группа успешно обновлена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:97
+msgid "Group has been successfully created."
+msgstr "Группа успешно создана."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:112
+msgid "Group"
+msgstr "Группа"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:255
+msgid "User Groups Administration"
+msgstr "Управление группами пользователей"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:280
+msgid "Edit Group"
+msgstr "Редактирование группы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:320
+msgid "No groups found."
+msgstr "Группы не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:360
+msgid "Group \"%s\" already exists."
+msgstr "Группы \"%s\" не существует."
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:373
+msgid "Group couldn't be created! Error: %s"
+msgstr "Группа не создана. Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergroups.class.php:413
+msgid "Group couldn't be updated! Error: %s"
+msgstr "Группа не обновлена. Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/usergrouppermissions.class.php:30
+msgid "Group Permissions"
+msgstr "Права группы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:157
+msgid "Select Locale"
+msgstr "Выбрать"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/languages.class.php:293
+msgid "Available Locales"
+msgstr "Доступные языки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:106
+msgid "Auto Response Options"
+msgstr "Автоответчик"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:111
+msgid "Send Auto Response"
+msgstr "Отправить"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:188
+msgid "Locale File"
+msgstr "Языковый файл"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:198
+msgid "Select File"
+msgstr "Выбрать"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/dynamicforms.class.php:307
+msgid "Available Locale Files"
+msgstr "Доступные языковые файлы"
+
+#: D:/WebServers/home/jcore.ru/server/lib/sources/pages.class.php:299
+msgid "Display Form(s)"
+msgstr "Отображать форму(-ы)"
+

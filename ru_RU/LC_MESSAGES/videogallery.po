@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Перевод на русский язык jCore\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 21:56+0200\n"
+"PO-Revision-Date: 2011-05-06 14:58+0300\n"
+"Last-Translator: jcore.ru <info@jcore.ru>\n"
+"Language-Team: jcore.ru <translate@jcore.ru>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:14
+msgid "Video Gallery"
+msgstr "Галлерея видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:15
+msgid "Share videos in a directory like structure"
+msgstr "Каталог видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:30
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:58
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:603
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:632
+msgid "Gallery"
+msgstr "Галлерея"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:126
+msgid "No video selected!"
+msgstr "Видео не выбрано!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:138
+msgid "The selected video cannot be found!"
+msgstr "Выбранное видео не найдено!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:150
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:2517
+msgid "You need to be logged in to view this video. Please login or register."
+msgstr "Вы должны войти в систему для просмотра этого видео. Пожалуйста войдите в систему или зарегистрируйтесь."
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:519
+#, php-format
+msgid "Couldn't fetch video list. Error: %s"
+msgstr "Не удалось получить список видео. Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:954
+msgid "New Folder"
+msgstr "Новая папка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:958
+msgid "Pages / Posts"
+msgstr "Страницы / Сообщения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:961
+msgid "Settings"
+msgstr "Настройки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:974
+msgid "Sub Gallery of"
+msgstr "Уровень"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:994
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1615
+msgid "Columns"
+msgstr "Колонки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:999
+msgid "e.g. 3 (0 = auto)"
+msgstr "например, 3 ( 0 = авто )"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1009
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1610
+msgid "Display Preview"
+msgstr "Предпросмотр"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1015
+msgid "(will show the latest video as icon)"
+msgstr "(будет отображено последнее видео в качестве значка)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1019
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1605
+msgid "Show Icons"
+msgstr "Иконки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1026
+msgid "(display icons when gallery selected)"
+msgstr "(отображение иконок выбранной галереи)"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1036
+msgid "YouTube Options"
+msgstr "Настройки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1041
+msgid "Channel URL"
+msgstr "URL канала"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1045
+msgid "e.g. http://youtube.com/user/Channel_ID"
+msgstr "например, http://youtube.com/user/Channel_ID"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1048
+msgid "Tags"
+msgstr "Тэги"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1052
+msgid "e.g. foo, bar"
+msgstr "например, foo, bar"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1059
+msgid "e.g. puppy"
+msgstr "например, puppy"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1062
+msgid "Category"
+msgstr "Категория"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1069
+msgid "Autos & Vehicles"
+msgstr "Авто и транспорт"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1071
+msgid "Comedy"
+msgstr "Юмор"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1073
+msgid "Education"
+msgstr "Образование"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1075
+msgid "Entertainment"
+msgstr "Развлечения"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1077
+msgid "Film & Animation"
+msgstr "Фильм и анимация"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1079
+msgid "Gaming"
+msgstr "Компьютерные игры"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1081
+msgid "Howto & Style"
+msgstr "Обучение и Стиль"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1083
+msgid "Music"
+msgstr "Музыка"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1085
+msgid "News & Politics"
+msgstr "Новости и политика"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1087
+msgid "Nonprofits & Activism"
+msgstr "Общественные акции"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1089
+msgid "People & Blogs"
+msgstr "Люди и блоги"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1091
+msgid "Pets & Animals"
+msgstr "Животный мир"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1093
+msgid "Science & Technology"
+msgstr "Наука и техника"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1095
+msgid "Sports"
+msgstr "Спорт"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1097
+msgid "Travel & Events"
+msgstr "Путешествия и события"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1100
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1453
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1522
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:2450
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:2561
+msgid "Videos"
+msgstr "Видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1107
+msgid "My Videos"
+msgstr "Мое видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1109
+msgid "My Favorites"
+msgstr "Избранные"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1111
+msgid "Top rated"
+msgstr "Лучшие по рейтингу"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1113
+msgid "Top favorites"
+msgstr "Популярное видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1115
+msgid "Most viewed"
+msgstr "Самые просматриваемые"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1117
+msgid "Most popular"
+msgstr "Самые популярные"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1119
+msgid "Most recent"
+msgstr "Последние"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1121
+msgid "Most discussed"
+msgstr "Самые обсуждаемые"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1123
+msgid "Most responded"
+msgstr "Наибольшее количетво ответов"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1125
+msgid "Recently featured"
+msgstr "Популярные в последнее время."
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1127
+msgid "Videos for mobile"
+msgstr "Видео для мобильного"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1130
+msgid "Time"
+msgstr "Время"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1137
+msgid "Today"
+msgstr "Сегодня"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1139
+msgid "This Week"
+msgstr "На этой неделе"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1141
+msgid "This Month"
+msgstr "В этом месяце"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1144
+msgid "Order By"
+msgstr "Сортировать по"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1151
+msgid "Date"
+msgstr "Дата"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1153
+msgid "Published"
+msgstr "Опубликовано"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1155
+msgid "Relevance"
+msgstr "Соответствие"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1157
+msgid "Views"
+msgstr "Просмотров"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1159
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1165
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1660
+msgid "GData Auth Token"
+msgstr "Маркер проверки подлинности GData"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1171
+msgid "Request an Auth Token"
+msgstr "Запрос маркера авторизации"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1261
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1681
+msgid "Members Only"
+msgstr "Пользователи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1269
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1686
+msgid "Show to Guests"
+msgstr "Гости"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1337
+msgid "Galleries have been successfully re-ordered."
+msgstr "Галереи были успешно сортированы."
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1348
+msgid "Gallery has been successfully deleted."
+msgstr "Галерея была успешно удалена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1361
+msgid "Gallery cannot be subgallery of itself!"
+msgstr "Галерея не может быть субгаллереей само по себе!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1400
+msgid "Gallery has been successfully updated."
+msgstr "Галерея была успешно обновлена."
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1404
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1424
+msgid "View Gallery"
+msgstr "Просмотр галереи"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1420
+msgid "Gallery has been successfully created."
+msgstr "Галерея была успешно создана."
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1458
+msgid "Icon"
+msgstr "Значек"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1553
+msgid "Icons"
+msgstr "Значки"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1624
+msgid "YouTube Channel URL"
+msgstr "URL канала"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1629
+msgid "YouTube Video Tags"
+msgstr "Теги видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1634
+msgid "YouTube Search"
+msgstr "Поиск"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1639
+msgid "YouTube Video Category"
+msgstr "Категория видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1644
+msgid "YouTube Videos"
+msgstr "Видео"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1649
+msgid "YouTube Video Time"
+msgstr "Продолжительность"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1654
+msgid "YouTube Order By"
+msgstr "Сортировать по"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1812
+msgid "Video Gallery Administration"
+msgstr "Управление видео галлереями"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1840
+msgid "Edit Gallery"
+msgstr "Изменить галерею"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1841
+msgid "New Gallery"
+msgstr "Новая галерея"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:1890
+msgid "No galleries found."
+msgstr "Галереи не найдены."
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:2016
+#, php-format
+msgid "Gallery couldn't be created! Error: %s"
+msgstr "Галлерея не создана! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:2126
+#, php-format
+msgid "Gallery couldn't be updated! Error: %s"
+msgstr "Галлерея не обновлена! Ошибка: %s"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:2277
+msgid "Directory couldn't be protected!"
+msgstr "Каталог не может быть защищен!"
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:2368
+msgid "This area is limited to members only. Please login below."
+msgstr "Только для зарегистрированных пользователей."
+
+#: D:/WebServers/home/jcore.ru/server/lib/modules/videogallery.class.php:2560
+msgid "Videos / Galleries"
+msgstr "Видео / Галлереи"
+
