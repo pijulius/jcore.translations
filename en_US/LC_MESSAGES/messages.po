@@ -681,7 +681,7 @@ msgid "Upload New Template"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:767
-msgid "No installed templates found."
+msgid "No templates found."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:795
