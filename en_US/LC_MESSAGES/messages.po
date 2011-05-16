@@ -4149,7 +4149,7 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:2172
 #, php-format
-msgid "Account suspended! <b>This account has been suspended for %s minutes because of to many logins from different IP addresses.</b> Please ensure that you have a secure password and/or your are logged out from your other PCs before trying again."
+msgid "Account suspended! <b>This account has been suspended for %s minutes because of to many logins from different IP addresses.</b> Please ensure that you have a secure password and/or you are logged out from your other PCs before trying again."
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:2182
