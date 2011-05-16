@@ -4998,3 +4998,141 @@ msgstr ""
 #, php-format
 msgid "Deleting file %s"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:84
+msgid "Module couldn't be installed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:154
+msgid "Deleting files"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:232
+msgid "No files to uninstall."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:575
+msgid "Update couldn't be installed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:69
+msgid "Template couldn't be installed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:28
+msgid "Upload Module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:32
+msgid "View Modules"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:36
+msgid "Get Modules"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:42
+msgid "Module File"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:48
+msgid "e.g. module.tar.gz"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:62
+msgid "Upload another module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:93
+msgid "Module has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:104
+msgid "Module has been successfully activated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:122
+msgid "Module has been successfully deactivated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:137
+msgid "No module selected to be uploaded! Please select at least one module to upload."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:159
+#, php-format
+msgid "There were problems uploading some of the modules you selected. The following modules couldn't be uploaded: %s."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:169
+#, php-format
+msgid "Modules have been successfully uploaded. The following modules have been uploaded: %s."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:180
+msgid "Module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:251
+msgid "global"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:252
+msgid "local"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:373
+msgid "Modules Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:383
+msgid "Below are the available modules found in the \"<b>modules/</b>\" folder. To install a new module just extract it to the \"<b>modules/</b>\" folder, or using the form below select the module package file (e.g. module.tar.gz)."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:395
+msgid "Upload New Module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:478
+msgid "No modules found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:501
+msgid "Module couldn't be loaded! Please make sure it is a valid module and try again."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:605
+#, php-format
+msgid "Module couldn't be deleted but it is now safe to be deleted manually by just simply removing the \"%s\" file or folder."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:625
+msgid "Couldn't extract module as it is to big to be processed with the current memory limit set. Please try to extract it manually or increment the PHP memory limit."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:638
+msgid "Module couldn't be extracted! Error: Invalid module! Please make sure to upload a valid tar.gz module file."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:657
+msgid "Module couldn't be extracted! Error: Empty module! The module you selected seems to be an empty tar.gz file."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:672
+#, php-format
+msgid "Module couldn't be extracted! Error: \"%s\" directory couldn't be created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:693
+#, php-format
+msgid "Module couldn't be extracted! Error: \"%s\" file couldn't be created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:196
+msgid "Add additional functionality to your website"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:199
+msgid "Module Manager"
+msgstr ""
+
