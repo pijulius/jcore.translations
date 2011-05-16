@@ -5136,3 +5136,7 @@ msgstr ""
 msgid "Module Manager"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:205
+msgid "Mobile Browsers"
+msgstr ""
+
