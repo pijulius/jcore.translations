@@ -5140,3 +5140,11 @@ msgstr ""
 msgid "Mobile Browsers"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:327
+msgid "Add Keyword"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:820
+msgid "Popularity"
+msgstr ""
+
