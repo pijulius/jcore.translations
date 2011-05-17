@@ -5148,3 +5148,7 @@ msgstr ""
 msgid "Popularity"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:815
+msgid "Keyword"
+msgstr ""
+
