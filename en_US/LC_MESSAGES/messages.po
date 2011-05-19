@@ -5152,3 +5152,8 @@ msgstr ""
 msgid "Keyword"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:505
+#, php-format
+msgid "Module couldn't be added! Error: %s"
+msgstr ""
+
