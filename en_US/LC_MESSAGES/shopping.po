@@ -1884,3 +1884,8 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4610
 msgid "Views"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3840
+#, php-format
+msgid "The selected quantity exceeds quantity available (%s) in stock!"
+msgstr ""
