@@ -5157,3 +5157,7 @@ msgstr ""
 msgid "Module couldn't be added! Error: %s"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:973
+msgid "Not Searchable"
+msgstr ""
+
