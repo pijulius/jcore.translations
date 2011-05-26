@@ -5161,3 +5161,11 @@ msgstr ""
 msgid "Not Searchable"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:677
+msgid "Read Own"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:679
+msgid "Write Own"
+msgstr ""
+
