@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-05-04 18:55-0500\n"
+"PO-Revision-Date: 2011-05-25 21:10-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -682,8 +682,8 @@ msgid "Upload New Template"
 msgstr "Téléverser un nouvel habillage"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:767
-msgid "No installed templates found."
-msgstr "Auncun habillage installé."
+msgid "No templates found."
+msgstr "Auncun habillage trouvé."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:795
 #, php-format
@@ -784,8 +784,8 @@ msgstr "Erreur SQL ! Veuillez contacter l'administrateur du site."
 
 #: /home/julius/workspace/jcore/lib/sources/sql.class.php:392
 #, php-format
-msgid "(affected rows: %s)"
-msgstr "(entrées affectées : %s)"
+msgid "affected rows: %s"
+msgstr "entrées affectées : %s"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:46
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:49
@@ -4151,7 +4151,7 @@ msgstr "Mauvais nom d'utilisateur ou mot de passe. <b>Vous avez épuisez votre q
 
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:2172
 #, php-format
-msgid "Account suspended! <b>This account has been suspended for %s minutes because of to many logins from different IP addresses.</b> Please ensure that you have a secure password and/or your are logged out from your other PCs before trying again."
+msgid "Account suspended! <b>This account has been suspended for %s minutes because of to many logins from different IP addresses.</b> Please ensure that you have a secure password and/or you are logged out from your other PCs before trying again."
 msgstr "Compte suspendu ! <b>Ce compte a été suspendu pour %s minutes en raison d'un nombre élévé de tentatives de connexions à partir de différentes adresses IP.</b> Veuillez vous assurer que vous avez un mot de passe suffisamment sécuritaire et/ou que vous êtes déconnecté depuis un autre ordinateur avant de réessayer."
 
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:2182
@@ -4979,4 +4979,180 @@ msgstr "Réponse invalide envoyée par jCore.net !"
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:1107
 msgid "Install Update"
 msgstr "Installer la mise à jour"
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php
+msgid "Manual Gettext"
+msgstr "Gettext manuel"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:414
+#, php-format
+msgid "query took: %s seconds"
+msgstr "durée de la requête : %s secondes"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:492
+#, php-format
+msgid "Deleting file %s"
+msgstr "Suppression du fichier %s"
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:84
+msgid "Module couldn't be installed!"
+msgstr "Le module n'a pas pu être installé !"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:154
+msgid "Deleting files"
+msgstr "Suppression des fichiers"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:232
+msgid "No files to uninstall."
+msgstr "Aucun fichier à désinstaller."
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:575
+msgid "Update couldn't be installed!"
+msgstr "La mise à jour n'a pas pu être installée !"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:69
+msgid "Template couldn't be installed!"
+msgstr "L'habillage n'a pas pu être installé !"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:28
+msgid "Upload Module"
+msgstr "Téléverser le module"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:32
+msgid "View Modules"
+msgstr "Voir les modules"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:36
+msgid "Get Modules"
+msgstr "Obtenir des modules"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:42
+msgid "Module File"
+msgstr "Fichier du module"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:48
+msgid "e.g. module.tar.gz"
+msgstr "ex. : module.tar.gz"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:62
+msgid "Upload another module"
+msgstr "Téléverser un autre module"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:93
+msgid "Module has been successfully deleted."
+msgstr "Le module a été supprimé."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:104
+msgid "Module has been successfully activated."
+msgstr "Le module a été activé."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:122
+msgid "Module has been successfully deactivated."
+msgstr "Le module a été désactivé."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:137
+msgid "No module selected to be uploaded! Please select at least one module to upload."
+msgstr "Aucun module sélectionné pour la mise à jour ! Veuillez sélectionner au moins un module à téléverser."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:159
+#, php-format
+msgid "There were problems uploading some of the modules you selected. The following modules couldn't be uploaded: %s."
+msgstr "Des problèmes sont survenues lors du téléversement des modules sélectionnés. Les modules suivants n'ont pas pu être téléversés : %s."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:169
+#, php-format
+msgid "Modules have been successfully uploaded. The following modules have been uploaded: %s."
+msgstr "Les modules ont été téléversés. Les modules suivants ont été téléversés : %s."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:180
+msgid "Module"
+msgstr "Module"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:251
+msgid "global"
+msgstr "global"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:252
+msgid "local"
+msgstr "local"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:373
+msgid "Modules Administration"
+msgstr "Gestion des modules"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:383
+msgid "Below are the available modules found in the \"<b>modules/</b>\" folder. To install a new module just extract it to the \"<b>modules/</b>\" folder, or using the form below select the module package file (e.g. module.tar.gz)."
+msgstr "Les modules listés ci-bas sont disponibles dans le dossier \"<b>modules/</b>\". Pour installer un nouveau module, extrayez-le dans le dossier \"<b>modules/</b>\" ou utilisez le formulaire ci-bas pour charger le module (ex. : module.tar.gz)."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:395
+msgid "Upload New Module"
+msgstr "Téléverser un nouveau module"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:478
+msgid "No modules found."
+msgstr "Aucun module trouvé."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:501
+msgid "Module couldn't be loaded! Please make sure it is a valid module and try again."
+msgstr "Le module n'a pas pu être chargé ! Veuillez vous assurer qu'il s'agit d'un module valide et réessayez."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:605
+#, php-format
+msgid "Module couldn't be deleted but it is now safe to be deleted manually by just simply removing the \"%s\" file or folder."
+msgstr "Le module n'a pas pu être supprimé, mais il est sécuritaire de le supprimer manuellement en supprimant le dossier ou le fichier \"%s\"."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:625
+msgid "Couldn't extract module as it is to big to be processed with the current memory limit set. Please try to extract it manually or increment the PHP memory limit."
+msgstr "Impossible d'extraire le module car il est trop lourd pour être traité avec la limite de mémoire actuelle. Veuillez l'extraire manuellement ou incrémentez la limite mémoire de PHP."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:638
+msgid "Module couldn't be extracted! Error: Invalid module! Please make sure to upload a valid tar.gz module file."
+msgstr "Le module n'a pas pu être extrait ! Erreur : Module invalide ! Veuillez vous assurer de téléverser un fichier module .tar.gz valide."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:657
+msgid "Module couldn't be extracted! Error: Empty module! The module you selected seems to be an empty tar.gz file."
+msgstr "Le module n'a pas pu être extrait ! Erreur : Module vide ! Le module sélectionné semble être un fichier .tar.gz vide."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:672
+#, php-format
+msgid "Module couldn't be extracted! Error: \"%s\" directory couldn't be created."
+msgstr "Le module n'a pas pu être extrait ! Erreur : le dossier \"%s\" n'a pas pu être créé."
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:693
+#, php-format
+msgid "Module couldn't be extracted! Error: \"%s\" file couldn't be created."
+msgstr "Le module n'a pas pu être extrait ! Erreur : le fichier \"%s\" n'a pas pu être créé."
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:196
+msgid "Add additional functionality to your website"
+msgstr "Ajouter des fonctionnalités additionnelles à votre site."
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:199
+msgid "Module Manager"
+msgstr "Gestion des modules"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:205
+msgid "Mobile Browsers"
+msgstr "Navigateurs mobiles"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:327
+msgid "Add Keyword"
+msgstr "Ajouter un mot-clé"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:820
+msgid "Popularity"
+msgstr "Popularité"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:815
+msgid "Keyword"
+msgstr "Mot-clé"
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:505
+#, php-format
+msgid "Module couldn't be added! Error: %s"
+msgstr "Le module n'a pas pu être ajouté ! Erreur :%s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:973
+msgid "Not Searchable"
+msgstr "Non recherchable"
 
