@@ -5169,3 +5169,7 @@ msgstr ""
 msgid "Write Own"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:959
+msgid "Hide when Expired"
+msgstr ""
+
