@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:45+0200\n"
+"PO-Revision-Date: 2011-05-30 11:34+0100\n"
+"Last-Translator: Wojciech Górski <Nikodemh@gmail.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: Member Dynamic Forms
+msgid "Password"
+msgstr "Hasło"
+
+msgid "Verification code"
+msgstr "Kod weryfikacji"
+
+msgid "Please note that you will need to enter a valid e-mail address before your account is activated. You will receive an e-mail at the address you provided that contains an account activation link."
+msgstr "Pamiętaj o tym aby podać prawidłowy adres email, ponieważ na niego wyślemy wiadomość z linkiem aktywacyjnym"
+
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+msgid "Email address"
+msgstr "Adres Email"
+
+msgid "Website"
+msgstr "Strona www"
+
+msgid "Show Avatar"
+msgstr "Pokaż avatar"
+
+msgid "Stay Logged In"
+msgstr "Zostań zalogowany cały czas"
+
+msgid "Disable Notification Emails"
+msgstr "Wyłącz powiadomienie emailem"
+
+msgid "Change password"
+msgstr "Zmień hasło"
+
+msgid "New password"
+msgstr "Nowe hasło"
+
+msgid "Retype password"
+msgstr "Wpisz ponownie hasło"
+
+msgid "(<a href='http://gravatar.com' target='_blank'>Change Avatar</a>)"
+msgstr "(<a href='http://gravatar.com' target='_blank'>Zmień avatar</a>)"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:14
+msgid "Site Members"
+msgstr "Użytkownicy na stronie"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:15
+msgid "Forms for My Account, Register and Login pages"
+msgstr "Formularz mojego konta, rejestracja i strony logowania"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:22
+msgid "Member Account"
+msgstr "Konto użytkownika"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:52
+msgid "Your account has been successfully updated."
+msgstr "Twoje konto zostało zaaktualizowane pomyslnie"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:64
+msgid "Member Registration"
+msgstr "Rejestracja użytkownika"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:88
+msgid "<b>Thank you for your registration.</b><br /> Your account has been created. However we require account activation, an activation key has been sent to the e-mail address you provided. Please check your e-mail for further information."
+msgstr "<b>Dziękujemy za rejestrację.</b><br /> Twoje konto zostało utworzone. Jednakże wymagamy aktywacji kont, klucz aktywacyjny został wysłany na podany adres email."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:96
+msgid "<b>Thank you for your registration.</b><br /> An email has been sent to you with the necessary information to login to your account."
+msgstr "<b>Dziękujemy za rejestrację.</b><br /> Informacje niezbędne do logowania zostały wysłane na podany adres email."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:243
+msgid "Form Settings"
+msgstr "Dane formularza"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:337
+msgid "Member Forms Administration"
+msgstr "Administracja formularzami użytkownika"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:363
+msgid "No member forms found."
+msgstr "Nie znaleziono formularzy użytkownika"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:378
+msgid "Member Registration Form"
+msgstr "Formularz rejestracji użytkownika"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:383
+msgid "Member Login / Account Form"
+msgstr "Logowanie użytkownika / Formularz konta"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:389
+msgid "New account registration has been temporarily suspended. Please try again later."
+msgstr "Nowe konto zostało chwilowo zawieszone, prosimy spróbować później."
+

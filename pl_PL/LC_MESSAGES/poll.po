@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:21+0200\n"
+"PO-Revision-Date: 2011-05-30 11:35+0100\n"
+"Last-Translator: Wojciech Górski <Nikodemh@gmail.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:14
+msgid "Polls"
+msgstr "Głosowania"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:15
+msgid "Quickly gather information on different subjects"
+msgstr "Szybko zdobądź informacje na różne tematy"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:34
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:57
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:77
+msgid "Poll"
+msgstr "Głosowanie"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:216
+#, php-format
+msgid "Poll answer couldn't be created! Error: %s"
+msgstr "Odpowiedź dla wybranego głosowania nie mogła zostać utworzona! Błąd: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:244
+#, php-format
+msgid "Poll answer couldn't be updated! Error: %s"
+msgstr "Odpowiedź dla wybranego głosowania nie mogła zostać zaaktualizowana! Błąd: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:285
+#, php-format
+msgid "%s votes"
+msgstr "%s głosy"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:711
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1345
+msgid "New Poll"
+msgstr "Nowe głosowanie"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:724
+msgid "Question"
+msgstr "Zapytanie"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:747
+msgid "Answers"
+msgstr "Odpowiedzi"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:749
+msgid "(check boxes for Guest answers)"
+msgstr "(spradź pola dla odpowiedzi gości)"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:768
+msgid "Add another answer"
+msgstr "Dodaj następną odpowiedź"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:775
+msgid "Voting Options"
+msgstr "Opcje głosowania"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:780
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1189
+msgid "Hide Results"
+msgstr "Ukryj wyniki"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:789
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1194
+msgid "Voting Closed"
+msgstr "Głosowanie zamknięte"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:798
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1176
+msgid "Voting Interval"
+msgstr "Przerwa pomiędzy głosowaniem"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:807
+msgid "minutes (if set to 0 only one vote will be allowed per ip or user)"
+msgstr "Minuty (jeśli zostanie ustawione na 0 to przypadnie jedynie jeden głosy na IP lub użytkownika"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:876
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1200
+msgid "Members Only"
+msgstr "Tylko zalogowani"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:884
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1205
+msgid "Show to Guests"
+msgstr "Pokaż gościom"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:963
+msgid "Polls and answers have been successfully re-ordered."
+msgstr "Kolejność odpowiedzi dla głosowania została zmieniona pomyślnie"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:974
+msgid "Poll has been successfully deleted."
+msgstr "Głosowanie zostało usunięte pomyślnie"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:996
+msgid "Poll has been successfully updated."
+msgstr "Głosowanie zostało zmienione pomyślnie"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1000
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1020
+msgid "View Poll"
+msgstr "Pokaże głosowanie"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1016
+msgid "Poll has been successfully created."
+msgstr "Głosowanie zostało utworzone pomyślnie"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1041
+msgid "Votes"
+msgstr "Głosy"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1196
+#, php-format
+msgid "(on %s)"
+msgstr "(na %s)"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1316
+msgid "Poll Administration"
+msgstr "Administracja głosowaniami"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1344
+msgid "Edit Poll"
+msgstr "Edytuj głosowanie"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1383
+msgid "No polls found."
+msgstr "Nie znaleziono głosowania"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1567
+#, php-format
+msgid "Poll couldn't be created! Error: %s"
+msgstr "Głosowanie nie mogło zostać utworzone! Błąd: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1647
+#, php-format
+msgid "Poll couldn't be updated! Error: %s"
+msgstr "Głosowanie nie mogło zostać zmienione! Błąd: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1784
+msgid "Select (one answer can be chosen)"
+msgstr "Wybierz (możesz wybrać tylko jedną odpowiedź)"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1786
+msgid "Check (multiple answers can be chosen)"
+msgstr "Sprawdź (można wybrać więcej niż jedną odpowiedź)"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1788
+msgid "Undefined!"
+msgstr "Niezdefiniowane"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1811
+msgid "No answer selected!"
+msgstr "Nie wybrano żadnej odpowiedzi"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1825
+msgid "Poll cannot be found or it has been deactivated!"
+msgstr "Nie można znaleźć głosowania, możliwe że zostało zdezaktywowane"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1832
+msgid "Only registered users can vote."
+msgstr "Tylko zarejestrowani użytkownicy mogą głosować"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1849
+msgid "You already voted on this poll!"
+msgstr "Już głosowałeś"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1884
+#, php-format
+msgid "Vote couldn't be stored! Error: %s"
+msgstr "Głosowanie nie zostało zapisane! Błąd: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1905
+msgid "Thank you for your vote."
+msgstr "Dziękujemy za głosowanie"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1929
+msgid "This area is limited to members only. Please login below."
+msgstr "To miejsce jest jedynie dla zalogowanych. Zaloguj się poniżej."
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1954
+#, php-format
+msgid "Closed on %s"
+msgstr "Zamknięte na %s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:2037
+msgid "Vote"
+msgstr "Głosuj"
+

@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 21:56+0200\n"
+"PO-Revision-Date: 2011-05-30 11:37+0100\n"
+"Last-Translator: Wojciech Górski <Nikodemh@gmail.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:14
+msgid "Video Gallery"
+msgstr "Video galeria"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:15
+msgid "Share videos in a directory like structure"
+msgstr "Udostępniaj filmy w kategorii"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:30
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:58
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:603
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:632
+msgid "Gallery"
+msgstr "Galeria"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:126
+msgid "No video selected!"
+msgstr "Nie wybrano żadnych filmów!"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:138
+msgid "The selected video cannot be found!"
+msgstr "Wybrany film nie może zostać odnaleziony!"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:150
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2517
+msgid "You need to be logged in to view this video. Please login or register."
+msgstr "Musisz być zalogowany żeny obejrzeć ten film. Zaloguj się lub zarejestruj."
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:519
+#, php-format
+msgid "Couldn't fetch video list. Error: %s"
+msgstr "Nie można utworzyć listy filmów. Błąd: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:954
+msgid "New Folder"
+msgstr "Nowy folder"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:958
+msgid "Pages / Posts"
+msgstr "Strony / Posty"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:961
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:974
+msgid "Sub Gallery of"
+msgstr "Subgaleria od"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:994
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1615
+msgid "Columns"
+msgstr "Kolumny"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:999
+msgid "e.g. 3 (0 = auto)"
+msgstr "np. 3 (0 = auto)"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1009
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1610
+msgid "Display Preview"
+msgstr "Pokaż "
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1015
+msgid "(will show the latest video as icon)"
+msgstr "(pokazuje najnowszy film jako ikonę)"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1019
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1605
+msgid "Show Icons"
+msgstr "Pokaż ikony"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1026
+msgid "(display icons when gallery selected)"
+msgstr "(pokazuje ikony po wyborze galerii)"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1036
+msgid "YouTube Options"
+msgstr "Opcje Youtube"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1041
+msgid "Channel URL"
+msgstr "Adres kanału(URL):"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1045
+msgid "e.g. http://youtube.com/user/Channel_ID"
+msgstr "np. http://youtube.pl/user/Channel_ID"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1048
+msgid "Tags"
+msgstr "Tagi"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1052
+msgid "e.g. foo, bar"
+msgstr "np. bar"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1059
+msgid "e.g. puppy"
+msgstr "np. zwierzątko"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1062
+msgid "Category"
+msgstr "Kategoria"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1069
+msgid "Autos & Vehicles"
+msgstr "Auta / Pojazdy"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1071
+msgid "Comedy"
+msgstr "Komedia"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1073
+msgid "Education"
+msgstr "Edukacja"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1075
+msgid "Entertainment"
+msgstr "Rozrywka"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1077
+msgid "Film & Animation"
+msgstr "Film / Animacja"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1079
+msgid "Gaming"
+msgstr "Gry"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1081
+msgid "Howto & Style"
+msgstr "Poradniki / Styl"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1083
+msgid "Music"
+msgstr "Muzyka"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1085
+msgid "News & Politics"
+msgstr "Nowości / Polityka"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1087
+msgid "Nonprofits & Activism"
+msgstr "Wolontariat"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1089
+msgid "People & Blogs"
+msgstr "Ludzie & Blogi"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1091
+msgid "Pets & Animals"
+msgstr "Zwierzęta"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1093
+msgid "Science & Technology"
+msgstr "Nauka i technologia"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1095
+msgid "Sports"
+msgstr "Sport"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1097
+msgid "Travel & Events"
+msgstr "Podróże / Wydarzenia"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1100
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1453
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1522
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2450
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2561
+msgid "Videos"
+msgstr "Filmy"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1107
+msgid "My Videos"
+msgstr "Moje filmy"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1109
+msgid "My Favorites"
+msgstr "Moje ulubione"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1111
+msgid "Top rated"
+msgstr "Najwyżej oceniane"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1113
+msgid "Top favorites"
+msgstr "Top ulubione"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1115
+msgid "Most viewed"
+msgstr "Oglądane najwięcej razy"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1117
+msgid "Most popular"
+msgstr "Najbardziej popularne"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1119
+msgid "Most recent"
+msgstr "Ostatnio dodane"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1121
+msgid "Most discussed"
+msgstr "Najbardziej omawiane"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1123
+msgid "Most responded"
+msgstr "Najwięcej odpowiedzi"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1125
+msgid "Recently featured"
+msgstr "Ostatnio lubiane"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1127
+msgid "Videos for mobile"
+msgstr "Filmy na komórkę"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1130
+msgid "Time"
+msgstr " Czas"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1137
+msgid "Today"
+msgstr "Dzień"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1139
+msgid "This Week"
+msgstr "Ten tydzień"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1141
+msgid "This Month"
+msgstr "Ten miesiąc"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1144
+msgid "Order By"
+msgstr "Kolejnosć według"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1151
+msgid "Date"
+msgstr "Data"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1153
+msgid "Published"
+msgstr "Opublikowane"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1155
+msgid "Relevance"
+msgstr "Znaczenie"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1157
+msgid "Views"
+msgstr "Obejrzane razy"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1159
+msgid "Rating"
+msgstr "Notowania"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1165
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1660
+msgid "GData Auth Token"
+msgstr "Token dostępu GData"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1171
+msgid "Request an Auth Token"
+msgstr "Zarządaj tokenu dostępu"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1261
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1681
+msgid "Members Only"
+msgstr "Tylko zalogowani"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1269
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1686
+msgid "Show to Guests"
+msgstr "Pokaż gościom"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1337
+msgid "Galleries have been successfully re-ordered."
+msgstr "Kolejność galerii została zmieniona pomyślnie"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1348
+msgid "Gallery has been successfully deleted."
+msgstr "Galeria została usunięta pomyślnie"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1361
+msgid "Gallery cannot be subgallery of itself!"
+msgstr "Galeria nie może być subgalerią samej siebie"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1400
+msgid "Gallery has been successfully updated."
+msgstr "Galeria została zaaktualizowana pomyślnie"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1404
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1424
+msgid "View Gallery"
+msgstr "Pokaż galerię"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1420
+msgid "Gallery has been successfully created."
+msgstr "Galeria została utworzona pomyślnie"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1458
+msgid "Icon"
+msgstr "Ikona"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1553
+msgid "Icons"
+msgstr "Ikony"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1624
+msgid "YouTube Channel URL"
+msgstr "Kanał Youtube(URL)"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1629
+msgid "YouTube Video Tags"
+msgstr "Tagi video Youtube"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1634
+msgid "YouTube Search"
+msgstr "Szukaj na Youtube"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1639
+msgid "YouTube Video Category"
+msgstr "Video kategorie Youtube"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1644
+msgid "YouTube Videos"
+msgstr "Filmy Youtube"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1649
+msgid "YouTube Video Time"
+msgstr "Czas filmu Youtube"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1654
+msgid "YouTube Order By"
+msgstr "Youtube - Kolejnośc według"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1812
+msgid "Video Gallery Administration"
+msgstr "Administracja galerią video"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1840
+msgid "Edit Gallery"
+msgstr "Edytuj galerię"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1841
+msgid "New Gallery"
+msgstr "Nowa galeria"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:1890
+msgid "No galleries found."
+msgstr "Nie znaleziono galerii"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2016
+#, php-format
+msgid "Gallery couldn't be created! Error: %s"
+msgstr "Galeria nie została stworzona! Błąd: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2126
+#, php-format
+msgid "Gallery couldn't be updated! Error: %s"
+msgstr "Galeria nie została zaaktualizowana! Błąd: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2277
+msgid "Directory couldn't be protected!"
+msgstr "Katalog nie może być chroniony"
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2368
+msgid "This area is limited to members only. Please login below."
+msgstr "W tym miejscu mogą przebywać jedynie zalogowani użytkownicy, zaloguj się poniżej."
+
+#: /home/julius/workspace/jcore/lib/modules/videogallery.class.php:2560
+msgid "Videos / Galleries"
+msgstr "Filmy / Galerie"
+
