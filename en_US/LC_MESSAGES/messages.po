@@ -5173,3 +5173,49 @@ msgstr ""
 msgid "Hide when Expired"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:720
+msgid "Layout"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:27
+msgid "New Layout"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:109
+msgid "Layouts have been successfully re-ordered."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:120
+msgid "Layout has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:134
+msgid "Layout has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:147
+msgid "Layout has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:304
+msgid "Layouts Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:333
+msgid "Edit Layout"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:369
+msgid "No layouts found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:429
+#, php-format
+msgid "Layout couldn't be created! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:460
+#, php-format
+msgid "Layout couldn't be updated! Error: %s"
+msgstr ""
+
