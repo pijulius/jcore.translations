@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:22+0200\n"
-"PO-Revision-Date: 2011-05-30 11:35+0100\n"
+"PO-Revision-Date: 2011-06-02 18:17+0100\n"
 "Last-Translator: Wojciech Górski <Nikodemh@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -21,7 +21,7 @@ msgstr "Wyszukiwarka"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:15
 msgid "Have your own search engine"
-msgstr "Twoja własna wyszukiwarka"
+msgstr "System wyszukiwania na stronie"
 
 #: /home/julius/workspace/jcore/lib/modules/search.class.php:170
 msgid "Items have been successfully updated."

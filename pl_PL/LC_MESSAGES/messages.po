@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-05-30 11:57+0100\n"
+"PO-Revision-Date: 2011-06-03 13:34+0100\n"
 "Last-Translator: Wojciech Górski <Nikodemh@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -50,7 +50,7 @@ msgid "First Weekday"
 msgstr "Pierwszy dzień tygodnia"
 
 msgid "Picture Settings"
-msgstr "Ustawienia obrazka"
+msgstr "Ustawienia obrazków"
 
 msgid "Thumbnail Height"
 msgstr "Wysokość miniaturki"
@@ -179,7 +179,7 @@ msgid "Moderated Comments By Approval"
 msgstr "Komentarze moderowane poprzez zatwierdzenie"
 
 msgid "Moderated Comments Pending Minutes"
-msgstr "Moderowane komentarze wyliczanie minut"
+msgstr "Czas na wymoderowanie komentarzy w minutach"
 
 msgid "jQuery Settings"
 msgstr "Ustawienia jQuery"
@@ -537,7 +537,7 @@ msgstr "Zobacz stronę"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:232
 msgid "Template File"
-msgstr "Pliki stylu(template'a)"
+msgstr "Plik stylu"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:238
 msgid "e.g. template-name.tar.gz"
@@ -545,7 +545,7 @@ msgstr "np. template-nazwa.tar.gz"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:252
 msgid "Upload another template"
-msgstr "Wyślij następny styl(template)"
+msgstr "Prześlij następny styl"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:290
 msgid "Template has been successfully deleted."
@@ -613,7 +613,7 @@ msgstr "Ustaw domyślny styl dla sekcji administracyjnej"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:499
 msgid "Unset Admin"
-msgstr "Usuń administratora"
+msgstr "Usuń dla panelu admina"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:506
 msgid "Set template as default for Admin section"
@@ -621,7 +621,7 @@ msgstr "Ustaw styl jako domyślny dla sekcji administracyjnej"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:508
 msgid "Set Admin"
-msgstr "Ustaw administratora"
+msgstr "Ustaw dla panelu admina"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:519
 msgid "Activate and set it as the current template for your website"
@@ -629,7 +629,7 @@ msgstr "Aktywuj i ustaw jako domyślny styl dla strony"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:521
 msgid "Activate"
-msgstr "Aktywui"
+msgstr "Aktywuj"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:617
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:623
@@ -638,7 +638,7 @@ msgstr "Administracja stylami"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:629
 msgid "Below are the available templates found in the \"<b>template/</b>\" folder. To install a new template just extract it to the \"<b>template/</b>\" folder, or using the form below select the template package file (e.g. template-name.tar.gz)."
-msgstr "Poniżej są dostępne style w \"<b>template/</b>\" . Żeby zainstalować nowy styl skopiuj go do folderu \"<b>template/</b>\"  lub wybierz z formularza ponizej paczkę ze stylem (np. styl-nazwa.tar.gz)."
+msgstr "Poniżej możesz zobaczyć style dostępne w folderze \"<b>template/</b>\" Żeby zainstalować nowy styl skopiuj go do folderu \"<b>template/</b>\"  lub wybierz z formularza ponizej paczkę ze stylem (np. styl-nazwa.tar.gz)."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:641
 msgid "Edit the CSS template file"
@@ -1689,11 +1689,11 @@ msgstr "Wyślij inny obrazek"
 
 #: /home/julius/workspace/jcore/lib/sources/pictures.class.php:147
 msgid "Already uploaded picture"
-msgstr "Obrazek już wysłany"
+msgstr "Obraz zewnętrzny"
 
 #: /home/julius/workspace/jcore/lib/sources/pictures.class.php:163
 msgid "Existing Picture (URL)"
-msgstr "Istniejący obraz (URL)"
+msgstr "Adres do zewnętrznego obrazu"
 
 #: /home/julius/workspace/jcore/lib/sources/pictures.class.php:167
 msgid "e.g. http://domain.com/image.jpg"
@@ -1773,7 +1773,7 @@ msgstr "np. http://mojastrona.pl"
 
 #: /home/julius/workspace/jcore/lib/sources/pictures.class.php:297
 msgid "Uploaded on"
-msgstr "Wysłąne na"
+msgstr "Wysłane na"
 
 #: /home/julius/workspace/jcore/lib/sources/pictures.class.php:351
 msgid "Pictures have been successfully re-ordered."
@@ -2427,7 +2427,7 @@ msgstr "Wyślij do"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:102
 msgid "Storage Options"
-msgstr "Opcje magazynu"
+msgstr "Opcje zapisu"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:107
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:359
@@ -2441,7 +2441,7 @@ msgstr "Metoda"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:133
 msgid "Success Message"
-msgstr "Prawidłowa wiadomość"
+msgstr "Wiadomość po pomyślnym wysłaniu"
 
 #: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:166
 msgid "You are NOT allowed to delete a protected form!"
@@ -2603,7 +2603,7 @@ msgstr "podblock"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:133
 msgid "Content Options"
-msgstr "Opcje zawartośc"
+msgstr "Opcje zawartości"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:138
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1273
@@ -4536,7 +4536,7 @@ msgstr "Wyexportuj styl(template) jako paczkę instalacyjną"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:719
 msgid "Export Template"
-msgstr "Exportuj styl(template)"
+msgstr "Export stylu"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:177
 msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
@@ -4568,7 +4568,7 @@ msgstr "Strona"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:26
 msgid "Post to Page"
-msgstr "Post do strony"
+msgstr "Post do zakładki"
 
 #: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:56
 msgid "No posts selected! Please select at least one post."

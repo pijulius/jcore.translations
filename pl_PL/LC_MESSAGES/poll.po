@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:21+0200\n"
-"PO-Revision-Date: 2011-05-30 11:35+0100\n"
+"PO-Revision-Date: 2011-06-02 18:17+0100\n"
 "Last-Translator: Wojciech Górski <Nikodemh@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -21,7 +21,7 @@ msgstr "Głosowania"
 
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:15
 msgid "Quickly gather information on different subjects"
-msgstr "Szybko zdobądź informacje na różne tematy"
+msgstr "Włącza możliwość głosowania na różne tematy"
 
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:34
 #: /home/julius/workspace/jcore/lib/modules/poll.class.php:57

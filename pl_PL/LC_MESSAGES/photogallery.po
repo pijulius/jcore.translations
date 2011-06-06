@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:20+0200\n"
-"PO-Revision-Date: 2011-05-30 11:51+0100\n"
+"PO-Revision-Date: 2011-06-02 18:16+0100\n"
 "Last-Translator: Wojciech Górski <Nikodemh@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -21,7 +21,7 @@ msgstr "Foto galeria"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:15
 msgid "Share pictures / photos in a directory like structure"
-msgstr "Udostępnij zdjęcia w skatalogowanej stronie"
+msgstr "Udostępnij zdjęcia na skatalogowanej stronie"
 
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:28
 #: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:58

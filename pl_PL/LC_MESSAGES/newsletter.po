@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:18+0200\n"
-"PO-Revision-Date: 2011-05-30 11:34+0100\n"
+"PO-Revision-Date: 2011-06-03 14:59+0100\n"
 "Last-Translator: Wojciech Górski <Nikodemh@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -375,7 +375,7 @@ msgstr "Subskrybuj do %s nasz newsletter lub wyłącz subskrypcję"
 
 #: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2869
 msgid "Subscribe to our Newsletters or Unsubscribe"
-msgstr "Subskrybuj nasz newsletter lub wyłącz subskrypcję"
+msgstr "Subskrybuj nasz newsletter"
 
 #: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2876
 msgid "Subscribe"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.8\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-05-30 11:53+0100\n"
+"PO-Revision-Date: 2011-06-05 22:15+0100\n"
 "Last-Translator: Wojciech Górski <Nikodemh@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -68,7 +68,7 @@ msgid "<span class='comment' style='text-decoration: line-through;'>(marked with
 msgstr "<span class='comment' style='text-decoration: line-through;'>(przekreślone)</span>"
 
 msgid "<b>Billing information</b><br />* This information must match your credit card to prevent any delays"
-msgstr "<b>Informacje o billingu</b><br />* Ta informacja musi się zgadzać żeby zapobiec jakimkolwiek opóźnieniom"
+msgstr "<b>Informacje o billingu</b><br />* Informacje poniżej muszą się zgadzać z tymi które są na twojej karcie kredytowej aby zapobiec jakimkolwiek opóźnieniom"
 
 msgid "Your name"
 msgstr "Twoje imię"
@@ -77,7 +77,7 @@ msgid "Phone number"
 msgstr "Numer telefonu"
 
 msgid "<b>Shipping address</b><br />* Leave blank If same as Billing Information"
-msgstr "<b>Adres wysyłki</b><br />*Pozostaw puste jeśli jest identyczny jak z informacji o billingu"
+msgstr "<b>Adres wysyłki</b><br />* Informacje poniżej pozostaw puste jeśli są identyczne jak z informacji o billingu"
 
 msgid "Company / Organization"
 msgstr "Firma / Organizacja"
@@ -803,7 +803,7 @@ msgstr "Katalog przedmiotów"
 
 #: /home/julius/workspace/jcore/lib/modules/shopping.class.php:17
 msgid "Sell products in a directory like structure"
-msgstr "Sprzedaj produkty w katalogu"
+msgstr "sprzedawaj przedmioty z możliwością ich katalogowania"
 
 #: /home/julius/workspace/jcore/lib/modules/shopping.class.php:100
 msgid "No file selected to download!"
