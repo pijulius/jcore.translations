@@ -1889,3 +1889,74 @@ msgstr ""
 #, php-format
 msgid "The selected quantity exceeds quantity available (%s) in stock!"
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2359
+msgid "New Coupon"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2372
+msgid "Coupon"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2388
+msgid "and/or"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2505
+msgid "Coupon has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2519
+msgid "Coupon has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2532
+msgid "Coupon has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2613
+#, php-format
+msgid "%s till %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2727
+msgid "Shopping Cart Coupons Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2756
+msgid "Edit Coupon"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2791
+msgid "No coupons found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2850
+#, php-format
+msgid "Coupon couldn't be added! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2898
+#, php-format
+msgid "Coupon couldn't be updated! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4303
+msgid "Set and manage discount coupons"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4306
+msgid "Coupons Settings"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5475
+msgid "Discount Codes"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5480
+msgid "invalid"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5487
+msgid "Enter your coupon code if you have one."
+msgstr ""
