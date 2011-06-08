@@ -1960,3 +1960,11 @@ msgstr ""
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5487
 msgid "Enter your coupon code if you have one."
 msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1870
+msgid "Stock left: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2357
+msgid "Low / Out of Stock Items"
+msgstr ""
