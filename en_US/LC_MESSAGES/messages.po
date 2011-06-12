@@ -5219,3 +5219,47 @@ msgstr ""
 msgid "Layout couldn't be updated! Error: %s"
 msgstr ""
 
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:89
+msgid "Running update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:357
+#, php-format
+msgid "FTP Connecting to %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:366
+msgid "Couldn't connect!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:375
+msgid "FTP Locate Root directory"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:398
+msgid "Couldn't locate Root directory!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:660
+msgid "Update using FTP"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:667
+msgid "Hostname"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:675
+msgid "FTP Username"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:681
+msgid "FTP Password"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:687
+msgid "FTP Port"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:695
+msgid "Use SSL"
+msgstr ""
