@@ -1,13 +1,13 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: jCore 0.8\n"
+"Project-Id-Version: jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
 "PO-Revision-Date: 2011-03-26 14:58+0200\n"
 "Last-Translator: Sorin Pricop <soreen@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.1\n"
+"MIME-Version: 1.2\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __\n"
@@ -681,7 +681,7 @@ msgid "Upload New Template"
 msgstr "Încărcaţi şablon nou"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:767
-msgid "No installed templates found."
+msgid "No templates found."
 msgstr "Nu s-au găsit şabloane instalate."
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:795
@@ -779,8 +779,8 @@ msgstr "Eroare SQL! Vă rugăm să contactaţi administratorul site-ului."
 
 #: /home/julius/workspace/jcore/lib/sources/sql.class.php:392
 #, php-format
-msgid "(affected rows: %s)"
-msgstr "(rândurile afectate: %s)"
+msgid "affected rows: %s"
+msgstr "rândurile afectate: %s"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:46
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:49
@@ -4145,7 +4145,7 @@ msgstr "Numele de utilizator sau parolă greşită. <b> Aţi epuizat toate înce
 
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:2172
 #, php-format
-msgid "Account suspended! <b>This account has been suspended for %s minutes because of to many logins from different IP addresses.</b> Please ensure that you have a secure password and/or your are logged out from your other PCs before trying again."
+msgid "Account suspended! <b>This account has been suspended for %s minutes because of to many logins from different IP addresses.</b> Please ensure that you have a secure password and/or you are logged out from your other PCs before trying again."
 msgstr "Cont suspendat! <b>Acest cont a fost suspendat %s minute din cauza autentificării de la mai multe adrese IP diferite. </b> Vă rugăm să vă asiguraţi că aveţi o parolă sigură şi / sau aţi închis toate celelalte conexiuni înainte de a încerca din nou."
 
 #: /home/julius/workspace/jcore/lib/sources/users.class.php:2182
@@ -4691,3 +4691,565 @@ msgstr "Fişiere pentru setări regionale disponibile"
 msgid "Display Form(s)"
 msgstr "Afişare Formular(e)"
 
+#: Changes in 0.9
+#: ---------------
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:105
+msgid "Include New Pages"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:113
+msgid "(automatically add new pages)"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:249
+msgid "New Pages"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:260
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:629
+msgid "Menu Items"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
+msgid "Accessible by"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:344
+msgid "(automatically show posts with these keywords)"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:575
+#, php-format
+msgid "A page with the path \"%s\" already exists!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:2146
+msgid "You do not have permission to access this page!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:87
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:680
+msgid "New Menu Item"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:103
+msgid "Select Page(s) to Add"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:121
+msgid "Custom Menu Item Options"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:134
+msgid "Sub Menu Item of"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:273
+msgid "Menu items have been successfully re-ordered."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:284
+msgid "Menu item and all its subitems have been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:295
+msgid "No page selected to be added or no custom menu item title defined!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:329
+msgid "Pages have been successfully added."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:356
+msgid "Menu item cannot be subitem of itself!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:369
+msgid "Menu item has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:382
+msgid "Menu item has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:606
+msgid "No menu items found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:637
+msgid "New pages will be automatically added to this menu."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:679
+msgid "Edit Menu Item"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:834
+#, php-format
+msgid "Menu item couldn't be created! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:890
+#, php-format
+msgid "Menu item couldn't be updated! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:44
+msgid "Update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:48
+msgid "Download proccess couldn't be completed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:49
+msgid "Please make sure you have an active internet connection and it is accessible by me or contact webmaster."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:72
+msgid "SQL"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:122
+msgid "Test has been successfully completed."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:131
+msgid "Update has been successfully installed."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:153
+#, php-format
+msgid "File \"%s\" couldn't be found!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:161
+#, php-format
+msgid "Opening %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:168
+msgid "Empty or invalid update!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:174
+msgid "Ok"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:177
+msgid "Running SQL queries"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:282
+#, php-format
+msgid "Uncompressing %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:289
+msgid "Out of Memory!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:317
+msgid "Creating directories"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:334
+msgid "not writable"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:366
+msgid "Writing files"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:387
+msgid "Skipped"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:389
+msgid "for maintaining your template"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:402
+msgid "for maintaining your changes"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:498
+msgid "Fixing errors"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:500
+msgid "Run the following command to fix the above errors."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:510
+msgid "Run the following command to revert permissions after done."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:555
+msgid "Check for Updates"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:566
+msgid "Updates"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:574
+#, php-format
+msgid "Update ver. %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:589
+msgid "Test run the update for problems"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:590
+msgid "Test Update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:657
+msgid "Updates Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:664
+msgid "Please note, while your site is being updated, it will enter maintenance mode but as soon as the update process is complete, it will return to normal mode. By testing an update no changes will be made to your system!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:674
+#, php-format
+msgid "Last checked on %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:692
+#, php-format
+msgid "ver. %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:699
+msgid "No updates found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:726
+msgid "Couldn't check jCore server's version number!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:727
+#, php-format
+msgid "Please make sure \"%s\" is readable by me or contact webmaster."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:746
+msgid "Couldn't check for updates!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:805
+msgid "connection timed out"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:826
+#, php-format
+msgid "Downloading %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:828
+msgid "connecting"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:855
+msgid "sending request"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:918
+msgid "cached"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:945
+msgid "Local file couldn't be created!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:1015
+msgid "Invalid response returned by jCore.net!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:1107
+msgid "Install Update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php
+msgid "Manual Gettext"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:414
+#, php-format
+msgid "query took: %s seconds"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:492
+#, php-format
+msgid "Deleting file %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:84
+msgid "Module couldn't be installed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:154
+msgid "Deleting files"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:232
+msgid "No files to uninstall."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:575
+msgid "Update couldn't be installed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:69
+msgid "Template couldn't be installed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:28
+msgid "Upload Module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:32
+msgid "View Modules"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:36
+msgid "Get Modules"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:42
+msgid "Module File"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:48
+msgid "e.g. module.tar.gz"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:62
+msgid "Upload another module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:93
+msgid "Module has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:104
+msgid "Module has been successfully activated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:122
+msgid "Module has been successfully deactivated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:137
+msgid "No module selected to be uploaded! Please select at least one module to upload."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:159
+#, php-format
+msgid "There were problems uploading some of the modules you selected. The following modules couldn't be uploaded: %s."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:169
+#, php-format
+msgid "Modules have been successfully uploaded. The following modules have been uploaded: %s."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:180
+msgid "Module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:251
+msgid "global"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:252
+msgid "local"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:373
+msgid "Modules Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:383
+msgid "Below are the available modules found in the \"<b>modules/</b>\" folder. To install a new module just extract it to the \"<b>modules/</b>\" folder, or using the form below select the module package file (e.g. module.tar.gz)."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:395
+msgid "Upload New Module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:478
+msgid "No modules found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:501
+msgid "Module couldn't be loaded! Please make sure it is a valid module and try again."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:605
+#, php-format
+msgid "Module couldn't be deleted but it is now safe to be deleted manually by just simply removing the \"%s\" file or folder."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:625
+msgid "Couldn't extract module as it is to big to be processed with the current memory limit set. Please try to extract it manually or increment the PHP memory limit."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:638
+msgid "Module couldn't be extracted! Error: Invalid module! Please make sure to upload a valid tar.gz module file."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:657
+msgid "Module couldn't be extracted! Error: Empty module! The module you selected seems to be an empty tar.gz file."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:672
+#, php-format
+msgid "Module couldn't be extracted! Error: \"%s\" directory couldn't be created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:693
+#, php-format
+msgid "Module couldn't be extracted! Error: \"%s\" file couldn't be created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:196
+msgid "Add additional functionality to your website"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:199
+msgid "Module Manager"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:205
+msgid "Mobile Browsers"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:327
+msgid "Add Keyword"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:820
+msgid "Popularity"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:815
+msgid "Keyword"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:505
+#, php-format
+msgid "Module couldn't be added! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:973
+msgid "Not Searchable"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:677
+msgid "Read Own"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:679
+msgid "Write Own"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:959
+msgid "Hide when Expired"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:720
+msgid "Layout"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:27
+msgid "New Layout"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:109
+msgid "Layouts have been successfully re-ordered."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:120
+msgid "Layout has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:134
+msgid "Layout has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:147
+msgid "Layout has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:304
+msgid "Layouts Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:333
+msgid "Edit Layout"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:369
+msgid "No layouts found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:429
+#, php-format
+msgid "Layout couldn't be created! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:460
+#, php-format
+msgid "Layout couldn't be updated! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:89
+msgid "Running update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:357
+#, php-format
+msgid "FTP Connecting to %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:366
+msgid "Couldn't connect!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:375
+msgid "FTP Locate Root directory"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:398
+msgid "Couldn't locate Root directory!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:660
+msgid "Update using FTP"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:667
+msgid "Hostname"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:675
+msgid "FTP Username"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:681
+msgid "FTP Password"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:687
+msgid "FTP Port"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:695
+msgid "Use SSL"
+msgstr ""
