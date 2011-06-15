@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:20+0200\n"
+"PO-Revision-Date: 2011-06-15 11:14+0100\n"
+"Last-Translator: Gerda Bolhuis <gertiebee@live.nl>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:14
+msgid "Photo Gallery"
+msgstr "Fotogalerij"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:15
+msgid "Share pictures / photos in a directory like structure"
+msgstr "Toon plaatjes / fotos in een mappenstructuur"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:28
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:58
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:553
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:582
+msgid "Gallery"
+msgstr "Galerij"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:137
+msgid "No picture selected to download!"
+msgstr "Er is geen plaatje geselecteerd om te downloaden!"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:149
+msgid "The selected picture cannot be found!"
+msgstr "Het geselecteerde plaatje kan niet gevonden worden!"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:163
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2533
+msgid "You need to be logged in to view this picture. Please login or register."
+msgstr "Je moet ingelogd zijn om dit plaatje te zien. Login of registreer je. "
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:476
+#, php-format
+msgid "Couldn't fetch photo list. Error: %s"
+msgstr "Kon de fotolijst  niet ophalen. Fout: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:900
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1812
+msgid "New Gallery"
+msgstr "Nieuwe Galerij"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:920
+msgid "Sub Gallery of"
+msgstr "Sub-galerij van"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:940
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1626
+msgid "Columns"
+msgstr "Kolommen"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:945
+msgid "e.g. 3 (0 = auto)"
+msgstr "b.v. 3 (0 = auto)"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:956
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1621
+msgid "Display Preview"
+msgstr "Toon Preview"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:962
+msgid "(will show the latest picture as icon)"
+msgstr "(toont het laatste plaatje als icoon)"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:967
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1631
+msgid "Show Icons"
+msgstr "Toon Iconen"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:974
+msgid "(display icons when gallery selected)"
+msgstr "(toon iconen als de galerij geselecteerd is)"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:984
+msgid "Picasa Options"
+msgstr "Picasa Opties"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:989
+msgid "Album URL"
+msgstr "Album URL"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:993
+msgid "e.g. http://picasaweb.google.com/user/Album"
+msgstr "b.v. http://picasaweb.google.com/user/Album"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:996
+msgid "Tags"
+msgstr "Tags"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1000
+msgid "e.g. foo, bar"
+msgstr "b.v. foo, bar"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1007
+msgid "e.g. puppy"
+msgstr "b.v. puppy"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1010
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2466
+msgid "Photos"
+msgstr "Fotos"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1017
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1574
+msgid "My Photos"
+msgstr "Mijn Fotos"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1019
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1576
+msgid "Community Photos"
+msgstr "Community Fotos"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1021
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1578
+msgid "Favorites"
+msgstr "Favorieten"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1023
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1580
+msgid "Featured"
+msgstr "Featured"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1033
+msgid "Faces"
+msgstr "Gezichten"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1035
+msgid "No faces"
+msgstr "Geen gezichten"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1038
+msgid "Aspect Ratio"
+msgstr "Aspect Ratio"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1045
+msgid "Landscape"
+msgstr "Landschap"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1047
+msgid "Portrait"
+msgstr "Portret"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1049
+msgid "Panorama"
+msgstr "Panorama"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1052
+msgid "Size"
+msgstr "Grootte"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1059
+msgid "Small"
+msgstr "Klein"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1061
+msgid "Medium"
+msgstr "Medium"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1063
+msgid "Large"
+msgstr "Groot"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1065
+msgid "Extra large"
+msgstr "Extra groot"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1068
+msgid "License"
+msgstr "Licentie"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1075
+msgid "Creative Commons"
+msgstr "Creative Commons"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1077
+msgid "Commercial Use"
+msgstr "Commercial Gebruik"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1079
+msgid "Remix allowed"
+msgstr "Remix toegestaan"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1082
+msgid "Time"
+msgstr "Tijd"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1089
+msgid "Today"
+msgstr "Vandaag"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1091
+msgid "This Week"
+msgstr "Deze week"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1093
+msgid "This Month"
+msgstr "Deze maand"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1096
+msgid "Order By"
+msgstr "Sorteer op"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1103
+msgid "Date"
+msgstr "Datum"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1109
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1616
+msgid "GData Auth Token"
+msgstr "GData Auth Token"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1115
+msgid "Request an Auth Token"
+msgstr "Verzoek een Auth Token"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1208
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1652
+msgid "Members Only"
+msgstr "Alleen voor leden"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1216
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1657
+msgid "Show to Guests"
+msgstr "Toon aan Gasten"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1285
+msgid "Galleries have been successfully re-ordered."
+msgstr "Galerijen zijn gesorteerd."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1296
+msgid "Gallery has been successfully deleted."
+msgstr "De galerij is verwijderd."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1309
+msgid "Gallery cannot be subgallery of itself!"
+msgstr "Een galerij kan geen sub-galerij van zichzelf zijn."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1335
+msgid "Picasa API URL"
+msgstr "Picasa API URL"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1348
+msgid "Gallery has been successfully updated."
+msgstr "De galerij is bijgewerkt."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1352
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1372
+msgid "View Gallery"
+msgstr "Bekijk de galerij"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1368
+msgid "Gallery has been successfully created."
+msgstr "De galerij is aangemaakt."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1406
+msgid "Icon"
+msgstr "Icoon"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1501
+msgid "Icons"
+msgstr "Iconen"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1557
+msgid "Picasa Album URL"
+msgstr "Picasa Album URL"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1562
+msgid "Picasa Photo Tags"
+msgstr "Picasa Foto Tags"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1567
+msgid "Picasa Search"
+msgstr "Picasa Zoeken"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1572
+msgid "Picasa Photos"
+msgstr "Picasa Fotos"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1585
+msgid "Picasa Photo Type"
+msgstr "Picasa Foto Type"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1590
+msgid "Picasa Photo Aspect Ratio"
+msgstr "Picasa Foto Aspect Ratio"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1595
+msgid "Picasa Photo Size"
+msgstr "Picasa Foto Grootte"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1600
+msgid "Picasa Photo License"
+msgstr "Picasa Foto Licentie"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1605
+msgid "Picasa Photo Time"
+msgstr "Picasa Foto Tijd"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1610
+msgid "Picasa Order By"
+msgstr "Picasa Sorteer op"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1783
+msgid "Photo Gallery Administration"
+msgstr "Fotogalerij Administratie"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1811
+msgid "Edit Gallery"
+msgstr "Bewerk Galerij"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1861
+msgid "No galleries found."
+msgstr "Geen galerijen gevonden."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1995
+#, php-format
+msgid "Gallery couldn't be created! Error: %s"
+msgstr "De galerij kon niet aangemaakt worden ! Fout: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2115
+#, php-format
+msgid "Gallery couldn't be updated! Error: %s"
+msgstr "De galerij kon niet bijgewerkt worden ! Fout: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2273
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2286
+msgid "Directory couldn't be protected!"
+msgstr "De directory kon niet beschermd worden!"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2380
+msgid "This area is limited to members only. Please login below."
+msgstr "Deze gebied is alleen voor leden. Log hieronder in."
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2576
+msgid "Pictures / Galleries"
+msgstr "Fotos / Galerijen"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2577
+msgid "Pictures"
+msgstr "Fotos "
+
