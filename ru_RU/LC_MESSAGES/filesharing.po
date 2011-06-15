@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Перевод на русский язык jCore\n"
+"Project-Id-Version: Перевод на русский язык jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-05 19:42+0200\n"
-"PO-Revision-Date: 2011-05-06 14:57+0300\n"
-"Last-Translator: jcore.ru <info@jcore.ru>\n"
-"Language-Team: jcore.ru <translate@jcore.ru>\n"
+"POT-Creation-Date: 2011-06-15 10:22+0200\n"
+"PO-Revision-Date: 2011-06-15 12:26+0300\n"
+"Last-Translator: Русскоязычное Сообщество jCore 0.9 <translate@jcore.ru>\n"
+"Language-Team: Русскоязычное Сообщество jCore <translate@jcore.ru>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,136 +15,93 @@ msgstr ""
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:14
 msgid "File Sharing"
 msgstr "Файлы"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:15
 msgid "Share files in a directory like structure"
 msgstr "Доступ к файлам в каталоге"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:28
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:171
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:200
 msgid "Folder"
 msgstr "Папка"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:126
 msgid "No file selected to download!"
 msgstr "Не выбран файл для загрузки!"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:138
 msgid "The selected file cannot be found!"
 msgstr "Выбранный файл не может быть найден!"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:150
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1768
 msgid "You need to be logged in to download this file. Please login or register."
 msgstr "Вы должны войти в систему, чтобы загрузить этот файл. Пожалуйста, войдите или зарегистрируйтесь."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:515
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1163
 msgid "New Folder"
 msgstr "Новая папка"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:535
 msgid "Sub Folder of"
 msgstr "Уровень"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:563
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:982
 msgid "Show Icons"
 msgstr "Показать значки"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:570
 msgid "(display icons when folder selected)"
 msgstr "(отображение иконок при выборе папки)"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:655
 msgid "e.g. http://domain.com"
 msgstr "например http://domain.com"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:659
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1003
 msgid "Members Only"
 msgstr "Пользователям"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:667
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1008
 msgid "Show to Guests"
 msgstr "Гостям"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:735
 msgid "Folders have been successfully re-ordered."
 msgstr "Папка успешно переоформлена."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:746
 msgid "Folder has been successfully deleted."
 msgstr "Папка успешно удалена."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:759
 msgid "Folder cannot be subfolder of itself!"
 msgstr "Папка не может быть подпапкой у себя!"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:788
 msgid "Folder has been successfully updated."
 msgstr "Папка успешно обновлена!"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:792
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:812
 msgid "View Folder"
 msgstr "Просмотр папки"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:808
 msgid "Folder has been successfully created."
 msgstr "Папка успешно создана!"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:841
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:910
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1701
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1801
 msgid "Files"
 msgstr "Файлы"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:846
 msgid "Icon"
 msgstr "Иконка"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:930
 msgid "Icons"
 msgstr "Иконки"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1134
 msgid "File Sharing Administration"
 msgstr "Управление файлами"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1162
 msgid "Edit Folder"
 msgstr "Редактировать папку"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1212
 msgid "No folders found."
 msgstr "Папки не найдены."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1327
-#, php-format
 msgid "Folder couldn't be created! Error: %s"
 msgstr "Папка не может быть создана! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1414
-#, php-format
 msgid "Folder couldn't be updated! Error: %s"
 msgstr "Папка не может быть обновлена! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1549
 msgid "Directory couldn't be protected!"
 msgstr "Каталог не может быть защищен!"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1640
 msgid "This area is limited to members only. Please login below."
 msgstr "Эта область доступна только зарегистрированным пользователям. Пожалуйста, войдите в систему или зарегистрируйтесь."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/filesharing.class.php:1800
 msgid "Files / Folders"
 msgstr "Файлы / Папки"
 

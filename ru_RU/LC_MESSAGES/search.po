@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Перевод на русский язык jCore\n"
+"Project-Id-Version: Перевод на русский язык jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-05 20:22+0200\n"
-"PO-Revision-Date: 2011-05-06 14:58+0300\n"
-"Last-Translator: jcore.ru <info@jcore.ru>\n"
-"Language-Team: jcore.ru <translate@jcore.ru>\n"
+"POT-Creation-Date: 2011-06-15 10:22+0200\n"
+"PO-Revision-Date: 2011-06-15 12:27+0300\n"
+"Last-Translator: Русскоязычное Сообщество jCore 0.9 <translate@jcore.ru>\n"
+"Language-Team: Русскоязычное Сообщество jCore <translate@jcore.ru>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,56 +15,42 @@ msgstr ""
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:14
 msgid "Search Engine"
 msgstr "Поиск"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:15
 msgid "Have your own search engine"
 msgstr "Поисковая система сайта"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:170
 msgid "Items have been successfully updated."
 msgstr "Обновлено."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:202
 msgid "Title / Description"
 msgstr "Название / Описание"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:210
 msgid "Blog like content for pages."
 msgstr "Содержание страниц."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:254
 msgid "Update"
 msgstr "Обновить"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:305
 msgid "Search Engine Administration"
 msgstr "Управление поиском по сайту"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:312
 msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the page under which the search module is will be used."
 msgstr "Выберите модули в которых будет выполняться поиск и, если необходимо, задайте поисковые ограничения для них. По умолчанию, если ничего не выбрано, то все модули будут доступны для поиска. Можно определить ограничение (0) по одному на страницу, при котором будет использоваться поиск по модулю."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:349
 msgid "No modules found."
 msgstr "Модули не найдены."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:492
 msgid "Search for"
 msgstr "Поиск"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:499
 msgid "search..."
 msgstr "поиск..."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:505
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:516
 msgid "in"
 msgstr "в"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/search.class.php:699
 msgid "Invalid target selected for your search! Please select a new target (search in) or don't select any if you want to search for posts."
 msgstr "Указана несуществующая цель для поиска! Пожалуйста, укажите другую цель или не указывайте ничего."
 

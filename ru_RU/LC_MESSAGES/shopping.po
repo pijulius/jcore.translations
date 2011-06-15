@@ -2,12 +2,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Перевод на русский язык jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-05-10 10:21+0300\n"
-"Last-Translator: jcore.ru <info@jcore.ru>\n"
-"Language-Team: jcore.ru <translate@jcore.ru>\n"
+"POT-Creation-Date: 2011-06-15 10:22+0200\n"
+"PO-Revision-Date: 2011-06-15 12:27+0300\n"
+"Last-Translator: Русскоязычное Сообщество jCore 0.9 <translate@jcore.ru>\n"
+"Language-Team: Русскоязычное Сообщество jCore <translate@jcore.ru>\n"
 "Language: \n"
-"MIME-Version: 1.2\n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: Dynamic Forms
 msgid "Title"
 msgstr "Название"
 
@@ -115,7 +114,6 @@ msgstr "Это подарок?"
 msgid "Please enter your gift message here"
 msgstr "Текст сообщения"
 
-#: Cart Settings
 msgid "Automatic Continue Shopping"
 msgstr "Автоматически продолжить покупки"
 
@@ -218,1755 +216,1140 @@ msgstr "Валюта"
 msgid "Secret Word"
 msgstr "Секретное слово"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:32
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1509
 msgid "Shopping Orders"
 msgstr "Заказы"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:33
 msgid "Handle New / Processed orders and display members their orders history"
 msgstr "Работа с заказами: оформление, редактирование, история..."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:69
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:116
 msgid "Invoice Customer"
 msgstr "Наличными"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:70
 msgid "You will be contacted personally to finalize the payments"
 msgstr "Оплата производится наличными курьеру при получении товара."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:74
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:144
 msgid "Check Payment"
 msgstr "Оплата чеком"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:75
-#, php-format
 msgid "Please complete the check to be sent to %s"
 msgstr "Пожалуйста, заполните чек для отправки на %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:82
 msgid "Credit Card Payment (PayPal)"
 msgstr "PayPal"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:83
 msgid "An extra step will be required trough Paypal.com"
 msgstr "Необходимо будет выполнить дополнительный шаг на Paypal.com"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:87
 msgid "Credit Card Payment (CCBill)"
 msgstr "CCBill"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:88
 msgid "An extra step will be required trough CCBill.com"
 msgstr "Необходимо будет выполнить дополнительный шаг на CCBill.com"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:92
 msgid "Credit Card Payment (AlertPay)"
 msgstr "AlertPay"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:93
 msgid "An extra step will be required trough AlertPay.com"
 msgstr "Необходимо будет выполнить дополнительный шаг на AlertPay.com"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:97
 msgid "Credit Card Payment (Authorize.net)"
 msgstr "Authorize.net"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:98
 msgid "An extra step will be required trough Authorize.net"
 msgstr "Необходимо будет выполнить дополнительный шаг на Authorize.net"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:102
 msgid "Credit Card Payment (2CheckOut)"
 msgstr "2CheckOut"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:103
 msgid "An extra step will be required trough 2CheckOut.com"
 msgstr "Необходимо будет выполнить дополнительный шаг на 2CheckOut.com"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:107
 msgid "Credit Card Payment (MoneyBookers)"
 msgstr "MoneyBookers"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:108
 msgid "An extra step will be required trough MoneyBookers.com"
 msgstr "Необходимо будет выполнить дополнительный шаг на MoneyBookers.com"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:121
 msgid "Please contact client to finalize the payments."
 msgstr "Пожалуйста, свяжитесь с клиентом для завершения платежа."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:149
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:171
 msgid "Name on Check"
 msgstr "Название чека"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:152
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:178
 msgid "Check Number"
 msgstr "Номер чека"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:155
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:185
 msgid "Check Amount"
 msgstr "Сумма чека"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:199
 msgid "PayPal"
 msgstr "PayPal"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:202
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:429
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:623
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:818
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1030
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1265
 msgid "Your order has been successfully created but your payment has not been processed yet. To finalize your payments please click on the button below."
 msgstr "Ваш заказ был успешно сформирован, но платеж еще не обработан. Чтобы завершить платежь нажмите на кнопку ниже."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:208
 msgid "User redirected to paypal, payment is being processed."
 msgstr "Пользователь перенаправляется на PayPal, оплата обрабатывается."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:256
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:485
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:677
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:886
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1082
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1316
 msgid "Click to Finalize Payments"
 msgstr "Нажмите для завершения платежа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:426
 msgid "CCBill"
 msgstr "CCBill"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:435
 msgid "User redirected to ccbill, payment is being processed."
 msgstr "Пользователь перенаправляется на CCBill, оплата обрабатывается."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:620
 msgid "AlertPay"
 msgstr "AlertPay"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:629
 msgid "User redirected to alertpay, payment is being processed."
 msgstr "Пользователь перенаправляется на AlertPay, оплата обрабатывается."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:815
 msgid "Authorize.net"
 msgstr "Authorize.net"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:824
 msgid "User redirected to authorize.net, payment is being processed."
 msgstr "Пользователь перенаправляется на Authorize.net, оплата обрабатывается."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1027
 msgid "2CheckOut"
 msgstr "2CheckOut"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1036
 msgid "User redirected to 2checkout, payment is being processed."
 msgstr "Пользователь перенаправляется на 2CheckOut, оплата обрабатывается."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1262
 msgid "MoneyBookers"
 msgstr "MoneyBookers"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1271
 msgid "User redirected to moneybookers, payment is being processed."
 msgstr "Пользователь перенаправляется на MoneyBookers, оплата обрабатывается."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1536
 msgid "Order"
 msgstr "№"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1576
 msgid "Order item couldn't be added to the db! Please contact us with this error as soon as possible."
 msgstr "Заказ не сформирован! Пожалуйста, свяжитесь с нами, чтобы мы исправили эту ошибку как можно скорее."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1616
-#, php-format
 msgid "Order item couldn't be updated! Error: %s"
 msgstr "Заказ не обновлен! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1868
 msgid "Shopping cart settings table cannot be found! Please first install the Shopping Cart module and then try again."
 msgstr "Таблица настройки корзины не найдена! Пожалуйста, сначала установить модуль Корзина, а затем повторите попытку."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2094
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3566
 msgid "New Order"
 msgstr "Новый заказ"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2098
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4703
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4755
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5780
 msgid "Items"
 msgstr "Товар"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2101
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:449
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4385
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3645
 msgid "Cart Settings"
 msgstr "Настройки корзины"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2120
 msgid "Order Status"
 msgstr "Состояние заказа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2157
 msgid "Order Owner"
 msgstr "Покупатель"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2171
 msgid "Define the owner of this order"
 msgstr "Указать владельца этого заказа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2172
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:157
 msgid "Select User"
 msgstr "Выбрать пользователя"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2176
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:24
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1990
 msgid "Shopping Items"
 msgstr "Товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2177
 msgid "Click on the Add Items link below to add items to this order."
 msgstr "Для добавления товара в заказ нажмите на ссылку \"Добавить товары\""
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2196
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4072
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4526
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2838
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2844
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2909
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2961
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3007
 msgid "Order Method"
 msgstr "Способ заказа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2220
 msgid "No Order Method Specified"
 msgstr "Заказов указанным способом не найдено"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2226
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3329
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4549
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4732
 msgid "Status"
 msgstr "Состояние"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2257
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4569
 msgid "Details"
 msgstr "Подробная информация"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2265
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3059
 msgid "Please select the order method you would like to proceed with"
 msgstr "Пожалуйста, выберите способ оплаты"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2363
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2543
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1816
 msgid "Custom Options"
 msgstr "Пользовательские функции"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2412
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3149
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:583
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1762
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4417
 msgid "Ref. Number"
 msgstr "Артикул"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2417
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3154
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:61
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:89
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:230
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:250
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:280
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4189
 msgid "Item"
 msgstr "Товар"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2422
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3159
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:3285
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:3319
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4194
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4429
 msgid "Quantity"
 msgstr "Количество"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2427
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3164
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4434
 msgid "Unit Price"
 msgstr "Цена за единицу товара"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2432
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4439
 msgid "Total Price"
 msgstr "Итоговая сумма"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2451
 msgid "Add items to this order"
 msgstr "Добавить товар в этот заказ"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2452
 msgid "Add Items"
 msgstr "Добавить товар"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2457
 msgid "Refresh order totals"
 msgstr "Обновить заказ"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2458
 msgid "Refresh"
 msgstr "Обновить"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2464
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4114
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4274
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4576
 msgid "Subtotal"
 msgstr "Итого"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2473
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4120
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2080
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4288
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4601
 msgid "Tax"
 msgstr "Налог"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2482
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4126
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:418
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4303
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4626
 msgid "Discount"
 msgstr "Скидка"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2490
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4132
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4318
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4651
 msgid "Shipping & Handling"
 msgstr "Доставка"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2498
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3327
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4138
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4730
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4332
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4676
 msgid "Grand Total"
 msgstr "Сумма"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2731
 msgid "Order has been successfully deleted."
 msgstr "Заказ был успешно удален."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2745
 msgid "Order has been successfully updated."
 msgstr "Заказ был успешно обновлен."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2761
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2499
 msgid "We are sorry for the inconvenience but it seems this order method doesn't have order processing capabilities. Please choose a different order method or contact webmaster."
 msgstr "Приносим извинения за причиненные неудобства, но это способ заказа не имеет возможности обработки заказов. Пожалуйста, выберите другой способ заказа или свяжитесь с нами."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2815
 msgid "No items added / selected for this order! Please select / add at least one item for the new order to proceed."
 msgstr "Нет товаров, добавленных/выбранных для этого заказа! Пожалуйста, выберите/добавьте хотя бы один товар для нового заказа."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2892
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2625
 msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number as soon as possible."
 msgstr "Во время обработки заказа возникли ошибки(некоторые товары не могут быть включены в ваш заказ). Пожалуйста, свяжитесь с нами и укажите номер вашего заказа. Мы постараемся решить возникшую проблему в кратчайшие сроки."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2902
-#, php-format
 msgid "Order has been successfully created.<br /> The confirmation / tracking number is <b>%s</b>."
 msgstr "Заказ был успешно сформирован.<br />Номер заказа: <b>%s</b>."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2907
 msgid "View Order"
 msgstr "Просмотр заказа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:2963
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1189
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2007
 msgid "Select"
 msgstr "Выбрать"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3034
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:380
 msgid "Yes"
 msgstr "Да"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3144
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:310
 msgid "Add"
 msgstr "Добавить"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3169
 msgid "Stock"
 msgstr "Склад"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3301
 msgid "Available"
 msgstr "Доступные"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3302
 msgid "Unavailable"
 msgstr "Недоступные"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3325
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4728
 msgid "Order ID / Submitted on"
 msgstr "ID / Дата"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3506
 msgid "Shopping Orders Administration"
 msgstr "Управление компонентами интернет-магазина"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3565
 msgid "Edit Order"
 msgstr "Редактировать заказ"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3612
 msgid "New and Processing Orders"
 msgstr "Создание и редактирование заказов"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3622
 msgid "Processed Orders"
 msgstr "Архив заказов"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3648
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4931
 msgid "No orders found."
 msgstr "Нет заказов."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3735
 msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error as soon as possible."
 msgstr "Приносим извинения за причиненные неудобства, но сформировать заказ не удалось. Пожалуйста, свяжитесь с нами по этому вопросу и мы постараемся исправить эту ошибку как можно скорее."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3760
-#, php-format
 msgid "Order couldn't be created / updated! Error: %s"
 msgstr "Заказ не создан/обновлен! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3842
-#, php-format
 msgid "Order couldn't be updated! Error: %s"
 msgstr "Заказ не обновлен! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3908
 msgid "Accepted"
 msgstr "Принят"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3910
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3930
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4021
 msgid "Cancelled"
 msgstr "Отменен"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3912
 msgid "New"
 msgstr "Новый"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3914
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3940
 msgid "Processing"
 msgstr "Формируется"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3916
 msgid "Rejected"
 msgstr "Отклонен"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3918
 msgid "Delivered"
 msgstr "Доставлен"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3920
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3942
 msgid "Undefined!"
 msgstr "Неопределен!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3932
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4015
 msgid "Paid"
 msgstr "Оплачен"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3934
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4028
 msgid "Pending"
 msgstr "Ожидает"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3936
 msgid "Failed"
 msgstr "Неудачный"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3938
 msgid "Expired"
 msgstr "Устарел"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3978
 msgid "Email couldn't be sent! The defined order cannot be found."
 msgstr "Сообщение не отправлено! Заказ не найден."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4017
 msgid "It's now safe to ship the goods if necessary."
 msgstr "Теперь можно осуществить доставку товара."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4023
 msgid "IMPORTANT: payment has been cancelled so shipment should be cancelled too!"
 msgstr "ВАЖНО: если оплата отменена, то и отгрузка должна быть отменена!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4030
 msgid "IMPORTANT: do NOT ship any goods until payment has been confirmed / processed!"
 msgstr "ВАЖНО: Товар не доставляется до подтверждения оплаты!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4078
 msgid "Items ordered"
 msgstr "Товары заказа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4145
 msgid "You can access / download your digital goods at:"
 msgstr "Вы можете получить доступ к загрузки цифровых товаров по адресу:"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4284
 msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait until we receive the confirmation for your payment."
 msgstr "Ваш платеж еще не принят. Чтобы получить доступ к цифровому товару, пожалуйста завершите платежь ниже или подождите, пока мы не получим подтверждение платежа."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4324
 msgid "Order #"
 msgstr "Заказ №"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4349
 msgid "Your order details are listed below, if you would like to change any of the submitted information or have further question / comments please let us know in the comments."
 msgstr "Детали вашего заказа перечислены ниже, если вы желаете изменить заказ или у вас есть вопросы/замечания, то пожалуйста, сообщите нам об этом в комментариях."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4453
 msgid "Payment confirmed and received."
 msgstr "Подтверждение получения оплаты."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4461
 msgid "Payment still pending!"
 msgstr "Оплата еще не произведена!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4469
 msgid "Payment failed!"
 msgstr "Оплатить не удалось!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4477
 msgid "Payment expired!"
 msgstr "Срок оплаты истек!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4485
 msgid "Awaiting payment deposit!"
 msgstr "Ожидается оплата депозита!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4507
 msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes until we receive the confirmation, otherwise please click on the button below."
 msgstr "Платеж еще не был обработан или вы не завершили оплату. Если Вы уверены, что платеж был обработан пожалуйста, подождите несколько минут, пока мы не получим подтверждение, в противном случае нажмите на кнопку ниже."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4531
 msgid "Method"
 msgstr "Способ"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4608
-#, php-format
 msgid "%s, started on <i>%s</i>, finished on %s, from %s"
 msgstr "%s, началось <i>%s</i>, завершится %s, с %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4613
 msgid "unknown"
 msgstr "неизвестно"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4647
 msgid "Downloads"
 msgstr "Загрузки"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:16
 msgid "Shopping Store"
 msgstr "Каталог товаров"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:17
 msgid "Sell products in a directory like structure"
 msgstr "Каталог товаров"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:100
 msgid "No file selected to download!"
 msgstr "Не выбран файл для загрузки!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:112
 msgid "The selected file cannot be found!"
 msgstr "Выбранный файл не найден!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:119
 msgid "You need to be logged in to download this file. Please login or register."
 msgstr "Вы должны войти в систему, чтобы загрузить этот файл. Пожалуйста войдити в систему или зарегистрируйтесь."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:132
 msgid "An order with this file cannot be found!"
 msgstr "Заказ на этот файл не найден!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:143
 msgid "The order you selected cannot be found!"
 msgstr "Заказ не найден!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:152
 msgid "You are not the owner of this order!"
 msgstr "Вы не являетесь владельцем этого заказа!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:159
 msgid "Your payment has not yet been confirmed!"
 msgstr "Ваш платеж еще не был подтвержден!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:169
 msgid "Your order has been cancelled!"
 msgstr "Ваш заказ был отменен!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:187
 msgid "Your download has expired!"
 msgstr "Срок доступа к скачиванию истек!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:442
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2032
 msgid "New Item"
 msgstr "Новый товар"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:446
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4382
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3613
 msgid "Orders"
 msgstr "Заказы"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:498
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:751
 msgid "(will create a new item)"
 msgstr "(будет создан новый товар)"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:552
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:3218
 msgid "Item Options"
 msgstr "Настройки товара"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:558
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1741
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4199
 msgid "Price"
 msgstr "Цена"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:580
 msgid "e.g. 170"
 msgstr "например, 170"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:587
 msgid "e.g. ITEM-0711"
 msgstr "например, ТОВАР-0711"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:595
 msgid "Quantity Options"
 msgstr "Количество"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:600
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1828
 msgid "Available Quantity"
 msgstr "Доступно"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:607
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:609
 msgid "e.g. 1000 (leave it empty for unlimited)"
 msgstr "например, 1000 (если пусто, то неограниченно)"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:612
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1833
 msgid "Max Order Quantity at Once"
 msgstr "Макс. в заказе"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:619
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:621
 msgid "e.g. 15 (default 30)"
 msgstr "например, 15 (по умолчанию 30)"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:624
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1838
 msgid "Show Quantity Picker"
 msgstr "Отображать"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:663
 msgid "e.g. oranges, lemons, limes"
 msgstr "например, апельсины, лимоны, лаймы"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:864
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1307
 msgid "Title* (e.g. Color, Size)"
 msgstr "Название* (например, цвет, размер)"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:874
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1317
 msgid "Required"
 msgstr "Требуется"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:939
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1154
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1372
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1437
 msgid "Price Difference"
 msgstr "Разница в ценах"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:944
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1163
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1377
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1442
 msgid "Price Type"
 msgstr "Тип цены"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:949
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1382
 msgid "Max Characters"
 msgstr "Максимум символов"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1012
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1103
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1259
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1409
 msgid "Fixed"
 msgstr "Фиксированное значение"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1019
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1110
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1260
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1410
 msgid "Percent"
 msgstr "Процент"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1145
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1432
 msgid "Title* (e.g. Red, XXL)"
 msgstr "Название * (например, красный, XXL)"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1187
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1456
 msgid "Add new row"
 msgstr "Добавить новую строку"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1208
 msgid "Add new option"
 msgstr "Добавить новый параметр"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1514
 msgid "Items have been successfully re-ordered."
 msgstr "Товары сортированы."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1525
 msgid "Item has been successfully deleted."
 msgstr "Товар удален."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1547
 msgid "Item has been successfully updated."
 msgstr "Товар успешно обновлен."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1551
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1571
 msgid "View Item"
 msgstr "Просмотр"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1567
 msgid "Item has been successfully created."
 msgstr "Товар успешно добавлен."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1605
 msgid "Goods"
 msgstr "Товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1704
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4468
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4853
 msgid "Digital Goods"
 msgstr "Цифровой товар"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1747
 msgid "Special Price"
 msgstr "Специальная цена"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1752
 msgid "Special Price Starts"
 msgstr "Спец. цена с"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1757
 msgid "Special Price Ends"
 msgstr "Спец. цена по"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1767
 msgid "Weight"
 msgstr "Вес"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1777
 msgid "Taxable"
 msgstr "Вкл. налог"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:1864
 msgid "Display Related Items"
 msgstr "Похожие товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2031
 msgid "Edit Item"
 msgstr "Редактирование товара"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2076
 msgid "Out of Stock Items"
 msgstr "На складе"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2086
 msgid "Items in Stock"
 msgstr "На складе"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2108
 msgid "No items found for this category."
 msgstr "В этой категории нет товаров."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2159
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2388
 msgid "Custom option title is required!"
 msgstr "Название обязательно!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2168
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2179
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2397
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2408
-#, php-format
 msgid "No custom option price defined for \"%s\"!"
 msgstr "Не определено для \"%s\"!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2188
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2417
-#, php-format
 msgid "Custom option price title for \"%s\" is required!"
 msgstr "Название \"%s\" обязательно!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2275
-#, php-format
 msgid "Item couldn't be added! Error: %s"
 msgstr "Товар не добавлен! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2302
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2598
-#, php-format
 msgid "Custom option couldn't be created! Error: %s"
 msgstr "Не создано! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2316
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2337
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2494
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2571
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2616
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2636
-#, php-format
 msgid "Custom option price couldn't be created! Error: %s"
 msgstr "Не создано! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2457
-#, php-format
 msgid "Custom option couldn't be updated! Error: %s"
 msgstr "Не добавлено! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2513
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2550
-#, php-format
 msgid "Custom option price couldn't be updated! Error: %s"
 msgstr "Не обновлено! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2725
-#, php-format
 msgid "Item couldn't be updated! Error: %s"
 msgstr "Поле не обновлено! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2957
 msgid "Stock: available"
 msgstr "Наличие: да"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:2962
 msgid "Stock: unavailable"
 msgstr "Наличие: нет"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:3146
 msgid "More Details"
 msgstr "Подробнее"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:3166
 msgid "Out of Stock"
 msgstr "Продаж"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:3295
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:3339
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:3349
 msgid "Add to My Cart"
 msgstr "В корзину"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:3438
 msgid "Related Items"
 msgstr "Похожие товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4378
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5012
 msgid "New Category"
 msgstr "Новая категория"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4398
 msgid "Sub Category of"
 msgstr "Уровень"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4426
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4828
 msgid "Show Icons"
 msgstr "Показать значки"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4433
 msgid "(display icons when category selected)"
 msgstr "(отображение иконки выбранной категории)"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4438
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4833
 msgid "Full Items"
 msgstr "Полное описание"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4448
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4838
 msgid "Hide Subgroup Items"
 msgstr "Скрыть подгруппы товаров"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4463
 msgid "Digital / Downloadable Goods"
 msgstr "Цифровые / Загружаемые товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4476
 msgid "Downloads Expire after"
 msgstr "Итервал"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4484
 msgid "days (when ordered)"
 msgstr "дней (в течение которых будет возможна загрузка)"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4522
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4843
 msgid "Members Only"
 msgstr "Пользователи"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4530
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4848
 msgid "Show to Guests"
 msgstr "Гости"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4599
 msgid "Categories have been successfully re-ordered."
 msgstr "Категории сортированы."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4610
 msgid "Category has been successfully deleted."
 msgstr "Категория удалена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4623
 msgid "Category cannot be subcategory of itself!"
 msgstr "Категория не может быть подкатегорией у самой себя."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4652
 msgid "Category has been successfully updated."
 msgstr "Категория обновлена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4656
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4676
 msgid "View Category"
 msgstr "Просмотр категории"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4672
 msgid "Category has been successfully created."
 msgstr "Категория успешно создана."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4708
 msgid "Icon"
 msgstr "Иконка"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4775
 msgid "Icons"
 msgstr "Иконки"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4856
-#, php-format
 msgid "(downloads expire after %s days)"
 msgstr "(возможность загрузки истекает через %s дней)"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:4983
 msgid "Shopping Administration"
 msgstr "Управление каталогом товаров"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5011
 msgid "Edit Category"
 msgstr "Редактировать категорию"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5061
 msgid "No categories found."
 msgstr "Категории не найдены."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5182
-#, php-format
 msgid "Shopping Category couldn't be created! Error: %s"
 msgstr "Категория не создана! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5276
-#, php-format
 msgid "Shopping Category couldn't be updated! Error: %s"
 msgstr "Категория не обновлена! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5405
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5419
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5432
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5445
 msgid "Directory couldn't be protected!"
 msgstr "Каталог не защищен!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5545
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4875
 msgid "Latest Items"
-msgstr "Последние товары"
+msgstr "Новые товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5551
 msgid "Active Items"
 msgstr "Активные товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5557
 msgid "Popular Items"
 msgstr "Популярные товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5563
 msgid "Discussed Items"
 msgstr "Обсуждаемые товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5569
 msgid "Rated Items"
 msgstr "Рэйтинг товаров"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5620
 msgid "This area is limited to members only. Please login below."
 msgstr "Только зарегистрированным пользователям. Пожалуйста, авторизуйтесь."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5681
 msgid "Shopping"
 msgstr "Покупка товаров"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shopping.class.php:5779
 msgid "Items / Categories"
 msgstr "Всего товаров"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:14
 msgid "Shopping Cart"
 msgstr "Корзина"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:15
 msgid "Set Fees, Discounts, Taxes, checkout Limits and let people place orders"
 msgstr "Компоненты для организации торговли товарами через интернет: корзина заказов, скидки, налоги, доставка и т.д."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:65
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:618
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3605
 msgid "New Discount"
 msgstr "Новая скидка"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:78
 msgid "Discount Percentage"
 msgstr "Процент"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:87
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:89
 msgid "e.g. 25"
 msgstr "например, 25"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:93
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:938
 msgid "Price Above or Equal"
 msgstr "Сумма заказа >="
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:112
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:114
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:957
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:959
 msgid "e.g. 10"
 msgstr "например, 10"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:117
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:962
 msgid "Price Below"
 msgstr "Сумма заказа <"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:136
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:138
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:981
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:983
 msgid "e.g. 70"
 msgstr "например, 70"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:142
 msgid "For Defined User"
 msgstr "Определенным пользователям"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:156
 msgid "Define the owner of the discount."
 msgstr "Определить владельца скидки."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:202
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1103
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1921
 msgid "Priorities have been successfully set."
 msgstr "Приоритеты были успешно установлен."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:213
 msgid "Discount has been successfully deleted."
 msgstr "Скидка была успешно удалена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:250
 msgid "Discount has been successfully updated."
 msgstr "Скидка была успешно обновлена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:263
 msgid "Discount has been successfully created."
 msgstr "Скидка была успешно создана."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:414
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1261
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2078
 msgid "Priority"
 msgstr "Приоритет"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:420
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1267
 msgid "Price >="
 msgstr "Сумма заказа >="
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:422
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1269
 msgid "Price <"
 msgstr "Сумма заказа <"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:427
 msgid "User"
 msgstr "Пользователь"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:490
 msgid "User deleted!"
 msgstr "Пользователь удален!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:525
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1426
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2161
 msgid "Set Priority"
 msgstr "Установить приоритет"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:592
 msgid "Shopping Cart Discounts Administration"
 msgstr "Управление скидками"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:617
 msgid "Edit Discount"
 msgstr "Редактировать"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:663
 msgid "No discounts found."
 msgstr "Скидки не найдены."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:720
-#, php-format
 msgid "Discount couldn't be added! Error: %s"
 msgstr "Скидка не добавлена! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:758
-#, php-format
 msgid "Discount couldn't be updated! Error: %s"
 msgstr "Скидка не обновлена! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:900
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1519
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3608
 msgid "New Fee"
 msgstr "Новая стоимость доставки"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:907
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1850
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3097
 msgid "Order Form"
 msgstr "Форма заказа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:913
 msgid "Fee Amount"
 msgstr "Стоимость"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:933
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:935
 msgid "e.g. 5"
 msgstr "например, 5"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:987
 msgid "Using Weight"
 msgstr "Расчет исходя из веса"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:992
 msgid "Weight Above or Equal"
 msgstr "Вес заказа >="
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1005
 msgid "e.g. 0.5"
 msgstr "например, 0,5"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1008
 msgid "Weight Below"
 msgstr "Вес заказа <"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1021
 msgid "e.g. 3"
 msgstr "например, 3"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1032
 msgid "Using Order Form Field Values"
 msgstr "Поля формы заказа товара"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1037
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1865
 msgid "Field name"
 msgstr "Имя поля"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1046
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1874
 msgid "Define the field you would like to compare."
 msgstr "Определите поле для сравнения."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1047
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1875
 msgid "Select Field"
 msgstr "Выбрать поле"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1051
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1283
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1879
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2084
 msgid "Is or Contains"
 msgstr "Является  или содержит"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1057
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1059
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1884
 msgid "e.g. field name \"ShippingState\" is \"CA\" or contains \"CA, WA, NY\""
 msgstr "например, имя поля \"ShippingState\" это \"CA\" или содержит \"CA, WA, NY\"(\"Регион доставки\" это \"Калифорния\" или содержит \"Калифорния, Вашингтон, Нью-Йорк\")"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1114
 msgid "Fee has been successfully deleted."
 msgstr "Стоимость доставки удалена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1139
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1957
 msgid "Order form field couldn't be found!"
 msgstr "Не найдено!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1140
 msgid "Please make sure you have entered / selected the right field or if you wish to add this fee to a new field please first create the field at Content Management -> Dynamic Forms."
 msgstr "Пожалуйста, проверьте, что вы ввели / выбрали в правом поле, или если вы хотите добавить стоимость в новом поле пожалуйста, сначала создать поле Панель управления -> Формы."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1156
 msgid "Fee has been successfully updated."
 msgstr "Стоимость доставки обновлена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1169
 msgid "Fee has been successfully created."
 msgstr "Стоимость доставки добавлена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1183
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2001
 msgid "Order Form Fields"
 msgstr "Поля формы заказа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1194
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1281
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2012
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2082
 msgid "Field"
 msgstr "Поле"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1199
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2017
 msgid "Name"
 msgstr "Название"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1265
 msgid "Fee"
 msgstr "Стоимость доставки"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1274
 msgid "Weight >="
 msgstr "Вес >="
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1276
 msgid "Weight <"
 msgstr "Вес <"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1386
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2122
 msgid "Field deleted!"
 msgstr "Поле удалено!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1493
 msgid "Shopping Cart Fees Administration"
 msgstr "Управление стоимостью доставки"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1518
 msgid "Edit Fee"
 msgstr "Редактировать"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1564
 msgid "No fees found."
 msgstr "Не найдено."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1642
-#, php-format
 msgid "Fee couldn't be added! Error: %s"
 msgstr "Не добавлено! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1696
-#, php-format
 msgid "Fee couldn't be updated! Error: %s"
 msgstr "Не обновлено! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1843
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2253
 msgid "New Tax"
 msgstr "Новая налоговая ставка"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1856
 msgid "Tax Percentage"
 msgstr "Процент"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1932
 msgid "Tax has been successfully deleted."
 msgstr "Налоговая ставка успешно удалена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1958
 msgid "Please make sure you have entered / selected the right field or if you wish to add this tax to a new field please first create the field at Content Management -> Dynamic Forms."
 msgstr "Пожалуйста, убедитесь, что вы ввели / выбрали поле, или если вы хотите добавить этот налог в новое поле пожалуйста, сначала создайте его в Панель управления -> Формы."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1974
 msgid "Tax has been successfully updated."
 msgstr "Налоговая ставка успешно обновлена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:1987
 msgid "Tax has been successfully created."
 msgstr "Налоговая ставка успешно добавлена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2227
 msgid "Shopping Cart Taxes Administration"
 msgstr "Управление налогами"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2252
 msgid "Edit Tax"
 msgstr "Редактировать"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2293
 msgid "No taxes found."
 msgstr "Налоги не установлены."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2343
-#, php-format
 msgid "Tax couldn't be added! Error: %s"
 msgstr "Налоговая ставка не добавлена! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2371
-#, php-format
 msgid "Tax couldn't be updated! Error: %s"
 msgstr "Налоговая ставка не обновлена! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2483
 msgid "Checkout Form"
 msgstr "Форма оформления заказа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2529
-#, php-format
 msgid "We are sorry but it seems the stock for \"%s\" has changed meanwhile and there aren't enough items in stock now. Please go back and update your cart. Total available items in stock for this item are: %s."
 msgstr "Нам жаль, но количество товара \"%s\" недостаточно. Количество имеющихся на складе товара, составляет: %s."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2640
-#, php-format
 msgid "<b>Your order %s has been successfully saved.</b><br /> You can now complete the payment or leave it for a later date."
 msgstr "<b>Ваш заказ %s был успешно сохранен.</b><br />Теперь Вы можете его оплатить или отложить его на более поздний срок."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2644
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2655
 msgid "View Your Orders"
 msgstr "Смотреть заказы"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2648
-#, php-format
 msgid "<b>Thank you for your order!</b><br /><br /> Your confirmation / tracking number is <b>%s</b>, please keep it for your record, also a receipt has been emailed to you with all the information including your confirmation / tracking number."
 msgstr "<b>Благодарим Вас за покупку!</b><br /><br />Номер вашего заказа <b>%s</b>."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2684
 msgid "Invalid order method selected. Please choose a different order method below."
 msgstr "Способ оплаты не выбран выбран. Пожалуйста, выберите способ оплаты из списка ниже."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2717
 msgid "Checkout Step"
 msgstr "Шаг оформления заказа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2731
 msgid "Review Your Order"
 msgstr "Просмотр заказа"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2736
 msgid "Account information"
 msgstr "Информация об учетной записи"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2772
 msgid "Your password will be emailed to the email address specified here.<br /> You will be able to change your password by using your account page after login."
 msgstr "Ваш пароль будет выслан на, указанный вами, адрес электронной почты. <br /> Вы сможете сменить пароль, используя страницу своего аккаунта после авторизации."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2927
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3025
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3115
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3198
 msgid "Email address"
 msgstr "Email"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2968
 msgid "Invalid order method selected! Please choose a different order method below."
 msgstr "Способ оплаты не выбран выбран! Пожалуйста, выберите способ оплаты из списка ниже."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3174
 msgid "New User?"
 msgstr "Новый пользователь?"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3178
 msgid "Please enter your desired username / password to continue as a new user."
 msgstr "Пожалуйста, введите желаемое имя пользователя / пароль."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3180
 msgid "Please enter your desired username to continue as a new user."
 msgstr "Пожалуйста, введите желаемое имя пользователя."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3236
 msgid "Continue as a New User"
 msgstr "Продолжить создание нового пользователя"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3250
 msgid "Submit / Process Order"
 msgstr "Отправить"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3255
 msgid "Submit / Review"
 msgstr "Оформить"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3288
 msgid "Form is being processed. Please wait."
 msgstr "Форма обрабатывается. Пожалуйста, подождите."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3619
 msgid "Shopping Cart Administration"
 msgstr "Управление корзиной"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3642
 msgid "Set checkout methods, currency and cart limits"
 msgstr "Способы оплаты, валюта и т.д."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3661
 msgid "Set global or user discounts"
 msgstr "Настройка скидок"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3664
 msgid "Discount Settings"
 msgstr "Скидки"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3680
 msgid "Set global or local fees"
 msgstr "Настройка стоимости доставки"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3683
 msgid "Fees Settings"
 msgstr "Стоимость доставки"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3702
 msgid "Set and manage taxes"
 msgstr "Установка и настройка налоговых ставок"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3705
 msgid "Tax Settings"
 msgstr "Налоги"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3881
 msgid "No item defined to remove from your cart."
 msgstr "Укажите товар, который следует удалить из корзины."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3891
 msgid "Item has been successfully removed from your cart."
 msgstr "Товар удален из корзины."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3900
 msgid "No item defined to add to your cart."
 msgstr "Укажите товар, который следует добавить в корзину."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3914
 msgid "The item you wanted to add to your cart cannot be found or is unfortunately temporarily out of stock. To check the availability of this item please contact us."
 msgstr "Товара, которого вы хотите добавить в корзину, не найдено или нет в наличии. Для уточнения, пожалуйста, свяжитесь с нами."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3928
 msgid "The item you wanted to add to your cart is temporary not available. Please contact us for more information on this item."
 msgstr "Товар, который вы хотите добавить в корзину, временно не доступен. Пожалуйста, свяжитесь с нами для получения дополнительной информации по этому вопросу."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3937
 msgid "The item you wanted to add to your cart can only be accessed by members. Please login first and try again."
 msgstr "Товар, который вы хотите добавить в корзину, доступен только зарегистрированным пользователям. Пожалуйста, Войдите в систему и попробуйте еще раз."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3971
 msgid "Item option cannot be found!"
 msgstr "Вариант товара не может быть найден!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4056
 msgid "Item has been successfully added to your cart."
 msgstr "Товар добавлен в корзину."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4058
 msgid "Refresh Cart"
 msgstr "Обновить"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4081
 msgid "Cart has been successfully updated."
 msgstr "Корзина обновлена."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4116
 msgid "Already Registered?"
 msgstr "Уже зарегистрированы?"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4120
 msgid "Please enter your login information below to checkout with your account."
 msgstr "Пожалуйста, укажите Ваше Имя пользователя."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4179
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4930
 msgid "There are no items in your cart."
 msgstr "Нет товаров."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4348
 msgid "View My Cart"
 msgstr "Просмотр корзины"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4378
-#, php-format
 msgid "My Cart: %s items"
 msgstr "В корзине: %s товаров."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4423
 msgid "Item / Options"
 msgstr "Товар / Опции"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4424
 msgid "Item / Added to Cart"
 msgstr "Товар / Добавлен в корзину"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4451
 msgid "Remove"
 msgstr "Удалить"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4567
 msgid "Remove Item"
 msgstr "Удалить товар"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4757
-#, php-format
 msgid "<b>TIP:</b> Orders over %s get %s discount!"
 msgstr "<b>Совет:</b> Закажите на сумму %s и получите скидку %s!"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4768
 msgid "* For more details on each item click on the item's title. To change the quantity of an item pick a new quantity and press the Update Cart button."
 msgstr "* Для просмотра подробной информации нажмите на название товара."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4777
 msgid "Checkout"
 msgstr "Оформить заказ"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4784
 msgid "Continue Shopping"
 msgstr "Продолжить покупки"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4792
 msgid "Update Cart"
 msgstr "Обновить корзину"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4873
 msgid "Similar Items"
 msgstr "Похожие товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4941
-#, php-format
 msgid "<b>Checkout Limit:</b> You must purchase at least %s item(s) to complete your checkout."
 msgstr "Обращаем ваше внимание на то, что количество единиц товара в заказе должно быть не менее: <b>%s</b>"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:4954
-#, php-format
 msgid "<b>Checkout Limit:</b> You must purchase item(s) for at least %s to complete your checkout."
 msgstr "Обращаем ваше внимание на то, что минимальная сумма заказа в нашем интернет-магазине составляет: <b>%s</b>"
 
-#: Changes in 0.8
-#: ---------------
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3787
 msgid "Handle pending and processing orders"
 msgstr "Создание новых и обработка поступивших заказов"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3790
 msgid "New Orders"
 msgstr "Новые заказы"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3806
 msgid "Lookup and update processed orders"
 msgstr "Поиск и обновление обработанных заказов"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3885
 msgid "Sales"
 msgstr "Продажи"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:3899
 msgid "Start / End Date"
 msgstr "Интервал"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4195
 msgid "Products"
 msgstr "Товары"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4197
 msgid "Bestsellers"
 msgstr "Бестселлеры"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:4353
 msgid "Most Viewed Products"
 msgstr "Популярные продукты"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:2476
 msgid "Order originated from"
 msgstr "Заказ от"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:111
 msgid "Credit Card Payment (Ogone)"
 msgstr "Ogone"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:112
 msgid "An extra step will be required trough Ogone.com"
 msgstr "Необходимо будет выполнить дополнительный шаг на Ogone.com"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1501
 msgid "Ogone"
 msgstr "Ogone"
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingorders.class.php:1510
 msgid "User redirected to ogone, payment is being processed."
 msgstr "Пользователь перенаправляется на Ogone, оплата обрабатывается."
 
-#: D:/WebServers/home/jcore.ru/www/lib/modules/shoppingcart.class.php:3887
 msgid "Item option \"%s\" is required for \"%s\"!"
 msgstr "Опция товара \"%s\" необходима для \"%s\"!"
 
-#: Changes in 0.9
-#: ---------------
-
-#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4610
-msgid "Views"
-msgstr ""
-
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3840
-#, php-format
 msgid "The selected quantity exceeds quantity available (%s) in stock!"
-msgstr ""
+msgstr "Указанное количество превышает имеющееся количество (%) на складе!"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2359
 msgid "New Coupon"
-msgstr ""
+msgstr "Новый купон"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2372
 msgid "Coupon"
-msgstr ""
+msgstr "Купон"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2388
 msgid "and/or"
-msgstr ""
+msgstr "и/или"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2505
 msgid "Coupon has been successfully deleted."
-msgstr ""
+msgstr "Купон успешно удален."
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2519
 msgid "Coupon has been successfully updated."
-msgstr ""
+msgstr "Купон успешно обновлен."
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2532
 msgid "Coupon has been successfully created."
-msgstr ""
+msgstr "Купон успешно создан."
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2613
-#, php-format
 msgid "%s till %s"
-msgstr ""
+msgstr "%s до %s"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2727
 msgid "Shopping Cart Coupons Administration"
-msgstr ""
+msgstr "Управление купонами"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2756
 msgid "Edit Coupon"
-msgstr ""
+msgstr "Редактировать купон"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2791
 msgid "No coupons found."
-msgstr ""
+msgstr "Купоны не найдены."
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2850
-#, php-format
 msgid "Coupon couldn't be added! Error: %s"
-msgstr ""
+msgstr "Купон не добавлен! Ошибка: %s"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2898
-#, php-format
 msgid "Coupon couldn't be updated! Error: %s"
-msgstr ""
+msgstr "Купон не обновлен! Ошибка: %s"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4303
 msgid "Set and manage discount coupons"
-msgstr ""
+msgstr "Установка и управление купонами на скидки"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4306
 msgid "Coupons Settings"
-msgstr ""
+msgstr "Настройки купона"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5475
 msgid "Discount Codes"
-msgstr ""
+msgstr "Коды на скидки"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5480
 msgid "invalid"
-msgstr ""
+msgstr "недействительный"
 
-#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5487
 msgid "Enter your coupon code if you have one."
-msgstr ""
+msgstr "Введите код купона на скидку, если он у вас есть."
 
-#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1870
 msgid "Stock left: %s"
-msgstr ""
+msgstr "Низкий запас: %s"
 
-#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2357
 msgid "Low / Out of Stock Items"
-msgstr ""
+msgstr "Низкий / Было на складе"
+

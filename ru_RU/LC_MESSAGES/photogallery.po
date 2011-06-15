@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Перевод на русский язык jCore\n"
+"Project-Id-Version: Перевод на русский язык jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-01-05 20:20+0200\n"
-"PO-Revision-Date: 2011-05-06 14:58+0300\n"
-"Last-Translator: jcore.ru <info@jcore.ru>\n"
-"Language-Team: jcore.ru <translate@jcore.ru>\n"
+"POT-Creation-Date: 2011-06-15 10:22+0200\n"
+"PO-Revision-Date: 2011-06-15 12:26+0300\n"
+"Last-Translator: Русскоязычное Сообщество jCore 0.9 <translate@jcore.ru>\n"
+"Language-Team: Русскоязычное Сообщество jCore <translate@jcore.ru>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,340 +15,240 @@ msgstr ""
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:14
 msgid "Photo Gallery"
 msgstr "Фотогалерея"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:15
 msgid "Share pictures / photos in a directory like structure"
 msgstr "Каталог изображений/фотографий"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:28
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:58
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:553
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:582
 msgid "Gallery"
 msgstr "Галерея"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:137
 msgid "No picture selected to download!"
 msgstr "Для загрузки не выбраны изображения!"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:149
 msgid "The selected picture cannot be found!"
 msgstr "Выбранное изображение не найдено!"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:163
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:2533
 msgid "You need to be logged in to view this picture. Please login or register."
 msgstr "Только зарегистрированным пользователям."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:476
-#, php-format
 msgid "Couldn't fetch photo list. Error: %s"
 msgstr "Не удалось получить список фотографий. Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:900
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1812
 msgid "New Gallery"
 msgstr "Новая галерея"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:920
 msgid "Sub Gallery of"
 msgstr "Уровень"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:940
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1626
 msgid "Columns"
 msgstr "Колонки"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:945
 msgid "e.g. 3 (0 = auto)"
 msgstr "например, 3 ( 0 = авто )"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:956
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1621
 msgid "Display Preview"
 msgstr "Предпросмотр"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:962
 msgid "(will show the latest picture as icon)"
 msgstr "(будет отображено последние изображение в виде значка)"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:967
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1631
 msgid "Show Icons"
 msgstr "Показать значки"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:974
 msgid "(display icons when gallery selected)"
 msgstr "(отображение иконки выбранной галереи)"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:984
 msgid "Picasa Options"
 msgstr "Настройки Picasa"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:989
 msgid "Album URL"
 msgstr "URL альбома"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:993
 msgid "e.g. http://picasaweb.google.com/user/Album"
 msgstr "например, http://picasaweb.google.com/user/Album"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:996
 msgid "Tags"
 msgstr "Тэги"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1000
 msgid "e.g. foo, bar"
 msgstr "пример, foo, bar"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1007
 msgid "e.g. puppy"
 msgstr "пример, puppy"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1010
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:2466
 msgid "Photos"
 msgstr "Фотографии"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1017
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1574
 msgid "My Photos"
 msgstr "Мои фотографии"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1019
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1576
 msgid "Community Photos"
 msgstr "Фотографии сообщества"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1021
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1578
 msgid "Favorites"
 msgstr "Избранное"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1023
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1580
 msgid "Featured"
 msgstr "Популярные"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1033
 msgid "Faces"
 msgstr "Лица"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1035
 msgid "No faces"
 msgstr "Нет лица"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1038
 msgid "Aspect Ratio"
 msgstr "Соотношение сторон"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1045
 msgid "Landscape"
 msgstr "Пейзаж"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1047
 msgid "Portrait"
 msgstr "Портрет"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1049
 msgid "Panorama"
 msgstr "Панорама"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1052
 msgid "Size"
 msgstr "Размер"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1059
 msgid "Small"
 msgstr "Малые"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1061
 msgid "Medium"
 msgstr "Средние"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1063
 msgid "Large"
 msgstr "Большое"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1065
 msgid "Extra large"
 msgstr "Дополнительные большие"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1068
 msgid "License"
 msgstr "Лицензия"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1075
 msgid "Creative Commons"
 msgstr "Creative Commons"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1077
 msgid "Commercial Use"
 msgstr "Коммерческое использование"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1079
 msgid "Remix allowed"
 msgstr "Допускаются изменения"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1082
 msgid "Time"
 msgstr "Время"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1089
 msgid "Today"
 msgstr "Сегодня"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1091
 msgid "This Week"
 msgstr "На этой неделе"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1093
 msgid "This Month"
 msgstr "В этом месяце"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1096
 msgid "Order By"
 msgstr "Сортировать по"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1103
 msgid "Date"
 msgstr "Дата"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1109
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1616
 msgid "GData Auth Token"
 msgstr "Маркер проверки подлинности GData"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1115
 msgid "Request an Auth Token"
 msgstr "Запрос маркера"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1208
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1652
 msgid "Members Only"
 msgstr "Пользователи"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1216
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1657
 msgid "Show to Guests"
 msgstr "Гости"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1285
 msgid "Galleries have been successfully re-ordered."
 msgstr "Галереи сортированы."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1296
 msgid "Gallery has been successfully deleted."
 msgstr "Галерея удалена."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1309
 msgid "Gallery cannot be subgallery of itself!"
 msgstr "Галерея не может быть субгалереей самой себе!"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1335
 msgid "Picasa API URL"
 msgstr "API URL"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1348
 msgid "Gallery has been successfully updated."
 msgstr "Галерея успешно обновлена."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1352
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1372
 msgid "View Gallery"
 msgstr "Просмотр галереи"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1368
 msgid "Gallery has been successfully created."
 msgstr "Галерея успешно создана."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1406
 msgid "Icon"
 msgstr "Значек"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1501
 msgid "Icons"
 msgstr "Значки"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1557
 msgid "Picasa Album URL"
 msgstr "URL альбома"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1562
 msgid "Picasa Photo Tags"
 msgstr "Тэги"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1567
 msgid "Picasa Search"
 msgstr "Поиск"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1572
 msgid "Picasa Photos"
 msgstr "Фотографии"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1585
 msgid "Picasa Photo Type"
 msgstr "Тип"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1590
 msgid "Picasa Photo Aspect Ratio"
 msgstr "Соотношение сторон"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1595
 msgid "Picasa Photo Size"
 msgstr "Размер"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1600
 msgid "Picasa Photo License"
 msgstr "Лицензия"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1605
 msgid "Picasa Photo Time"
 msgstr "Время"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1610
 msgid "Picasa Order By"
 msgstr "Сортировка"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1783
 msgid "Photo Gallery Administration"
 msgstr "Управление фотогалереями"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1811
 msgid "Edit Gallery"
 msgstr "Редактировать галерею"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1861
 msgid "No galleries found."
 msgstr "Галереи не найдены"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:1995
-#, php-format
 msgid "Gallery couldn't be created! Error: %s"
 msgstr "Галерея не создана! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:2115
-#, php-format
 msgid "Gallery couldn't be updated! Error: %s"
 msgstr "Галерея не обновлена! Ошибка: %s"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:2273
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:2286
 msgid "Directory couldn't be protected!"
 msgstr "Каталог не защищен!"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:2380
 msgid "This area is limited to members only. Please login below."
 msgstr "Только для зарегистрированных пользователей."
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:2576
 msgid "Pictures / Galleries"
 msgstr "Изображения / Галереи"
 
-#: D:/WebServers/home/jcore.ru/server/lib/modules/photogallery.class.php:2577
 msgid "Pictures"
 msgstr "Изображения"
 
