@@ -3,11 +3,11 @@ msgstr ""
 "Project-Id-Version: jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-04-07 00:17-0500\n"
+"PO-Revision-Date: 2011-06-14 15:44-0500\n"
 "Last-Translator: Jose Mantilla <contact@pepiuox.net>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.2\n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __\n"
@@ -78,9 +78,7 @@ msgid "Phone number"
 msgstr "Número de teléfono"
 
 msgid "<b>Shipping address</b><br />* Leave blank If same as Billing Information"
-msgstr ""
-"<b>Dirección de envío</b><br />* Dejar en blanco si es la misma información "
-"de facturación"
+msgstr "<b>Dirección de envío</b><br />* Dejar en blanco si es la misma información de facturación"
 
 msgid "Company / Organization"
 msgstr "Empresa / Organización"
@@ -1882,91 +1880,91 @@ msgstr "Elemento de opción \"%s\" es necesario para \"%s\"!"
 
 #: Changes in 0.9
 #: ---------------
-
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4610
 msgid "Views"
-msgstr ""
+msgstr "Vistas"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3840
 #, php-format
 msgid "The selected quantity exceeds quantity available (%s) in stock!"
-msgstr ""
+msgstr "La cantidad seleccionada excede la cantidad disponible (%s) en stock!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2359
 msgid "New Coupon"
-msgstr ""
+msgstr "Nuevo cupon"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2372
 msgid "Coupon"
-msgstr ""
+msgstr "Cupon"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2388
 msgid "and/or"
-msgstr ""
+msgstr "y/o"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2505
 msgid "Coupon has been successfully deleted."
-msgstr ""
+msgstr "Cupón ha sido eliminado correctamente."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2519
 msgid "Coupon has been successfully updated."
-msgstr ""
+msgstr "Cupón se ha actualizado correctamente."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2532
 msgid "Coupon has been successfully created."
-msgstr ""
+msgstr "Cupón se ha creado con éxito."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2613
 #, php-format
 msgid "%s till %s"
-msgstr ""
+msgstr "%s hasta %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2727
 msgid "Shopping Cart Coupons Administration"
-msgstr ""
+msgstr " Administración  Cupones Cesta de Compra"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2756
 msgid "Edit Coupon"
-msgstr ""
+msgstr "Editar Cupón"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2791
 msgid "No coupons found."
-msgstr ""
+msgstr "No hay cupones"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2850
 #, php-format
 msgid "Coupon couldn't be added! Error: %s"
-msgstr ""
+msgstr "El cupón no puede ser añadido! Error: %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2898
 #, php-format
 msgid "Coupon couldn't be updated! Error: %s"
-msgstr ""
+msgstr "cupón no puede ser actualizada! Error: %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4303
 msgid "Set and manage discount coupons"
-msgstr ""
+msgstr "Establecer y administrar cupones de descuento"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4306
 msgid "Coupons Settings"
-msgstr ""
+msgstr "Configuración de cupones"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5475
 msgid "Discount Codes"
-msgstr ""
+msgstr "Códigos de Descuento"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5480
 msgid "invalid"
-msgstr ""
+msgstr "invalido"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5487
 msgid "Enter your coupon code if you have one."
-msgstr ""
+msgstr "Ingrese su código de descuento si usted tiene uno."
 
 #: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1870
 msgid "Stock left: %s"
-msgstr ""
+msgstr "Stock izquierdo: %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2357
 msgid "Low / Out of Stock Items"
-msgstr ""
+msgstr "Baja / Fuera de elementos de almacén"
+
