@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-05-25 21:10-0500\n"
+"PO-Revision-Date: 2011-06-18 14:26-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -5155,4 +5155,107 @@ msgstr "Le module n'a pas pu être ajouté ! Erreur :%s"
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:973
 msgid "Not Searchable"
 msgstr "Non recherchable"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:677
+msgid "Read Own"
+msgstr "Lecture des siens seulement"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:679
+msgid "Write Own"
+msgstr "Écriture des siens seuelement"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:959
+msgid "Hide when Expired"
+msgstr "Cacher lorsque expiré"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:720
+msgid "Layout"
+msgstr "Mise en page"
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:27
+msgid "New Layout"
+msgstr "Nouvelle mise en page"
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:109
+msgid "Layouts have been successfully re-ordered."
+msgstr "Les mises en page ont été réordonnées"
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:120
+msgid "Layout has been successfully deleted."
+msgstr "La mise en page a été supprimée."
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:134
+msgid "Layout has been successfully updated."
+msgstr "La mise en page a été mise à jour."
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:147
+msgid "Layout has been successfully created."
+msgstr "La mise en page a été créée."
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:304
+msgid "Layouts Administration"
+msgstr "Gestion des mise en page"
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:333
+msgid "Edit Layout"
+msgstr "Modifier la mise en page"
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:369
+msgid "No layouts found."
+msgstr "Aucune mise en page trouvée."
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:429
+#, php-format
+msgid "Layout couldn't be created! Error: %s"
+msgstr "La mise en page n'a pas pu être créée ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:460
+#, php-format
+msgid "Layout couldn't be updated! Error: %s"
+msgstr "La mise en page n'a pas pu être mise à jour ! Erreur : %s"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:89
+msgid "Running update"
+msgstr "Mise à jour en cours d'exécution"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:357
+#, php-format
+msgid "FTP Connecting to %s"
+msgstr "Connexion FTP à %s"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:366
+msgid "Couldn't connect!"
+msgstr "Impossible de se connecter !"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:375
+msgid "FTP Locate Root directory"
+msgstr "Répertoire racine FTP"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:398
+msgid "Couldn't locate Root directory!"
+msgstr "Impossible de localiser le répertoire racine !"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:660
+msgid "Update using FTP"
+msgstr "Mise à jour par FTP"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:667
+msgid "Hostname"
+msgstr "Serveur"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:675
+msgid "FTP Username"
+msgstr "Nom d'utilisateur FTP"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:681
+msgid "FTP Password"
+msgstr "Mot de passe FTP"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:687
+msgid "FTP Port"
+msgstr "Port FTP"
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:695
+msgid "Use SSL"
+msgstr "Utiliser le SSL"
 
