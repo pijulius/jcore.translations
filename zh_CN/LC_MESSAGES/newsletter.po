@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:18+0200\n"
+"PO-Revision-Date: 2011-06-22 23:28+0800\n"
+"Last-Translator: Xu Cheng <xc@virtualdell.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:14
+msgid "Newsletters"
+msgstr "新闻订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:15
+msgid "Create lists, send out newsletters, let people subscribe and unsubscribe"
+msgstr "创建列表，发送新闻订阅，让大家可订阅或退订"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:73
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:394
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2456
+msgid "New List"
+msgstr "新列表"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:77
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1544
+msgid "Subscriptions"
+msgstr "订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:80
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:600
+msgid "Emails"
+msgstr "Email"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:164
+msgid "Lists have been successfully re-ordered."
+msgstr "列表已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:175
+msgid "List has been successfully deleted."
+msgstr "列表已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:192
+msgid "List has been successfully updated."
+msgstr "列表已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:205
+msgid "List has been successfully created."
+msgstr "列表已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:227
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:266
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1577
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1582
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1789
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1879
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1996
+msgid "Members"
+msgstr "成员"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:368
+msgid "Newsletter Lists Administration"
+msgstr "新闻订阅列表管理"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:393
+msgid "Edit List"
+msgstr "编辑列表"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:432
+msgid "No lists found."
+msgstr "未发现列表"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:494
+#, php-format
+msgid "List couldn't be added! Error: %s"
+msgstr "列表无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:527
+#, php-format
+msgid "List couldn't be updated! Error: %s"
+msgstr "列表无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:596
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1217
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2453
+msgid "New Subscription"
+msgstr "新订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:603
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1547
+msgid "Lists"
+msgstr "列表"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:622
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:643
+msgid "Subscribed to"
+msgstr "订阅到"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:634
+msgid "Email(s)"
+msgstr "Email"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:640
+msgid "one email per line"
+msgstr "每行一个Email"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:649
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1575
+msgid "hold CTRL down to select more"
+msgstr "按下CTRL键选择多个"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:662
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:980
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1092
+msgid "Confirmed"
+msgstr "已确认"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:668
+msgid "(if not checked an email will be sent to the email address(es) for confirmation)"
+msgstr "（如果没有选择Emial地址，将发送到所有Email地址中）"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:671
+msgid "Subscribed on"
+msgstr "订阅于"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:750
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:802
+msgid "Subscriptions have been successfully confirmed."
+msgstr "订阅已成功确认。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:789
+msgid "No subscriptions selected! Please select at least one subscription."
+msgstr "未选择订阅！请选择至少一个订阅。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:813
+msgid "Subscriptions have been successfully deleted."
+msgstr "订阅已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:825
+msgid "Subscription has been successfully deleted."
+msgstr "订阅已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:844
+msgid "Subscription has been successfully updated and a notification email has been sent for confirmation."
+msgstr "订阅已成功更新，一封通知Email已发送，用于确认。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:856
+msgid "Subscription has been successfully updated."
+msgstr "订阅已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:889
+#, php-format
+msgid "Invalid email addresses defined. The following defined emails are not valid email addresses: %s."
+msgstr "错误的Email地址。下列Email地址是错误的：%s。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:900
+msgid "No valid email addresses have been defined!"
+msgstr "未定义有效的Email地址。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:908
+msgid "Sending confirmation requests, please wait..."
+msgstr "发送确认请求，请等待……"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:951
+msgid "No subscriptions have been created! Please see detailed error messages above and try again."
+msgstr "为创建订阅！请查看以上详细的错误消息，并重试。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:959
+#, php-format
+msgid "Subscriptions have been successfully created. Emails subscribed: %s"
+msgstr "订阅已成功创建。Email订阅：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:978
+msgid "Email / Subscribed on"
+msgstr "Email / 订阅于"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:982
+msgid "Newsletter List"
+msgstr "新闻订阅列表"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1062
+msgid "Confirm"
+msgstr "确定"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1064
+msgid "Confirm All"
+msgstr "确定所有"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1066
+msgid "Delete"
+msgstr "删除"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1068
+msgid "Delete All"
+msgstr "删除所有"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1089
+msgid "All"
+msgstr "所有"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1095
+msgid "Unconfirmed"
+msgstr "未确定"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1173
+msgid "Newsletter Subscriptions Administration"
+msgstr "新闻订阅管理"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1216
+msgid "Edit Subscription"
+msgstr "编辑订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1275
+msgid "No subscriptions found."
+msgstr "未发现订阅。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1309
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1360
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2772
+#, php-format
+msgid "Email address \"%s\" is already subscribed to \"%s\" newsletters!"
+msgstr "Email地址\"%s\"已订阅到\"%s\"新闻订阅中。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1340
+#, php-format
+msgid "Subscription couldn't be added! Error: %s"
+msgstr "订阅无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1391
+#, php-format
+msgid "Subscription couldn't be updated! Error: %s"
+msgstr "订阅无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1476
+msgid "Subscription couldn't be found for confirmation!"
+msgstr "无法找到已确认的订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1540
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2082
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2450
+msgid "New Email"
+msgstr "新Email"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1577
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1776
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1868
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1984
+msgid "All List"
+msgstr "全部列表"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1602
+msgid "If you do not wish to receive our newsletters in the future, please click the link below to unsubscribe."
+msgstr "如果您不希望在将来收到我们的新闻订阅，请点击以下链接退订。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1765
+msgid "No members found to send email to."
+msgstr "未发现成员用于发送邮件。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1787
+#, php-format
+msgid "Emails have been successfully sent to: %s. Emails sent: %s"
+msgstr "Email已成功发送到：%s。Email发送：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:1992
+msgid "List deleted!"
+msgstr "列表删除！"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2059
+msgid "Newsletter Emails Administration"
+msgstr "新闻订阅Email管理"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2140
+#, php-format
+msgid "Send next %s Emails"
+msgstr "发送另一%sEmail"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2146
+msgid "View Newsletters"
+msgstr "浏览新闻订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2189
+msgid "No newsletters sent out yet."
+msgstr "此前无发送的新闻订阅。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2262
+#, php-format
+msgid "Newsletter Email couldn't be created! Error: %s"
+msgstr "新闻订阅Email无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2463
+msgid "Newsletter Administration"
+msgstr "新闻订阅管理"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2493
+msgid "Send and View sent out Newsletters"
+msgstr "发送或查看已发送的新闻订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2496
+msgid "Send Newsletters"
+msgstr "发送新闻订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2512
+msgid "Import, Edit and Delete newsletter Subscriptions"
+msgstr "导入、编辑和删除新闻订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2515
+msgid "Newsletter Subscriptions"
+msgstr "新闻订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2531
+msgid "Create, Modify and Delete newsletter Lists"
+msgstr "创建、修改或删除新闻订阅列表"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2534
+msgid "Newsletter Lists"
+msgstr "新闻订阅列表"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2623
+msgid "The defined subscription cannot be found! Your newsletter subscription may have been already cancelled or deleted."
+msgstr "指定的订阅未找到！您的新闻订阅可能已经取消或删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2646
+#, php-format
+msgid "<b>Your newsletter subscription has been cancelled.</b><br /> You have successfully cancelled your subscription for \"%s\" to \"%s\" newsletters."
+msgstr "<b>您的新闻订阅已取消。</b><br />您已成功取消从 \"%s\" 到 \"%s\" 的新闻订阅。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2671
+#, php-format
+msgid "<b>Thank you for subscribing to our newsletters.</b><br /> You have successfully confirmed your subscription for \"%s\" to \"%s\" newsletters."
+msgstr "<b>感谢您订阅我们的新闻。</b><br /> 您已成功确认从 \"%s\" 到 \"%s\" 的新闻。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2693
+msgid "No newsletter list selected!"
+msgstr "未选择新闻列表！"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2708
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2756
+msgid "The selected newsletter list cannot be found! Please try again by selecting a different list or contact site administrator."
+msgstr "选中的新闻列表未找到！请再次尝试选择不同的列表，或联系站点管理员。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2716
+#, php-format
+msgid "Email address \"%s\" is not subscribed to \"%s\" newsletters!"
+msgstr "Email地址\"%s\"没有订阅到\"%s\"新闻列表！"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2730
+msgid "<b>Unsubscription request has been successfully submitted.</b><br /> An email has been sent to you which contains the confirmation url to unsubscribe. Once confirmed your email will be removed from the list and you will stop receiving our newsletters."
+msgstr "<b>取消订阅请求已成功发送。</b><br />一封包含取消订阅URL的Email已发送给您。一旦您通过Email确认，您将会从订阅列表中删除，并停止接收新闻订阅。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2793
+msgid "<b>Your subscription request has been successfully submitted.</b><br /> An email has been sent to you which contains the confirmation url for the lists you subscribed to. Once confirmed you will start receiving our newsletters."
+msgstr "<b>您的订阅请求已成功发送。</b><br />一封包含确认URL的Email已发送给您。一旦确认，您将开始接收我们的新闻订阅。"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2811
+msgid "Email address"
+msgstr "Email地址"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2823
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2836
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2846
+msgid "Select List(s)"
+msgstr "选择列表"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2867
+#, php-format
+msgid "Subscribe to %s Newsletters or Unsubscribe"
+msgstr "订阅或退订%s新闻"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2869
+msgid "Subscribe to our Newsletters or Unsubscribe"
+msgstr "订阅或退订我们的新闻"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2876
+msgid "Subscribe"
+msgstr "订阅"
+
+#: /home/julius/workspace/jcore/lib/modules/newsletter.class.php:2881
+msgid "Unsubscribe"
+msgstr "退订"
+

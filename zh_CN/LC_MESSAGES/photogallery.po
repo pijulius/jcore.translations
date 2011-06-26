@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:20+0200\n"
+"PO-Revision-Date: 2011-06-22 23:29+0800\n"
+"Last-Translator: Xu Cheng <xc@virtualdell.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:14
+msgid "Photo Gallery"
+msgstr "相册"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:15
+msgid "Share pictures / photos in a directory like structure"
+msgstr "在目录结构中共享图片/照片。"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:28
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:58
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:553
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:582
+msgid "Gallery"
+msgstr "相册"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:137
+msgid "No picture selected to download!"
+msgstr "未选择要下载的图片！"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:149
+msgid "The selected picture cannot be found!"
+msgstr "选中的图片未找到！"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:163
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2533
+msgid "You need to be logged in to view this picture. Please login or register."
+msgstr "您必须登录后才能浏览图片。请登录或注册。"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:476
+#, php-format
+msgid "Couldn't fetch photo list. Error: %s"
+msgstr "无法获得照片列表。错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:900
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1812
+msgid "New Gallery"
+msgstr "新相册"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:920
+msgid "Sub Gallery of"
+msgstr "子相册->"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:940
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1626
+msgid "Columns"
+msgstr "栏"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:945
+msgid "e.g. 3 (0 = auto)"
+msgstr "例如：3（0=自动）"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:956
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1621
+msgid "Display Preview"
+msgstr "显示预览"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:962
+msgid "(will show the latest picture as icon)"
+msgstr "（将用图标显示最后的图片）"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:967
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1631
+msgid "Show Icons"
+msgstr "显示图标"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:974
+msgid "(display icons when gallery selected)"
+msgstr "（相册选择时显示图标）"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:984
+msgid "Picasa Options"
+msgstr "Picasa选项"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:989
+msgid "Album URL"
+msgstr "相册URL"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:993
+msgid "e.g. http://picasaweb.google.com/user/Album"
+msgstr "例如：http://picasaweb.google.com/user/Album"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:996
+msgid "Tags"
+msgstr "标签"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1000
+msgid "e.g. foo, bar"
+msgstr "例如：foo、bar"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1007
+msgid "e.g. puppy"
+msgstr "例如：伙伴"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1010
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2466
+msgid "Photos"
+msgstr "照片"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1017
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1574
+msgid "My Photos"
+msgstr "我的照片"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1019
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1576
+msgid "Community Photos"
+msgstr "公共照片"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1021
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1578
+msgid "Favorites"
+msgstr "最爱的"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1023
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1580
+msgid "Featured"
+msgstr "特别的"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1033
+msgid "Faces"
+msgstr "面部的"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1035
+msgid "No faces"
+msgstr "无面部的"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1038
+msgid "Aspect Ratio"
+msgstr "方向选择"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1045
+msgid "Landscape"
+msgstr "风景"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1047
+msgid "Portrait"
+msgstr "肖像"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1049
+msgid "Panorama"
+msgstr "全景"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1052
+msgid "Size"
+msgstr "尺寸"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1059
+msgid "Small"
+msgstr "小"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1061
+msgid "Medium"
+msgstr "中"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1063
+msgid "Large"
+msgstr "大"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1065
+msgid "Extra large"
+msgstr "特大"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1068
+msgid "License"
+msgstr "授权"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1075
+msgid "Creative Commons"
+msgstr "公共创意空间"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1077
+msgid "Commercial Use"
+msgstr "商业用途"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1079
+msgid "Remix allowed"
+msgstr "允许混合"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1082
+msgid "Time"
+msgstr "时间"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1089
+msgid "Today"
+msgstr "今天"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1091
+msgid "This Week"
+msgstr "本周"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1093
+msgid "This Month"
+msgstr "本月"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1096
+msgid "Order By"
+msgstr "排序按"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1103
+msgid "Date"
+msgstr "日期"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1109
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1616
+msgid "GData Auth Token"
+msgstr "GData认证令牌"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1115
+msgid "Request an Auth Token"
+msgstr "需要认证令牌"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1208
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1652
+msgid "Members Only"
+msgstr "仅成员"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1216
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1657
+msgid "Show to Guests"
+msgstr "显示给访客"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1285
+msgid "Galleries have been successfully re-ordered."
+msgstr "相册已成功重排"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1296
+msgid "Gallery has been successfully deleted."
+msgstr "相册一成功删除"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1309
+msgid "Gallery cannot be subgallery of itself!"
+msgstr "无法将其设置为自身的子相册"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1335
+msgid "Picasa API URL"
+msgstr "Picasa API URL"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1348
+msgid "Gallery has been successfully updated."
+msgstr "相册已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1352
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1372
+msgid "View Gallery"
+msgstr "浏览相册"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1368
+msgid "Gallery has been successfully created."
+msgstr "相册已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1406
+msgid "Icon"
+msgstr "图标"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1501
+msgid "Icons"
+msgstr "图标"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1557
+msgid "Picasa Album URL"
+msgstr "Picasa相册URL"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1562
+msgid "Picasa Photo Tags"
+msgstr "Picasa照片标签"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1567
+msgid "Picasa Search"
+msgstr "Picasa搜索"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1572
+msgid "Picasa Photos"
+msgstr "Picasa照片"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1585
+msgid "Picasa Photo Type"
+msgstr "Picasa照片类型"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1590
+msgid "Picasa Photo Aspect Ratio"
+msgstr "Picasa照片方向按钮"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1595
+msgid "Picasa Photo Size"
+msgstr "Picasa照片尺寸"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1600
+msgid "Picasa Photo License"
+msgstr "Picasa照片授权"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1605
+msgid "Picasa Photo Time"
+msgstr "Picasa照片时间"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1610
+msgid "Picasa Order By"
+msgstr "Picasa排序按照"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1783
+msgid "Photo Gallery Administration"
+msgstr "相片集管理"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1811
+msgid "Edit Gallery"
+msgstr "编辑集"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1861
+msgid "No galleries found."
+msgstr "未发现集。"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:1995
+#, php-format
+msgid "Gallery couldn't be created! Error: %s"
+msgstr "无法创建相册！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2115
+#, php-format
+msgid "Gallery couldn't be updated! Error: %s"
+msgstr "相册无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2273
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2286
+msgid "Directory couldn't be protected!"
+msgstr "目录无法保护！"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2380
+msgid "This area is limited to members only. Please login below."
+msgstr "该区域仅限成员访问。请先登录。"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2576
+msgid "Pictures / Galleries"
+msgstr "图片 / 相册"
+
+#: /home/julius/workspace/jcore/lib/modules/photogallery.class.php:2577
+msgid "Pictures"
+msgstr "照图"
+

@@ -1,0 +1,5259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 18:39+0200\n"
+"PO-Revision-Date: 2011-06-22 23:27+0800\n"
+"Last-Translator: Xu Cheng <xc@virtualdell.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/sources\n"
+
+#: Global settings
+msgid "Page Settings"
+msgstr "页面设置"
+
+msgid "Meta Keywords"
+msgstr "关键词标记"
+
+msgid "Meta Description"
+msgstr "描述标记"
+
+msgid "Webmaster Email"
+msgstr "站点管理员Email"
+
+msgid "Webmaster BCC Email"
+msgstr "站点管理员密件抄送Email"
+
+msgid "TimeZone"
+msgstr "时区"
+
+msgid "Charset"
+msgstr "字符集"
+
+msgid "404 Error Text"
+msgstr "404错误文本"
+
+msgid "Date Format"
+msgstr "日期格式"
+
+msgid "Time Format"
+msgstr "时间格式"
+
+msgid "First Weekday"
+msgstr "每周的第一天"
+
+msgid "Picture Settings"
+msgstr "图片设置"
+
+msgid "Thumbnail Height"
+msgstr "缩略图高度"
+
+msgid "Thumbnail Width"
+msgstr "缩略图宽度"
+
+msgid "Watermark"
+msgstr "水印"
+
+msgid "Watermark Text"
+msgstr "水印文本"
+
+msgid "Watermark Text Font"
+msgstr "文印文本字体"
+
+msgid "Watermark Logo"
+msgstr "水印Logo"
+
+msgid "Watermark Position"
+msgstr "水印位置"
+
+msgid "Maximum Failure Attempts"
+msgstr "最大的失败尝试次数"
+
+msgid "Time Minutes"
+msgstr "分钟"
+
+msgid "Maximum Failure Attempts Before TwoWeeks Ban"
+msgstr "在禁止两周前最大的失败尝试次数"
+
+msgid "Email Notification"
+msgstr "Email通知"
+
+msgid "Enabled"
+msgstr "允许"
+
+msgid "Maximum Simultaneous Logins"
+msgstr "最大的同时登录书"
+
+msgid "Maintenance Settings"
+msgstr "维护设置"
+
+msgid "Website Suspended"
+msgstr "暂停网站服务"
+
+msgid "Suspend Text"
+msgstr "暂停文件"
+
+msgid "Notification Text"
+msgstr "通知文本"
+
+msgid "Registrations Suspended"
+msgstr "暂停注册"
+
+msgid "Logins Suspended"
+msgstr "暂停登录"
+
+msgid "Functionality Settings"
+msgstr "功能设置"
+
+msgid "Ajax Paging"
+msgstr "Ajax分页"
+
+msgid "Blog Ping On New Posts"
+msgstr "新提交时博客提醒"
+
+msgid "Blog Ping Servers"
+msgstr "博客提醒服务"
+
+msgid "Default Locale"
+msgstr "默认位置"
+
+msgid "Minimum Password Length"
+msgstr "最短密码长度"
+
+msgid "Username Changes Disabled"
+msgstr "禁止修改用户名"
+
+msgid "Avatars Disabled"
+msgstr "禁用头像"
+
+msgid "Avatars Size"
+msgstr "头像尺寸"
+
+msgid "Default Avatar URL"
+msgstr "默认头像URL"
+
+msgid "Email Settings"
+msgstr "Email设置"
+
+msgid "Use SMTP"
+msgstr "使用SMTP"
+
+msgid "Use SSL SMTP"
+msgstr "使用SSL SMTP"
+
+msgid "SMTP Host"
+msgstr "SMTP主机"
+
+msgid "SMTP Port"
+msgstr "SMTP端口"
+
+msgid "SMTP Username"
+msgstr "SMTP用户名"
+
+msgid "SMTP Password"
+msgstr "SMTP密码"
+
+msgid "PGP Encrypt"
+msgstr "PGP加密"
+
+msgid "PGP Public Keys Directory"
+msgstr "PGP公共密钥目录"
+
+msgid "PGP Binary"
+msgstr "PGP二进制包"
+
+msgid "Comments Settings"
+msgstr "评论设置"
+
+msgid "Moderated Comments"
+msgstr "审核评论"
+
+msgid "Moderated Comments By Approval"
+msgstr "通过投票审核评论"
+
+msgid "Moderated Comments Pending Minutes"
+msgstr "等待数分钟审核评论"
+
+msgid "jQuery Settings"
+msgstr "jQuery设置"
+
+msgid "Load Plugins"
+msgstr "载入插件"
+
+msgid "Load Admin Plugins"
+msgstr "载入管理员插件"
+
+msgid "Disabled"
+msgstr "禁用"
+
+msgid "Security Image Settings"
+msgstr "安全图像设置"
+
+msgid "Code Length"
+msgstr "代码长度"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Font Size"
+msgstr "字号"
+
+msgid "Random Lines"
+msgstr "随机线"
+
+msgid "Foreground Color"
+msgstr "前景色"
+
+msgid "Background Color"
+msgstr "背景色"
+
+msgid "Random Words"
+msgstr "随机字"
+
+msgid "Random Fonts"
+msgstr "随机字体"
+
+msgid "Admin Settings"
+msgstr "管理员设置"
+
+msgid "Items Counter Enabled"
+msgstr "启用条目计数器"
+
+msgid "Favorite Links Enabled"
+msgstr "启用链接收藏"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Get Help"
+msgstr "获得帮助"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:98
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:453
+msgid "New Language"
+msgstr "新语言"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:102
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:37
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:91
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:156
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:31
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:35
+msgid "Pages / Posts"
+msgstr "页面 / 贴子"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:105
+msgid "Blocks"
+msgstr "块"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:111
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:45
+msgid "Title"
+msgstr "标题"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:116
+msgid "e.g. English"
+msgstr "例如：English"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:119
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:39
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:74
+msgid "Path"
+msgstr "路径"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:126
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:128
+msgid "e.g. en"
+msgstr "例如：en"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:131
+msgid "Locale Directory"
+msgstr "本地目录"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:138
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:140
+msgid "e.g. en_UK"
+msgstr "例如：en_UK"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:143
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:45
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:240
+msgid "Additional Options"
+msgstr "附加选项"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:148
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:287
+msgid "Default"
+msgstr "默认"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:156
+msgid "Deactivated"
+msgstr "非活动的"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:165
+msgid "(marked with strike through)"
+msgstr "(标记删除)"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:170
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:281
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:56
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:147
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:281
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:404
+msgid "Order"
+msgstr "排序"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:217
+msgid "Languages have been successfully re-ordered."
+msgstr "语言已成功重排。"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:228
+msgid "Language has been successfully deleted."
+msgstr "语言已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:245
+msgid "Language has been successfully updated."
+msgstr "语言已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:247
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:264
+msgid "View Pages"
+msgstr "查看页面"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:251
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:269
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:298
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:342
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:162
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:196
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:166
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:316
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:377
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:379
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:393
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:421
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:490
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:159
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:173
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:250
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:384
+msgid "Edit"
+msgstr "编辑"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:262
+msgid "Language has been successfully created."
+msgstr "语言已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:285
+msgid "Title / Path"
+msgstr "标题 / 路径"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:289
+msgid "Locale"
+msgstr "本地"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:300
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:349
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:164
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:203
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:411
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:534
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:318
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:384
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:423
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:507
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:252
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:391
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:448
+msgid "Delete"
+msgstr "删除"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:325
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:548
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:553
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:558
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:339
+msgid "Yes"
+msgstr "是"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:359
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:213
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:576
+msgid "Reorder"
+msgstr "重排序"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:361
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:215
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:578
+msgid "Reset"
+msgstr "重设"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:427
+msgid "Languages Administration"
+msgstr "语言管理"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:452
+msgid "Edit Language"
+msgstr "编辑语言"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:463
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:317
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:491
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:708
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:633
+msgid "Cancel"
+msgstr "取消"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:495
+msgid "No languages found. Default en_US will be used for translations (can be changed in Global Settings)."
+msgstr "未发现语言。默认的en_US将被用于翻译（可在全局设置中修改）。"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:575
+#, php-format
+msgid "Language couldn't be created! Error: %s"
+msgstr "无法创建语言！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:623
+#, php-format
+msgid "Language couldn't be updated! Error: %s"
+msgstr "无法更新语言！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:30
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:149
+msgid "Value"
+msgstr "值"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:37
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:153
+msgid "Selected"
+msgstr "选定"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:50
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:151
+msgid "Alternative Title"
+msgstr "副标题"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:102
+msgid "Field values have been successfully re-ordered."
+msgstr "字段值已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:113
+msgid "Field value has been successfully deleted."
+msgstr "字段值已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:127
+msgid "Field value has been successfully updated."
+msgstr "字段值已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:137
+msgid "Field value has been successfully created."
+msgstr "字段值已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:277
+msgid "Field Values"
+msgstr "字段值"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:306
+msgid "Edit Field Value"
+msgstr "编辑字段值"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:307
+msgid "New Field Value"
+msgstr "新字段值"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:345
+msgid "No field values found."
+msgstr "未发现字段值"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:408
+#, php-format
+msgid "Field value couldn't be added! Error: %s"
+msgstr "字段值无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfieldvalues.class.php:441
+#, php-format
+msgid "Field value couldn't be updated! Error: %s"
+msgstr "字段值无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:31
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:88
+msgid "Template Files"
+msgstr "模板文件"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:105
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:153
+msgid "JS Editor"
+msgstr "JS编辑器"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:43
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:97
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:165
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:401
+msgid "Template"
+msgstr "模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:51
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:85
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:150
+msgid "CSS Editor"
+msgstr "CSS编辑器"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:61
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:115
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:183
+msgid "Write access is required to access this area!"
+msgstr "写入权限需要在该区域授权！"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:142
+msgid "New File"
+msgstr "新文件"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:159
+msgid "Content Files"
+msgstr "内容文件"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:173
+msgid "Images"
+msgstr "图像"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:222
+msgid "Upload Template"
+msgstr "上载模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:226
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:303
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:317
+msgid "View Website"
+msgstr "查看站点"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:232
+msgid "Template File"
+msgstr "模板文件"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:238
+msgid "e.g. template-name.tar.gz"
+msgstr "例如：template-name.tar.gz"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:252
+msgid "Upload another template"
+msgstr "上载另一个模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:290
+msgid "Template has been successfully deleted."
+msgstr "模板已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:301
+msgid "Template has been successfully activated."
+msgstr "模板已成功激活。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:315
+msgid "Default template has been successfully reset for your website."
+msgstr "已成功为您的站点设置默认模板。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:329
+msgid "Template has been successfully set for Admin section."
+msgstr "管理员区域模板设置成功。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:331
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:345
+msgid "Refresh"
+msgstr "刷新"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:343
+msgid "Default template has been successfully reset for Admin section."
+msgstr "管理员区域默认模板已成功重设。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:357
+msgid "No template selected to be uploaded! Please select at least one template to upload."
+msgstr "未选择需要上载的模板！请选择至少一个模板上载。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:379
+#, php-format
+msgid "There were problems uploading some of the templates you selected. The following templates couldn't be uploaded: %s."
+msgstr "部分被选中的模板因故无法上载。下列模板无法被上载：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:389
+#, php-format
+msgid "Templates have been successfully uploaded. The following templates have been uploaded: %s."
+msgstr "模板已成功上载。下列模板已成功上载：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:452
+#, php-format
+msgid "by %s"
+msgstr "由：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:465
+msgid "Tags"
+msgstr "标记"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:470
+msgid "Location"
+msgstr "位置"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:485
+msgid "Restore default template for your website"
+msgstr "为您的站点恢复默认模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:487
+msgid "Deactivate"
+msgstr "停用"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:497
+msgid "Restore default template for Admin section"
+msgstr "管理员区域恢复默认模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:499
+msgid "Unset Admin"
+msgstr "管理员复位"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:506
+msgid "Set template as default for Admin section"
+msgstr "将该模板设置为管理员区域的默认模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:508
+msgid "Set Admin"
+msgstr "设置管理员"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:519
+msgid "Activate and set it as the current template for your website"
+msgstr "激活并设置该模板为您的网站当前模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:521
+msgid "Activate"
+msgstr "激活"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:617
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:623
+msgid "Template Administration"
+msgstr "模板管理"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:629
+msgid "Below are the available templates found in the \"<b>template/</b>\" folder. To install a new template just extract it to the \"<b>template/</b>\" folder, or using the form below select the template package file (e.g. template-name.tar.gz)."
+msgstr "以下是在\"<b>模板/</b>\"文件夹中发现的可用模板。要安装新模板，将从\"<b>模板/</b>\"文件夹中抽取，或选择如下的模板包文件（例如：template-name.tar.gz）。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:641
+msgid "Edit the CSS template file"
+msgstr "编辑CSS模板文件"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:644
+msgid "Edit CSS File"
+msgstr "编辑CSS文件"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:651
+msgid "Edit the JavaScript template file"
+msgstr "编辑JavaScript模板文件"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:654
+msgid "Edit JS File"
+msgstr "编辑JS文件"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:661
+msgid "Browse template Images"
+msgstr "浏览模板图片"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:664
+msgid "Template Images"
+msgstr "模板图片"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:673
+msgid "Browse and download more templates"
+msgstr "浏览和下载更多模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:676
+msgid "Get Templates"
+msgstr "获取模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:701
+msgid "Modify Activated Template"
+msgstr "修改激活的模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:721
+msgid "Upload New Template"
+msgstr "上传新模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:767
+msgid "No templates found."
+msgstr "未发现已安装的模板。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:795
+#, php-format
+msgid "Template couldn't be added! Error: %s"
+msgstr "模板无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:819
+#, php-format
+msgid "Template couldn't be updated! Error: %s"
+msgstr "模板无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:857
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:948
+msgid "Invalid or template installer script cannot be found."
+msgstr "模板安装脚本未发现或有误。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:894
+#, php-format
+msgid "Template couldn't be deleted but it is now safe to be deleted manually by just simply removing the \"%s\" folder."
+msgstr "模板无法被删除，但其现已移动到\"%s\"文件夹，可安全的手动删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:915
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:997
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1023
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1045
+msgid "The template you selected cannot be found!"
+msgstr "未发现您所选定的模板！"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1063
+msgid "Couldn't extract template as it is to big to be processed with the current memory limit set. Please try to extract it manually or increment the PHP memory limit."
+msgstr "由于模板的大小已超过当前内存限制设定，无法抽取该模板。请尝试手工抽取或调整PHP内存限制。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1077
+msgid "Template couldn't be extracted! Error: Invalid template! Please make sure to upload a valid tar.gz template file."
+msgstr "模板无法抽取！错误：错误的模板文件！请确定上传的是一个正确的tar.gz模板文件。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1090
+msgid "Template couldn't be extracted! Error: Empty template! The template you selected seems to be an empty tar.gz file."
+msgstr "模板无法抽取！错误：空模板文件！您所选择的模板仿佛是一个空的tar.gz文件。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1106
+#, php-format
+msgid "Template couldn't be extracted! Error: \"%s\" directory couldn't be created."
+msgstr "模板无法抽取！错误：\"%s\"目录无法创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1126
+#, php-format
+msgid "Template couldn't be extracted! Error: \"%s\" file couldn't be created."
+msgstr "模板无法抽取！错误：\"%s\"文件无法创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1303
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:708
+msgid "Request can only be accessed by administrators!"
+msgstr "请求只能由管理员访问！"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1335
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1362
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1389
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:727
+msgid "You do not have permission to access this path!"
+msgstr "您没有获得授权访问该路径！"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:207
+#, php-format
+msgid "Query took %s seconds"
+msgstr "查询耗时%s秒"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:208
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:363
+msgid "SQL Error:"
+msgstr "SQL错误："
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:309
+msgid "Could not establish a connection to the database."
+msgstr "无法建立数据库连接。"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:312
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:320
+msgid "Site Temporary Unavailable"
+msgstr "站点临时文件夹不可用"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:326
+#, php-format
+msgid "We are sorry for the inconvenience and appreciate your patience during this time. Please wait for a few minutes and <a href='%s'>try again</a>."
+msgstr "我们非常抱歉需要打断您，并请您在这段时间内忍耐。请等待数分钟后<a href='%s'>重试</a>。"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:370
+msgid "Backtrace"
+msgstr "回滚"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:377
+msgid "SQL Error! Please contact site administrator or login to learn more about this error."
+msgstr "SQL错误！请联系站点管理员或登录以获得更多关于此错误的信息。"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:379
+msgid "SQL Error! Please contact site administrator."
+msgstr "SQL错误！请联系站点管理员。"
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:392
+#, php-format
+msgid "affected rows: %s"
+msgstr "影响的行数: %s"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:46
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:49
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:89
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:92
+msgid "e.g. admin/content/pages/1/posts"
+msgstr "例如：admin/content/pages/1/posts"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:57
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:83
+msgid "Select path"
+msgstr "选择路径"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:66
+msgid "Add another path"
+msgstr "添加另一路径"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:96
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:307
+msgid "Permission"
+msgstr "授权"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:111
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:480
+msgid "New Permission"
+msgstr "新授权"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:115
+msgid "Users"
+msgstr "用户"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:138
+msgid "Permission has been successfully deleted."
+msgstr "授权已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:149
+msgid "No paths have been defined! Please define at least one path to set permission to."
+msgstr "无路径被定义。请定义至少一个路径进行授权操作。"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:164
+msgid "Permission has been successfully updated."
+msgstr "授权已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:191
+#, php-format
+msgid "There were problems adding some of the permissions you defined. The following permissions couldn't be added: %s."
+msgstr "您添加的授权中存在一些问题。下列授权无法添加：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:201
+#, php-format
+msgid "Permission(s) have been successfully added. The following permissions have been added: %s."
+msgstr "授权已成功添加。下列授权已成功添加：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:213
+msgid "Available Sections"
+msgstr "可用区域"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:305
+msgid "Section / Path"
+msgstr "区域 / 路径"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:359
+msgid "Unknown Section"
+msgstr "未知区域"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:436
+msgid "User Permissions"
+msgstr "用户授权"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:442
+msgid "User will have full access to all paths (if marked as Admin) unless you define some paths below."
+msgstr "用户将获得全部路径的所有权限（如同标记为管理员），除了如下路径。"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:453
+msgid "You are not allowed to modify your own permissions!"
+msgstr "您无法修改自己的权限！"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:479
+msgid "Edit Permission"
+msgstr "编辑权限"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:519
+msgid "No permissions found."
+msgstr "未发现授权。"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:561
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:605
+#, php-format
+msgid "Permission to path \"%s\" already exists."
+msgstr "授权的路径\"%s\"已经存在。"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:578
+#, php-format
+msgid "Permission couldn't be set! Error: %s"
+msgstr "权限无法设置！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:621
+#, php-format
+msgid "Permission couldn't be updated! Error: %s"
+msgstr "权限无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:648
+msgid "Read"
+msgstr "读"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:650
+msgid "Write"
+msgstr "写"
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:652
+msgid "Undefined!"
+msgstr "未指定"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:24
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:698
+msgid "New Field"
+msgstr "新字段"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:28
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:32
+msgid "Forms"
+msgstr "表单"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:52
+msgid "Type"
+msgstr "类型"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:120
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:408
+msgid "Value Type"
+msgstr "值类型"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:152
+msgid "Value Options"
+msgstr "值选项"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:157
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:517
+msgid "Field Name"
+msgstr "字段名"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:164
+msgid "Value(s)"
+msgstr "值"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:172
+msgid "Enter one value per line. Values can also have two arguments if required (title and value), for e.g. \"Tech Department = tech@domain.com\". To have a value preselected as the default mark it with an asterisk (*), for e.g. \"*Tech Deparment\""
+msgstr "每行输入一个值。值域仅能包含两个参数（标题和值），例如：\"技术部门 = tech@domain.com\"。预先值有一个星号标记(*)，例如：\"*技术部门\"。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:186
+msgid "Display Options"
+msgstr "显示选项"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:191
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:537
+msgid "Style"
+msgstr "样式"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:198
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:532
+msgid "Additional Text"
+msgstr "附加文本"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:205
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:522
+msgid "Placeholder Text"
+msgstr "占位符文本"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:211
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:527
+msgid "Tooltip Text"
+msgstr "工具提示文本"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:219
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:542
+msgid "Viewable by"
+msgstr "访问权由"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:245
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:547
+msgid "Required"
+msgstr "请求"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:254
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:552
+msgid "Searchable"
+msgstr "可搜索"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:262
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:557
+msgid "Data Preview"
+msgstr "数据预览"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:270
+msgid "(field will be used as preview when browsing saved data)"
+msgstr "（当浏览保持的数据时，字段将被用于预览）"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:275
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:562
+msgid "Attributes"
+msgstr "属性"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:322
+msgid "You are NOT allowed to delete a protected field!"
+msgstr "您不能删除受保护的字段！"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:341
+msgid "Fields have been successfully re-ordered."
+msgstr "字段已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:352
+msgid "Field has been successfully deleted."
+msgstr "字段已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:377
+msgid "Field has been successfully updated."
+msgstr "字段已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:390
+msgid "Field has been successfully created."
+msgstr "字段已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:406
+msgid "Title / Type"
+msgstr "标题 / 类型"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:415
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:465
+msgid "Values"
+msgstr "值"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:498
+msgid "Protected Field"
+msgstr "保护的字段"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:500
+msgid "Protected"
+msgstr "保护"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:658
+msgid "Form Fields"
+msgstr "表单字段"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:688
+msgid "Form couldn't be found!"
+msgstr "表单无法找到！"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:697
+msgid "Edit Field"
+msgstr "编辑字段"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:729
+msgid "Preview Dynamic Form"
+msgstr "预览动态表单"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:752
+msgid "No form fields found."
+msgstr "未发现表单字段。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:794
+msgid "Field for the storage table couldn't be added. Please see the SQL error above and report it to webmaster."
+msgstr "存储表中的字段无法添加。请查看上面的SQL错误信息并将其报告给网站管理员。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:873
+#, php-format
+msgid "Field couldn't be created! Error: %s"
+msgstr "字段无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:898
+msgid "Field for the storage table couldn't be edited. Please see the SQL error above and report it to webmaster."
+msgstr "存储表中的字段无法编辑。请查看上面的SQL错误信息并将其报告给网站管理员。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:964
+#, php-format
+msgid "Field couldn't be updated! Error: %s"
+msgstr "字段无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1077
+msgid "Field selected to be edited doesn't exist!"
+msgstr "选定的字段无法编辑，因为其不存在。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1225
+msgid "Admins Only"
+msgstr "仅限于管理员"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1227
+msgid "Guests"
+msgstr "访客"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1229
+msgid "Members"
+msgstr "成员"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformfields.class.php:1231
+msgid "Everyone"
+msgstr "任何人"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:53
+msgid "Installing files"
+msgstr "安装文件"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:69
+msgid "Running SQL Queries"
+msgstr "允许SQL查询"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:83
+msgid "Couldn't update template.css file."
+msgstr "无法更新template.css文件"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:84
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:91
+#, php-format
+msgid "Please make sure \"%s\" is writable by me or contact webmaster."
+msgstr "请确定您具备\"%s\"的写权限或联系网站管理员。"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:90
+msgid "Couldn't update template.js file."
+msgstr "无法更新template.js文件。"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:126
+msgid "Activating Module"
+msgstr "激活模块"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:134
+msgid "Module has been successfully installed."
+msgstr "模块已成功安装。"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:136
+msgid "View Module"
+msgstr "浏览模块"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:144
+msgid "No SQL queries to run."
+msgstr "无SQL查询运行"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:150
+msgid "No files to install."
+msgstr "无文件被安装"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:169
+msgid "Success"
+msgstr "成功"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:170
+msgid "Error"
+msgstr "错误"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:180
+msgid "This module needs to be installed before it can be used."
+msgstr "该模块在使用前必须安装。"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:187
+msgid "Install Module"
+msgstr "安装模块"
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:193
+msgid "Module Installation"
+msgstr "模块安装"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:28
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:619
+msgid "New Data"
+msgstr "新数据"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:102
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:113
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:124
+msgid "Data has been successfully deleted."
+msgstr "数据已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:157
+msgid "Data has been successfully updated."
+msgstr "数据已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:170
+msgid "Data has been successfully added."
+msgstr "数据已成功添加。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:191
+msgid "ID"
+msgstr "ID"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:340
+msgid "No"
+msgstr "否"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:440
+msgid "search..."
+msgstr "查找中……"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:442
+msgid "Search"
+msgstr "查询"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:451
+msgid "Delete All"
+msgstr "删除所有"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:534
+msgid "Data"
+msgstr "数据"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:579
+msgid "You are NOT allowed to access form data!"
+msgstr "您不允许访问此数据！"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:588
+msgid "You should be automatically redirected to browse form data, if for some reason you aren't please click the \"Browse Data\" button below."
+msgstr "您必须自动重定向才能浏览此数据，如果因为一些原因造成无法重定向，请点击下面的\"浏览数据\"按钮。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:595
+msgid "Browse Data"
+msgstr "浏览数据"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:609
+msgid "No SQL Table defined for this form."
+msgstr "窗体中未定义SQL表。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:618
+msgid "Edit Data"
+msgstr "编辑数据"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:674
+msgid "No data found."
+msgstr "未发现数据。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:755
+#, php-format
+msgid "Could not save data to the DB! Error: %s"
+msgstr "无法保持数据到数据库！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:818
+#, php-format
+msgid "Could not update DB data! Error: %s"
+msgstr "无法更新数据到数据库！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:213
+#, php-format
+msgid "Email couldn't be sent. Please try again or send your email <a href='mailto:%s'>manually</a>."
+msgstr "无法发送Email。请再次尝试或<a href='mailto:%s'>手动</a>发送到您的邮箱。"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:247
+msgid "Couldn't send email using SMTP as SMTP Host and/or SMTP Port are not defined! Please go to your administration panel and in the Global Settings define both required values."
+msgstr "无法通过SMTP发送Email，主机或端口未设置！请进入您的管理员面板，在全局设定中定义这两个必须的值。"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:277
+#, php-format
+msgid "SMTP connection couldn't be established. %s"
+msgstr "SMTP连接无法建立。%s"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:347
+msgid "Connection broken up. Please make sure to define the right SMTP port, 465 for SSL and 25 for normal connections."
+msgstr "连接断开。请确定已定义正确的SMTP端口，465为SSL，25为正常连接。"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:351
+#, php-format
+msgid "SMTP error: %s"
+msgstr "SMTP错误： %s"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:367
+msgid "Couldn't encrypt email as PGP Public Keys directory and/or PGP Binary file are not defined! Please go to your administration panel and in the Global Settings define both required values."
+msgstr "无法使用PGP公共密钥字典或加密Email，并且/或者PGP二进制文件未定义！请前往您的管理员面板，并在全局设置中定义这两个必须的值。"
+
+#: /home/julius/workspace/jcore/lib/sources/email.class.php:389
+#, php-format
+msgid "Email couldn't be encrypted! Please make sure you have the right paths set for the PGP binary and public key files. %s"
+msgstr "Email无法被加密！请确定您设置了正确的PGP二进制文件和公共密钥文件的路径。%s"
+
+#: /home/julius/workspace/jcore/lib/sources/url.class.php:479
+msgid "Searching for"
+msgstr "查询："
+
+#: /home/julius/workspace/jcore/lib/sources/url.class.php:517
+msgid "clear"
+msgstr "清理"
+
+#: /home/julius/workspace/jcore/lib/sources/url.class.php:526
+msgid "Your search returned no results. Please make sure all words are spelled correctly or try fewer keywords by clicking on them to remove."
+msgstr "您的查询返回结果为空。请确定所有的词拼写正确，或尝试减少关键字，从其中移除一部分。"
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:39
+msgid "Only registered users can rate."
+msgstr "仅注册用户能够打分。"
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:55
+#, php-format
+msgid "You already rated this %s."
+msgstr "您已经为%s打分。"
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:75
+#, php-format
+msgid "Rating couldn't be stored! Error: %s"
+msgstr "评级无法存储！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:97
+msgid "Thank you for your vote."
+msgstr "感谢您的投票。"
+
+#: /home/julius/workspace/jcore/lib/sources/starrating.class.php:135
+#, php-format
+msgid "Your vote: %s (votes: %s, average: %s out of %s)"
+msgstr "您的投票： %s (投票总数: %s, 平均: %s 离开：%s)"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:46
+msgid "More Settings"
+msgstr "更多设置"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:75
+msgid "Brute Force Protection has been turned ON."
+msgstr "暴力保护已设为开启。"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:81
+msgid "Brute Force Protection has been turned OFF."
+msgstr "暴力保护已设为关闭。"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:92
+msgid "Password Trading Protection has been turned ON."
+msgstr "交易密码保护已设为开启。"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:98
+msgid "Password Trading Protection has been turned OFF."
+msgstr "交易密码保护已设为关闭。。"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:109
+#, php-format
+msgid "IP \"%s\" has been successfully removed from the list."
+msgstr "IP \"%s\"已成功从列表中移除。"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:122
+#, php-format
+msgid "User \"%s\" has been successfully removed from the list."
+msgstr "用户 \"%s\"已成功从列表中移除。"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:133
+msgid "IP"
+msgstr "IP"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:135
+msgid "Usernames used"
+msgstr "用户名已存在"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:137
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:277
+msgid "Expires on"
+msgstr "失效日期"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:183
+msgid "For additional brute force protection settings please see"
+msgstr "关于额外的暴力保护设置请看"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:186
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:331
+msgid "Global Settings"
+msgstr "全局设置"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:234
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:379
+msgid "Turn Protection On/Off"
+msgstr "管理保护开关"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:242
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:387
+msgid "Turn OFF"
+msgstr "关闭"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:243
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:388
+msgid "Turn ON"
+msgstr "打开"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:251
+msgid "Brute Force Protection"
+msgstr "暴力保护"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:254
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:399
+msgid "ON"
+msgstr "开"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:255
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:400
+msgid "OFF"
+msgstr "关"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:263
+msgid "The logged IP adresses in the list below have been banned (because trying to login with different users in a short time) and won't be able to login until expiration date / time. To unban an IP just delete it from the list."
+msgstr "以上列表中的登录IP地址已禁止（因为在短时间内尝试使用不同的用户名登录），并且在过期时间内无法登录。从列表中删除可解除IP地址限制。"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:273
+msgid "User"
+msgstr "用户"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:275
+msgid "IPs used"
+msgstr "IP已存在"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:328
+msgid "For additional password trading protection settings please see"
+msgstr "有关交易密码保护设置请看"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:396
+msgid "Password Trading Protection"
+msgstr "交易密码保护"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:408
+msgid "The logged Users in the list below have been suspended (because of simultaneously logins from different IPs) and won't be able to login until expiration date / time. To unsuspend a user just delete it from the list."
+msgstr "在下面列表中的已登录用户已被暂停（因为多个登录信息中使用不同的IP），并且直到过期时间内无法登入。要恢复请从列表中删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:417
+msgid "Security Alerts Administration"
+msgstr "安全警报管理"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:466
+msgid "No brute force attempts have been logged."
+msgstr "无暴力登录次数记录。"
+
+#: /home/julius/workspace/jcore/lib/sources/security.class.php:496
+msgid "No password trading attempts have been logged."
+msgstr "无交易密码登录记录。"
+
+#: /home/julius/workspace/jcore/lib/sources/gdata.class.php:28
+#, php-format
+msgid "Couldn't connect to %s!"
+msgstr "无法连接到%s！"
+
+#: /home/julius/workspace/jcore/lib/sources/gdata.class.php:64
+#, php-format
+msgid "GData auth token couldn't be exchanged! Result: %s"
+msgstr "GData验证管理令牌无法交互！原因：%s！"
+
+#: /home/julius/workspace/jcore/lib/sources/gdata.class.php:88
+#, php-format
+msgid "GData auth token has been successfully retrieved. <br /><b>Your new GData auth token is: %s</b>"
+msgstr "GData验证管理令牌已成功恢复。<br /><b>您新的GData验证管理令牌是：%s</b>"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:46
+msgid "Post has been successfully deleted."
+msgstr "贴子已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:57
+msgid "No posts selected! Please select at least one post that you would like to copy and/or move."
+msgstr "无选中的贴子！请至少选择一个贴子进行复制或移动操作。"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:66
+msgid "No page selected to copy and/or move posts to! Please select a page to move the posts to at the bottom of the list."
+msgstr "未选择要移动复制或贴子的页面。请在上面的列表中至少选择一个要移动或复制贴子的页面。"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:79
+msgid "The page you have selected to copy and/or move posts to does not exists. This could be happening because the page has been deleted meanwhile."
+msgstr "您所选中的要复制或移动贴子的页面并不存在。这可能是由于操作时页面已删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:94
+#, php-format
+msgid "Posts have been successfully moved over to \"%s\"."
+msgstr "贴子已成功移动到\"%s\"。"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:107
+#, php-format
+msgid "Posts have been successfully copied over to \"%s\"."
+msgstr "贴子已成功复制到\"%s\"。"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:121
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:76
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:118
+msgid "Settings"
+msgstr "设置"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:143
+msgid "Display On All Pages"
+msgstr "显示在所有页面。"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:144
+msgid "On All Pages"
+msgstr "在所有页面"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:145
+msgid "Display On Main Page"
+msgstr "显示在主页"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:146
+msgid "On Main Page"
+msgstr "在主页"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:196
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:662
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1737
+#, php-format
+msgid "%s views"
+msgstr "%s次浏览"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:256
+msgid "Copy / Move selected posts to:"
+msgstr "复制/移动选中的贴子到："
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:295
+msgid "Copy"
+msgstr "复制"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:297
+msgid "Move"
+msgstr "移动"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:411
+msgid "Handling Posts"
+msgstr "处理贴子"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:464
+msgid "No posts found."
+msgstr "未发现贴子"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:493
+#, php-format
+msgid "Post couldn't be copied! Error: %s"
+msgstr "贴子无法复制！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:592
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:612
+#, php-format
+msgid "Post couldn't be moved! Error: %s"
+msgstr "贴子无法移动！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:318
+msgid "New Link"
+msgstr "新链接"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:48
+msgid "Link"
+msgstr "链接"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:118
+msgid "Links have been successfully re-ordered."
+msgstr "链接已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:129
+msgid "Link has been successfully deleted."
+msgstr "链接已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:143
+msgid "Link has been successfully updated."
+msgstr "链接已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:156
+msgid "Link has been successfully created."
+msgstr "链接已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:172
+msgid "Title / Link"
+msgstr "标题 / 链接"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:292
+msgid "Favorite Links Administration"
+msgstr "收藏链接管理"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:317
+msgid "Edit Link"
+msgstr "编辑链接"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:356
+msgid "No links found."
+msgstr "未发现链接"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:418
+#, php-format
+msgid "Link couldn't be added! Error: %s"
+msgstr "链接无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/favoritelinks.class.php:451
+#, php-format
+msgid "Link couldn't be updated! Error: %s"
+msgstr "链接无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:43
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:587
+msgid "Folder couldn't be created."
+msgstr "文件夹无法创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:52
+msgid "Folder has been successfully created."
+msgstr "文件夹成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:74
+msgid "File / Folder couldn't be deleted."
+msgstr "文件/文件夹无法删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:83
+msgid "File / Folder has been successfully deleted."
+msgstr "文件/文件夹已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:94
+msgid "No file selected to be uploaded! Please select at least one file to upload."
+msgstr "未选择要上载到文件！请选择至少一个文件进行上载。"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:109
+msgid "File / Folder couldn't be renamed."
+msgstr "文件/文件夹无法重命名。"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:118
+msgid "File / Folder has been successfully renamed."
+msgstr "文件/文件夹成功重命名。"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:141
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:556
+#, php-format
+msgid "There were problems uploading some of the files you selected. The following files couldn't be uploaded: %s."
+msgstr "您选择的文件由于某些原因无法上载。一下文件无法被上载：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:151
+#, php-format
+msgid "Files have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "文件已成功上载。以下文件已成功上载：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:179
+msgid "No file selected to download!"
+msgstr "未选择要下载的文件。"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:219
+msgid "Folder name"
+msgstr "文件夹名称"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:234
+msgid "File / Folder name"
+msgstr "文件/文件夹名称"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:243
+msgid "File to upload"
+msgstr "上载文件"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:261
+msgid "Upload another file"
+msgstr "上载另一个文件"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:282
+msgid "Size"
+msgstr "长度"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:301
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:343
+#, php-format
+msgid "Change directory to %s"
+msgstr "修改目录到%s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:319
+#, php-format
+msgid "Preview %s"
+msgstr "预览%s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:328
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:365
+#, php-format
+msgid "Download %s"
+msgstr "下载%s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:354
+#, php-format
+msgid "Link to %s"
+msgstr "链接到%s"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:503
+msgid "Root Path not defined!"
+msgstr "根目录未定义！"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:517
+msgid "New Folder"
+msgstr "新文件夹"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:533
+msgid "Edit File / Folder"
+msgstr "编辑文件/文件夹"
+
+#: /home/julius/workspace/jcore/lib/sources/filemanager.class.php:635
+msgid "No files / directories found."
+msgstr "未发现文件/目录"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:72
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:822
+msgid "New Picture"
+msgstr "新图片"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:91
+msgid "Upload a new picture"
+msgstr "上载新图片"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:96
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:134
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:152
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:580
+msgid "Picture"
+msgstr "图片"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:103
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:105
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:140
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:142
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:241
+msgid "e.g. image.jpg, image.gif"
+msgstr "例如：image.jpg，image.gif"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:119
+msgid "Upload another picture"
+msgstr "上载另一图片"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:147
+msgid "Already uploaded picture"
+msgstr "已上载图片"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:163
+msgid "Existing Picture (URL)"
+msgstr "已存在图片（URL）"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:167
+msgid "e.g. http://domain.com/image.jpg"
+msgstr "例如：http://domain.com/image.jpg"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:177
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:201
+msgid "No Thumbnail"
+msgstr "无缩略图"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:185
+msgid "Thumbnail Options"
+msgstr "缩略图选项"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:191
+msgid "Regenerate"
+msgstr "再生"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:197
+msgid "(create a new thumbnail)"
+msgstr "（创建新缩略图）"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:207
+msgid "(do not generate thumbnail)"
+msgstr "（不生成缩略图）"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:210
+msgid "No Sharpen"
+msgstr "无改善"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:216
+msgid "(do not apply sharpen effect to thumbnail)"
+msgstr "（不应用缩略图改善效果）"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:219
+msgid "Width"
+msgstr "宽度"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:228
+msgid "Height"
+msgstr "高度"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:237
+msgid "Custom"
+msgstr "自定义"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:251
+msgid "Watermark Options"
+msgstr "水印"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:256
+msgid "No Watermark"
+msgstr "无水印"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:262
+msgid "(do not add watermark)"
+msgstr "（不添加水印）"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:265
+msgid "Position"
+msgstr "位置"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:271
+msgid "e.g. 100% 100% (right-bottom), 0% 0% (left-top)"
+msgstr "例如：100% 100% （右下)， 0% 0% （左上）"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:285
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:674
+msgid "Link to URL"
+msgstr "链接到URL"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:292
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:294
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:299
+msgid "e.g. http://domain.com"
+msgstr "例如：http://domain.com"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:297
+msgid "Uploaded on"
+msgstr "上载到"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:351
+msgid "Pictures have been successfully re-ordered."
+msgstr "图片已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:362
+msgid "Picture has been successfully deleted."
+msgstr "图片已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:376
+msgid "No file selected to be uploaded as a new picture! Please select a file / picture to upload or define an already uploaded picture."
+msgstr "未选择要作为新图片上传的文件！请选择一个文件/图片进行上传，或定义一个已经上传的图片。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:441
+msgid "Thumbnail couldn't be updated as the selected picture cannot be found!"
+msgstr "由于所选图片未找到，缩略图无法更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:467
+msgid "Picture has been successfully updated."
+msgstr "图片已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:494
+msgid "Picture has been successfully added."
+msgstr "图片已成功添加。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:566
+#, php-format
+msgid "Picture(s) have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "图片已成功上载。下列文件已上载：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:582
+msgid "Details"
+msgstr "细节"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:667
+msgid "Dimension"
+msgstr "尺寸"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:670
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:785
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1809
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:604
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1671
+msgid "Storage table not defined."
+msgstr "存储表未定义"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:821
+msgid "Edit Picture"
+msgstr "编辑图片"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:869
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:706
+#, php-format
+msgid "No %s found for this %s."
+msgstr "无%s关于%s被发现。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:996
+#, php-format
+msgid "Picture couldn't be created! Error: %s"
+msgstr "图片无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1053
+#, php-format
+msgid "Picture couldn't be updated! Error: %s"
+msgstr "图片无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1269
+msgid "Thumbnail couldn't be created!"
+msgstr "缩略图无法创建！"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1300
+msgid "Couldn't create thumbnail as the defined picture is to big to be processed with the current memory limit set. Please try to upload a smaller image instead."
+msgstr "由于选定的图片太大，超过当前内存限制无法处理，因此无法创建缩略图。请尝试上载稍小一点的图片代替。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1395
+msgid "Thumbnail couldn't be regenerated as the selected picture cannot be found!"
+msgstr "由于选定图片未找到，缩略图无法创建！"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1424
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file cannot be found!"
+msgstr "无法添加水印到图片，因为定义文件 \"%s\"未找到！"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1435
+msgid "Couldn't add watermark to picture as the picture is to big to be processed with the current memory limit set. Please try to upload a smaller image instead."
+msgstr "由于图片太大，超过当前内存限制无法处理，因此无法添加水印。请尝试上载稍小一点的图片代替。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1455
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file is not a compatible image file! Please try again by uploading a JPEG file instead."
+msgstr "由于定义文件\"%s\"不是可用的图像文件，因此无法添加水印到图片！请尝试上载一个JPEG文件代替。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1494
+#, php-format
+msgid "Couldn't add watermark to picture as the defined \"%s\" file is not a compatible image file! Please try again by defining a JPEG or PNG watermark file."
+msgstr "由于定义文件\"%s\"不是可用的图像文件，无法添加水印到图片！请尝试定义一个JPEG或PNG水印文件。"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1640
+msgid "No picture selected to download!"
+msgstr "未选择要下载的图片！"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1652
+msgid "The selected picture cannot be found!"
+msgstr "选中的图片未找到！"
+
+#: /home/julius/workspace/jcore/lib/sources/pictures.class.php:1664
+#, php-format
+msgid "Picture \"%s\" cannot be found!"
+msgstr "图片 \"%s\"无法找到！"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:79
+msgid "Last page"
+msgstr "最后一页"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:86
+msgid "Next page"
+msgstr "下一页"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:102
+#, php-format
+msgid "Page (%s)"
+msgstr "页(%s)"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:118
+msgid "Previous page"
+msgstr "前一页"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:125
+msgid "First page"
+msgstr "第一页"
+
+#: /home/julius/workspace/jcore/lib/sources/paging.class.php:131
+msgid "Pages"
+msgstr "页"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:114
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:654
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1695
+msgid "New Comment"
+msgstr "新评论"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:124
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1304
+msgid "Nickname"
+msgstr "昵称"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:133
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1313
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:683
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:221
+msgid "Email"
+msgstr "Email"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:140
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:360
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1327
+msgid "Comment"
+msgstr "评论"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:147
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1355
+msgid "In Reply To"
+msgstr "答复"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:227
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:274
+msgid "Comments have been successfully deleted."
+msgstr "评论已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:237
+msgid "No comment selected! Please select at least one comment."
+msgstr "未选择评论！请至少选择一条评论。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:250
+msgid "Comments have been successfully declined and are now NOT visible to the public."
+msgstr "评论已成功定义，现在已不允许所有人查阅。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:262
+msgid "Comments have been successfully approved and are now visible to the public."
+msgstr "评论已成功审核，现在所有人可见。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:286
+msgid "Comment has been successfully declined and is now NOT visible to the public."
+msgstr "评论已成功被拒绝，现在已不允许所有人查阅。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:298
+msgid "Comment has been successfully approved and is now visible to the public."
+msgstr "评论已成功审核，现在所有人可见。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:310
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1162
+msgid "Comment has been successfully deleted."
+msgstr "评论已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:324
+msgid "Comment has been successfully updated."
+msgstr "评论已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:337
+msgid "Comment has been successfully created."
+msgstr "评论已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:358
+msgid "Posted By"
+msgstr "提交，由"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:372
+msgid "Approved"
+msgstr "已审核"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:466
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:520
+msgid "Approve"
+msgstr "审核"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:475
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:522
+msgid "Decline"
+msgstr "拒绝"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:653
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1398
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1404
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1417
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1709
+msgid "Edit Comment"
+msgstr "编辑评论"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:774
+msgid "Comment already posted!"
+msgstr "评论已提交！"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:810
+#, php-format
+msgid "Comment couldn't be added! Error: %s"
+msgstr "评论无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:915
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1012
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1033
+#, php-format
+msgid "Comment couldn't be updated! Error: %s"
+msgstr "评论无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1058
+msgid "Comment does not exist!"
+msgstr "评论并不存在！"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1068
+msgid "You cannot rate your own comments!"
+msgstr "您不能为您自己的评论打分！"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1084
+msgid "You already rated this comment."
+msgstr "您已经为该评论打过分。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1131
+msgid "Thank you for rating this comment."
+msgstr "感谢您对此评论进行评分。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1152
+msgid "Only administrators can delete comments."
+msgstr "只有管理员才能删除评论。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1185
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1383
+msgid "Selected comment cannot be found!"
+msgstr "选中的评论无法找到！"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1195
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1393
+msgid "You can only edit your own comments."
+msgstr "您仅能编辑您自己的评论。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1204
+msgid "Your comment has been successfully updated."
+msgstr "您的评论已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1217
+msgid "Thank you for your comment."
+msgstr "感谢您的评论。"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1318
+msgid "(optional, used only for receiving Notification on replies and for the <a href='http://gravatar.com' target='_blank' rel='nofollow'>Avatar</a>)"
+msgstr "(可选的，仅用于接收回复通知和<a href='http://gravatar.com' target='_blank' rel='nofollow'>头像</a>)"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1335
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:723
+msgid "Verification code"
+msgstr "验证码"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1344
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1479
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1775
+msgid "Only registered users can comment."
+msgstr "仅注册用户方能评论"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1349
+msgid "Quick Reply"
+msgstr "快速回复"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1364
+msgid "Submit Reply"
+msgstr "提交回复"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1436
+msgid "Delete comment and all it's subcomments"
+msgstr "删除评论及其子评论"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1454
+msgid "Edit this comment"
+msgstr "编辑该评论"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1469
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1480
+msgid "Reply to this comment"
+msgstr "回复该评论"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1471
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1482
+msgid "Reply"
+msgstr "回复"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1502
+msgid "Vote Up"
+msgstr "赞成"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1510
+msgid "Vote Down"
+msgstr "否决"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1532
+msgid "Will be visible to the public once approved."
+msgstr "一旦审核通过后，所有人将可见"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1534
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1549
+msgid "Pending"
+msgstr "等待"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1546
+#, php-format
+msgid "Will be visible to the public in %s minutes."
+msgstr "在%s分钟后将被所有人可见"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1692
+#, php-format
+msgid "Reply To comment #%s"
+msgstr "回复评论#%s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1694
+#, php-format
+msgid "Edit comment #%s"
+msgstr "编辑评论#%s"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1700
+msgid "Reply To"
+msgstr "回复给"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1717
+msgid "You can use some HTML tags, such as &lt;b&gt;, &lt;i&gt;, &lt;a&gt;, &lt;em&gt;, &lt;blockquote&gt;, &lt;code&gt;"
+msgstr "你可以使用一些HTML标记，例如&lt;b&gt;, &lt;i&gt;, &lt;a&gt;, &lt;em&gt;, &lt;blockquote&gt;, &lt;code&gt;"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1727
+msgid "Cancel Reply"
+msgstr "取消回复"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1736
+msgid "Cancel Edit"
+msgstr "取消编辑"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1750
+msgid "Comments"
+msgstr "评论"
+
+#: /home/julius/workspace/jcore/lib/sources/comments.class.php:1756
+msgid "No comments yet."
+msgstr "目前尚无评论"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:231
+msgid "Enter the code shown in the image"
+msgstr "输入图像中显示的代码"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:253
+msgid "Security Image"
+msgstr "安全图像"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:258
+msgid "Reload"
+msgstr "重载"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:284
+msgid "e.g. user@domain.com"
+msgstr "例如：user@domain.com"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:287
+msgid "e.g. 2010-07-21 21:00:00"
+msgstr "例如：2010-07-21 21:00:00"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:290
+msgid "e.g. 2010-07-21"
+msgstr "例如：2010-07-21"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:293
+msgid "e.g. 21:00:00"
+msgstr "例如：21:00:00"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:296
+msgid "e.g. #ff9933"
+msgstr "例如：#ff9933"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:302
+msgid "e.g. +1 (202) 555-1234"
+msgstr "例如：+1 (202) 555-1234"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:681
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:773
+msgid "Text"
+msgstr "文本"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:685
+msgid "Checkbox"
+msgstr "复选框"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:687
+msgid "Radio"
+msgstr "单选按钮"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:689
+msgid "Select"
+msgstr "选择"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:691
+msgid "Multi Select"
+msgstr "多项选择"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:693
+msgid "Recipient Select"
+msgstr "选择接受方"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:695
+msgid "Textarea"
+msgstr "文本区"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:697
+msgid "Text Editor"
+msgstr "文本编辑器"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:699
+msgid "Code Editor"
+msgstr "代码编辑器"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:701
+msgid "Hidden"
+msgstr "隐藏"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:703
+msgid "Review"
+msgstr "回顾"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:705
+msgid "Password"
+msgstr "密码"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:707
+msgid "Confirm Previous Field"
+msgstr "确认前字段"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:709
+msgid "Date Time"
+msgstr "日期时间"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:711
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:765
+msgid "Date"
+msgstr "日期"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:713
+msgid "Time"
+msgstr "时间"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:715
+msgid "Static Text"
+msgstr "静态文本"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:717
+msgid "Button Submit"
+msgstr "确认按钮"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:719
+msgid "Button Reset"
+msgstr "重置按钮"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:721
+msgid "Button"
+msgstr "按钮"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:725
+msgid "File"
+msgstr "文件"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:727
+msgid "Open Form Area"
+msgstr "打开表单区域"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:729
+msgid "Close Form Area"
+msgstr "关闭表单区域"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:731
+msgid "Color"
+msgstr "颜色"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:735
+msgid "Telephone"
+msgstr "电话"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:737
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:769
+msgid "URL"
+msgstr "URL"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:739
+msgid "Range"
+msgstr "级别"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:741
+msgid "Number"
+msgstr "号码"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:743
+msgid "Page Break"
+msgstr "分页符"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:755
+msgid "String"
+msgstr "字符串"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:757
+msgid "Int"
+msgstr "整形"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:759
+msgid "Float"
+msgstr "浮点型"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:761
+msgid "Array"
+msgstr "数组"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:763
+msgid "TimeStamp"
+msgstr "时间戳"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:767
+msgid "HTML"
+msgstr "HTML"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:771
+msgid "LimitedString"
+msgstr "有限字符串"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:775
+msgid "Boolean"
+msgstr "布尔值"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:801
+msgid "Submit"
+msgstr "提交"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1065
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1992
+msgid "Fields marked with an asterisk (*) are required."
+msgstr "字段标记需要星号（*）。"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1066
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:2005
+msgid "Field(s) marked with an asterisk (*) is/are required."
+msgstr "字段标记需要星号（*）。"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1071
+msgid "No file selected for upload."
+msgstr "未选择要上载的文件。"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1075
+msgid "Some fields do not match. Please make sure to enter the same value when asked to confirm a previous field."
+msgstr "有些字段不匹配。请确定在检查前面的字段时，是否输入了相同的值。"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1080
+msgid "Incorrect verification code. Please enter the code shown on the image."
+msgstr "错误的验证码。请输入图像中显示的代码。"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1085
+msgid "Invalid email address. Please make sure you enter a valid email address."
+msgstr "错误的Email地址。请确定您输入的是有效Email地址。"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1090
+#, php-format
+msgid "The password you entered is too short. Your password must be at least %s characters long."
+msgstr "您输入的密码过短。您的密码必须至少有%s字符长。"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1096
+msgid "Please review / correct the marked fields in the form below and try again."
+msgstr "请检查/纠正表单中的字段标记，然后再试一次。"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1325
+msgid "Next"
+msgstr "前进"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1354
+msgid "Back"
+msgstr "后退"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1496
+#, php-format
+msgid "max %s"
+msgstr "最多%s"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1960
+#, php-format
+msgid "(Step %s of %s)"
+msgstr "(第%s步 共%s步)"
+
+#: /home/julius/workspace/jcore/lib/sources/form.class.php:1995
+msgid "Field marked with an asterisk (*) is required."
+msgstr "字段标记必须包含星号（*）。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:49
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:468
+msgid "New Form"
+msgstr "新表单"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:69
+msgid "Form ID"
+msgstr "表单ID"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:76
+msgid "Notification Options"
+msgstr "提示选项"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:81
+msgid "Send Email"
+msgstr "发送Email"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:90
+msgid "Send To"
+msgstr "发送到"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:102
+msgid "Storage Options"
+msgstr "存储选项"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:107
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:359
+msgid "SQL Table"
+msgstr "SQL表"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:124
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:363
+msgid "Method"
+msgstr "方法"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:133
+msgid "Success Message"
+msgstr "成功消息"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:166
+msgid "You are NOT allowed to delete a protected form!"
+msgstr "您无权限删除收保护的表单！"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:178
+msgid "Form has been successfully deleted."
+msgstr "表单已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:192
+msgid "Form has been successfully updated."
+msgstr "表单已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:205
+msgid "Form has been successfully created."
+msgstr "表单已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:219
+msgid "Title / Form ID"
+msgstr "标题 / 表单ID"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:229
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:302
+msgid "Fields"
+msgstr "字段"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:334
+msgid "Protected Form"
+msgstr "受保护的表单"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:354
+msgid "Send Email To"
+msgstr "发送Email给"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:437
+msgid "Dynamic Forms Administration"
+msgstr "动态表单管理"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:443
+msgid "To implement a form in your post just add the following code <code>{forms}formid{/forms}</code> to your content where <i>formid</i> is your form's id, for e.g. contact."
+msgstr "要在您的贴子中加入表单，只需要添加下列代码<code>{forms}formid{/forms}</code>到内容中，<i>formid</i>是您表单ID，例如：contact。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:467
+msgid "Edit Form"
+msgstr "编辑表单"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:506
+msgid "No dynamic forms found."
+msgstr "无静态表单"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:552
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:633
+msgid "A form with this ID already exists! Please choose a different id for your form."
+msgstr "已存在使用该ID的表单。请为您的表单选择一个不同的ID。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:569
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:654
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:714
+#, php-format
+msgid "SQL Table \"%s\" already exists! Please choose a different table for your form."
+msgstr "SQL表\"%s\"已存在！请为您的表单选择一个不同的表。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:609
+#, php-format
+msgid "Form couldn't be created! Error: %s"
+msgstr "表单无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:700
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:733
+msgid "Protected SQL Tables cannot be renamed / deleted!"
+msgstr "受保护的SQL表无法重命名/删除！"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:772
+#, php-format
+msgid "Form couldn't be updated! Error: %s"
+msgstr "表单无法更新：错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:25
+msgid "Email ID"
+msgstr "Email ID"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:31
+msgid "e.g. WebmasterWarning (without spaces)"
+msgstr "例如：WebmasterWarning（不要空格）"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:34
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:180
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:93
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:582
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:683
+msgid "Subject"
+msgstr "主题"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:40
+msgid "Body"
+msgstr "内容"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:74
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:85
+msgid "Emails have been successfully reset."
+msgstr "Email已成功重设。"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:99
+msgid "Email has been successfully updated."
+msgstr "Email已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:122
+msgid "Email ID / Subject"
+msgstr "Email ID/主题"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:195
+msgid "Reset All"
+msgstr "重设所有"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:279
+msgid "Notification Emails Administration"
+msgstr "提醒Email管理"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:305
+msgid "Edit Email"
+msgstr "编辑Email"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:306
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:28
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:762
+msgid "New Email"
+msgstr "新Email"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:350
+msgid "No emails found."
+msgstr "未发现Email。"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:388
+msgid "An email with this id already exists!"
+msgstr "已存在一个相同的Email ID！"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:405
+#, php-format
+msgid "Email couldn't be added! Error: %s"
+msgstr "Email无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:435
+#, php-format
+msgid "Email couldn't be updated! Error: %s"
+msgstr "Email无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/notificationemails.class.php:463
+msgid "The specified email cannot be found!"
+msgstr "未发现特殊的Email！"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:88
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:757
+msgid "New Block"
+msgstr "新块"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:125
+msgid "Sub Block of"
+msgstr "子块->"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:133
+msgid "Content Options"
+msgstr "内容选项"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:138
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1273
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:81
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:365
+msgid "Content"
+msgstr "内容"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:155
+msgid "Block ID"
+msgstr "块ID"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:162
+msgid "CSS Class"
+msgstr "CSS类"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:171
+msgid "In Language(s)"
+msgstr "在语言中"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:191
+msgid "On Page(s)"
+msgstr "在页中"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:198
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:530
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:341
+msgid "Administration Section"
+msgstr "管理区域"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:241
+msgid "Caching Options"
+msgstr "缓存选项"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:246
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:590
+msgid "Enable Caching"
+msgstr "允许缓存"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:254
+msgid "(cache the content of this block including all sub blocks)"
+msgstr "(缓存的内容中包括块的所有子块)"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:257
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:593
+msgid "Only for Guests"
+msgstr "仅限于方可"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:265
+msgid "(don't use caching for logged in users)"
+msgstr "(登录用户不使用缓存)"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:268
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:597
+msgid "Refresh Time"
+msgstr "刷新时间"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:277
+msgid "(cache refresh time interval in minutes)"
+msgstr "(每分钟间隔刷新缓存)"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:280
+msgid "Refresh Now"
+msgstr "立即刷新"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:312
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:585
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:607
+msgid "Limit"
+msgstr "限制"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:365
+msgid "Blocks have been successfully re-ordered."
+msgstr "块已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:376
+msgid "Block has been successfully deleted."
+msgstr "块已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:389
+msgid "Block cannot be subblock of itself!"
+msgstr "不能设置子块为其自身！"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:409
+msgid "Block has been successfully updated."
+msgstr "块已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:426
+msgid "Block has been successfully created."
+msgstr "块已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:446
+msgid "Title / Block ID / CSS Class"
+msgstr "标题 / 块ID / CSS类"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:568
+msgid "Display Except on Page"
+msgstr "显示在页以外"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:569
+msgid "Display Only on Page"
+msgstr "仅显示在页中"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:575
+msgid "Display Except in Language"
+msgstr "显示在该语言以外"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:576
+msgid "Display Only in Language"
+msgstr "仅显示在该语言中"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:598
+#, php-format
+msgid "%s minutes"
+msgstr "%s分钟"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:732
+msgid "Blocks Administration"
+msgstr "块管理"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:756
+msgid "Edit Block"
+msgstr "编辑块"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:802
+msgid "No blocks found."
+msgstr "未发现块。"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:838
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:860
+msgid "Only"
+msgstr "仅有"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:847
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:869
+msgid "Except"
+msgstr "除了"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:982
+#, php-format
+msgid "Block couldn't be created! Error: %s"
+msgstr "无法创建块！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1026
+msgid "Block type cannot be changed as it is a \"Main Content\" block! Please first create another \"Main Content\" block and then try to edit this block again."
+msgstr "\"主要内容\"块的类型不能改变。请首先创建另一\"主要内容\"块，然后再尝试修改此块的类型。"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1103
+#, php-format
+msgid "Block couldn't be updated! Error: %s"
+msgstr "无法更新块！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1189
+msgid "Block cannot be deleted as it is or contains a \"Main Content\" block! Please first create another \"Main Content\" block that wont be affected by this operation."
+msgstr "由于当前块为（或者包含了）\"主要内容\"块，因此无法删除！请首先创建另一个\"主要内容\"块后，再来进行此操作。"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1271
+msgid "Main Content"
+msgstr "主要内容"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1275
+msgid "Menu"
+msgstr "菜单"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1277
+msgid "Advertisement"
+msgstr "广告"
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:1286
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1441
+msgid "Admins"
+msgstr "管理员"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:281
+#, php-format
+msgid "The file you are trying to upload \"%s\" already exists on our site. Please rename and reselect the file you would like to upload."
+msgstr "您尝试上载的\"%s\"文件已经存在于我们的站点。请重命名或重新选择您要上载的文件。"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:291
+#, php-format
+msgid "Unsupported file format! Supported formats are: %s."
+msgstr "不支持的文件格式！支持的文件格式为：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:300
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:35
+msgid "File couldn't be saved!"
+msgstr "文件无法保存！"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:316
+#, php-format
+msgid "File couldn't be saved! This usually means that your file is larger than the allowed upload limit (%s) or something went wrong while saving the file to it's permanent place. Please try again or contact webmaster."
+msgstr "文件无法保存！这通常意味着您的文件太大，超过了上载限制（%s），或者在保存文件到指定位置期间发生了什么错误。请再次尝试或联系网站管理员。"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:430
+msgid "unknown/file"
+msgstr "未知/文件"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:442
+msgid "Unknown File Type"
+msgstr "未知文件类型"
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:540
+#, php-format
+msgid "Writing file %s"
+msgstr "等待文件%s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:57
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:595
+msgid "New Attachment"
+msgstr "新附件"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:73
+msgid "Upload a new attachment"
+msgstr "上传一个新附件"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:78
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:116
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:134
+msgid "Attachment"
+msgstr "附件"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:85
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:87
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:122
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:124
+msgid "e.g. document.doc, document.pdf"
+msgstr "例如：document.doc、document.pdf"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:129
+msgid "Already uploaded attachment"
+msgstr "已上传附件"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:145
+msgid "Existing File (URL)"
+msgstr "存在的文件（URL）"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:149
+msgid "e.g. http://domain.com/document.pdf"
+msgstr "例如：http://domain.com/document.pdf"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:217
+msgid "Attachments have been successfully re-ordered."
+msgstr "附件已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:228
+msgid "Attachment has been successfully deleted."
+msgstr "附件已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:242
+msgid "No file selected to be uploaded as a new attachment! Please select a file to upload or define an already uploaded attachment."
+msgstr "未选择要上载为新附件的文件！请选择一个文件，或选择一个已上载的附件。"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:292
+msgid "Attachment has been successfully updated."
+msgstr "附件已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:315
+msgid "Attachment has been successfully added."
+msgstr "附件已成功添加。"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:384
+#, php-format
+msgid "Attachment(s) have been successfully uploaded. The following files have been uploaded: %s."
+msgstr "附件已成功更新。下列文件已成功上载：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:398
+msgid "Icon"
+msgstr "图标"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:400
+msgid "Title / Uploaded on / File"
+msgstr "标题 / 上载到 /文件"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:402
+msgid "Downloads"
+msgstr "下载"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:404
+msgid "Filesize"
+msgstr "文件长度"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:435
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:959
+#, php-format
+msgid "uploaded on %s"
+msgstr "上载到%s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:594
+msgid "Edit Attachment"
+msgstr "编辑附件"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:748
+#, php-format
+msgid "Attachment couldn't be created! Error: %s"
+msgstr "附件无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:815
+#, php-format
+msgid "Attachment couldn't be updated! Error: %s"
+msgstr "附件无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:866
+msgid "No attachment selected to download!"
+msgstr "未选择要上载的附件！"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:878
+msgid "The selected attachment cannot be found!"
+msgstr "未找到选中的附件！"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:887
+#, php-format
+msgid "File \"%s\" cannot be found!"
+msgstr "文件\"%s\"未找到！"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:934
+msgid "Download"
+msgstr "下载"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:952
+#, php-format
+msgid "%s downloads"
+msgstr "%s下载"
+
+#: /home/julius/workspace/jcore/lib/sources/attachments.class.php:1054
+msgid "click to download"
+msgstr "单击下载"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:27
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:41
+msgid "Note"
+msgstr "说明"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:61
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:407
+msgid "New Note"
+msgstr "新说明"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:93
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:293
+msgid "Status"
+msgstr "状态"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:101
+msgid "(closed ones are marked with strike through)"
+msgstr "（一旦关闭将标记为删除的）"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:113
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:377
+msgid "Created on"
+msgstr "创建于"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:120
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:298
+msgid "Due Date"
+msgstr "到期日"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:151
+msgid "Note has been successfully deleted."
+msgstr "说明已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:165
+msgid "Note has been successfully updated."
+msgstr "说明已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:178
+msgid "Note has been successfully created."
+msgstr "说明已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:192
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:802
+msgid "Title / Created on"
+msgstr "标题/创建于"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:200
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:250
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:810
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:874
+msgid "Attachments"
+msgstr "附件"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:289
+msgid "Owner"
+msgstr "所有者"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:381
+msgid "Notes Administration"
+msgstr "说明管理"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:406
+msgid "Edit Note"
+msgstr "编辑说明"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:447
+msgid "No notes found."
+msgstr "未发现说明。"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:503
+#, php-format
+msgid "Note couldn't be created! Error: %s"
+msgstr "说明无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:525
+msgid "You are not allowed to edit someone else's note! If you would like to add something to the note please do so in the comments."
+msgstr "您不允许去编辑某些其它的说明！如果您希望添加某些说明，请在评论中操作。"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:555
+#, php-format
+msgid "Note couldn't be updated! Error: %s"
+msgstr "说明无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:574
+msgid "You are not allowed to delete someone else's note! If you would like to add something to the note please do so in the comments."
+msgstr "您不允许去删除某些其它的说明！如果您希望添加某些说明，请在评论中操作。"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:618
+msgid "Open"
+msgstr "打开"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:620
+msgid "Closed"
+msgstr "关闭"
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:25
+msgid "No file defined to be saved!"
+msgstr "无文件定义被保存！"
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:44
+msgid "File has been successfully saved."
+msgstr "文件已成功保存！"
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:61
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:79
+msgid "File Editor"
+msgstr "文件编辑"
+
+#: /home/julius/workspace/jcore/lib/sources/fileeditor.class.php:77
+msgid "No File defined!"
+msgstr "无文件定义"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:33
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:68
+msgid "Content Management"
+msgstr "内容管理"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:36
+msgid "Module Management"
+msgstr "模块管理"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:39
+msgid "Site Layout and Functionality"
+msgstr "站点层和功能"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:42
+msgid "Member Management"
+msgstr "成员管理"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:65
+msgid "Manage the content (pages) of your site"
+msgstr "管理您站点的内容（页）"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:75
+msgid "Upload / Add advertisements"
+msgstr "上载/添加广告"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:78
+msgid "Ads & Banners"
+msgstr "广告和横幅"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:85
+msgid "Create / Modify custom submit forms"
+msgstr "创建/修改用户提交表单"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:88
+msgid "Dynamic Forms"
+msgstr "动态表单"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:96
+msgid "Copy and/or Move posts from one page to another"
+msgstr "从一个页向另一个页复制或移动帖子"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:99
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:129
+msgid "Moving Posts"
+msgstr "移动帖子"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:106
+msgid "Manage / Upload files separately"
+msgstr "单独地管理/上载文件"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:109
+msgid "File Manager"
+msgstr "文件管理器"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:117
+msgid "Change settings like Webmaster Email, Site title and so on"
+msgstr "改变管理员Email、站点标题等设置"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:128
+msgid "Set up your site's layout / look"
+msgstr "设置您站点的层/观感"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:131
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:69
+msgid "Layout Blocks"
+msgstr "层次块"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:138
+msgid "Create multiple menu areas"
+msgstr "创建多菜单区域"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:141
+msgid "Menu Blocks"
+msgstr "菜单块"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:149
+msgid "Change the look of your website"
+msgstr "改变您站点的观感"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:152
+msgid "Template Manager"
+msgstr "模板管理"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:159
+msgid "Edit template CSS / JS files and upload images"
+msgstr "编辑模板CSS/JS文件，以及上传图像"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:162
+msgid "Template Editor"
+msgstr "模板编辑"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:169
+msgid "Share your site's content in a standardized format"
+msgstr "用标准化格式共享您站点的内容"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:172
+msgid "RSS Feeds"
+msgstr "RSS提要"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:180
+msgid "Store notes and/or todos"
+msgstr "存储提示或行动表"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:183
+msgid "Admin Notes"
+msgstr "管理提示"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:191
+msgid "Links to quickly access your favorite places"
+msgstr "链接到重要位置的快速通道"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:194
+msgid "Favorite Links"
+msgstr "收藏的链接"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:201
+msgid "Modify emails that are sent out by the system"
+msgstr "修改由系统发送的Email"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:204
+msgid "Notification Emails"
+msgstr "提示Email"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:212
+msgid "Define additional languages"
+msgstr "定义附加语言"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:215
+msgid "Site Languages"
+msgstr "站点语言"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:223
+msgid "Manage Brute Force and Password Trading protection"
+msgstr "管理暴力破解和交易密码保护"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:226
+msgid "Security Alerts"
+msgstr "安全警报"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:233
+msgid "Regenerate and/or edit XML Sitemap file"
+msgstr "重生产或编辑XML站点地图文件"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:236
+msgid "XML Sitemap"
+msgstr "XML站点地图"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:244
+msgid "Manage users, set permissions"
+msgstr "管理用户，设置权限"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:254
+msgid "Contact site members all at once"
+msgstr "同时联系所有站点成员"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:257
+msgid "Mass Email"
+msgstr "群发Email"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:264
+msgid "Logout and close this session"
+msgstr "登出并关闭会话"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:267
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:449
+msgid "Logout"
+msgstr "登出"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:447
+msgid "You do not have enough permission to access this area!"
+msgstr "您没有足够的权限访问此区域！"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:468
+msgid "Go Back"
+msgstr "返回"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:494
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:510
+msgid "Invalid path!"
+msgstr "错误的路径！"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:109
+msgid "Address Not Found"
+msgstr "地址未发现"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:125
+msgid "New Page"
+msgstr "新页面"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:145
+msgid "Sub Page of"
+msgstr "子页->"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:153
+msgid "Menu Block"
+msgstr "菜单块"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:170
+msgid "Language"
+msgstr "语言"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:657
+msgid "Modules"
+msgstr "模块"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:266
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:630
+msgid "SEO Options"
+msgstr "搜索引擎优化选项"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:271
+msgid "Page Title"
+msgstr "页面标题"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:277
+msgid "Description"
+msgstr "描述"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:283
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:390
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:731
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2128
+msgid "Keywords"
+msgstr "关键字"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:403
+msgid "Pages have been successfully re-ordered."
+msgstr "页面已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:414
+msgid "Page and all its subpages have been successfully deleted."
+msgstr "页面及其子页面已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:443
+msgid "Page cannot be subpage of itself!"
+msgstr "不能将页面做为其自身的子页面！"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:460
+msgid "Page has been successfully updated."
+msgstr "页面已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:462
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:483
+msgid "View Page"
+msgstr "浏览页面"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:481
+msgid "Page has been successfully created."
+msgstr "页面已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:588
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:816
+msgid "No pages found."
+msgstr "未发现页面。"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:601
+msgid "Title / Path / Link"
+msgstr "标题 / 路径 /链接"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:613
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:732
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:23
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1015
+msgid "Posts"
+msgstr "帖子"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:809
+msgid "No Language Defined"
+msgstr "未定义语言"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:845
+msgid "Pages Administration"
+msgstr "页面管理"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:870
+msgid "Edit Page"
+msgstr "编辑页面"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:923
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:453
+msgid "No menu blocks found."
+msgstr "未发现菜单块"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:924
+msgid "Please go to Admin -> Site Layout and Functionality -> Menu Blocks and create at least one menu block to put pages in."
+msgstr "请前往 管理 -> 站点层和功能 -> 菜单块，并创建至少一个菜单块，用于存放页面。"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1053
+#, php-format
+msgid "Page couldn't be created! Error: %s"
+msgstr "页面无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1090
+msgid "Page successfully created but xml sitemap file couldn't be updated."
+msgstr "页面已成功创建，但XML站点地图文件无法更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1187
+#, php-format
+msgid "Page couldn't be updated! Error: %s"
+msgstr "页面无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1312
+msgid "Page successfully updated but xml sitemap file couldn't be updated."
+msgstr "页面成功更新，但XML站点地图文件无法更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:1366
+msgid "Page successfully deleted but xml sitemap file couldn't be updated."
+msgstr "页面成功删除，但XML站点地图文件无法更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:53
+msgid "Settings have been successfully updated but the template.js file couldn't be updated."
+msgstr "设置已成功更新，但template.js文件未被更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:65
+msgid "Settings have been successfully updated."
+msgstr "设置已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:94
+msgid "Settings Administration"
+msgstr "设置管理"
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php:123
+msgid "Change Settings"
+msgstr "修改设置"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:38
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:774
+msgid "Preview"
+msgstr "预览"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:45
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:574
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:667
+msgid "From"
+msgstr "发件人"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:54
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:578
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:675
+msgid "To"
+msgstr "收件人"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:65
+msgid "Active Users"
+msgstr "活动用户"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:70
+msgid "All Users"
+msgstr "所有用户"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:75
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:76
+msgid "Add User(s)"
+msgstr "添加用户"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:100
+msgid "Message"
+msgstr "消息"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:107
+msgid "Partial sending (split your emails into chunks)"
+msgstr "分块发送（切割您的邮件为块）"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:112
+msgid "Number of Emails"
+msgstr "Email数量"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:117
+msgid "e.g. 500"
+msgstr "例如：500"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:120
+msgid "Starting from"
+msgstr "开始于"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:125
+msgid "e.g. 100"
+msgstr "例如：100"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:153
+msgid "Email has been successfully deleted."
+msgstr "Email已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:170
+msgid "From email address is not a valid email address!"
+msgstr "发件人地址不是有效的Email地址！"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:208
+#, php-format
+msgid "Invalid email addresses defined. The following addresses are not valid email addresses: %s."
+msgstr "无效的Email地址定义。下列地址是无效的Email地址：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:248
+#, php-format
+msgid "Sending %s emails starting from %s, please wait..."
+msgstr "发送%sEmail，开始于%s，请等待……"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:252
+#, php-format
+msgid "Sending %s emails, please wait..."
+msgstr "发送%sEmail，请等待……"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:255
+#, php-format
+msgid "Sending emails starting from %s, please wait..."
+msgstr "从%s开始发送Email，请等待……"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:257
+msgid "Sending emails, please wait..."
+msgstr "发送Email，请等待……"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:350
+msgid "All emails have been successfully sent. No more emails left to be sent."
+msgstr "所有Email已成功发送。无Email留在发件箱。"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:361
+msgid "No emails have been sent out!"
+msgstr "无Email被发送出去！"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:363
+msgid "No users found to send email to."
+msgstr "收件人中未包含任何用户。"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:364
+msgid "Please see detailed error messages above and try again."
+msgstr "请查看以上的错误信息细节，然后重试一次。"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:373
+#, php-format
+msgid "Emails have been successfully sent to: %s. Emails sent: %s"
+msgstr "Email已成功发送到：%s。Email发送给：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:418
+msgid "Add"
+msgstr "添加"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:421
+msgid "Username"
+msgstr "用户名"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:424
+msgid "Admin"
+msgstr "管理员"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:430
+msgid "Registered on"
+msgstr "注册于"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:512
+msgid "Subject / Sent out"
+msgstr "主题/发送到"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:514
+msgid "Emails Sent"
+msgstr "Email发送"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:523
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:552
+msgid "Resend"
+msgstr "重发"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:570
+msgid "Sent out by"
+msgstr "发送者为"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:657
+msgid "Email Sent"
+msgstr "Email发送"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:658
+msgid "Preview Email"
+msgstr "预览Email"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:695
+msgid "Partial sending"
+msgstr "分块发送"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:701
+#, php-format
+msgid "%s emails starting from %s"
+msgstr "%s Email开始于 %s"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:706
+#, php-format
+msgid "%s emails"
+msgstr "%s Email"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:710
+#, php-format
+msgid "starting from %s"
+msgstr "开始于%s"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:739
+msgid "Mass Email Administration"
+msgstr "群发邮件管理"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:819
+#, php-format
+msgid "Send next %s Emails"
+msgstr "发送下一个%sEmail"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:825
+msgid "View Emails"
+msgstr "查看Email"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:829
+msgid "Admin Home"
+msgstr "管理首页"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:868
+msgid "No emails sent out yet."
+msgstr "未发送过Email。"
+
+#: /home/julius/workspace/jcore/lib/sources/massemail.class.php:941
+#, php-format
+msgid "Mass Email couldn't be created! Error: %s"
+msgstr "无法创建群发Email！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:65
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:411
+msgid "New Menu"
+msgstr "新菜单"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:85
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:241
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:455
+msgid "In Block"
+msgstr "在块中"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:115
+msgid "Name"
+msgstr "名字"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:170
+msgid "Menus have been successfully re-ordered."
+msgstr "菜单已成功重排序"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:181
+msgid "Menu has been successfully deleted."
+msgstr "菜单已成功删除"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:198
+msgid "Menu has been successfully updated."
+msgstr "菜单已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:216
+msgid "Menu has been successfully created."
+msgstr "菜单已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:239
+msgid "Title / Name"
+msgstr "标题 / 名字"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:385
+msgid "Menus Administration"
+msgstr "菜单管理"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:410
+msgid "Edit Menu"
+msgstr "编辑菜单"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:516
+#, php-format
+msgid "Menu couldn't be created! Error: %s"
+msgstr "菜单无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:548
+#, php-format
+msgid "Menu couldn't be updated! Error: %s"
+msgstr "菜单无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:98
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:112
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:131
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:145
+msgid "Post"
+msgstr "帖子"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:276
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1058
+msgid "New Post"
+msgstr "新帖子"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:331
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:446
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:754
+msgid "Display on All pages"
+msgstr "显示在所有页面中"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:332
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:447
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:755
+msgid "Display on Main page"
+msgstr "显示在主页中"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:337
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:576
+msgid "Insert as New"
+msgstr "插入新的"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:349
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:585
+msgid "(will create a new post)"
+msgstr "（将创建新帖子）"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:372
+msgid "Blogging Options"
+msgstr "博客选项"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:396
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:398
+msgid "e.g. oranges, lemons, limes"
+msgstr "例如 oranges, lemons, limes"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:416
+msgid "Announcement Options"
+msgstr "通告选项"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:421
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:743
+msgid "Start Date"
+msgstr "开始日期"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:428
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:748
+msgid "End Date"
+msgstr "结束日期"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:480
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:760
+msgid "Partial Content"
+msgstr "分块内容"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:489
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:765
+msgid "Display Related Posts"
+msgstr "显示相关帖子"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:504
+msgid "Rating Options"
+msgstr "评分选项"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:509
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:770
+msgid "Enable Rating"
+msgstr "允许评分"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:517
+msgid "Enable Guest Rating"
+msgstr "允许访客评分"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:531
+msgid "Comments Options"
+msgstr "评论选项"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:536
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:778
+msgid "Enable Comments"
+msgstr "允许评论"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:544
+msgid "Enable Guest Comments"
+msgstr "允许访客评论"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:637
+msgid "Posts have been successfully re-ordered."
+msgstr "帖子已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:669
+msgid "Post has been successfully updated."
+msgstr "帖子已成功更新"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:671
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:692
+msgid "View Post"
+msgstr "查看帖子"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:690
+msgid "Post has been successfully created."
+msgstr "帖子已成功创建"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:726
+msgid "Display in Block"
+msgstr "在块中显示"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:773
+msgid "(Guests can rate too!)"
+msgstr "（访客也可评分！）"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:781
+msgid "(Guests can comment too!)"
+msgstr "（访客也可评论！）"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:812
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:891
+msgid "Pictures"
+msgstr "图片"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1057
+msgid "Edit Post"
+msgstr "编辑帖子"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1225
+#, php-format
+msgid "Post couldn't be created! Error: %s"
+msgstr "帖子无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1264
+msgid "Post successfully created but xml sitemap file couldn't be updated."
+msgstr "帖子已成功创建，但XML站点地图文件无法更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1273
+msgid "Post successfully created but rss feed couldn't be updated."
+msgstr "帖子已成功创建，但RSS订阅无法更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1281
+msgid "Post successfully created but couldn't ping blog servers. Please define at least one blog ping server or multiple servers separated by commas in Global Settings."
+msgstr "帖子已成功创建，但是无法同步到博客服务器。请设置至少一个或者多个博客同步服务，在全局设定中。"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1364
+#, php-format
+msgid "Post couldn't be updated! Error: %s"
+msgstr "帖子无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1398
+msgid "Post successfully updated but xml sitemap file couldn't be updated."
+msgstr "帖子已成功更新，但XML站点地图文件无法更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1407
+msgid "Post successfully updated but rss feed couldn't be updated."
+msgstr "帖子已成功删除，但RSS订阅无法更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1485
+msgid "Post successfully deleted but rss feed couldn't be updated."
+msgstr "帖子成功删除，但RSS订阅无法更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1883
+#, php-format
+msgid "Starting <b>%s</b> until <b>%s</b>"
+msgstr "开始于 <b>%s</b> 直到 <b>%s</b>"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1891
+#, php-format
+msgid "Starting <b>%s</b>"
+msgstr "开始于<b>%s</b>"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:1898
+#, php-format
+msgid "Until <b>%s</b>"
+msgstr "直到<b>%s</b>"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2149
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2164
+msgid "Read more"
+msgstr "阅读更多"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2197
+msgid "Related Posts"
+msgstr "相关帖子"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2542
+msgid "This area is limited to members only. Please login below."
+msgstr "该区域仅限成员访问。请先登录。"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2668
+msgid "This page has been deactivated."
+msgstr "该页面已停用。"
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:2699
+msgid "to search results."
+msgstr "搜索结果。"
+
+#: /home/julius/workspace/jcore/lib/sources/ckeditor.class.php:270
+msgid "No file selected!"
+msgstr "未选择文件！"
+
+#: /home/julius/workspace/jcore/lib/sources/contentforms.class.php:34
+msgid "Form has been successfully submitted and a notification email has been sent to the webmaster."
+msgstr "表单已成功提交，一封通知Email已发送给网站管理员。"
+
+#: /home/julius/workspace/jcore/lib/sources/contentforms.class.php:41
+msgid "Form has been successfully submitted."
+msgstr "表单已成功提交。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:115
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:769
+msgid "New User"
+msgstr "新用户"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:160
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:279
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:606
+msgid "Suspended"
+msgstr "已暂停"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:168
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:287
+msgid "Administrator"
+msgstr "管理员"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:177
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:296
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:611
+msgid "Skip IP Check"
+msgstr "屏蔽IP检查"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:184
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:303
+msgid "(don't bind user to IP)"
+msgstr "（不绑定用户与IP）"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:210
+msgid "Change Password"
+msgstr "修改密码"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:223
+msgid "Confirm password"
+msgstr "确认密码"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:232
+msgid "Please note that you will need to enter a valid e-mail address before your account is activated. You will receive an e-mail at the address you provided that contains an account activation link."
+msgstr "请注意，您必须在验证Email地址后才能激活帐号。您将在所留地址的邮箱内收到一封Email，其中包含有激活链接。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:252
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:577
+msgid "Website"
+msgstr "网站"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:259
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:585
+msgid "Show Avatar"
+msgstr "显示头像"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:267
+msgid "Change Avatar"
+msgstr "改变头像"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:271
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:590
+msgid "Stay Logged In"
+msgstr "保持登录状态"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:313
+#, php-format
+msgid "minimum %s characters"
+msgstr "最少%s个字符"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:349
+msgid "No user selected! Please select at least one user."
+msgstr "未选择用户。请选择至少一个用户。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:362
+msgid "Users have been successfully activated and are now able to login."
+msgstr "用户已成功激活，现在可以登录。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:374
+msgid "Users have been successfully suspended."
+msgstr "用户已成功暂停。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:385
+msgid "Users have been successfully deleted."
+msgstr "用户已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:397
+msgid "User has been successfully deleted."
+msgstr "用户已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:413
+msgid "User has been successfully updated."
+msgstr "用户已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:426
+msgid "User has been successfully created and a notification email with the login information has been sent to the email address specified."
+msgstr "用户已成功创建，一封登录信息通知Email已发送到指定邮箱中。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:449
+msgid "Username / Registered on"
+msgstr "用户名 / 注册于"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:459
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:520
+msgid "Permissions"
+msgstr "权限"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:596
+msgid "Last visit"
+msgstr "上一次登录"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:601
+msgid "From IP"
+msgstr "来自IP"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:616
+msgid "Account Pending"
+msgstr "帐号审核中"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:641
+msgid "Suspend"
+msgstr "暂停"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:727
+msgid "Users Administration"
+msgstr "用户管理"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:768
+msgid "Edit User"
+msgstr "编辑用户"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:818
+msgid "No users found."
+msgstr "未发现用户。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:852
+msgid "New account registration has been temporarily suspended. Please try again later."
+msgstr "新帐号注册已零时暂停。请稍候重试。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:861
+msgid "No username specified!"
+msgstr "无用户名细节！"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:869
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:988
+msgid "Username and Email are required!"
+msgstr "用户名和Email是必须的！"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:935
+#, php-format
+msgid "User couldn't be registered! Error: %s"
+msgstr "用户无法注册！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:980
+msgid "No data defined to update user to!"
+msgstr "用户数据为定义为更新！"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1005
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1354
+msgid "Incorrect username. Usernames may consist of a-z, 0-9 and underscores only."
+msgstr "错误的用户名。用户名仅可以包含字母a-z、0-9和下划线。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1061
+#, php-format
+msgid "User couldn't be updated! Error: %s"
+msgstr "用户无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1371
+msgid "Username is already taken. Please choose a different username or login."
+msgstr "用户名已存在。请选择一个不同的用户名，或登录。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1395
+msgid "Email address is already in use."
+msgstr "Email地址已在使用。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1397
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2038
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2067
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2147
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2167
+msgid "Forgot your password?"
+msgstr "忘记密码？"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1410
+msgid "No request values specified!"
+msgstr "无请求值细节！"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1418
+msgid "No owner defined for the request!"
+msgstr "未定义请求的所有者！"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1432
+#, php-format
+msgid "You have reached the maximum number of %s requests! If you are still having problems completing your request please contact us or wait a few hours and try again."
+msgstr "您已达到了最大数量——%s请求！如果您一直存在问题，无法完成请求，请联系我们或等待数小时后重试。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1459
+#, php-format
+msgid "Request couldn't be stored! Error: %s"
+msgstr "请求无法保存！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1524
+#, php-format
+msgid "User couldn't be activated! Error: %s"
+msgstr "用户无法激活！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1554
+#, php-format
+msgid "User couldn't be suspended! Error: %s"
+msgstr "用户无法暂停！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1599
+msgid "No email address specified! Please enter the email address provided at registration."
+msgstr "无Email地址细节！请输入注册时所提供的Email地址。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1624
+msgid "Your email address is not in our database. Please be sure to use the one provided at registration."
+msgstr "您的Email地址未保存在我们的数据库中。请确定使用的是注册时所提供的地址。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1679
+msgid "<b>Request Successful</b><br /> A notification email has been sent to your email address with the neccessary information to login to your account."
+msgstr "<b>注册成功</b><br />一封提醒邮件已发送到您的Email邮箱中，其中包括如何使用您的帐号登录的详细信息。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1687
+msgid "<b>Request Successful</b><br /> A notification email has been sent to your email address with the neccessary information to request a new password."
+msgstr "<b>请求成功</b><br />一封通知邮件已发送到您Email邮箱中，其中包含请求一个新密码的详细信息。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1695
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1819
+msgid "<b>IMPORTANT:</b> Some email providers put messages received from addresses, which are not in your contact list, in the \"Bulk / Junk E-Mail\" folders. Please check those folders too."
+msgstr "<b>注意：</b> 一些Email提供者从地址中提供消息回执，但并不存在于您的联系人列表，在“主体/废弃”文件夹中。请再次检查这些文件夹。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1718
+msgid "Request not found! Please make sure the request was made in the last 3 hours as older requests are automatically deleted."
+msgstr "请求未发现！请确定请求是在3小时内产生的，旧请求会自动删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1729
+msgid "Request owner couldn't be found!"
+msgstr "请求所有者未发现！"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1745
+#, php-format
+msgid "Your account couldn't be activated! Error: %s"
+msgstr "您的帐号无法激活！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1753
+msgid "<b>Your Account has been Activated</b><br /> Thank you for registering."
+msgstr "<b>您的帐号已激活</b><br />感谢您的注册。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1768
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1794
+#, php-format
+msgid "Your new password couldn't be activated! Error: %s"
+msgstr "您的新密码未激活！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1776
+msgid "<b>Your New Password has been Activated</b><br /> Please copy and paste your new password from the email you received to prevent any misspelling issues."
+msgstr "<b>您的新密码已激活</b><br />请从您收到的邮件中复制并粘贴新密码，防止拼写错误。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1813
+msgid "<b>Your New Password has been Sent</b><br /> A notification email has been sent to your email address with the new login information."
+msgstr "<b>您的新密码已发送</b><br />一封Email已发送到您的邮箱，其中包含了新的登录信息。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1893
+#, php-format
+msgid "Welcome back %s"
+msgstr "欢迎返回%s"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1934
+msgid "Remember me (stay logged in)"
+msgstr "记住我（保存登录信息）"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1942
+msgid "Please enter the email address you have provided at registration / join."
+msgstr "请输入注册/加入时所提供的Email地址。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1947
+msgid "Email address"
+msgstr "Email地址"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1987
+msgid "Avatar"
+msgstr "头像"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:1999
+msgid "Quick Account"
+msgstr "快速帐号"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2025
+msgid "Quick Login"
+msgstr "快速登录"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2032
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2060
+msgid "Login"
+msgstr "登录"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2053
+msgid "Member Login"
+msgstr "成员登录"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2088
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2093
+msgid "Request a New Password"
+msgstr "请求新密码"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2137
+msgid "This account has been suspended!"
+msgstr "该帐号已暂停！"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2142
+msgid "You have entered an invalid username or password. Please enter the correct details (use copy and paste) or use your email address as your username and try again. Don't forget that the password is case sensitive."
+msgstr "您输入了错误的用户名或密码。请输入正确的信息（使用复制和粘贴），或使用您的Email地址代替帐户名重试。不要忘记密码是区分大小写的。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2150
+#, php-format
+msgid "You have used %s out of %s login attempts. After all %s have been used, you will be unable to login for %s minutes."
+msgstr "您使用%s超过了%s次登录尝试。等到%s次尝试后，您将在%s分钟内不允许登录。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2162
+#, php-format
+msgid "Wrong username or password. <b>You have used up your failed login quota! Please wait %s minutes before trying again.</b> Don't forget that the password is case sensitive."
+msgstr "错误的用户名或密码。<b>您已用完您登录尝试次数！请等待%s分钟后再尝试。</b>不要忘记密码是区分大小写的。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2172
+#, php-format
+msgid "Account suspended! <b>This account has been suspended for %s minutes because of to many logins from different IP addresses.</b> Please ensure that you have a secure password and/or you are logged out from your other PCs before trying again."
+msgstr "帐号已暂停！<b>该帐号已暂停%s分钟，因为多次登录使用不同的IP地址。</b> 请确定您拥有一个安全的密码，并且，您在再次尝试前，没有从其它位置登录。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2182
+msgid "Your session couldn't be stored! Please contact the webmaster with this error and your login information."
+msgstr "您的Session无法保存！请联系网站管理员，将您的错误信息和登录信息告诉他。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2189
+msgid "Login has been temporarily suspended. Please try again later."
+msgstr "登录已临时暂停。请稍候重试。"
+
+#: /home/julius/workspace/jcore/lib/sources/users.class.php:2195
+msgid "The specified username is currently inactive. If you have problems activating your account, please contact us or request a new password to activate your account."
+msgstr "指定用户目前未激活。如果您激活帐号遇到问题，请联系我们，或者请求一个新密码激活您的帐号。"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:44
+msgid "New Feed"
+msgstr "新订阅"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:48
+msgid "Available Feeds"
+msgstr "可用订阅"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:64
+msgid "Feed URL"
+msgstr "订阅URL"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:72
+msgid "Select Feed"
+msgstr "选择订阅"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:71
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:77
+msgid "e.g. http://jcore.net/rss/posts.xml"
+msgstr "例如：http://jcore.net/rss/posts.xml"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:144
+msgid "RSS feeds have been successfully re-ordered."
+msgstr "RSS订阅已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:155
+msgid "RSS feed has been successfully deleted."
+msgstr "RSS订阅已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:169
+msgid "RSS feed has been successfully updated."
+msgstr "RSS订阅已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:171
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:188
+msgid "View RSS"
+msgstr "浏览RSS"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:186
+msgid "RSS feed has been successfully created."
+msgstr "RSS订阅已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:206
+msgid "Title / Feed URL"
+msgstr "标题 / 订阅URL"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:331
+msgid "RSS Feeds Administration"
+msgstr "RSS订阅管理"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:356
+msgid "Edit RSS Feed"
+msgstr "编辑RSS订阅"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:357
+msgid "New RSS Feed"
+msgstr "新RSS订阅"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:394
+msgid "No RSS feeds found."
+msgstr "无RSS订阅。"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:455
+#, php-format
+msgid "Feed couldn't be created! Error: %s"
+msgstr "订阅无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/rss.class.php:488
+#, php-format
+msgid "Feed couldn't be updated! Error: %s"
+msgstr "订阅无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:52
+msgid "New Ad"
+msgstr "新广告"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:65
+msgid "Promo text"
+msgstr "广告语"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:96
+msgid "Upload a banner"
+msgstr "上传横幅"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:102
+msgid "Banner"
+msgstr "横幅"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:108
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:110
+msgid "e.g. image.jpg, flash.swf"
+msgstr "例如：image.jpg, flash.swf"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:126
+msgid "Use Google or other Ad Code"
+msgstr "使用Google或其它广告代码"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:131
+msgid "Ad Code (leave it empty to automatically generate code for flash ads)"
+msgstr "广告代码（留空则会为Flash广告自动生成代码）"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:138
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:140
+msgid "e.g. Google Ad Code"
+msgstr "例如：Google广告代码"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:148
+msgid "Show Ad only within a defined time interval"
+msgstr "仅在一个指定时间段内显示广告"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:167
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:434
+msgid "Show on"
+msgstr "显示与"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:241
+msgid "Ads have been successfully re-ordered."
+msgstr "广告已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:252
+msgid "Ad has been successfully deleted."
+msgstr "广告已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:277
+msgid "Ad has been successfully updated."
+msgstr "广告已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:290
+msgid "Ad has been successfully created."
+msgstr "广告已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:346
+msgid "No Place Defined"
+msgstr "未定义位置"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:349
+msgid "Total"
+msgstr "总计"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:373
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:420
+msgid "Expired"
+msgstr "已过期"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:430
+msgid "Every day"
+msgstr "每天"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:438
+msgid "Stats"
+msgstr "统计"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:439
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:478
+msgid "Displays"
+msgstr "显示"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:441
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:480
+msgid "Clicks"
+msgstr "点击"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:443
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:482
+msgid "Ratio"
+msgstr "比率"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:613
+msgid "Ads Administration"
+msgstr "广告管理"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:638
+msgid "Edit Ad / Banner"
+msgstr "编辑广告/横幅"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:639
+msgid "New Ad / Banner"
+msgstr "新广告/横幅"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:678
+msgid "No ads found."
+msgstr "无广告。"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:783
+#, php-format
+msgid "Ad couldn't be created! Error: %s"
+msgstr "广告无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:862
+#, php-format
+msgid "Ad couldn't be updated! Error: %s"
+msgstr "广告无法刷新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/ads.class.php:907
+msgid "Ad not found!"
+msgstr "广告未找到！"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:42
+msgid "Languages"
+msgstr "语言"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:59
+msgid "Couldn't regenerate sitemap XML file."
+msgstr "无法重生成XML站点地图文件。"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:69
+msgid "Sitemap XML file has been successfully regenerated."
+msgstr "XML站点地图文件已成功重生成。"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:79
+msgid "Sitemap XML File Administration"
+msgstr "XML站点地图管理"
+
+#: /home/julius/workspace/jcore/lib/sources/sitemap.class.php:86
+#, php-format
+msgid "This file (%s) gets updated automatically every time you create / edit / delete a page but you can regenerate or modify it manually below."
+msgstr "该文件(%s)在您创建/编辑/删除页面时自动更新，但您不能重生成，或手动生成。"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:69
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:635
+msgid "New Video"
+msgstr "新视频"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:91
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:151
+msgid "Video Cap"
+msgstr "视频采集"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:98
+msgid "Add an already uploaded video (for e.g. youtube, vimeo url)"
+msgstr "添加一个已上载的视频（例如：Youtube、Vimeo的URL）"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:103
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:170
+msgid "Video (URL)"
+msgstr "视频（URL）"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:108
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:174
+msgid "e.g. http://www.youtube.com/watch?v=0_fPV13lKm4"
+msgstr "例如：http://www.youtube.com/watch?v=0_fPV13lKm4"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:121
+msgid "Add another url"
+msgstr "添加另一个URL"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:128
+msgid "Local Video"
+msgstr "本地视频"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:139
+msgid "Upload a new video"
+msgstr "上载新视频"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:144
+msgid "Video File"
+msgstr "视频文件"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:148
+msgid "e.g. video.mp4, video.flv"
+msgstr "例如：video.mp4、video.flv"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:237
+msgid "Videos have been successfully re-ordered."
+msgstr "视频已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:248
+msgid "Video has been successfully deleted."
+msgstr "视频已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:261
+msgid "No file selected to be uploaded as a new video! Please select a file / video to upload or define an already uploaded video."
+msgstr "未选择要作为新视频上载到文件！请选择一个文件/视频上载，或使用一个已上载的视频。"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:303
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:383
+#, php-format
+msgid "Video \"%s\" is not embeddable, \"%s\"."
+msgstr "视频 \"%s\" 并非可嵌入的， \"%s\"."
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:313
+msgid "Video has been successfully updated."
+msgstr "视频已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:327
+msgid "Video has been successfully uploaded."
+msgstr "视频已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:351
+msgid "Video has been successfully added."
+msgstr "视频已成功添加。"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:413
+#, php-format
+msgid "There were problems adding some of the video urls you defined. The following videos couldn't be added: %s."
+msgstr "您使用的视频URL存在一些问题。下列视频无法添加：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:423
+#, php-format
+msgid "Video(s) have been successfully added. The following videos have been added: %s."
+msgstr "视频已成功添加。下列视频已添加：%s。"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:437
+msgid "Video"
+msgstr "视频"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:439
+msgid "Title / Added on"
+msgstr "标题 / 添加在"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:634
+msgid "Edit Video"
+msgstr "编辑视频"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:793
+#, php-format
+msgid "Video couldn't be created! Error: %s"
+msgstr "视频无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:849
+#, php-format
+msgid "Video couldn't be updated! Error: %s"
+msgstr "视频无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:1058
+msgid "No video selected!"
+msgstr "未选择视频！"
+
+#: /home/julius/workspace/jcore/lib/sources/videos.class.php:1070
+msgid "The selected video cannot be found!"
+msgstr "选中的视频无法找到！"
+
+#: Changes in 0.8
+#: ---------------
+#: /home/julius/workspace/jcore/lib/sources/requests.class.php:158
+msgid "Invalid or not enough permission to access this request!"
+msgstr "错误操作或没有足够权限完成请求！"
+
+#: /home/julius/workspace/jcore/lib/sources/postshandling.class.php:252
+msgid "All"
+msgstr "全部"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:137
+msgid "Select User"
+msgstr "选择用户"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:181
+msgid "User \"%s\" couldn't be found!"
+msgstr "用户\"%s\"无法找到！"
+
+#: /home/julius/workspace/jcore/lib/sources/notes.class.php:183
+msgid "Please make sure you have entered / selected the right username or if it's a new user please first create the user at Member Management -> Users."
+msgstr "请确定您输入/选择了正确的用户名，或选择的为新用户。请首先在“成员管理->用户”中创建用户。"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicformdata.class.php:756
+msgid "Nothing to store! Please define some fields for your form and make sure their Value Types are set."
+msgstr "未保存任何信息！请为您的表单定义字段，并确定他们的类型已设置。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:64
+msgid "Author"
+msgstr "作者"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:70
+msgid "Version"
+msgstr "版本"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:716
+msgid "Export current template as an installable template package"
+msgstr "导出当前模板为可安装模板包"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:719
+msgid "Export Template"
+msgstr "导出模板"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:177
+msgid "By completing the form below you can export all your modifications to the current \"<b>%s</b>\" template as an installable template package and easily port it over to other websites. The package will include layout blocks, images, css, js, fonts and all the custom directories found."
+msgstr "完成下面的表单后，您修改的 \"<b>%s</b>\" 模板将可生成为可安装模板包，并且很容易安装到其它网站。该包将包含层次块、图像、CSS、JS、字体，以及所有用户指向。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:192
+msgid "Template Details"
+msgstr "模板细节"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:198
+msgid "Export"
+msgstr "导出"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:124
+msgid "Template has been successfully created."
+msgstr "模板已成功创建"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:76
+msgid "Quickly create / modify posts"
+msgstr "快速创建/修改帖子"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:79
+msgid "Posts at Glance"
+msgstr "帖子一览表"
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:33
+msgid "Page"
+msgstr "页面"
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:26
+msgid "Post to Page"
+msgstr "帖子到页面"
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:56
+msgid "No posts selected! Please select at least one post."
+msgstr "未选择帖子！请选择至少一个帖子。"
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:69
+msgid "Posts have been successfully deactivated and are now NOT visible to the public."
+msgstr "帖子已成功关闭，现在其它用户不可见。"
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:81
+msgid "Posts have been successfully activated and are now visible to the public."
+msgstr "帖子已成功激活，现在所有用户可见。"
+
+#: /home/julius/workspace/jcore/lib/sources/postsatglance.class.php:93
+msgid "Posts have been successfully deleted."
+msgstr "帖子已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:1499
+msgid "Template couldn't be activated!"
+msgstr "模板无法激活！"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:290
+msgid "Post Keywords"
+msgstr "帖子关键字"
+
+#: Global settings
+msgid "Instant User Registration"
+msgstr "立即用户注册"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:266
+msgid "Manage user groups, set group permissions"
+msgstr "管理用户组，设置组权限"
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:269
+msgid "User Groups"
+msgstr "用户组"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:26
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:281
+msgid "New Group"
+msgstr "新组"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:44
+msgid "Group Name"
+msgstr "组名称"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:49
+msgid "e.g. Editor"
+msgstr "例如：编辑"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:70
+msgid "Group has been successfully deleted."
+msgstr "组已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:84
+msgid "Group has been successfully updated."
+msgstr "组已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:97
+msgid "Group has been successfully created."
+msgstr "组已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:112
+msgid "Group"
+msgstr "组"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:255
+msgid "User Groups Administration"
+msgstr "用户组管理"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:280
+msgid "Edit Group"
+msgstr "编辑组"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:320
+msgid "No groups found."
+msgstr "未找到组。"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:360
+msgid "Group \"%s\" already exists."
+msgstr "组\"%s\"已存在。"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:373
+msgid "Group couldn't be created! Error: %s"
+msgstr "组无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/usergroups.class.php:413
+msgid "Group couldn't be updated! Error: %s"
+msgstr "组无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/sources/usergrouppermissions.class.php:30
+msgid "Group Permissions"
+msgstr "组权限"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:157
+msgid "Select Locale"
+msgstr "选择本地"
+
+#: /home/julius/workspace/jcore/lib/sources/languages.class.php:293
+msgid "Available Locales"
+msgstr "可用本地"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:106
+msgid "Auto Response Options"
+msgstr "自动回复选项"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:111
+msgid "Send Auto Response"
+msgstr "发送自动回复"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:188
+msgid "Locale File"
+msgstr "本地文件"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:198
+msgid "Select File"
+msgstr "选择文件"
+
+#: /home/julius/workspace/jcore/lib/sources/dynamicforms.class.php:307
+msgid "Available Locale Files"
+msgstr "可用本地文件"
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:299
+msgid "Display Form(s)"
+msgstr "显示表单"
+
+#: Changes in 0.9
+#: ---------------
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:105
+msgid "Include New Pages"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:113
+msgid "(automatically add new pages)"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:249
+msgid "New Pages"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menus.class.php:260
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:629
+msgid "Menu Items"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
+msgid "Accessible by"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:344
+msgid "(automatically show posts with these keywords)"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:575
+#, php-format
+msgid "A page with the path \"%s\" already exists!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:2146
+msgid "You do not have permission to access this page!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:87
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:680
+msgid "New Menu Item"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:103
+msgid "Select Page(s) to Add"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:121
+msgid "Custom Menu Item Options"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:134
+msgid "Sub Menu Item of"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:273
+msgid "Menu items have been successfully re-ordered."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:284
+msgid "Menu item and all its subitems have been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:295
+msgid "No page selected to be added or no custom menu item title defined!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:329
+msgid "Pages have been successfully added."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:356
+msgid "Menu item cannot be subitem of itself!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:369
+msgid "Menu item has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:382
+msgid "Menu item has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:606
+msgid "No menu items found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:637
+msgid "New pages will be automatically added to this menu."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:679
+msgid "Edit Menu Item"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:834
+#, php-format
+msgid "Menu item couldn't be created! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:890
+#, php-format
+msgid "Menu item couldn't be updated! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:44
+msgid "Update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:48
+msgid "Download proccess couldn't be completed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:49
+msgid "Please make sure you have an active internet connection and it is accessible by me or contact webmaster."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:72
+msgid "SQL"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:122
+msgid "Test has been successfully completed."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:131
+msgid "Update has been successfully installed."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:153
+#, php-format
+msgid "File \"%s\" couldn't be found!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:161
+#, php-format
+msgid "Opening %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:168
+msgid "Empty or invalid update!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:174
+msgid "Ok"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:177
+msgid "Running SQL queries"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:282
+#, php-format
+msgid "Uncompressing %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:289
+msgid "Out of Memory!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:317
+msgid "Creating directories"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:334
+msgid "not writable"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:366
+msgid "Writing files"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:387
+msgid "Skipped"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:389
+msgid "for maintaining your template"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:402
+msgid "for maintaining your changes"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:498
+msgid "Fixing errors"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:500
+msgid "Run the following command to fix the above errors."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:510
+msgid "Run the following command to revert permissions after done."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:555
+msgid "Check for Updates"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:566
+msgid "Updates"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:574
+#, php-format
+msgid "Update ver. %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:589
+msgid "Test run the update for problems"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:590
+msgid "Test Update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:657
+msgid "Updates Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:664
+msgid "Please note, while your site is being updated, it will enter maintenance mode but as soon as the update process is complete, it will return to normal mode. By testing an update no changes will be made to your system!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:674
+#, php-format
+msgid "Last checked on %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:692
+#, php-format
+msgid "ver. %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:699
+msgid "No updates found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:726
+msgid "Couldn't check jCore server's version number!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:727
+#, php-format
+msgid "Please make sure \"%s\" is readable by me or contact webmaster."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:746
+msgid "Couldn't check for updates!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:805
+msgid "connection timed out"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:826
+#, php-format
+msgid "Downloading %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:828
+msgid "connecting"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:855
+msgid "sending request"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:918
+msgid "cached"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:945
+msgid "Local file couldn't be created!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:1015
+msgid "Invalid response returned by jCore.net!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:1107
+msgid "Install Update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/settings.class.php
+msgid "Manual Gettext"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/sql.class.php:414
+#, php-format
+msgid "query took: %s seconds"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/files.class.php:492
+#, php-format
+msgid "Deleting file %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:84
+msgid "Module couldn't be installed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:154
+msgid "Deleting files"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modules.class.php:232
+msgid "No files to uninstall."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/updates.class.php:575
+msgid "Update couldn't be installed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/template.class.php:69
+msgid "Template couldn't be installed!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:28
+msgid "Upload Module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:32
+msgid "View Modules"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:36
+msgid "Get Modules"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:42
+msgid "Module File"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:48
+msgid "e.g. module.tar.gz"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:62
+msgid "Upload another module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:93
+msgid "Module has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:104
+msgid "Module has been successfully activated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:122
+msgid "Module has been successfully deactivated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:137
+msgid "No module selected to be uploaded! Please select at least one module to upload."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:159
+#, php-format
+msgid "There were problems uploading some of the modules you selected. The following modules couldn't be uploaded: %s."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:169
+#, php-format
+msgid "Modules have been successfully uploaded. The following modules have been uploaded: %s."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:180
+msgid "Module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:251
+msgid "global"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:252
+msgid "local"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:373
+msgid "Modules Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:383
+msgid "Below are the available modules found in the \"<b>modules/</b>\" folder. To install a new module just extract it to the \"<b>modules/</b>\" folder, or using the form below select the module package file (e.g. module.tar.gz)."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:395
+msgid "Upload New Module"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:478
+msgid "No modules found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:501
+msgid "Module couldn't be loaded! Please make sure it is a valid module and try again."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:605
+#, php-format
+msgid "Module couldn't be deleted but it is now safe to be deleted manually by just simply removing the \"%s\" file or folder."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:625
+msgid "Couldn't extract module as it is to big to be processed with the current memory limit set. Please try to extract it manually or increment the PHP memory limit."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:638
+msgid "Module couldn't be extracted! Error: Invalid module! Please make sure to upload a valid tar.gz module file."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:657
+msgid "Module couldn't be extracted! Error: Empty module! The module you selected seems to be an empty tar.gz file."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:672
+#, php-format
+msgid "Module couldn't be extracted! Error: \"%s\" directory couldn't be created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:693
+#, php-format
+msgid "Module couldn't be extracted! Error: \"%s\" file couldn't be created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:196
+msgid "Add additional functionality to your website"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/admin.class.php:199
+msgid "Module Manager"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/blocks.class.php:205
+msgid "Mobile Browsers"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:327
+msgid "Add Keyword"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:820
+msgid "Popularity"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:815
+msgid "Keyword"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:505
+#, php-format
+msgid "Module couldn't be added! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:973
+msgid "Not Searchable"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:677
+msgid "Read Own"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:679
+msgid "Write Own"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/posts.class.php:959
+msgid "Hide when Expired"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/pages.class.php:720
+msgid "Layout"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:27
+msgid "New Layout"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:109
+msgid "Layouts have been successfully re-ordered."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:120
+msgid "Layout has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:134
+msgid "Layout has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:147
+msgid "Layout has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:304
+msgid "Layouts Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:333
+msgid "Edit Layout"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:369
+msgid "No layouts found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:429
+#, php-format
+msgid "Layout couldn't be created! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/layouts.class.php:460
+#, php-format
+msgid "Layout couldn't be updated! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:89
+msgid "Running update"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:357
+#, php-format
+msgid "FTP Connecting to %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:366
+msgid "Couldn't connect!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:375
+msgid "FTP Locate Root directory"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:398
+msgid "Couldn't locate Root directory!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:660
+msgid "Update using FTP"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:667
+msgid "Hostname"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:675
+msgid "FTP Username"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:681
+msgid "FTP Password"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:687
+msgid "FTP Port"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/sources/update.class.php:695
+msgid "Use SSL"
+msgstr ""

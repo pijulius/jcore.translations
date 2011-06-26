@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:21+0200\n"
+"PO-Revision-Date: 2011-06-22 23:29+0800\n"
+"Last-Translator: Xu Cheng <xc@virtualdell.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:14
+msgid "Polls"
+msgstr "投票"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:15
+msgid "Quickly gather information on different subjects"
+msgstr "快速收集不同主题的信息。"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:34
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:57
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:77
+msgid "Poll"
+msgstr "投票"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:216
+#, php-format
+msgid "Poll answer couldn't be created! Error: %s"
+msgstr "投票答案无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:244
+#, php-format
+msgid "Poll answer couldn't be updated! Error: %s"
+msgstr "投票答案无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:285
+#, php-format
+msgid "%s votes"
+msgstr "%s次投票"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:711
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1345
+msgid "New Poll"
+msgstr "新投票"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:724
+msgid "Question"
+msgstr "问题"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:747
+msgid "Answers"
+msgstr "答案"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:749
+msgid "(check boxes for Guest answers)"
+msgstr "（用于访客回答的选择框）"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:768
+msgid "Add another answer"
+msgstr "添加另一个答案"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:775
+msgid "Voting Options"
+msgstr "投票选项"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:780
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1189
+msgid "Hide Results"
+msgstr "隐藏结果"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:789
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1194
+msgid "Voting Closed"
+msgstr "投票关闭"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:798
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1176
+msgid "Voting Interval"
+msgstr "投票间隔时间"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:807
+msgid "minutes (if set to 0 only one vote will be allowed per ip or user)"
+msgstr "分钟（如果设置为0，每个IP或用户仅允许投1票）"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:876
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1200
+msgid "Members Only"
+msgstr "仅限于成员"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:884
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1205
+msgid "Show to Guests"
+msgstr "访客可见"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:963
+msgid "Polls and answers have been successfully re-ordered."
+msgstr "投票和答案已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:974
+msgid "Poll has been successfully deleted."
+msgstr "投票已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:996
+msgid "Poll has been successfully updated."
+msgstr "投票已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1000
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1020
+msgid "View Poll"
+msgstr "查看投票"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1016
+msgid "Poll has been successfully created."
+msgstr "投票已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1041
+msgid "Votes"
+msgstr "投票"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1196
+#, php-format
+msgid "(on %s)"
+msgstr "（占%s）"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1316
+msgid "Poll Administration"
+msgstr "投票管理"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1344
+msgid "Edit Poll"
+msgstr "编辑投票"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1383
+msgid "No polls found."
+msgstr "未发现投票。"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1567
+#, php-format
+msgid "Poll couldn't be created! Error: %s"
+msgstr "投票无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1647
+#, php-format
+msgid "Poll couldn't be updated! Error: %s"
+msgstr "投票无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1784
+msgid "Select (one answer can be chosen)"
+msgstr "单选（只能选择一个答案）"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1786
+msgid "Check (multiple answers can be chosen)"
+msgstr "多选（可以选择多个答案）"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1788
+msgid "Undefined!"
+msgstr "未定义！"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1811
+msgid "No answer selected!"
+msgstr "未选择答案！"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1825
+msgid "Poll cannot be found or it has been deactivated!"
+msgstr "找不到投票，或者投票被停用！"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1832
+msgid "Only registered users can vote."
+msgstr "只有注册用户可投票。"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1849
+msgid "You already voted on this poll!"
+msgstr "您已经投过票了。"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1884
+#, php-format
+msgid "Vote couldn't be stored! Error: %s"
+msgstr "投票无法保存！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1905
+msgid "Thank you for your vote."
+msgstr "感谢您的投票。"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1929
+msgid "This area is limited to members only. Please login below."
+msgstr "该区域仅限成员访问。请先登录。"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:1954
+#, php-format
+msgid "Closed on %s"
+msgstr "关闭在%s"
+
+#: /home/julius/workspace/jcore/lib/modules/poll.class.php:2037
+msgid "Vote"
+msgstr "投票"
+

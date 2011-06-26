@@ -1,0 +1,1969 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:23+0200\n"
+"PO-Revision-Date: 2011-06-22 22:59+0800\n"
+"Last-Translator: Xu Cheng <xc@virtualdell.com>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: Dynamic Forms
+msgid "Title"
+msgstr "标题"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Custom Options Placeholder"
+msgstr "自定义占位符选项"
+
+msgid "Blogging Options"
+msgstr "博客选项"
+
+msgid "Created on"
+msgstr "创建于"
+
+msgid "Path"
+msgstr "路径"
+
+msgid "Keywords"
+msgstr "关键字"
+
+msgid "Rating Options"
+msgstr "等级选项"
+
+msgid "Enable Rating"
+msgstr "允许评级"
+
+msgid "Enable Guest Rating"
+msgstr "允许访客评级"
+
+msgid "Comments Options"
+msgstr "评论选项"
+
+msgid "Enable Comments"
+msgstr "允许评论"
+
+msgid "Enable Guest Comments"
+msgstr "允许访客评论"
+
+msgid "Additional Options"
+msgstr "附加选项"
+
+msgid "Deactivated"
+msgstr "非活动"
+
+msgid "e.g. 150"
+msgstr "例如：150"
+
+msgid "<span class='comment' style='text-decoration: line-through;'>(marked with strike through)</span>"
+msgstr "<span class='comment' style='text-decoration: line-through;'>(标记为删除)</span>"
+
+msgid "<b>Billing information</b><br />* This information must match your credit card to prevent any delays"
+msgstr "<b>账单信息</b><br />* 该信息必须与您信用卡相符，以防止任何延误"
+
+msgid "Your name"
+msgstr "您的名字"
+
+msgid "Phone number"
+msgstr "电话号码"
+
+msgid "<b>Shipping address</b><br />* Leave blank If same as Billing Information"
+msgstr "<b>邮寄地址</b><br />* 如果与账单相同可不填"
+
+msgid "Company / Organization"
+msgstr "公司/组织"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "City"
+msgstr "城市"
+
+msgid "State"
+msgstr "省/州"
+
+msgid "Zip/Postal code"
+msgstr "邮政编码"
+
+msgid "Country"
+msgstr "国家/地区"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Indicate here your preferences or other comments"
+msgstr "在这里写出你的喜好或其它评论。"
+
+msgid "Gift order"
+msgstr "礼物订单"
+
+msgid "Is this a gift order?"
+msgstr "这是一个礼物订单吗？"
+
+msgid "Please enter your gift message here"
+msgstr "请在此输入您的祝福信息"
+
+#: Cart Settings
+msgid "Automatic Continue Shopping"
+msgstr "自动开始运输"
+
+msgid "Currency Position"
+msgstr "货币地位"
+
+msgid "Weight Unit"
+msgstr "重量单位"
+
+msgid "Display Similar Items"
+msgstr "显示类似商品"
+
+msgid "Limit"
+msgstr "限制"
+
+msgid "Email Notification"
+msgstr "Email通知"
+
+msgid "Send Notification Email On New Order"
+msgstr "有新订单时发送通知邮件"
+
+msgid "Send Notification Email To"
+msgstr "发送通知邮件到"
+
+msgid "Limits"
+msgstr "限制"
+
+msgid "Minimum Item Order"
+msgstr "最小订单商品数量"
+
+msgid "Minimum Order Price"
+msgstr "最小订单价格"
+
+msgid "Order Method InvoiceCustomer"
+msgstr "通过客户发票支付订单"
+
+msgid "Order Method Check"
+msgstr "通过支票支付订单"
+
+msgid "To Name"
+msgstr "到名字"
+
+msgid "Order Method PayPal"
+msgstr "通过PayPal支付订单"
+
+msgid "Order Method CCBill"
+msgstr "通过CCBill支付订单"
+
+msgid "Account Number"
+msgstr "帐号"
+
+msgid "SubAccount Number"
+msgstr "子帐号"
+
+msgid "Form ID"
+msgstr "来自ID"
+
+msgid "Encryption Key"
+msgstr "密钥"
+
+msgid "Currency Code"
+msgstr "货币代码"
+
+msgid "Order Method AlertPay"
+msgstr "通过AlertPay支付订单"
+
+msgid "Security Code"
+msgstr "安全码"
+
+msgid "Order Method AuthorizeDotNet"
+msgstr "通过AuthorizeDotNet支付订单"
+
+msgid "API Login ID"
+msgstr "API登录ID"
+
+msgid "Transaction Key"
+msgstr "业务处理键"
+
+msgid "Order Method 2CheckOut"
+msgstr "通过2CheckOut支付订单"
+
+msgid "Vendor ID"
+msgstr "卖方ID"
+
+msgid "Skip Fraud Check"
+msgstr "屏蔽欺诈支票"
+
+msgid "Order Method MoneyBookers"
+msgstr "通过MoneyBookers支付订单"
+
+msgid "Enabled"
+msgstr "允许"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Currency"
+msgstr "货币"
+
+msgid "Secret Word"
+msgstr "安全词"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:32
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1509
+msgid "Shopping Orders"
+msgstr "运输订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:33
+msgid "Handle New / Processed orders and display members their orders history"
+msgstr "处理新的/处理中的订单，显示成员的历史订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:69
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:116
+msgid "Invoice Customer"
+msgstr "客户发票"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:70
+msgid "You will be contacted personally to finalize the payments"
+msgstr "您将单独联系，以确定支付方式"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:74
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:144
+msgid "Check Payment"
+msgstr "支票支付"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:75
+#, php-format
+msgid "Please complete the check to be sent to %s"
+msgstr "请完成该支票，送达到%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:82
+msgid "Credit Card Payment (PayPal)"
+msgstr "信用卡支付（Paypal）"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:83
+msgid "An extra step will be required trough Paypal.com"
+msgstr "Paypal.com需要一个额外的步骤"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:87
+msgid "Credit Card Payment (CCBill)"
+msgstr "信用卡支付（CCBill）"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:88
+msgid "An extra step will be required trough CCBill.com"
+msgstr "CCBill.com需要一个额外的步骤"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:92
+msgid "Credit Card Payment (AlertPay)"
+msgstr "信用卡支付（AlertPay）"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:93
+msgid "An extra step will be required trough AlertPay.com"
+msgstr "AlertPay.com需要一个额外的步骤"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:97
+msgid "Credit Card Payment (Authorize.net)"
+msgstr "信用卡支付（Authorize.net）"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:98
+msgid "An extra step will be required trough Authorize.net"
+msgstr " Authorize.net需要一个额外的步骤"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:102
+msgid "Credit Card Payment (2CheckOut)"
+msgstr "信用卡支付（2CheckOut）"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:103
+msgid "An extra step will be required trough 2CheckOut.com"
+msgstr "2CheckOut.com需要一个额外的步骤"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:107
+msgid "Credit Card Payment (MoneyBookers)"
+msgstr "信用卡支付（MoneyBookers）"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:108
+msgid "An extra step will be required trough MoneyBookers.com"
+msgstr "MoneyBookers.com需要一个额外的步骤"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:121
+msgid "Please contact client to finalize the payments."
+msgstr "请与客户联系，确定支付方式。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:149
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:171
+msgid "Name on Check"
+msgstr "支票上的名称"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:152
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:178
+msgid "Check Number"
+msgstr "支票号码"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:155
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:185
+msgid "Check Amount"
+msgstr "支票金额"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:199
+msgid "PayPal"
+msgstr "PayPal"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:202
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:429
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:623
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:818
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1030
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1265
+msgid "Your order has been successfully created but your payment has not been processed yet. To finalize your payments please click on the button below."
+msgstr "您的订单已成功创建，但是您的支付还没有处理。要确定您的支付，请点击以下按钮。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:208
+msgid "User redirected to paypal, payment is being processed."
+msgstr "用户重定向到PayPal，支付正在处理。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:256
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:485
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:677
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:886
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1082
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1316
+msgid "Click to Finalize Payments"
+msgstr "点击进入确认支付环节"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:426
+msgid "CCBill"
+msgstr "CCBill"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:435
+msgid "User redirected to ccbill, payment is being processed."
+msgstr "用户重定向到CCBill，支付正在处理。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:620
+msgid "AlertPay"
+msgstr "AlertPay"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:629
+msgid "User redirected to alertpay, payment is being processed."
+msgstr "用户重定向到AlertPay，支付正在处理。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:815
+msgid "Authorize.net"
+msgstr "Authorize.net"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:824
+msgid "User redirected to authorize.net, payment is being processed."
+msgstr "用户重定向到Authorize.net，支付正在处理。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1027
+msgid "2CheckOut"
+msgstr "2CheckOut"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1036
+msgid "User redirected to 2checkout, payment is being processed."
+msgstr "用户重定向到2CheckOut，支付正在处理。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1262
+msgid "MoneyBookers"
+msgstr "MoneyBookers"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1271
+msgid "User redirected to moneybookers, payment is being processed."
+msgstr "用户重定向到MoneyBookers，支付正在处理。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1536
+msgid "Order"
+msgstr "订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1576
+msgid "Order item couldn't be added to the db! Please contact us with this error as soon as possible."
+msgstr "订单商品无法添加到数据库！请尽可能快的联系我们，并报告我们此错误。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1616
+#, php-format
+msgid "Order item couldn't be updated! Error: %s"
+msgstr "订单商品无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1868
+msgid "Shopping cart settings table cannot be found! Please first install the Shopping Cart module and then try again."
+msgstr "无法找到购物车设置表格！请首先安装购物车模块，然后重试。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2094
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3566
+msgid "New Order"
+msgstr "新订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2098
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4703
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4755
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5780
+msgid "Items"
+msgstr "商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2101
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:449
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4385
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3645
+msgid "Cart Settings"
+msgstr "购物车设置"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2120
+msgid "Order Status"
+msgstr "订单状态"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2157
+msgid "Order Owner"
+msgstr "订单所有者"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2171
+msgid "Define the owner of this order"
+msgstr "为这些订单定义所有者"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2172
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:157
+msgid "Select User"
+msgstr "选择用户"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2176
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:24
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1990
+msgid "Shopping Items"
+msgstr "运输商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2177
+msgid "Click on the Add Items link below to add items to this order."
+msgstr "点击以下的添加商品链接，将商品添加到订单。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2196
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4072
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4526
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2838
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2844
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2909
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2961
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3007
+msgid "Order Method"
+msgstr "排序方式"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2220
+msgid "No Order Method Specified"
+msgstr "无指定的排序方式"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2226
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3329
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4549
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4732
+msgid "Status"
+msgstr "状态"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2257
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4569
+msgid "Details"
+msgstr "细节"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2265
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3059
+msgid "Please select the order method you would like to proceed with"
+msgstr "请选择排序方式来处理"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2363
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2543
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1816
+msgid "Custom Options"
+msgstr "客户选项"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2412
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3149
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:583
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1762
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4417
+msgid "Ref. Number"
+msgstr "编号号码"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2417
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3154
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:61
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:89
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:230
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:250
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:280
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4189
+msgid "Item"
+msgstr "商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2422
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3159
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3285
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3319
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4194
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4429
+msgid "Quantity"
+msgstr "数量"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2427
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3164
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4434
+msgid "Unit Price"
+msgstr "单位价格"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2432
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4439
+msgid "Total Price"
+msgstr "总价格"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2451
+msgid "Add items to this order"
+msgstr "添加商品到订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2452
+msgid "Add Items"
+msgstr "添加商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2457
+msgid "Refresh order totals"
+msgstr "刷新订单总额"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2458
+msgid "Refresh"
+msgstr "刷新"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2464
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4114
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4274
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4576
+msgid "Subtotal"
+msgstr "小计"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2473
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4120
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2080
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4288
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4601
+msgid "Tax"
+msgstr "税"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2482
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4126
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:418
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4303
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4626
+msgid "Discount"
+msgstr "折扣"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2490
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4132
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4318
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4651
+msgid "Shipping & Handling"
+msgstr "运输和费用"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2498
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3327
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4138
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4730
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4332
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4676
+msgid "Grand Total"
+msgstr "总计"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2731
+msgid "Order has been successfully deleted."
+msgstr "订单已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2745
+msgid "Order has been successfully updated."
+msgstr "订单已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2761
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2499
+msgid "We are sorry for the inconvenience but it seems this order method doesn't have order processing capabilities. Please choose a different order method or contact webmaster."
+msgstr "我们非常抱歉打搅您，但是该排序方式不具备排序处理能力。请选择一个不同的排序方法或联系网站管理员。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2815
+msgid "No items added / selected for this order! Please select / add at least one item for the new order to proceed."
+msgstr "订单中未添加/选择商品！请选择/添加至少一个商品，用于新订单处理。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2892
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2625
+msgid "There were some errors while processing your order (some items couldn't be added to your order). Please contact us with this error and your order number as soon as possible."
+msgstr "在处理您的订单时遇到一些错误（有些商品无法被添加到您的订单）。请尽可能快的联系我们，报告该错误。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2902
+#, php-format
+msgid "Order has been successfully created.<br /> The confirmation / tracking number is <b>%s</b>."
+msgstr "订单已成功创建。<br />确认/运输号码为<b>%s</b>。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2907
+msgid "View Order"
+msgstr "浏览订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:2963
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1189
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2007
+msgid "Select"
+msgstr "选择"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3034
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:380
+msgid "Yes"
+msgstr "是"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3144
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:310
+msgid "Add"
+msgstr "添加"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3169
+msgid "Stock"
+msgstr "现货"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3301
+msgid "Available"
+msgstr "可用"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3302
+msgid "Unavailable"
+msgstr "不可用"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3325
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4728
+msgid "Order ID / Submitted on"
+msgstr "订单ID/提交于"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3506
+msgid "Shopping Orders Administration"
+msgstr "运输订单管理"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3565
+msgid "Edit Order"
+msgstr "编辑订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3612
+msgid "New and Processing Orders"
+msgstr "新的和正在处理的订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3622
+msgid "Processed Orders"
+msgstr "已处理的订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3648
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4931
+msgid "No orders found."
+msgstr "未发现订单。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3735
+msgid "We are sorry for the inconvenience but the order couldn't be added to the db. Please contact us with this error as soon as possible."
+msgstr "我们非常抱歉打搅您，该订单无法添加到数据库。请尽可能快的联系我们，并报告该错误。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3760
+#, php-format
+msgid "Order couldn't be created / updated! Error: %s"
+msgstr "订单无法创建/更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3842
+#, php-format
+msgid "Order couldn't be updated! Error: %s"
+msgstr "订单无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3908
+msgid "Accepted"
+msgstr "接受"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3910
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3930
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4021
+msgid "Cancelled"
+msgstr "取消的"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3912
+msgid "New"
+msgstr "新"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3914
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3940
+msgid "Processing"
+msgstr "处理中的"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3916
+msgid "Rejected"
+msgstr "驳回的"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3918
+msgid "Delivered"
+msgstr "完成的"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3920
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3942
+msgid "Undefined!"
+msgstr "未定义的！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3932
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4015
+msgid "Paid"
+msgstr "支付的"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3934
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4028
+msgid "Pending"
+msgstr "等待中的"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3936
+msgid "Failed"
+msgstr "失败的"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3938
+msgid "Expired"
+msgstr "过期的"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3978
+msgid "Email couldn't be sent! The defined order cannot be found."
+msgstr "Email无法发送！指定订单未找到。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4017
+msgid "It's now safe to ship the goods if necessary."
+msgstr "现在将竭尽可能安全的运输该货物。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4023
+msgid "IMPORTANT: payment has been cancelled so shipment should be cancelled too!"
+msgstr "重要提示：支付已取消，因此运输也应取消！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4030
+msgid "IMPORTANT: do NOT ship any goods until payment has been confirmed / processed!"
+msgstr "重要提示：不要运输任何商品，直到支付已确认/处理！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4078
+msgid "Items ordered"
+msgstr "已预订商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4145
+msgid "You can access / download your digital goods at:"
+msgstr "您可以访问/下载您的电子商品，在："
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4284
+msgid "Your payment is still pending. To access your Digital Goods please finalize your payments below or wait until we receive the confirmation for your payment."
+msgstr "您的支付一直处于等待状态。要访问您的电子商品，请在下面完成您的支付，或等待直到我们收到您支付的确认信息后。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4324
+msgid "Order #"
+msgstr "订单 #"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4349
+msgid "Your order details are listed below, if you would like to change any of the submitted information or have further question / comments please let us know in the comments."
+msgstr "您预订的详细信息已罗列在以下，如果您需要修改已提交的信息，或有疑问/评论，请通过评论板告知我们。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4453
+msgid "Payment confirmed and received."
+msgstr "支付已确认，并且已收讫。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4461
+msgid "Payment still pending!"
+msgstr "支付一直处于等待状态！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4469
+msgid "Payment failed!"
+msgstr "支付失败！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4477
+msgid "Payment expired!"
+msgstr "支付过期！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4485
+msgid "Awaiting payment deposit!"
+msgstr "支付已作为订金，处于等待状态！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4507
+msgid "It seems the payment has not been processed yet or you haven't finalized the payment. If you sure the payment has been processed please wait a few more minutes until we receive the confirmation, otherwise please click on the button below."
+msgstr "目前支付似乎还未处理，或者您还没有结束支付。如果您确信支付已经处理，请等待数分钟，直到我们收到确认，另外请点击以下的按钮。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4531
+msgid "Method"
+msgstr "方法"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4608
+#, php-format
+msgid "%s, started on <i>%s</i>, finished on %s, from %s"
+msgstr "%s, 共享于 <i>%s</i>, 结束在 %s, 来自 %s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4613
+msgid "unknown"
+msgstr "未知"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4647
+msgid "Downloads"
+msgstr "下载"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:16
+msgid "Shopping Store"
+msgstr "购物商店"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:17
+msgid "Sell products in a directory like structure"
+msgstr "销售产品在目录式结构"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:100
+msgid "No file selected to download!"
+msgstr "未选择要下载的文件！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:112
+msgid "The selected file cannot be found!"
+msgstr "选中的文件未找到！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:119
+msgid "You need to be logged in to download this file. Please login or register."
+msgstr "您必须登录后才能下载该文件。请登录或注册。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:132
+msgid "An order with this file cannot be found!"
+msgstr "关于此文件的预订无法找到！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:143
+msgid "The order you selected cannot be found!"
+msgstr "您选择的订单无法找到！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:152
+msgid "You are not the owner of this order!"
+msgstr "您并非该订单的所有者！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:159
+msgid "Your payment has not yet been confirmed!"
+msgstr "您的支付目前还没有确认！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:169
+msgid "Your order has been cancelled!"
+msgstr "您的订单已取消！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:187
+msgid "Your download has expired!"
+msgstr "您的订单已过期！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:442
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2032
+msgid "New Item"
+msgstr "新商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:446
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4382
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3613
+msgid "Orders"
+msgstr "订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:498
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:751
+msgid "(will create a new item)"
+msgstr "（将创建一个新商品）"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:552
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3218
+msgid "Item Options"
+msgstr "商品选项"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:558
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1741
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4199
+msgid "Price"
+msgstr "价格"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:580
+msgid "e.g. 170"
+msgstr "例如：170"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:587
+msgid "e.g. ITEM-0711"
+msgstr "例如：ITEM-0711"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:595
+msgid "Quantity Options"
+msgstr "数量选项"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:600
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1828
+msgid "Available Quantity"
+msgstr "可用数量"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:607
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:609
+msgid "e.g. 1000 (leave it empty for unlimited)"
+msgstr "例如：1000（留空表示不限制）"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:612
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1833
+msgid "Max Order Quantity at Once"
+msgstr "一次的最大订单数量"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:619
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:621
+msgid "e.g. 15 (default 30)"
+msgstr "例如：15（默认30）"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:624
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1838
+msgid "Show Quantity Picker"
+msgstr "显示数量调节器"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:663
+msgid "e.g. oranges, lemons, limes"
+msgstr "例如：橙色的、柠檬色的、酸橙色的"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:864
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1307
+msgid "Title* (e.g. Color, Size)"
+msgstr "标题*（例如：颜色，尺寸）"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:874
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1317
+msgid "Required"
+msgstr "必须的"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:939
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1154
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1372
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1437
+msgid "Price Difference"
+msgstr "价格差异"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:944
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1163
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1377
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1442
+msgid "Price Type"
+msgstr "价格类型"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:949
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1382
+msgid "Max Characters"
+msgstr "最多字符数"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1012
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1103
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1259
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1409
+msgid "Fixed"
+msgstr "固定的"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1019
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1110
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1260
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1410
+msgid "Percent"
+msgstr "百分之"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1145
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1432
+msgid "Title* (e.g. Red, XXL)"
+msgstr "标题*（例如：红色，XXL）"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1187
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1456
+msgid "Add new row"
+msgstr "添加新行"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1208
+msgid "Add new option"
+msgstr "添加新选项"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1514
+msgid "Items have been successfully re-ordered."
+msgstr "商品已成功重排。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1525
+msgid "Item has been successfully deleted."
+msgstr "商品已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1547
+msgid "Item has been successfully updated."
+msgstr "商品已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1551
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1571
+msgid "View Item"
+msgstr "浏览商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1567
+msgid "Item has been successfully created."
+msgstr "商品已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1605
+msgid "Goods"
+msgstr "商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1704
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4468
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4853
+msgid "Digital Goods"
+msgstr "数字商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1747
+msgid "Special Price"
+msgstr "特殊价格"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1752
+msgid "Special Price Starts"
+msgstr "特殊价格开始"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1757
+msgid "Special Price Ends"
+msgstr "特殊价格结束"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1767
+msgid "Weight"
+msgstr "重量"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1777
+msgid "Taxable"
+msgstr "应纳税的"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1864
+msgid "Display Related Items"
+msgstr "显示相关商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2031
+msgid "Edit Item"
+msgstr "编辑商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2076
+msgid "Out of Stock Items"
+msgstr "超过库存商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2086
+msgid "Items in Stock"
+msgstr "库存中的商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2108
+msgid "No items found for this category."
+msgstr "未在该分类中找到商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2159
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2388
+msgid "Custom option title is required!"
+msgstr "需要自定义可选标题！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2168
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2179
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2397
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2408
+#, php-format
+msgid "No custom option price defined for \"%s\"!"
+msgstr "未定义关于\"%s\"自定义可选价格！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2188
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2417
+#, php-format
+msgid "Custom option price title for \"%s\" is required!"
+msgstr "需要有关\"%s\"的自定义可选价格标题！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2275
+#, php-format
+msgid "Item couldn't be added! Error: %s"
+msgstr "商品无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2302
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2598
+#, php-format
+msgid "Custom option couldn't be created! Error: %s"
+msgstr "自定义选择无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2316
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2337
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2494
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2571
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2616
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2636
+#, php-format
+msgid "Custom option price couldn't be created! Error: %s"
+msgstr "自定义选择价格无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2457
+#, php-format
+msgid "Custom option couldn't be updated! Error: %s"
+msgstr "自定义选择无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2513
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2550
+#, php-format
+msgid "Custom option price couldn't be updated! Error: %s"
+msgstr "自定义选择价格无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2725
+#, php-format
+msgid "Item couldn't be updated! Error: %s"
+msgstr "商品无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2957
+msgid "Stock: available"
+msgstr "库存：可用"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2962
+msgid "Stock: unavailable"
+msgstr "库存：不可用"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3146
+msgid "More Details"
+msgstr "更多细节"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3166
+msgid "Out of Stock"
+msgstr "超过库存"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3295
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3339
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3349
+msgid "Add to My Cart"
+msgstr "添加到我的购物车"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:3438
+msgid "Related Items"
+msgstr "相关商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4378
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5012
+msgid "New Category"
+msgstr "新分类"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4398
+msgid "Sub Category of"
+msgstr "子分类->"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4426
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4828
+msgid "Show Icons"
+msgstr "显示图标"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4433
+msgid "(display icons when category selected)"
+msgstr "当分类选中时显示图标"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4438
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4833
+msgid "Full Items"
+msgstr "全部商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4448
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4838
+msgid "Hide Subgroup Items"
+msgstr "隐藏子集合商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4463
+msgid "Digital / Downloadable Goods"
+msgstr "数字的/可下载的商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4476
+msgid "Downloads Expire after"
+msgstr "下载过期于"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4484
+msgid "days (when ordered)"
+msgstr "日（当预订时）"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4522
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4843
+msgid "Members Only"
+msgstr "仅限于成员"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4530
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4848
+msgid "Show to Guests"
+msgstr "显示给访客"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4599
+msgid "Categories have been successfully re-ordered."
+msgstr "分类已成功重排序。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4610
+msgid "Category has been successfully deleted."
+msgstr "分类已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4623
+msgid "Category cannot be subcategory of itself!"
+msgstr "无法将其自身设置为子分类！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4652
+msgid "Category has been successfully updated."
+msgstr "分类已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4656
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4676
+msgid "View Category"
+msgstr "查看分类"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4672
+msgid "Category has been successfully created."
+msgstr "分类已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4708
+msgid "Icon"
+msgstr "图标"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4775
+msgid "Icons"
+msgstr "图标"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4856
+#, php-format
+msgid "(downloads expire after %s days)"
+msgstr "（下载将过期于%s天后）"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:4983
+msgid "Shopping Administration"
+msgstr "商店管理"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5011
+msgid "Edit Category"
+msgstr "编辑分类"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5061
+msgid "No categories found."
+msgstr "未找到分类。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5182
+#, php-format
+msgid "Shopping Category couldn't be created! Error: %s"
+msgstr "商店分类无法创建！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5276
+#, php-format
+msgid "Shopping Category couldn't be updated! Error: %s"
+msgstr "商店分类无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5405
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5419
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5432
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5445
+msgid "Directory couldn't be protected!"
+msgstr "目录无法被保护！"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5545
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4875
+msgid "Latest Items"
+msgstr "最新商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5551
+msgid "Active Items"
+msgstr "活动商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5557
+msgid "Popular Items"
+msgstr "流行商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5563
+msgid "Discussed Items"
+msgstr "讨论的商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5569
+msgid "Rated Items"
+msgstr "规定的商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5620
+msgid "This area is limited to members only. Please login below."
+msgstr "该区域仅限于成员访问。请在以下登录。"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5681
+msgid "Shopping"
+msgstr "商店"
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:5779
+msgid "Items / Categories"
+msgstr "商品/分类"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:14
+msgid "Shopping Cart"
+msgstr "购物车"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:15
+msgid "Set Fees, Discounts, Taxes, checkout Limits and let people place orders"
+msgstr "设置服务费、折扣、税金、结算限制，使人们放置订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:65
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:618
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3605
+msgid "New Discount"
+msgstr "新折扣"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:78
+msgid "Discount Percentage"
+msgstr "折扣百分比"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:87
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:89
+msgid "e.g. 25"
+msgstr "例如：25"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:93
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:938
+msgid "Price Above or Equal"
+msgstr "价格高于或等于"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:112
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:114
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:957
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:959
+msgid "e.g. 10"
+msgstr "例如：10"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:117
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:962
+msgid "Price Below"
+msgstr "价格低于"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:136
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:138
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:981
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:983
+msgid "e.g. 70"
+msgstr "例如：70"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:142
+msgid "For Defined User"
+msgstr "对于指定用户"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:156
+msgid "Define the owner of the discount."
+msgstr "定义享受折扣的人员。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:202
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1103
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1921
+msgid "Priorities have been successfully set."
+msgstr "优先级已成功设置。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:213
+msgid "Discount has been successfully deleted."
+msgstr "折扣已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:250
+msgid "Discount has been successfully updated."
+msgstr "折扣已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:263
+msgid "Discount has been successfully created."
+msgstr "折扣已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:414
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1261
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2078
+msgid "Priority"
+msgstr "优先级"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:420
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1267
+msgid "Price >="
+msgstr "价格 >="
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:422
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1269
+msgid "Price <"
+msgstr "价格 <"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:427
+msgid "User"
+msgstr "用户"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:490
+msgid "User deleted!"
+msgstr "用户已删除！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:525
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1426
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2161
+msgid "Set Priority"
+msgstr "设置优先级"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:592
+msgid "Shopping Cart Discounts Administration"
+msgstr "购物车折扣管理"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:617
+msgid "Edit Discount"
+msgstr "编辑折扣"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:663
+msgid "No discounts found."
+msgstr "未发现折扣。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:720
+#, php-format
+msgid "Discount couldn't be added! Error: %s"
+msgstr "折扣无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:758
+#, php-format
+msgid "Discount couldn't be updated! Error: %s"
+msgstr "折扣无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:900
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1519
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3608
+msgid "New Fee"
+msgstr "新服务费"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:907
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1850
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3097
+msgid "Order Form"
+msgstr "订单来自"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:913
+msgid "Fee Amount"
+msgstr "服务费金额"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:933
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:935
+msgid "e.g. 5"
+msgstr "例如：5"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:987
+msgid "Using Weight"
+msgstr "使用重量"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:992
+msgid "Weight Above or Equal"
+msgstr "重量大于或等于"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1005
+msgid "e.g. 0.5"
+msgstr "例如：0.5"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1008
+msgid "Weight Below"
+msgstr "重量低于"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1021
+msgid "e.g. 3"
+msgstr "例如：3"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1032
+msgid "Using Order Form Field Values"
+msgstr "使用来自字段值中的订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1037
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1865
+msgid "Field name"
+msgstr "字段名"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1046
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1874
+msgid "Define the field you would like to compare."
+msgstr "定义您希望进行比较的字段。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1047
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1875
+msgid "Select Field"
+msgstr "选择字段"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1051
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1283
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1879
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2084
+msgid "Is or Contains"
+msgstr "是或者包含"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1057
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1059
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1884
+msgid "e.g. field name \"ShippingState\" is \"CA\" or contains \"CA, WA, NY\""
+msgstr "例如：字段名\"运送地区\" 是 \"CA\" 或 包含 \"CA, WA, NY\""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1114
+msgid "Fee has been successfully deleted."
+msgstr "服务费已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1139
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1957
+msgid "Order form field couldn't be found!"
+msgstr "字段中的订单无法找到！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1140
+msgid "Please make sure you have entered / selected the right field or if you wish to add this fee to a new field please first create the field at Content Management -> Dynamic Forms."
+msgstr "请确定您已输入/选择了正确的字段，或者，如果您希望添加服务费到一个新字段，请首先创建字段，在内容管理 -> 动态表单。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1156
+msgid "Fee has been successfully updated."
+msgstr "费用已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1169
+msgid "Fee has been successfully created."
+msgstr "费用已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1183
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2001
+msgid "Order Form Fields"
+msgstr "来自字段中的订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1194
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1281
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2012
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2082
+msgid "Field"
+msgstr "字段"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1199
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2017
+msgid "Name"
+msgstr "名称"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1265
+msgid "Fee"
+msgstr "服务费"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1274
+msgid "Weight >="
+msgstr "重量 >="
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1276
+msgid "Weight <"
+msgstr "重量 <"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1386
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2122
+msgid "Field deleted!"
+msgstr "字段已删除！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1493
+msgid "Shopping Cart Fees Administration"
+msgstr "购物车服务费管理"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1518
+msgid "Edit Fee"
+msgstr "编辑服务费"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1564
+msgid "No fees found."
+msgstr "未发现费用。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1642
+#, php-format
+msgid "Fee couldn't be added! Error: %s"
+msgstr "费用无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1696
+#, php-format
+msgid "Fee couldn't be updated! Error: %s"
+msgstr "费用无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1843
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2253
+msgid "New Tax"
+msgstr "新税负"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1856
+msgid "Tax Percentage"
+msgstr "税负百分比"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1932
+msgid "Tax has been successfully deleted."
+msgstr "税负已成功删除。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1958
+msgid "Please make sure you have entered / selected the right field or if you wish to add this tax to a new field please first create the field at Content Management -> Dynamic Forms."
+msgstr "请确认您已输入/选择了正确的字段，如果您希望添加该税负到一个新字段，请首先创建该字段，在内容管理->动态表单。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1974
+msgid "Tax has been successfully updated."
+msgstr "税负已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:1987
+msgid "Tax has been successfully created."
+msgstr "税负已成功创建。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2227
+msgid "Shopping Cart Taxes Administration"
+msgstr "购物车税率管理"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2252
+msgid "Edit Tax"
+msgstr "编辑税率"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2293
+msgid "No taxes found."
+msgstr "未发现税率。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2343
+#, php-format
+msgid "Tax couldn't be added! Error: %s"
+msgstr "税负无法添加！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2371
+#, php-format
+msgid "Tax couldn't be updated! Error: %s"
+msgstr "税负无法更新！错误：%s"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2483
+msgid "Checkout Form"
+msgstr "结算自"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2529
+#, php-format
+msgid "We are sorry but it seems the stock for \"%s\" has changed meanwhile and there aren't enough items in stock now. Please go back and update your cart. Total available items in stock for this item are: %s."
+msgstr "我们非常抱歉，可能关于\"%s\"的库存在此期间已改变，现在该商品已没有足够的库存。请返回并且修改您的购物车。关于该商品的总可用库存为：%s。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2640
+#, php-format
+msgid "<b>Your order %s has been successfully saved.</b><br /> You can now complete the payment or leave it for a later date."
+msgstr "<b>您的订单%s已成功保存。</b><br />现在您可以完成支付，或者离开在将来完成。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2644
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2655
+msgid "View Your Orders"
+msgstr "浏览您的订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2648
+#, php-format
+msgid "<b>Thank you for your order!</b><br /><br /> Your confirmation / tracking number is <b>%s</b>, please keep it for your record, also a receipt has been emailed to you with all the information including your confirmation / tracking number."
+msgstr "<b>感谢您的预订！</b><br /><br />您确认/跟踪数字是 <b>%s</b>，请您记录，同时一份收据已发送到您邮箱，其中包括您确认/跟踪数字信息。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2684
+msgid "Invalid order method selected. Please choose a different order method below."
+msgstr "选择的排序方法不可用。请在以下选择一个不同的排序方法。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2717
+msgid "Checkout Step"
+msgstr "结算步骤"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2731
+msgid "Review Your Order"
+msgstr "预览您的订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2736
+msgid "Account information"
+msgstr "账户信息"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2772
+msgid "Your password will be emailed to the email address specified here.<br /> You will be able to change your password by using your account page after login."
+msgstr "您的密码将用Email传送到指定地址。<br />您将能够通过您的帐户页面修改密码后登录。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2927
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3025
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3115
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3198
+msgid "Email address"
+msgstr "Email地址"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2968
+msgid "Invalid order method selected! Please choose a different order method below."
+msgstr "选择的排序方法不可用。请在以下选择一个不同的排序方法。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3174
+msgid "New User?"
+msgstr "新用户？"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3178
+msgid "Please enter your desired username / password to continue as a new user."
+msgstr "请输入您期望的用户名/密码继续注册新用户。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3180
+msgid "Please enter your desired username to continue as a new user."
+msgstr "请输入您期望的用户名继续注册新用户。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3236
+msgid "Continue as a New User"
+msgstr "继续注册新用户"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3250
+msgid "Submit / Process Order"
+msgstr "提交/处理订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3255
+msgid "Submit / Review"
+msgstr "提交/预览"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3288
+msgid "Form is being processed. Please wait."
+msgstr "表单正在处理。请等待。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3619
+msgid "Shopping Cart Administration"
+msgstr "购物车管理"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3642
+msgid "Set checkout methods, currency and cart limits"
+msgstr "设置结算方法、货币和购物车限制"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3661
+msgid "Set global or user discounts"
+msgstr "设置全部或用户折扣"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3664
+msgid "Discount Settings"
+msgstr "折扣设置"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3680
+msgid "Set global or local fees"
+msgstr "设置全部或本地费用"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3683
+msgid "Fees Settings"
+msgstr "费用设置"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3702
+msgid "Set and manage taxes"
+msgstr "设置和管理税负"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3705
+msgid "Tax Settings"
+msgstr "税负设置"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3881
+msgid "No item defined to remove from your cart."
+msgstr "未定义要从您购物车中移除的商品。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3891
+msgid "Item has been successfully removed from your cart."
+msgstr "商品已成功从您购物车中移除。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3900
+msgid "No item defined to add to your cart."
+msgstr "未定义要加入到您购物车的商品。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3914
+msgid "The item you wanted to add to your cart cannot be found or is unfortunately temporarily out of stock. To check the availability of this item please contact us."
+msgstr "您希望添加到购物车中的商品无法找到，或者该条目暂时从库存中移除。要确认该条目是否可用，请与我们联系。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3928
+msgid "The item you wanted to add to your cart is temporary not available. Please contact us for more information on this item."
+msgstr "您希望添加到购物车中的商品暂时不可用。请联系我们以获得更多关于该条目的信息。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3937
+msgid "The item you wanted to add to your cart can only be accessed by members. Please login first and try again."
+msgstr "您希望添加到购物车中的商品仅限于成员。请登录后重试。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3971
+msgid "Item option cannot be found!"
+msgstr "商品选项无法找到！"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4056
+msgid "Item has been successfully added to your cart."
+msgstr "商品已成功添加到您的购物车。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4058
+msgid "Refresh Cart"
+msgstr "刷新购物车"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4081
+msgid "Cart has been successfully updated."
+msgstr "购物车已成功更新。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4116
+msgid "Already Registered?"
+msgstr "已经注册？"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4120
+msgid "Please enter your login information below to checkout with your account."
+msgstr "请输入您的登录信息，在下面使用您的帐户结算。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4179
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4930
+msgid "There are no items in your cart."
+msgstr "您的购物车无商品。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4348
+msgid "View My Cart"
+msgstr "浏览我的购物车"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4378
+#, php-format
+msgid "My Cart: %s items"
+msgstr "我的购物车：%s 商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4423
+msgid "Item / Options"
+msgstr "商品 / 选项"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4424
+msgid "Item / Added to Cart"
+msgstr "商品 / 添加到购物车"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4451
+msgid "Remove"
+msgstr "移除"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4567
+msgid "Remove Item"
+msgstr "移除商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4757
+#, php-format
+msgid "<b>TIP:</b> Orders over %s get %s discount!"
+msgstr "<b>提示：</b> 订单超过 %s 得到 %s 折扣!"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4768
+msgid "* For more details on each item click on the item's title. To change the quantity of an item pick a new quantity and press the Update Cart button."
+msgstr "* 要得到更多细节信息请点击每个商品的标题。要改变商品的数量，请调整一个新数量，然后按下更新购物车按钮。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4777
+msgid "Checkout"
+msgstr "结算"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4784
+msgid "Continue Shopping"
+msgstr "继续购物"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4792
+msgid "Update Cart"
+msgstr "更新购物车"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4873
+msgid "Similar Items"
+msgstr "相似商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4941
+#, php-format
+msgid "<b>Checkout Limit:</b> You must purchase at least %s item(s) to complete your checkout."
+msgstr "<b>结算限制：</b> 您必须购买至少 %s 商品才能完成您的结算。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4954
+#, php-format
+msgid "<b>Checkout Limit:</b> You must purchase item(s) for at least %s to complete your checkout."
+msgstr "<b>结算限制：</b> 您必须购买至少 %s 商品才能完成您的结算。"
+
+#: Changes in 0.8
+#: ---------------
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3787
+msgid "Handle pending and processing orders"
+msgstr "操作等待和处理中的订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3790
+msgid "New Orders"
+msgstr "新订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3806
+msgid "Lookup and update processed orders"
+msgstr "查找和更新处理过的订单"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3885
+msgid "Sales"
+msgstr "出售"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:3899
+msgid "Start / End Date"
+msgstr "开始 / 结束日期"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4195
+msgid "Products"
+msgstr "产品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4197
+msgid "Bestsellers"
+msgstr "畅销商品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4353
+msgid "Most Viewed Products"
+msgstr "浏览最多的产品"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2476
+msgid "Order originated from"
+msgstr "订单来自于"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:111
+msgid "Credit Card Payment (Ogone)"
+msgstr "信用卡支付 (Ogone)"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:112
+msgid "An extra step will be required trough Ogone.com"
+msgstr "Ogone.com需要一个额外的步骤"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1501
+msgid "Ogone"
+msgstr "Ogone"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:1510
+msgid "User redirected to ogone, payment is being processed."
+msgstr "用户重定向到Ogone，支付正在处理。"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4610
+msgid "Views"
+msgstr "浏览"
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3887
+msgid "Item option \"%s\" is required for \"%s\"!"
+msgstr "商品选项 \"%s\" 是 \"%s\"所需要的！"
+
+#: Changes in 0.9
+#: ---------------
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3840
+#, php-format
+msgid "The selected quantity exceeds quantity available (%s) in stock!"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2359
+msgid "New Coupon"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2372
+msgid "Coupon"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2388
+msgid "and/or"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2505
+msgid "Coupon has been successfully deleted."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2519
+msgid "Coupon has been successfully updated."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2532
+msgid "Coupon has been successfully created."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2613
+#, php-format
+msgid "%s up to %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2727
+msgid "Shopping Cart Coupons Administration"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2756
+msgid "Edit Coupon"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2791
+msgid "No coupons found."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2850
+#, php-format
+msgid "Coupon couldn't be added! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2898
+#, php-format
+msgid "Coupon couldn't be updated! Error: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4303
+msgid "Set and manage discount coupons"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4306
+msgid "Coupons Settings"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5475
+msgid "Discount Codes"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5480
+msgid "invalid"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5487
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1870
+msgid "Stock left: %s"
+msgstr ""
+
+#: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2357
+msgid "Low / Out of Stock Items"
+msgstr ""
