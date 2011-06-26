@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-06-18 13:52-0500\n"
+"PO-Revision-Date: 2011-06-26 12:57-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -1915,7 +1915,7 @@ msgstr "Le coupon a été créé."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2613
 #, php-format
-msgid "%s till %s"
+msgid "%s up to %s"
 msgstr "%s jusqu'à concourence de %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2727
