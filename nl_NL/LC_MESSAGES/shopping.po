@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 20:23+0200\n"
-"PO-Revision-Date: 2011-06-15 11:12+0100\n"
+"PO-Revision-Date: 2011-06-19 13:59+0100\n"
 "Last-Translator: Gerda Bolhuis <gertiebee@live.nl>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -1892,91 +1892,91 @@ msgstr "Item optie \"%s\" is vereist voor \"%s\"!"
 
 #: Changes in 0.9
 #: ---------------
-
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4610
 msgid "Views"
-msgstr ""
+msgstr "Weergaven"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:3840
 #, php-format
 msgid "The selected quantity exceeds quantity available (%s) in stock!"
-msgstr ""
+msgstr "De geselecteerde hoeveelheid is meer dan de beschikbare (%s) in voorraad!"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2359
 msgid "New Coupon"
-msgstr ""
+msgstr "Nieuwe Coupon"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2372
 msgid "Coupon"
-msgstr ""
+msgstr "Coupon"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2388
 msgid "and/or"
-msgstr ""
+msgstr "en/of"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2505
 msgid "Coupon has been successfully deleted."
-msgstr ""
+msgstr "Coupon is succesvol verwijderd."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2519
 msgid "Coupon has been successfully updated."
-msgstr ""
+msgstr "Coupon is succesvol aangepast."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2532
 msgid "Coupon has been successfully created."
-msgstr ""
+msgstr "Coupon is succesvol aangemaakt."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2613
 #, php-format
 msgid "%s up to %s"
-msgstr ""
+msgstr "%s tot %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2727
 msgid "Shopping Cart Coupons Administration"
-msgstr ""
+msgstr "Winkelmand Coupon Beheer"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2756
 msgid "Edit Coupon"
-msgstr ""
+msgstr "Bewerk Coupon"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2791
 msgid "No coupons found."
-msgstr ""
+msgstr "Geen Coupons gevonden."
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2850
 #, php-format
 msgid "Coupon couldn't be added! Error: %s"
-msgstr ""
+msgstr "Coupon kon niet worden toegevoegd! Fout: %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2898
 #, php-format
 msgid "Coupon couldn't be updated! Error: %s"
-msgstr ""
+msgstr "Coupon kon niet worden geupdate! Fout: %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4303
 msgid "Set and manage discount coupons"
-msgstr ""
+msgstr "Beheer Kortings Coupons"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:4306
 msgid "Coupons Settings"
-msgstr ""
+msgstr "Coupon Instellingen"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5475
 msgid "Discount Codes"
-msgstr ""
+msgstr "Kortings Codes"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5480
 msgid "invalid"
-msgstr ""
+msgstr "ongeldig"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:5487
 msgid "Enter your coupon code if you have one."
-msgstr ""
+msgstr "Vul uw Coupon Code in als u die heeft."
 
 #: /home/julius/workspace/jcore/lib/modules/shopping.class.php:1870
 msgid "Stock left: %s"
-msgstr ""
+msgstr "Voorraad: %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shopping.class.php:2357
 msgid "Low / Out of Stock Items"
-msgstr ""
+msgstr "Laag aantal / niet in vooraad"
+
