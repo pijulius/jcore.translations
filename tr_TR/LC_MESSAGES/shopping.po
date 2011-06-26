@@ -1931,7 +1931,7 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2613
 #, php-format
-msgid "%s till %s"
+msgid "%s up to %s"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingcart.class.php:2727

@@ -1314,7 +1314,7 @@ msgstr "Купон успешно обновлен."
 msgid "Coupon has been successfully created."
 msgstr "Купон успешно создан."
 
-msgid "%s till %s"
+msgid "%s up to %s"
 msgstr "%s до %s"
 
 msgid "Shopping Cart Coupons Administration"
