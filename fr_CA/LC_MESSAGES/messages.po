@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 18:39+0200\n"
-"PO-Revision-Date: 2011-06-18 14:26-0500\n"
+"PO-Revision-Date: 2011-07-02 11:07-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -5162,7 +5162,7 @@ msgstr "Lecture des siens seulement"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:679
 msgid "Write Own"
-msgstr "Écriture des siens seuelement"
+msgstr "Écriture des siens seulement"
 
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:959
 msgid "Hide when Expired"
