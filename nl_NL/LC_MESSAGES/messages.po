@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: Gerda Bolhuis <gertiebee@live.nl>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.0\n"
+"MIME-Version: 1.2\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __\n"
@@ -4698,7 +4698,6 @@ msgstr "Toon formulier(en)"
 #: Changes in 0.9
 #: ---------------
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:105
-#, fuzzy
 msgid "Include New Pages"
 msgstr "Inclusief Nieuwe Pagina's"
 
@@ -4716,7 +4715,6 @@ msgid "Menu Items"
 msgstr "Menu Items"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
-#, fuzzy
 msgid "Accessible by"
 msgstr "Toegankelijk voor"
 
@@ -4743,7 +4741,6 @@ msgid "Select Page(s) to Add"
 msgstr "Selecteer Pagina(s) om toe te voegen"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:121
-#, fuzzy
 msgid "Custom Menu Item Options"
 msgstr "Menu Item Options"
 
@@ -4831,7 +4828,7 @@ msgid "File \"%s\" couldn't be found!"
 msgstr "Bestand \"%s\" kon niet gevonden worden!"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:161
-#, fuzzy, php-format
+#, php-format
 msgid "Opening %s"
 msgstr "%s geopend"
 
@@ -4877,7 +4874,6 @@ msgid "for maintaining your template"
 msgstr "voor het onderhoud van uw template"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:402
-#, fuzzy
 msgid "for maintaining your changes"
 msgstr "voor het onderhoud van uw veranderingen"
 
@@ -4890,7 +4886,6 @@ msgid "Run the following command to fix the above errors."
 msgstr "Voer het volgende commamdo uit om bovenstaande fouten op te lossen."
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:510
-#, fuzzy
 msgid "Run the following command to revert permissions after done."
 msgstr "Voer het volgende commamdo uit om permissies terug te zetten, als u klaar bent."
 
@@ -4984,7 +4979,6 @@ msgid "Install Update"
 msgstr "Installeer Update"
 
 #: /home/julius/workspace/jcore/lib/sources/settings.class.php
-#, fuzzy
 msgid "Manual Gettext"
 msgstr "Handmatige Gettext"
 
@@ -5161,12 +5155,10 @@ msgid "Not Searchable"
 msgstr "Niet doorzoekbaar"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:677
-#, fuzzy
 msgid "Read Own"
 msgstr "Lees Eigen"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:679
-#, fuzzy
 msgid "Write Own"
 msgstr "Schrijf Eigen"
 

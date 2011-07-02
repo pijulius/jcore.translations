@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: Xu Cheng <xc@virtualdell.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.0\n"
+"MIME-Version: 1.1\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __\n"
@@ -4700,560 +4700,560 @@ msgstr "显示表单"
 
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:105
 msgid "Include New Pages"
-msgstr ""
+msgstr "未发现页面。"
 
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:113
 msgid "(automatically add new pages)"
-msgstr ""
+msgstr "(自动添加新页)"
 
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:249
 msgid "New Pages"
-msgstr ""
+msgstr "页面 / 贴子"
 
 #: /home/julius/workspace/jcore/lib/sources/menus.class.php:260
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:629
 msgid "Menu Items"
-msgstr ""
+msgstr "活动商品"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:350
 msgid "Accessible by"
-msgstr ""
+msgstr "提交，由"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:344
 msgid "(automatically show posts with these keywords)"
-msgstr ""
+msgstr "（自动显示贴子与关键字）"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:575
 #, php-format
 msgid "A page with the path \"%s\" already exists!"
-msgstr ""
+msgstr "授权的路径\"%s\"已经存在。"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:2146
 msgid "You do not have permission to access this page!"
-msgstr ""
+msgstr "您没有获得授权访问该路径！"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:87
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:680
 msgid "New Menu Item"
-msgstr ""
+msgstr "（将创建一个新商品）"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:103
 msgid "Select Page(s) to Add"
-msgstr ""
+msgstr "添加到我的购物车"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:121
 msgid "Custom Menu Item Options"
-msgstr ""
+msgstr "自定义菜单项选项"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:134
 msgid "Sub Menu Item of"
-msgstr ""
+msgstr "（将创建一个新商品）"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:273
 msgid "Menu items have been successfully re-ordered."
-msgstr ""
+msgstr "字段值已成功重排序。"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:284
 msgid "Menu item and all its subitems have been successfully deleted."
-msgstr ""
+msgstr "菜单项及其子菜单项已成功删除。"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:295
 msgid "No page selected to be added or no custom menu item title defined!"
-msgstr ""
+msgstr "未选择要添加到页面，或者未定义自定义菜单项的标题！"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:329
 msgid "Pages have been successfully added."
-msgstr ""
+msgstr "附件已成功添加。"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:356
 msgid "Menu item cannot be subitem of itself!"
-msgstr ""
+msgstr "菜单项不可成为自己的子菜单项！"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:369
 msgid "Menu item has been successfully updated."
-msgstr ""
+msgstr "您的账号已成功更新"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:382
 msgid "Menu item has been successfully created."
-msgstr ""
+msgstr "字段值已成功创建。"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:606
 msgid "No menu items found."
-msgstr ""
+msgstr "未发现菜单块"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:637
 msgid "New pages will be automatically added to this menu."
-msgstr ""
+msgstr "新页面将自体添加到该菜单。"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:679
 msgid "Edit Menu Item"
-msgstr ""
+msgstr "（将创建一个新商品）"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:834
 #, php-format
 msgid "Menu item couldn't be created! Error: %s"
-msgstr ""
+msgstr "无法创建群发Email！错误：%s"
 
 #: /home/julius/workspace/jcore/lib/sources/menuitems.class.php:890
 #, php-format
 msgid "Menu item couldn't be updated! Error: %s"
-msgstr ""
+msgstr "订单商品无法更新！错误：%s"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:44
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:48
 msgid "Download proccess couldn't be completed!"
-msgstr ""
+msgstr "下载过程无法完成！"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:49
 msgid "Please make sure you have an active internet connection and it is accessible by me or contact webmaster."
-msgstr ""
+msgstr "请确认您的因特网连接是正常的，并能够访问我们的网站，或直接联系网站管理员。"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:72
 msgid "SQL"
-msgstr ""
+msgstr "SQL错误："
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:122
 msgid "Test has been successfully completed."
-msgstr ""
+msgstr "文件夹已成功创建。"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:131
 msgid "Update has been successfully installed."
-msgstr ""
+msgstr "模块已成功安装。"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:153
 #, php-format
 msgid "File \"%s\" couldn't be found!"
-msgstr ""
+msgstr "表单无法找到！"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:161
 #, php-format
 msgid "Opening %s"
-msgstr ""
+msgstr "打开 %s"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:168
 msgid "Empty or invalid update!"
-msgstr ""
+msgstr "空或有误的更新！"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:174
 msgid "Ok"
-msgstr ""
+msgstr "确认"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:177
 msgid "Running SQL queries"
-msgstr ""
+msgstr "允许SQL查询"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:282
 #, php-format
 msgid "Uncompressing %s"
-msgstr ""
+msgstr "解压缩 %s"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:289
 msgid "Out of Memory!"
-msgstr ""
+msgstr "超过库存"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:317
 msgid "Creating directories"
-msgstr ""
+msgstr "未发现文件/目录"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:334
 msgid "not writable"
-msgstr ""
+msgstr "广告未找到！"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:366
 msgid "Writing files"
-msgstr ""
+msgstr "文件 / 文件夹"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:387
 msgid "Skipped"
-msgstr ""
+msgstr "已跳过"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:389
 msgid "for maintaining your template"
-msgstr ""
+msgstr "为您的站点恢复默认模板"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:402
 msgid "for maintaining your changes"
-msgstr ""
+msgstr "感谢您的评论。"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:498
 msgid "Fixing errors"
-msgstr ""
+msgstr "修补错误"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:500
 msgid "Run the following command to fix the above errors."
-msgstr ""
+msgstr "运行以下命令来修补上述错误。"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:510
 msgid "Run the following command to revert permissions after done."
-msgstr ""
+msgstr "运行以下命令来恢复操作后的许可权限。"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:555
 msgid "Check for Updates"
-msgstr ""
+msgstr "（用于访客回答的选择框）"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:566
 msgid "Updates"
-msgstr ""
+msgstr "更新"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:574
 #, php-format
 msgid "Update ver. %s"
-msgstr ""
+msgstr "更新购物车"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:589
 msgid "Test run the update for problems"
-msgstr ""
+msgstr "测试运行有问题的更新"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:590
 msgid "Test Update"
-msgstr ""
+msgstr "更新购物车"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:657
 msgid "Updates Administration"
-msgstr ""
+msgstr "管理区域"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:664
 msgid "Please note, while your site is being updated, it will enter maintenance mode but as soon as the update process is complete, it will return to normal mode. By testing an update no changes will be made to your system!"
-msgstr ""
+msgstr "请注意，在您网站正在更新的同时，网站将进入维护模式，但很快更新就会结束，网站将恢复到正常模式。通过非修改更新的测试将应用到您的系统！"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:674
 #, php-format
 msgid "Last checked on %s"
-msgstr ""
+msgstr "在所有页面"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:692
 #, php-format
 msgid "ver. %s"
-msgstr ""
+msgstr "版本 %s"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:699
 msgid "No updates found."
-msgstr ""
+msgstr "未发现文件夹"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:726
 msgid "Couldn't check jCore server's version number!"
-msgstr ""
+msgstr "无法检测到jCore服务器的版本号！"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:727
 #, php-format
 msgid "Please make sure \"%s\" is readable by me or contact webmaster."
-msgstr ""
+msgstr "请确定您具备\"%s\"的写权限或联系网站管理员。"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:746
 msgid "Couldn't check for updates!"
-msgstr ""
+msgstr "（用于访客回答的选择框）"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:805
 msgid "connection timed out"
-msgstr ""
+msgstr "发送者为"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:826
 #, php-format
 msgid "Downloading %s"
-msgstr ""
+msgstr "正在下载 %s"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:828
 msgid "connecting"
-msgstr ""
+msgstr "正在连接"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:855
 msgid "sending request"
-msgstr ""
+msgstr "分块发送"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:918
 msgid "cached"
-msgstr ""
+msgstr "缓冲的"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:945
 msgid "Local file couldn't be created!"
-msgstr ""
+msgstr "模板无法抽取！错误：\"%s\"文件无法创建。"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:1015
 msgid "Invalid response returned by jCore.net!"
-msgstr ""
+msgstr "错误的jCore.net输出请求！"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:1107
 msgid "Install Update"
-msgstr ""
+msgstr "更新购物车"
 
 #: /home/julius/workspace/jcore/lib/sources/settings.class.php
 msgid "Manual Gettext"
-msgstr ""
+msgstr "手动Gettext"
 
 #: /home/julius/workspace/jcore/lib/sources/sql.class.php:414
 #, php-format
 msgid "query took: %s seconds"
-msgstr ""
+msgstr "查询耗时%s秒"
 
 #: /home/julius/workspace/jcore/lib/sources/files.class.php:492
 #, php-format
 msgid "Deleting file %s"
-msgstr ""
+msgstr "文件共享"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:84
 msgid "Module couldn't be installed!"
-msgstr ""
+msgstr "目录无法被保护！"
 
 #: /home/julius/workspace/jcore/lib/sources/modules.class.php:154
 msgid "Deleting files"
-msgstr ""
+msgstr "文件 / 文件夹"
 
 #: /home/julius/workspace/jcore/lib/sources/modules.class.php:232
 msgid "No files to uninstall."
-msgstr ""
+msgstr "无文件被安装"
 
 #: /home/julius/workspace/jcore/lib/sources/updates.class.php:575
 msgid "Update couldn't be installed!"
-msgstr ""
+msgstr "目录无法被保护！"
 
 #: /home/julius/workspace/jcore/lib/sources/template.class.php:69
 msgid "Template couldn't be installed!"
-msgstr ""
+msgstr "模板无法激活！"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:28
 msgid "Upload Module"
-msgstr ""
+msgstr "激活模块"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:32
 msgid "View Modules"
-msgstr ""
+msgstr "浏览文件夹"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:36
 msgid "Get Modules"
-msgstr ""
+msgstr "获得帮助"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:42
 msgid "Module File"
-msgstr ""
+msgstr "文件共享"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:48
 msgid "e.g. module.tar.gz"
-msgstr ""
+msgstr "例如：template-name.tar.gz"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:62
 msgid "Upload another module"
-msgstr ""
+msgstr "上载另一个文件"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:93
 msgid "Module has been successfully deleted."
-msgstr ""
+msgstr "文件夹已成功删除。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:104
 msgid "Module has been successfully activated."
-msgstr ""
+msgstr "模板已成功激活。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:122
 msgid "Module has been successfully deactivated."
-msgstr ""
+msgstr "模块已成功安装。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:137
 msgid "No module selected to be uploaded! Please select at least one module to upload."
-msgstr ""
+msgstr "未选择要上载到文件！请选择至少一个文件进行上载。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:159
 #, php-format
 msgid "There were problems uploading some of the modules you selected. The following modules couldn't be uploaded: %s."
-msgstr ""
+msgstr "您选择的文件由于某些原因无法上载。一下文件无法被上载：%s。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:169
 #, php-format
 msgid "Modules have been successfully uploaded. The following modules have been uploaded: %s."
-msgstr ""
+msgstr "文件已成功上载。以下文件已成功上载：%s。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:180
 msgid "Module"
-msgstr ""
+msgstr "激活模块"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:251
 msgid "global"
-msgstr ""
+msgstr "全局设置"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:252
 msgid "local"
-msgstr ""
+msgstr "本地视频"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:373
 msgid "Modules Administration"
-msgstr ""
+msgstr "管理区域"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:383
 msgid "Below are the available modules found in the \"<b>modules/</b>\" folder. To install a new module just extract it to the \"<b>modules/</b>\" folder, or using the form below select the module package file (e.g. module.tar.gz)."
-msgstr ""
+msgstr "以下是在\"<b>模板/</b>\"文件夹中发现的可用模板。要安装新模板，将从\"<b>模板/</b>\"文件夹中抽取，或选择如下的模板包文件（例如：template-name.tar.gz）。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:395
 msgid "Upload New Module"
-msgstr ""
+msgstr "上传新模板"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:478
 msgid "No modules found."
-msgstr ""
+msgstr "未发现模块。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:501
 msgid "Module couldn't be loaded! Please make sure it is a valid module and try again."
-msgstr ""
+msgstr "模块无法更新！请确定这是一个正确的模块并重试。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:605
 #, php-format
 msgid "Module couldn't be deleted but it is now safe to be deleted manually by just simply removing the \"%s\" file or folder."
-msgstr ""
+msgstr "模块无法删除，但其现在可安全的手动删除，仅需要简单的移除\"%s\"文件或目录。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:625
 msgid "Couldn't extract module as it is to big to be processed with the current memory limit set. Please try to extract it manually or increment the PHP memory limit."
-msgstr ""
+msgstr "由于模板的大小已超过当前内存限制设定，无法抽取该模板。请尝试手工抽取或调整PHP内存限制。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:638
 msgid "Module couldn't be extracted! Error: Invalid module! Please make sure to upload a valid tar.gz module file."
-msgstr ""
+msgstr "模板无法抽取！错误：错误的模板文件！请确定上传的是一个正确的tar.gz模板文件。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:657
 msgid "Module couldn't be extracted! Error: Empty module! The module you selected seems to be an empty tar.gz file."
-msgstr ""
+msgstr "模板无法抽取！错误：空模板文件！您所选择的模板仿佛是一个空的tar.gz文件。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:672
 #, php-format
 msgid "Module couldn't be extracted! Error: \"%s\" directory couldn't be created."
-msgstr ""
+msgstr "模板无法抽取！错误：\"%s\"目录无法创建。"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:693
 #, php-format
 msgid "Module couldn't be extracted! Error: \"%s\" file couldn't be created."
-msgstr ""
+msgstr "模板无法抽取！错误：\"%s\"文件无法创建。"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:196
 msgid "Add additional functionality to your website"
-msgstr ""
+msgstr "添加附加功能到您网站"
 
 #: /home/julius/workspace/jcore/lib/sources/admin.class.php:199
 msgid "Module Manager"
-msgstr ""
+msgstr "文件管理器"
 
 #: /home/julius/workspace/jcore/lib/sources/blocks.class.php:205
 msgid "Mobile Browsers"
-msgstr ""
+msgstr "移动视频"
 
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:327
 msgid "Add Keyword"
-msgstr ""
+msgstr "添加用户"
 
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:820
 msgid "Popularity"
-msgstr ""
+msgstr "流行的"
 
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:815
 msgid "Keyword"
-msgstr ""
+msgstr "关键字"
 
 #: /home/julius/workspace/jcore/lib/sources/modulemanager.class.php:505
 #, php-format
 msgid "Module couldn't be added! Error: %s"
-msgstr ""
+msgstr "评论无法添加！错误：%s"
 
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:973
 msgid "Not Searchable"
-msgstr ""
+msgstr "广告未找到！"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:677
 msgid "Read Own"
-msgstr ""
+msgstr "阅读更多"
 
 #: /home/julius/workspace/jcore/lib/sources/userpermissions.class.php:679
 msgid "Write Own"
-msgstr ""
+msgstr "您拥有自己的搜索引擎"
 
 #: /home/julius/workspace/jcore/lib/sources/posts.class.php:959
 msgid "Hide when Expired"
-msgstr ""
+msgstr "日（当预订时）"
 
 #: /home/julius/workspace/jcore/lib/sources/pages.class.php:720
 msgid "Layout"
-msgstr ""
+msgstr "层次块"
 
 #: /home/julius/workspace/jcore/lib/sources/layouts.class.php:27
 msgid "New Layout"
-msgstr ""
+msgstr "层次块"
 
 #: /home/julius/workspace/jcore/lib/sources/layouts.class.php:109
 msgid "Layouts have been successfully re-ordered."
-msgstr ""
+msgstr "文件夹已成功排序。"
 
 #: /home/julius/workspace/jcore/lib/sources/layouts.class.php:120
 msgid "Layout has been successfully deleted."
-msgstr ""
+msgstr "文件夹已成功删除。"
 
 #: /home/julius/workspace/jcore/lib/sources/layouts.class.php:134
 msgid "Layout has been successfully updated."
-msgstr ""
+msgstr "文件夹已成功上载。"
 
 #: /home/julius/workspace/jcore/lib/sources/layouts.class.php:147
 msgid "Layout has been successfully created."
-msgstr ""
+msgstr "文件夹已成功创建。"
 
 #: /home/julius/workspace/jcore/lib/sources/layouts.class.php:304
 msgid "Layouts Administration"
-msgstr ""
+msgstr "管理区域"
 
 #: /home/julius/workspace/jcore/lib/sources/layouts.class.php:333
 msgid "Edit Layout"
-msgstr ""
+msgstr "层次块"
 
 #: /home/julius/workspace/jcore/lib/sources/layouts.class.php:369
 msgid "No layouts found."
-msgstr ""
+msgstr "未发现文件夹"
 
 #: /home/julius/workspace/jcore/lib/sources/layouts.class.php:429
 #, php-format
 msgid "Layout couldn't be created! Error: %s"
-msgstr ""
+msgstr "文件夹无法创建！ 错误：%s"
 
 #: /home/julius/workspace/jcore/lib/sources/layouts.class.php:460
 #, php-format
 msgid "Layout couldn't be updated! Error: %s"
-msgstr ""
+msgstr "文件夹无法上载！错误：%s"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:89
 msgid "Running update"
-msgstr ""
+msgstr "更新购物车"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:357
 #, php-format
 msgid "FTP Connecting to %s"
-msgstr ""
+msgstr "访问者可见"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:366
 msgid "Couldn't connect!"
-msgstr ""
+msgstr "无法连接到%s！"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:375
 msgid "FTP Locate Root directory"
-msgstr ""
+msgstr "FTP本地根目录"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:398
 msgid "Couldn't locate Root directory!"
-msgstr ""
+msgstr "目录无法被保护！"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:660
 msgid "Update using FTP"
-msgstr ""
+msgstr "使用来自字段值中的订单"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:667
 msgid "Hostname"
-msgstr ""
+msgstr "主机名"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:675
 msgid "FTP Username"
-msgstr ""
+msgstr "SMTP用户名"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:681
 msgid "FTP Password"
-msgstr ""
+msgstr "修改密码"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:687
 msgid "FTP Port"
-msgstr ""
+msgstr "SMTP端口"
 
 #: /home/julius/workspace/jcore/lib/sources/update.class.php:695
 msgid "Use SSL"
-msgstr ""
+msgstr "使用SSL SMTP"
