@@ -108,3 +108,8 @@ msgstr "Formulaire de connextion / modification du compte"
 msgid "New account registration has been temporarily suspended. Please try again later."
 msgstr "L'inscription de nouveaux membres a été temporairement suspendu. Veuillez réessayer plus tard."
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Member Forms"
+msgstr ""

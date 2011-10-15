@@ -107,3 +107,8 @@ msgstr "成员登录/帐号表单"
 msgid "New account registration has been temporarily suspended. Please try again later."
 msgstr "新账户注册已暂停。请在将来重试。"
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Member Forms"
+msgstr ""

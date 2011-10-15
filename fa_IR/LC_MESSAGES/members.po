@@ -107,3 +107,8 @@ msgstr "ورود اعضا/حساب کاربری"
 msgid "New account registration has been temporarily suspended. Please try again later."
 msgstr "این حساب موقتا توسط مدیر سامانه غیرفعال گردیده است.لطفا زمانی دیگر مجددا تلاش نمایید."
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Member Forms"
+msgstr ""

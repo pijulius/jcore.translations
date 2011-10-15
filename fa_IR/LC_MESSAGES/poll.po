@@ -200,3 +200,11 @@ msgstr "بسته شده در %s"
 msgid "Vote"
 msgstr "رای"
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Directory couldn't be protected!"
+msgstr ""
+
+msgid "More Details"
+msgstr ""

@@ -201,3 +201,11 @@ msgstr "Fermé le %s"
 msgid "Vote"
 msgstr "Vote"
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Directory couldn't be protected!"
+msgstr ""
+
+msgid "More Details"
+msgstr ""

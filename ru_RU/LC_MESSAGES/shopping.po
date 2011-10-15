@@ -570,8 +570,8 @@ msgstr "Платеж еще не был обработан или вы не за
 msgid "Method"
 msgstr "Способ"
 
-msgid "%s, started on <i>%s</i>, finished on %s, from %s"
-msgstr "%s, началось <i>%s</i>, завершится %s, с %s"
+msgid "%s, started on <i>%s</i>, finished on <i>%s</i>, from %s"
+msgstr "%s, началось <i>%s</i>, завершится <i>%s</i>, с %s"
 
 msgid "unknown"
 msgstr "неизвестно"

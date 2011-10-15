@@ -200,3 +200,11 @@ msgstr "Gesloten op %s"
 msgid "Vote"
 msgstr "Stem"
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Directory couldn't be protected!"
+msgstr ""
+
+msgid "More Details"
+msgstr ""

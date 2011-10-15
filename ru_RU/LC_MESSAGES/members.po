@@ -93,3 +93,8 @@ msgstr "Вход"
 msgid "New account registration has been temporarily suspended. Please try again later."
 msgstr "Регистрация новых учетных записей временно приостановлена. Пожалуйста, повторите попытку позже."
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Member Forms"
+msgstr ""

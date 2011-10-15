@@ -110,3 +110,8 @@ msgstr "Kullanıcı Girişi"
 msgid "New account registration has been temporarily suspended. Please try again later."
 msgstr "Yeni kullanıcı kayıtları durdurulmuştur. Lütfen daha sonra tekrar deneyiniz."
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Member Forms"
+msgstr ""

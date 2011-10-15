@@ -787,8 +787,8 @@ msgstr "Mode"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4608
 #, php-format
-msgid "%s, started on <i>%s</i>, finished on %s, from %s"
-msgstr "%s, débuté le <i>%s</i>, terminé le %s, de %s"
+msgid "%s, started on <i>%s</i>, finished on <i>%s</i>, from %s"
+msgstr "%s, débuté le <i>%s</i>, terminé le <i>%s</i>, de %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4613
 msgid "unknown"

@@ -798,8 +798,8 @@ msgstr "Yöntem"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4608
 #, php-format
-msgid "%s, started on <i>%s</i>, finished on %s, from %s"
-msgstr "%s, <i>%s</i> de başladı, %s  de bitti, %s den itibaren"
+msgid "%s, started on <i>%s</i>, finished on <i>%s</i>, from %s"
+msgstr "%s, <i>%s</i> de başladı, <i>%s</i>  de bitti, %s den itibaren"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4613
 msgid "unknown"

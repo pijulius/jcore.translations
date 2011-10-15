@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: Istvan Petres <me@pijulius.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.1\n"
+"MIME-Version: 1.2\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _\n"
@@ -786,7 +786,7 @@ msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4608
 #, php-format
-msgid "%s, started on <i>%s</i>, finished on %s, from %s"
+msgid "%s, started on <i>%s</i>, finished on <i>%s</i>, from %s"
 msgstr ""
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4613

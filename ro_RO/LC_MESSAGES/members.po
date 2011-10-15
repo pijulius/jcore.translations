@@ -107,3 +107,8 @@ msgstr "Formular de Autentificare / Formular de conturi"
 msgid "New account registration has been temporarily suspended. Please try again later."
 msgstr "Înregistrările au fost suspendate temporar. Vă rugăm sa încercaţi mai târziu."
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Member Forms"
+msgstr ""

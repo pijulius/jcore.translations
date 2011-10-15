@@ -108,3 +108,8 @@ msgstr "Ingresar Miembro / Formulario de cuenta"
 msgid "New account registration has been temporarily suspended. Please try again later."
 msgstr "Nuevo registro de cuenta ha sido temporalmente suspendido. Por favor, inténtelo de nuevo más tarde."
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Member Forms"
+msgstr ""

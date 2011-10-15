@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: Istvan Petres <me@pijulius.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.0\n"
+"MIME-Version: 1.1\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _\n"
@@ -200,3 +200,11 @@ msgstr ""
 msgid "Vote"
 msgstr ""
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Directory couldn't be protected!"
+msgstr ""
+
+msgid "More Details"
+msgstr ""

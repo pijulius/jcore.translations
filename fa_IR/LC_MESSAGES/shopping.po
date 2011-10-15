@@ -795,8 +795,8 @@ msgstr "روش"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4608
 #, php-format
-msgid "%s, started on <i>%s</i>, finished on %s, from %s"
-msgstr "%s, آغاز شده در <i>%s</i>, تکمیل شده در %s, از %s"
+msgid "%s, started on <i>%s</i>, finished on <i>%s</i>, from %s"
+msgstr "%s, آغاز شده در <i>%s</i>, تکمیل شده در <i>%s</i>, از %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4613
 msgid "unknown"

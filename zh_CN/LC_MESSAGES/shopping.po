@@ -786,8 +786,8 @@ msgstr "方法"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4608
 #, php-format
-msgid "%s, started on <i>%s</i>, finished on %s, from %s"
-msgstr "%s, 共享于 <i>%s</i>, 结束在 %s, 来自 %s"
+msgid "%s, started on <i>%s</i>, finished on <i>%s</i>, from %s"
+msgstr "%s, 共享于 <i>%s</i>, 结束在 <i>%s</i>, 来自 %s"
 
 #: /home/julius/workspace/jcore/lib/modules/shoppingorders.class.php:4613
 msgid "unknown"

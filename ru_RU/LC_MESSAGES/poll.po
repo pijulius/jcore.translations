@@ -141,3 +141,11 @@ msgstr "Закрыто на %s"
 msgid "Vote"
 msgstr "Проголосовать"
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Directory couldn't be protected!"
+msgstr ""
+
+msgid "More Details"
+msgstr ""

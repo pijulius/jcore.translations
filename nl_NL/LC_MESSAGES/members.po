@@ -107,3 +107,8 @@ msgstr "Leden Login / Account Formulier"
 msgid "New account registration has been temporarily suspended. Please try again later."
 msgstr "Nieuwe account registraties zijn tijdelijk onderbroken. Probeer later opnieuw."
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Member Forms"
+msgstr ""

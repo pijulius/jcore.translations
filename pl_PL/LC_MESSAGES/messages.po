@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: Wojciech Górski <Nikodemh@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
-"MIME-Version: 1.2\n"
+"MIME-Version: 1.3\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __\n"
@@ -5257,3 +5257,68 @@ msgstr "Port FTP"
 msgid "Use SSL"
 msgstr "Użyj SSL"
 
+#: Changes in 0.9
+#: ---------------
+
+msgid "Post Tags"
+msgstr ""
+
+msgid "automatically show posts with these tags"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Add Tag"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Display In Block(s)"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "Set Priorities"
+msgstr ""
+
+msgid "Groups have been successfully updated."
+msgstr ""
+
+msgid "File uploads Directory"
+msgstr ""
+
+msgid "Comments at Glance"
+msgstr ""
+
+msgid "Quickly moderate / manage comments"
+msgstr ""
+
+msgid "No comments found."
+msgstr ""
+
+msgid "Use reCaptcha"
+msgstr ""
+
+msgid "reCaptcha Public Key"
+msgstr ""
+
+msgid "reCaptcha Private Key"
+msgstr ""
+
+msgid "reCaptcha Theme"
+msgstr ""
+
+msgid "reCaptcha Lang"
+msgstr ""
+
+msgid "Paginated Comments"
+msgstr ""
+
+msgid "Comments Per Page"
+msgstr ""
+
+msgid "HTML_Emails"
+msgstr ""
