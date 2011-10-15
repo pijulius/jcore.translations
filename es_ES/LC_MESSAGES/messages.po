@@ -5291,9 +5291,6 @@ msgstr ""
 msgid "automatically show posts with these tags"
 msgstr ""
 
-msgid "Tags"
-msgstr ""
-
 msgid "Add Tag"
 msgstr ""
 
