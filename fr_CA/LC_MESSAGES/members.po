@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jCore 0.7.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-01-05 19:45+0200\n"
-"PO-Revision-Date: 2011-02-05 15:13-0500\n"
+"PO-Revision-Date: 2011-10-16 12:53-0500\n"
 "Last-Translator: David Brisebois <david.brisebois@gmail.com>\n"
 "Language-Team: jCore.net <support@jcore.net>\n"
 "Language: \n"
@@ -110,6 +110,6 @@ msgstr "L'inscription de nouveaux membres a été temporairement suspendu. Veuil
 
 #: Changes in 0.9
 #: ---------------
-
 msgid "Member Forms"
-msgstr ""
+msgstr "Formulaires utilisateurs"
+
