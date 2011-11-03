@@ -3712,4 +3712,4 @@ msgid "Comments Per Page"
 msgstr "Комментариев на страницу"
 
 msgid "HTML_Emails"
-msgstr "HTML Электронная почта"
+msgstr "Формат сообщений HTML"
