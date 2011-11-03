@@ -5314,5 +5314,5 @@ msgstr ""
 msgid "Comments Per Page"
 msgstr ""
 
-msgid "HTML_Emails"
+msgid "HTML Emails"
 msgstr ""

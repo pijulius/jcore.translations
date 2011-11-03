@@ -5318,6 +5318,6 @@ msgstr "Commentaires paginés"
 msgid "Comments Per Page"
 msgstr "Commentaires par page"
 
-msgid "HTML_Emails"
+msgid "HTML Emails"
 msgstr "Courriels HTML"
 
