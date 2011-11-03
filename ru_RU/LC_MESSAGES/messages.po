@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Перевод на русский язык jCore 0.9\n"
+"Project-Id-Version: Перевод на русский язык jCore\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-06-15 10:22+0200\n"
-"PO-Revision-Date: 2011-06-15 13:18+0300\n"
-"Last-Translator: Русскоязычное Сообщество jCore 0.9 <translate@jcore.ru>\n"
+"PO-Revision-Date: 2011-06-15 12:25+0300\n"
+"Last-Translator: Русскоязычное Сообщество jCore <translate@jcore.ru>\n"
 "Language-Team: Русскоязычное Сообщество jCore <translate@jcore.ru>\n"
 "Language: \n"
 "MIME-Version: 1.2\n"
@@ -3655,61 +3655,61 @@ msgstr "Использование SSL"
 #: ---------------
 
 msgid "Post Tags"
-msgstr ""
+msgstr "Тэги статьи"
 
 msgid "automatically show posts with these tags"
-msgstr ""
+msgstr "автоматически показывать статьи с этими тэгами"
 
 msgid "Add Tag"
-msgstr ""
+msgstr "Добавить"
 
 msgid "Tag"
-msgstr ""
+msgstr "Тэг"
 
 msgid "Display In Block(s)"
-msgstr ""
+msgstr "Отображать в Блоке(ах)"
 
 msgid "Priority"
-msgstr ""
+msgstr "Приоритет"
 
 msgid "Set Priorities"
-msgstr ""
+msgstr "Установите приоритеты"
 
 msgid "Groups have been successfully updated."
-msgstr ""
+msgstr "Группы были успешно обновлены."
 
 msgid "File uploads Directory"
-msgstr ""
+msgstr "Каталог файлов на сервере"
 
 msgid "Comments at Glance"
-msgstr ""
+msgstr "Комментарии"
 
 msgid "Quickly moderate / manage comments"
-msgstr ""
+msgstr "Быстрая модерация / управление комментариями"
 
 msgid "No comments found."
-msgstr ""
+msgstr "Комментарии не найдены"
 
 msgid "Use reCaptcha"
-msgstr ""
+msgstr "Использовать"
 
 msgid "reCaptcha Public Key"
-msgstr ""
+msgstr "Публичный ключ"
 
 msgid "reCaptcha Private Key"
-msgstr ""
+msgstr "Приватный ключ"
 
 msgid "reCaptcha Theme"
-msgstr ""
+msgstr "Тема"
 
 msgid "reCaptcha Lang"
-msgstr ""
+msgstr "Язык"
 
 msgid "Paginated Comments"
-msgstr ""
+msgstr "Нумерация"
 
 msgid "Comments Per Page"
-msgstr ""
+msgstr "Комментариев на страницу"
 
 msgid "HTML_Emails"
-msgstr ""
+msgstr "HTML_Emails"

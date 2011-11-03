@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Перевод на русский язык jCore 0.9\n"
+"Project-Id-Version: Перевод на русский язык jCore\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-06-15 10:22+0200\n"
-"PO-Revision-Date: 2011-06-15 12:27+0300\n"
-"Last-Translator: Русскоязычное Сообщество jCore 0.9 <translate@jcore.ru>\n"
+"PO-Revision-Date: 2011-06-15 12:25+0300\n"
+"Last-Translator: Русскоязычное Сообщество jCore <translate@jcore.ru>\n"
 "Language-Team: Русскоязычное Сообщество jCore <translate@jcore.ru>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -145,7 +145,7 @@ msgstr "Проголосовать"
 #: ---------------
 
 msgid "Directory couldn't be protected!"
-msgstr ""
+msgstr "Каталог не может быть защищен!"
 
 msgid "More Details"
-msgstr ""
+msgstr "Подробнее"
