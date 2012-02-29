@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:42+0200\n"
+"PO-Revision-Date: 2012-02-23 13:13+0100\n"
+"Last-Translator: Anders Henhammar <anders_henhammar@yahoo.se>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:14
+msgid "File Sharing"
+msgstr "Fildelning"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:15
+msgid "Share files in a directory like structure"
+msgstr "Dela ut filer i en katalogliknande struktur"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:28
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:171
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:200
+msgid "Folder"
+msgstr "Mapp"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:126
+msgid "No file selected to download!"
+msgstr "Ingen fil vald att ladda ned!"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:138
+msgid "The selected file cannot be found!"
+msgstr "Den valda filen kan inte hittas!"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:150
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1768
+msgid "You need to be logged in to download this file. Please login or register."
+msgstr "Du måste vara inloggad för att kunna ladda ner denna fil. Vänligen logga in eller registrera dig."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:515
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1163
+msgid "New Folder"
+msgstr "Ny mapp"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:535
+msgid "Sub Folder of"
+msgstr "Undermapp till"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:563
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:982
+msgid "Show Icons"
+msgstr "Visa ikoner"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:570
+msgid "(display icons when folder selected)"
+msgstr "(visa ikoner när mappen valts)"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:655
+msgid "e.g. http://domain.com"
+msgstr "t.ex. http://domän.se"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:659
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1003
+msgid "Members Only"
+msgstr "Endast medlemmar"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:667
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1008
+msgid "Show to Guests"
+msgstr "Visa för gäster"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:735
+msgid "Folders have been successfully re-ordered."
+msgstr "Mapparna har arrangerats om."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:746
+msgid "Folder has been successfully deleted."
+msgstr "Mappen har raderats."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:759
+msgid "Folder cannot be subfolder of itself!"
+msgstr "Mappen kan inte vara undermapp till sig själv!"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:788
+msgid "Folder has been successfully updated."
+msgstr "Mappen har uppdaterats."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:792
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:812
+msgid "View Folder"
+msgstr "Visa mapp"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:808
+msgid "Folder has been successfully created."
+msgstr "Mappen har skapats."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:841
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:910
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1701
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1801
+msgid "Files"
+msgstr "Filer"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:846
+msgid "Icon"
+msgstr "Ikon"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:930
+msgid "Icons"
+msgstr "Ikoner"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1134
+msgid "File Sharing Administration"
+msgstr "Fildelningsadministration"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1162
+msgid "Edit Folder"
+msgstr "Redigera mapp"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1212
+msgid "No folders found."
+msgstr "Inga mappar funna"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1327
+#, php-format
+msgid "Folder couldn't be created! Error: %s"
+msgstr "Mappen kunde inte skapas! Fel: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1414
+#, php-format
+msgid "Folder couldn't be updated! Error: %s"
+msgstr "Mappen kunde inte uppdateras! Fel: %s"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1549
+msgid "Directory couldn't be protected!"
+msgstr "Katalogen kunde inte skyddas!"
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1640
+msgid "This area is limited to members only. Please login below."
+msgstr "Detta område är begränsat till endast medlemmar. Vänligen logga in nedan."
+
+#: /home/julius/workspace/jcore/lib/modules/filesharing.class.php:1800
+msgid "Files / Folders"
+msgstr "Filer / Mappar"
+

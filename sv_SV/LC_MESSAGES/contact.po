@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:22+0200\n"
+"PO-Revision-Date: 2012-02-10 13:45+0100\n"
+"Last-Translator: Anders Henhammar <anders_henhammar@yahoo.se>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: Contact Dynamic Form
+msgid "Your name"
+msgstr "Ditt namn"
+
+msgid "Email address"
+msgstr "E-postadress"
+
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+msgid "Questions / Comments"
+msgstr "Frågor / Kommentarer"
+
+#: /home/julius/workspace/jcore/lib/modules/contact.class.php:14
+msgid "Contact Form"
+msgstr "Kontakt"
+
+#: /home/julius/workspace/jcore/lib/modules/contact.class.php:15
+msgid "Let people contact you by completing a form"
+msgstr "Låt andra kontakta dig genom att fylla i ett formulär"
+
+#: /home/julius/workspace/jcore/lib/modules/contact.class.php:22
+msgid "Contact"
+msgstr "Kontakt"
+
+#: /home/julius/workspace/jcore/lib/modules/contact.class.php:101
+msgid "Form Settings"
+msgstr "Formulärinställningar"
+
+#: /home/julius/workspace/jcore/lib/modules/contact.class.php:194
+msgid "Contact Form Administration"
+msgstr "Administrera kontaktformulär"
+
+#: /home/julius/workspace/jcore/lib/modules/contact.class.php:220
+msgid "No contact form found."
+msgstr "Inget kontaktformulär hittat"
+
+#: /home/julius/workspace/jcore/lib/modules/contact.class.php:253
+msgid "<b>Thank you for contacting us.</b><br /> Your message has been successfully sent."
+msgstr "<b>Tack för att ni kontaktade oss.</b><br /> Ditt meddelande har skickats."
+

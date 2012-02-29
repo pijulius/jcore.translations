@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 20:22+0200\n"
+"PO-Revision-Date: 2012-02-23 14:01+0100\n"
+"Last-Translator: Anders Henhammar <anders_henhammar@yahoo.se>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:14
+msgid "Search Engine"
+msgstr "Sökmotor"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:15
+msgid "Have your own search engine"
+msgstr "Skapa din egen sökmotor"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:170
+msgid "Items have been successfully updated."
+msgstr "Objekten har uppdaterats."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:202
+msgid "Title / Description"
+msgstr "Rubrik / beskrivning"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:210
+msgid "Blog like content for pages."
+msgstr "Bloggliknande innehåll för sidor."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:254
+msgid "Update"
+msgstr "Uppdatera"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:305
+msgid "Search Engine Administration"
+msgstr "Hantera sökmotor"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:312
+msgid "Check modules that should be searchable by the Local Search Engine and you can also define custom limits for them. By default if none checked all modules will be searchable and if no limit defined (0) the one set for the page under which the search module is will be used."
+msgstr "Kontrollera moduler som ska vara sökbara för den lokala sökmotorn, du kan också tilldela egna begränsningar till dem. Om ingen förkryssats kommer alla moduler att vara sökbara, om ingen gräns anges (0) kommer inställningen för den sida under vilken sökmodulen skapats användas."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:349
+msgid "No modules found."
+msgstr "Inga moduler hittade"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:492
+msgid "Search for"
+msgstr "Sök efter"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:499
+msgid "search..."
+msgstr "Sök..."
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:505
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:516
+msgid "in"
+msgstr "i"
+
+#: /home/julius/workspace/jcore/lib/modules/search.class.php:699
+msgid "Invalid target selected for your search! Please select a new target (search in) or don't select any if you want to search for posts."
+msgstr "Ogiltigt mål valt för din sökning! Välj ett nytt mål (sök efter) eller välj inget mål om du vill söka efter artiklar."
+

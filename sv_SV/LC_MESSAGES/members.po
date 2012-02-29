@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jCore 0.7.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:45+0200\n"
+"PO-Revision-Date: 2012-02-23 13:17+0100\n"
+"Last-Translator: Anders Henhammar <anders_henhammar@yahoo.se>\n"
+"Language-Team: jCore.net <support@jcore.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /home/julius/workspace/jcore/lib/modules\n"
+
+#: Member Dynamic Forms
+msgid "Password"
+msgstr "Lösenord"
+
+msgid "Verification code"
+msgstr "Verifieringskod"
+
+msgid "Please note that you will need to enter a valid e-mail address before your account is activated. You will receive an e-mail at the address you provided that contains an account activation link."
+msgstr "Observera att du måste ange en giltig e-postadress innan ditt konto är aktiverat. Du får ett meddelande till den e-postadress du angav som innehåller en länk för aktivering av kontot."
+
+msgid "Username"
+msgstr "Användarnamn"
+
+msgid "Email address"
+msgstr "E-postadress"
+
+msgid "Website"
+msgstr "Webbplats"
+
+msgid "Show Avatar"
+msgstr "Visa Avatar"
+
+msgid "Stay Logged In"
+msgstr "Fortsätt vara inloggad"
+
+msgid "Disable Notification Emails"
+msgstr "Inaktivera E-postmeddelanden"
+
+msgid "Change password"
+msgstr "Ändra lösenord"
+
+msgid "New password"
+msgstr "Nytt lösenord"
+
+msgid "Retype password"
+msgstr "Skriv in lösenordet på nytt"
+
+msgid "(<a href='http://gravatar.com' target='_blank'>Change Avatar</a>)"
+msgstr "(<a href='http://gravatar.com' target='_blank'>Byt Avatar</a>)"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:14
+msgid "Site Members"
+msgstr "Medlemmar"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:15
+msgid "Forms for My Account, Register and Login pages"
+msgstr "Formulär för Mitt konto, Registrera dig och Logga in sidor"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:22
+msgid "Member Account"
+msgstr "Medlemskonto"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:52
+msgid "Your account has been successfully updated."
+msgstr "Ditt konto har uppdaterats."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:64
+msgid "Member Registration"
+msgstr "Medlemsregistrering"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:88
+msgid "<b>Thank you for your registration.</b><br /> Your account has been created. However we require account activation, an activation key has been sent to the e-mail address you provided. Please check your e-mail for further information."
+msgstr "<b>Tack för din registrering.</ b><br /> Ditt konto har skapats men vi kräver kontoaktivering, en aktiveringskod har skickats till den e-postadress du angav. Vänligen kontrollera din e-post för ytterligare information."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:96
+msgid "<b>Thank you for your registration.</b><br /> An email has been sent to you with the necessary information to login to your account."
+msgstr "<b> Tack för din registrering. </ b><br /> Ett mail har skickats till dig med nödvändig information för att logga in på ditt konto."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:243
+msgid "Form Settings"
+msgstr "Formulärinställningar"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:337
+msgid "Member Forms Administration"
+msgstr "Administration för medlemsformulär"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:363
+msgid "No member forms found."
+msgstr "Inga medlemsformulär har hittats."
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:378
+msgid "Member Registration Form"
+msgstr "Anmälningsformulär för medlemskap"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:383
+msgid "Member Login / Account Form"
+msgstr "Medlemsinloggning / Kontoformulär"
+
+#: /home/julius/workspace/jcore/lib/modules/members.class.php:389
+msgid "New account registration has been temporarily suspended. Please try again later."
+msgstr "Nytt konto registreringen har tillfälligt avbrutits. Var vänlig försök igen senare."
+
